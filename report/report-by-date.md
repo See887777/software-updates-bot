@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v18.11.0|[nodejs.org](https://nodejs.org)|Fri Oct 14 01:01:49 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:54:53 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.18.0|[nodejs.org](https://nodejs.org)|Wed Oct 12 16:20:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.8|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 11 20:03:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.8|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 11 20:03:26 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.2|[golang.org](https://golang.org/dl/)|Tue Oct 04 18:34:24 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v18.10.0|[nodejs.org](https://nodejs.org)|Wed Sep 28 18:00:39 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3430|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Wed Sep 28 09:00:49 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|

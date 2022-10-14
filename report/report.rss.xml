@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v18.11.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v18.11.0 -- Fri Oct 14 01:01:49 UTC 2022</description>
+      <category>NodeJS</category>
+      <pubDate>Fri, 14 Oct 2022 01:01:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2022-10-14T01:01:49Z</dc:date>
+    </item>
+    <item>
       <title>Intel Wi-Fi Networking Drivers -- 22.170.0</title>
       <link>https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/</link>
       <description>Intel Wi-Fi Networking Drivers -- 22.170.0 -- Thu Oct 13 00:54:53 UTC 2022</description>
@@ -113,15 +122,6 @@
       <pubDate>Tue, 04 Oct 2022 18:34:24 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-10-04T18:34:24Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v18.10.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v18.10.0 -- Wed Sep 28 18:00:39 UTC 2022</description>
-      <category>NodeJS</category>
-      <pubDate>Wed, 28 Sep 2022 18:00:39 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-09-28T18:00:39Z</dc:date>
     </item>
     <item>
       <title>Intel IGP Graphics Drivers -- 101.3430</title>
