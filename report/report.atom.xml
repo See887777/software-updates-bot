@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v19.0.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-10-18T16:19:44Z</modified>
+    <issued>2022-10-18T16:19:44Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v19.0.0 -- Tue Oct 18 16:19:44 UTC 2022</summary>
+    <dc:date>2022-10-18T16:19:44Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.2.0 to 17.2.5 ~ 2022-10-17</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2022-10-15T16:12:20Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.14 (October 15, 2022) -- Sat Oct 15 16:12:20 UTC 2022</summary>
     <dc:date>2022-10-15T16:12:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v18.11.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-10-14T01:01:49Z</modified>
-    <issued>2022-10-14T01:01:49Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v18.11.0 -- Fri Oct 14 01:01:49 UTC 2022</summary>
-    <dc:date>2022-10-14T01:01:49Z</dc:date>
   </entry>
   <entry>
     <title>Intel Wi-Fi Networking Drivers -- 22.170.0</title>
