@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 mac| 3.11.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 24 20:11:28 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.11.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 24 20:11:02 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.11.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 24 20:10:56 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:17:10 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3729|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 20 20:11:14 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 20 16:19:01 UTC 2022|
@@ -10,9 +13,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:12:20 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:54:53 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.18.0|[nodejs.org](https://nodejs.org)|Wed Oct 12 16:20:34 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.8|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 11 20:03:34 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 mac| 3.10.8|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 11 20:03:26 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.2|[golang.org](https://golang.org/dl/)|Tue Oct 04 18:34:24 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
