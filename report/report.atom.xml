@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 287 - Celui qu'Antonio avait oublié!</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-11-02T16:12:26Z</modified>
+    <issued>2022-11-02T16:12:26Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 287 - Celui qu'Antonio avait oublié! -- Wed Nov 02 16:12:26 UTC 2022</summary>
+    <dc:date>2022-11-02T16:12:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Go -- go1.19.3</title>
     <link rel="alternate" href="https://golang.org/dl/" />
     <author>
@@ -246,18 +258,6 @@
     <issued>2022-10-20T16:19:01Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 2.7.5.RELEASE -- Thu Oct 20 16:19:01 UTC 2022</summary>
     <dc:date>2022-10-20T16:19:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 286 - Devoxx Belgique 2022, le retour!</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-10-19T08:22:03Z</modified>
-    <issued>2022-10-19T08:22:03Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 286 - Devoxx Belgique 2022, le retour! -- Wed Oct 19 08:22:03 UTC 2022</summary>
-    <dc:date>2022-10-19T08:22:03Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS Current -- v19.0.0</title>
