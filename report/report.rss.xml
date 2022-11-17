@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Intel Wi-Fi Networking Drivers -- 22.180.0</title>
+      <link>https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/</link>
+      <description>Intel Wi-Fi Networking Drivers -- 22.180.0 -- Thu Nov 17 00:40:11 UTC 2022</description>
+      <category>Drivers</category>
+      <category>MS Windows</category>
+      <pubDate>Thu, 17 Nov 2022 00:40:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2022-11-17T00:40:11Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v19.1.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v19.1.0 -- Mon Nov 14 16:11:15 UTC 2022</description>
@@ -455,16 +465,6 @@
       <pubDate>Sat, 15 Oct 2022 16:12:20 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-10-15T16:12:20Z</dc:date>
-    </item>
-    <item>
-      <title>Intel Wi-Fi Networking Drivers -- 22.170.0</title>
-      <link>https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/</link>
-      <description>Intel Wi-Fi Networking Drivers -- 22.170.0 -- Thu Oct 13 00:54:53 UTC 2022</description>
-      <category>Drivers</category>
-      <category>MS Windows</category>
-      <pubDate>Thu, 13 Oct 2022 00:54:53 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-10-13T00:54:53Z</dc:date>
     </item>
     <item>
       <title>Intel Graphics Drivers -- 31.0.101.3413</title>
