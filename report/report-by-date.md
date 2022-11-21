@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 288 - L'épisode marathon mastodonien|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 21 12:14:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.180.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Nov 17 00:40:11 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.1.0|[nodejs.org](https://nodejs.org)|Mon Nov 14 16:11:15 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.5 to 17.3.0 ~ 2022-11-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Nov 12 20:09:55 UTC 2022|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:45:37 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:11:07 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 03 12:16:10 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 287 - Celui qu'Antonio avait oublié!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Nov 02 16:12:26 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.3|[golang.org](https://golang.org/dl/)|Tue Nov 01 20:10:23 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 20:10:17 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:20:08 UTC 2022|

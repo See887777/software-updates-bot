@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 288 - L'épisode marathon mastodonien</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 288 - L'épisode marathon mastodonien -- Mon Nov 21 12:14:57 UTC 2022</description>
+      <category>Podcast</category>
+      <pubDate>Mon, 21 Nov 2022 12:14:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2022-11-21T12:14:57Z</dc:date>
+    </item>
+    <item>
       <title>Intel Wi-Fi Networking Drivers -- 22.180.0</title>
       <link>https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/</link>
       <description>Intel Wi-Fi Networking Drivers -- 22.180.0 -- Thu Nov 17 00:40:11 UTC 2022</description>
@@ -250,15 +259,6 @@
       <pubDate>Thu, 03 Nov 2022 12:16:10 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-11-03T12:16:10Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 287 - Celui qu'Antonio avait oublié!</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 287 - Celui qu'Antonio avait oublié! -- Wed Nov 02 16:12:26 UTC 2022</description>
-      <category>Podcast</category>
-      <pubDate>Wed, 02 Nov 2022 16:12:26 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-02T16:12:26Z</dc:date>
     </item>
     <item>
       <title>Go -- go1.19.3</title>
