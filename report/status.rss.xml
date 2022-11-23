@@ -4,14 +4,14 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 22 Nov 2022 20:09:03 GMT</pubDate>
+    <pubDate>Wed, 23 Nov 2022 00:36:21 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2022-11-22T20:09:03Z</dc:date>
+    <dc:date>2022-11-23T00:36:21Z</dc:date>
     <item>
-      <title>FAILED -- Tue Nov 22 20:09:03 UTC 2022</title>
+      <title>FAILED -- Wed Nov 23 00:36:21 UTC 2022</title>
       <description>FAILED
 
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Python2MacosChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
@@ -31,7 +31,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Python2MacosChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
@@ -72,9 +72,9 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Tue, 22 Nov 2022 20:09:03 GMT</pubDate>
+      <pubDate>Wed, 23 Nov 2022 00:36:21 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2022-11-22T20:09:03Z</dc:date>
+      <dc:date>2022-11-23T00:36:21Z</dc:date>
     </item>
   </channel>
 </rss>
