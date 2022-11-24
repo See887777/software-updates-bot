@@ -32,16 +32,16 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
-    <title>Spring Boot -- 2.7.6.RELEASE</title>
+    <title>Spring Boot -- 3.0.0.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2022-11-24T16:10:01Z</modified>
-    <issued>2022-11-24T16:10:01Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 2.7.6.RELEASE -- Thu Nov 24 16:10:01 UTC 2022</summary>
-    <dc:date>2022-11-24T16:10:01Z</dc:date>
+    <modified>2022-11-24T20:08:39Z</modified>
+    <issued>2022-11-24T20:08:39Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.0.RELEASE -- Thu Nov 24 20:08:39 UTC 2022</summary>
+    <dc:date>2022-11-24T20:08:39Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 288 - L'épisode marathon mastodonien</title>

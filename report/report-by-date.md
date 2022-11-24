@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|2.7.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 24 16:10:01 UTC 2022|
+|![logo](../media/logo/springboot.png) Spring Boot|3.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 24 20:08:39 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 288 - L'épisode marathon mastodonien|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 21 12:14:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.180.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Nov 17 00:40:11 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.1.0|[nodejs.org](https://nodejs.org)|Mon Nov 14 16:11:15 UTC 2022|
