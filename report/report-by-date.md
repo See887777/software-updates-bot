@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.7.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 24 16:10:01 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 288 - L'épisode marathon mastodonien|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 21 12:14:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.180.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Nov 17 00:40:11 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.1.0|[nodejs.org](https://nodejs.org)|Mon Nov 14 16:11:15 UTC 2022|
@@ -36,7 +37,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.11.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 24 20:11:02 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 24 20:10:56 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:17:10 UTC 2022|
-|![logo](../media/logo/springboot.png) Spring Boot|2.7.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 20 16:19:01 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.4 (2022-10-17)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Oct 17 12:19:55 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:12:20 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
