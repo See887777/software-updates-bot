@@ -41,7 +41,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:00 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:17:10 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v19.1.0|[nodejs.org](https://nodejs.org)|Mon Nov 14 16:11:15 UTC 2022|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v19.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 29 20:08:59 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:45:37 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:26 UTC 2022|
@@ -59,6 +59,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 24 20:10:56 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 24 20:08:39 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
-|![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
+|![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:08:58 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:16:26 UTC 2022|
