@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Go -- go1.19.4</title>
+    <link rel="alternate" href="https://golang.org/dl/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-12-06T20:08:53Z</modified>
+    <issued>2022-12-06T20:08:53Z</issued>
+    <summary type="text/plain" mode="escaped">Go -- go1.19.4 -- Tue Dec 06 20:08:53 UTC 2022</summary>
+    <dc:date>2022-12-06T20:08:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Inkscape -- 1.2.2</title>
     <link rel="alternate" href="https://inkscape.org" />
     <author>
@@ -318,18 +330,6 @@
     <issued>2022-11-03T12:16:10Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u352-b08 -- Thu Nov 03 12:16:10 UTC 2022</summary>
     <dc:date>2022-11-03T12:16:10Z</dc:date>
-  </entry>
-  <entry>
-    <title>Go -- go1.19.3</title>
-    <link rel="alternate" href="https://golang.org/dl/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-01T20:10:23Z</modified>
-    <issued>2022-11-01T20:10:23Z</issued>
-    <summary type="text/plain" mode="escaped">Go -- go1.19.3 -- Tue Nov 01 20:10:23 UTC 2022</summary>
-    <dc:date>2022-11-01T20:10:23Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk19 windows x64 -- jdk-19.0.1+10</title>

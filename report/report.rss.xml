@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Go -- go1.19.4</title>
+      <link>https://golang.org/dl/</link>
+      <description>Go -- go1.19.4 -- Tue Dec 06 20:08:53 UTC 2022</description>
+      <category>Go</category>
+      <pubDate>Tue, 06 Dec 2022 20:08:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2022-12-06T20:08:53Z</dc:date>
+    </item>
+    <item>
       <title>Inkscape -- 1.2.2</title>
       <link>https://inkscape.org</link>
       <description>Inkscape -- 1.2.2 -- Tue Dec 06 00:40:52 UTC 2022</description>
@@ -300,15 +309,6 @@
       <pubDate>Thu, 03 Nov 2022 12:16:10 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-11-03T12:16:10Z</dc:date>
-    </item>
-    <item>
-      <title>Go -- go1.19.3</title>
-      <link>https://golang.org/dl/</link>
-      <description>Go -- go1.19.3 -- Tue Nov 01 20:10:23 UTC 2022</description>
-      <category>Go</category>
-      <pubDate>Tue, 01 Nov 2022 20:10:23 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-01T20:10:23Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk19 windows x64 -- jdk-19.0.1+10</title>
