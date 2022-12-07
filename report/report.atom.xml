@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.11.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-12-07T00:36:34Z</modified>
+    <issued>2022-12-07T00:36:34Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.11.1 -- Wed Dec 07 00:36:34 UTC 2022</summary>
+    <dc:date>2022-12-07T00:36:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 mac --  3.11.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-12-07T00:36:26Z</modified>
+    <issued>2022-12-07T00:36:26Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.11.1 -- Wed Dec 07 00:36:26 UTC 2022</summary>
+    <dc:date>2022-12-07T00:36:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 source --  3.11.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-12-07T00:36:13Z</modified>
+    <issued>2022-12-07T00:36:13Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.11.1 -- Wed Dec 07 00:36:13 UTC 2022</summary>
+    <dc:date>2022-12-07T00:36:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Go -- go1.19.4</title>
     <link rel="alternate" href="https://golang.org/dl/" />
     <author>
@@ -462,42 +498,6 @@
     <issued>2022-10-25T12:20:20Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.17+8 -- Tue Oct 25 12:20:20 UTC 2022</summary>
     <dc:date>2022-10-25T12:20:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.11.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-10-24T20:11:28Z</modified>
-    <issued>2022-10-24T20:11:28Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.11.0 -- Mon Oct 24 20:11:28 UTC 2022</summary>
-    <dc:date>2022-10-24T20:11:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 source --  3.11.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-10-24T20:11:02Z</modified>
-    <issued>2022-10-24T20:11:02Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.11.0 -- Mon Oct 24 20:11:02 UTC 2022</summary>
-    <dc:date>2022-10-24T20:11:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.11.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-10-24T20:10:56Z</modified>
-    <issued>2022-10-24T20:10:56Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.11.0 -- Mon Oct 24 20:10:56 UTC 2022</summary>
-    <dc:date>2022-10-24T20:10:56Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-alpha-2</title>
