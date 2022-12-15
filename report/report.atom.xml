@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.3.0 to 17.3.5 ~ 2022-12-15</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-12-15T20:07:46Z</modified>
+    <issued>2022-12-15T20:07:46Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.3.0 to 17.3.5 ~ 2022-12-15 -- Thu Dec 15 20:07:46 UTC 2022</summary>
+    <dc:date>2022-12-15T20:07:46Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v19.3.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -162,18 +174,6 @@
     <issued>2022-11-17T00:40:11Z</issued>
     <summary type="text/plain" mode="escaped">Intel Wi-Fi Networking Drivers -- 22.180.0 -- Thu Nov 17 00:40:11 UTC 2022</summary>
     <dc:date>2022-11-17T00:40:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.2.5 to 17.3.0 ~ 2022-11-12</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-12T20:09:55Z</modified>
-    <issued>2022-11-12T20:09:55Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.2.5 to 17.3.0 ~ 2022-11-12 -- Sat Nov 12 20:09:55 UTC 2022</summary>
-    <dc:date>2022-11-12T20:09:55Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 11 -- 11.18</title>
