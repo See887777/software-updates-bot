@@ -19,7 +19,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 25 12:21:07 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 03 12:16:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:11:07 UTC 2022|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.0.4 (2022-10-17)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Oct 17 12:19:55 UTC 2022|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:13:41 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.4|[golang.org](https://golang.org/dl/)|Tue Dec 06 20:08:53 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:09:11 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:40:52 UTC 2022|
