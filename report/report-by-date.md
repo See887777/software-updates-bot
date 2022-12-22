@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:13:10 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:13:41 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 16 00:34:46 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.3.0 to 17.3.5 ~ 2022-12-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 15 20:07:46 UTC 2022|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:08:58 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:09:11 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 24 20:08:39 UTC 2022|
-|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.180.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Nov 17 00:40:11 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:26 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:23 UTC 2022|
