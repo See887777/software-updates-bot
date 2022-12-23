@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.0.1.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-12-23T00:34:53Z</modified>
+    <issued>2022-12-23T00:34:53Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.1.RELEASE -- Fri Dec 23 00:34:53 UTC 2022</summary>
+    <dc:date>2022-12-23T00:34:53Z</dc:date>
+  </entry>
+  <entry>
     <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>
     <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2022-11-25T16:09:11Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 7.6 -- Fri Nov 25 16:09:11 UTC 2022</summary>
     <dc:date>2022-11-25T16:09:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.0.0.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-24T20:08:39Z</modified>
-    <issued>2022-11-24T20:08:39Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.0.RELEASE -- Thu Nov 24 20:08:39 UTC 2022</summary>
-    <dc:date>2022-11-24T20:08:39Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 11 -- 11.18</title>
