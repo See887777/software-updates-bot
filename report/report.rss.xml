@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS LTS -- v18.13.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS LTS -- v18.13.0 -- Fri Jan 06 04:09:20 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Fri, 06 Jan 2023 04:09:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-01-06T04:09:20Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.0.1.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.0.1.RELEASE -- Fri Dec 23 00:34:53 UTC 2022</description>
@@ -332,15 +341,6 @@
       <pubDate>Tue, 08 Nov 2022 08:12:43 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-11-08T08:12:43Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS LTS -- v18.12.1</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS LTS -- v18.12.1 -- Sat Nov 05 00:45:37 UTC 2022</description>
-      <category>NodeJS</category>
-      <pubDate>Sat, 05 Nov 2022 00:45:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-05T00:45:37Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u352-b08</title>
