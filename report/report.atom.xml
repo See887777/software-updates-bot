@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Go -- go1.19.5</title>
+    <link rel="alternate" href="https://golang.org/dl/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-01-10T20:07:51Z</modified>
+    <issued>2023-01-10T20:07:51Z</issued>
+    <summary type="text/plain" mode="escaped">Go -- go1.19.5 -- Tue Jan 10 20:07:51 UTC 2023</summary>
+    <dc:date>2023-01-10T20:07:51Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v19.4.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2022-12-07T00:36:13Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.11.1 -- Wed Dec 07 00:36:13 UTC 2022</summary>
     <dc:date>2022-12-07T00:36:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Go -- go1.19.4</title>
-    <link rel="alternate" href="https://golang.org/dl/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-12-06T20:08:53Z</modified>
-    <issued>2022-12-06T20:08:53Z</issued>
-    <summary type="text/plain" mode="escaped">Go -- go1.19.4 -- Tue Dec 06 20:08:53 UTC 2022</summary>
-    <dc:date>2022-12-06T20:08:53Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.2.2</title>

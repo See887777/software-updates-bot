@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.19.5|[golang.org](https://golang.org/dl/)|Tue Jan 10 20:07:51 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.4.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 16:10:06 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.13.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 04:09:20 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Dec 23 00:34:53 UTC 2022|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 07 00:36:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 07 00:36:26 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.1|[www.python.org](https://www.python.org/downloads/source/)|Wed Dec 07 00:36:13 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.19.4|[golang.org](https://golang.org/dl/)|Tue Dec 06 20:08:53 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:40:52 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:08:58 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:09:11 UTC 2022|
