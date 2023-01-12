@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 17.3.5 to 17.4.0 ~ 2023-01-11</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 17.3.5 to 17.4.0 ~ 2023-01-11 -- Thu Jan 12 00:36:33 UTC 2023</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Thu, 12 Jan 2023 00:36:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-01-12T00:36:33Z</dc:date>
+    </item>
+    <item>
       <title>Go -- go1.19.5</title>
       <link>https://golang.org/dl/</link>
       <description>Go -- go1.19.5 -- Tue Jan 10 20:07:51 UTC 2023</description>
@@ -135,16 +145,6 @@
       <pubDate>Fri, 16 Dec 2022 00:34:46 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-12-16T00:34:46Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 17.3.0 to 17.3.5 ~ 2022-12-15</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 17.3.0 to 17.3.5 ~ 2022-12-15 -- Thu Dec 15 20:07:46 UTC 2022</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Thu, 15 Dec 2022 20:07:46 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-12-15T20:07:46Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 289 - La revanche des dinosaures</title>
@@ -519,9 +519,9 @@
       <dc:date>2022-08-26T23:00:11Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -531,9 +531,9 @@
       <dc:date>2022-08-26T17:00:12Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
