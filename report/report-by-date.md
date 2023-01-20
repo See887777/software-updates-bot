@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.18+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 20 12:13:47 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.18+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 20 00:38:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.6+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 19 16:11:28 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 290 - Mettre tes lunettes dans ta base de données|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jan 14 12:11:05 UTC 2023|
@@ -40,7 +41,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.5+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 26 16:12:01 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Wed Oct 26 12:18:59 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 25 12:21:07 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:20:41 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:20:20 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
