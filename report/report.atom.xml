@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.0.2.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-01-21T08:09:07Z</modified>
+    <issued>2023-01-21T08:09:07Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.2.RELEASE -- Sat Jan 21 08:09:07 UTC 2023</summary>
+    <dc:date>2023-01-21T08:09:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u362-b09</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2023-01-06T04:09:20Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.13.0 -- Fri Jan 06 04:09:20 UTC 2023</summary>
     <dc:date>2023-01-06T04:09:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.0.1.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-12-23T00:34:53Z</modified>
-    <issued>2022-12-23T00:34:53Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.1.RELEASE -- Fri Dec 23 00:34:53 UTC 2022</summary>
-    <dc:date>2022-12-23T00:34:53Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>
