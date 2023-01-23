@@ -18,7 +18,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Fri Jan 20 16:09:32 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 20 20:07:59 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 20 20:07:53 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:11:07 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jan 23 16:09:19 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:13:41 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.5|[golang.org](https://golang.org/dl/)|Tue Jan 10 20:07:51 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:09:11 UTC 2022|
@@ -27,7 +27,7 @@
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:13:10 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.3.5 to 17.4.0 ~ 2023-01-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 12 00:36:33 UTC 2023|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.0 to 17.4.1 ~ 2023-01-23|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 23 16:09:24 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 290 - Mettre tes lunettes dans ta base de données|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jan 14 12:11:05 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|

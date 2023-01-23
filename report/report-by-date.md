@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.0 to 17.4.1 ~ 2023-01-23|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 23 16:09:24 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jan 23 16:09:19 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.6+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Sat Jan 21 16:08:59 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Sat Jan 21 12:12:02 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.2.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jan 21 08:09:07 UTC 2023|
@@ -12,7 +14,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.18+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 20 00:38:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.6+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 19 16:11:28 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 290 - Mettre tes lunettes dans ta base de données|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jan 14 12:11:05 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.3.5 to 17.4.0 ~ 2023-01-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 12 00:36:33 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.19.5|[golang.org](https://golang.org/dl/)|Tue Jan 10 20:07:51 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.4.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 16:10:06 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.13.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 04:09:20 UTC 2023|
@@ -39,7 +40,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:48 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:45 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:43 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:11:07 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:20:08 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
