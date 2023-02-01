@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Maven -- 4.0.0-alpha-4</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-01T08:10:14Z</modified>
+    <issued>2023-02-01T08:10:14Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-4 -- Wed Feb 01 08:10:14 UTC 2023</summary>
+    <dc:date>2023-02-01T08:10:14Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v19.5.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -282,18 +294,6 @@
     <issued>2022-12-20T12:13:41Z</issued>
     <summary type="text/plain" mode="escaped">GPG4Win -- 4.1.0 (2022-12-20) -- Tue Dec 20 12:13:41 UTC 2022</summary>
     <dc:date>2022-12-20T12:13:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Maven -- 4.0.0-alpha-3</title>
-    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-12-16T00:34:46Z</modified>
-    <issued>2022-12-16T00:34:46Z</issued>
-    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-3 -- Fri Dec 16 00:34:46 UTC 2022</summary>
-    <dc:date>2022-12-16T00:34:46Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.11.1</title>

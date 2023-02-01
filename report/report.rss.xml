@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Maven -- 4.0.0-alpha-4</title>
+      <link>https://maven.apache.org/download.cgi</link>
+      <description>Maven -- 4.0.0-alpha-4 -- Wed Feb 01 08:10:14 UTC 2023</description>
+      <category>Java</category>
+      <category>Maven</category>
+      <pubDate>Wed, 01 Feb 2023 08:10:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-01T08:10:14Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v19.5.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v19.5.0 -- Wed Jan 25 00:36:02 UTC 2023</description>
@@ -288,16 +298,6 @@
       <pubDate>Tue, 20 Dec 2022 12:13:41 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-12-20T12:13:41Z</dc:date>
-    </item>
-    <item>
-      <title>Maven -- 4.0.0-alpha-3</title>
-      <link>https://maven.apache.org/download.cgi</link>
-      <description>Maven -- 4.0.0-alpha-3 -- Fri Dec 16 00:34:46 UTC 2022</description>
-      <category>Java</category>
-      <category>Maven</category>
-      <pubDate>Fri, 16 Dec 2022 00:34:46 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-12-16T00:34:46Z</dc:date>
     </item>
     <item>
       <title>Python 3 windows --  3.11.1</title>

@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Feb 01 08:10:14 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.5.0|[nodejs.org](https://nodejs.org)|Wed Jan 25 00:36:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:07:52 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.0 to 17.4.1 ~ 2023-01-23|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 23 16:09:24 UTC 2023|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:07:56 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:13:10 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:13:41 UTC 2022|
-|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 16 00:34:46 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 07 00:36:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 07 00:36:26 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.1|[www.python.org](https://www.python.org/downloads/source/)|Wed Dec 07 00:36:13 UTC 2022|
