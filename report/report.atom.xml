@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v19.6.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-02T20:08:15Z</modified>
+    <issued>2023-02-02T20:08:15Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v19.6.0 -- Thu Feb 02 20:08:15 UTC 2023</summary>
+    <dc:date>2023-02-02T20:08:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS LTS -- v18.14.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-02T20:08:08Z</modified>
+    <issued>2023-02-02T20:08:08Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.14.0 -- Thu Feb 02 20:08:08 UTC 2023</summary>
+    <dc:date>2023-02-02T20:08:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Go -- go1.20</title>
     <link rel="alternate" href="https://golang.org/dl/" />
     <author>
@@ -54,18 +78,6 @@
     <issued>2023-02-01T08:10:14Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-4 -- Wed Feb 01 08:10:14 UTC 2023</summary>
     <dc:date>2023-02-01T08:10:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v19.5.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-25T00:36:02Z</modified>
-    <issued>2023-01-25T00:36:02Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v19.5.0 -- Wed Jan 25 00:36:02 UTC 2023</summary>
-    <dc:date>2023-01-25T00:36:02Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk19 mac x64 -- jdk-19.0.2+7</title>
@@ -246,18 +258,6 @@
     <issued>2023-01-14T12:11:05Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 290 - Mettre tes lunettes dans ta base de données -- Sat Jan 14 12:11:05 UTC 2023</summary>
     <dc:date>2023-01-14T12:11:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS LTS -- v18.13.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-06T04:09:20Z</modified>
-    <issued>2023-01-06T04:09:20Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.13.0 -- Fri Jan 06 04:09:20 UTC 2023</summary>
-    <dc:date>2023-01-06T04:09:20Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>

@@ -60,6 +60,24 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v19.6.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v19.6.0 -- Thu Feb 02 20:08:15 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Thu, 02 Feb 2023 20:08:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-02T20:08:15Z</dc:date>
+    </item>
+    <item>
+      <title>NodeJS LTS -- v18.14.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS LTS -- v18.14.0 -- Thu Feb 02 20:08:08 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Thu, 02 Feb 2023 20:08:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-02T20:08:08Z</dc:date>
+    </item>
+    <item>
       <title>Go -- go1.20</title>
       <link>https://golang.org/dl/</link>
       <description>Go -- go1.20 -- Wed Feb 01 20:08:19 UTC 2023</description>
@@ -77,15 +95,6 @@
       <pubDate>Wed, 01 Feb 2023 08:10:14 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-02-01T08:10:14Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v19.5.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v19.5.0 -- Wed Jan 25 00:36:02 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Wed, 25 Jan 2023 00:36:02 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-01-25T00:36:02Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk19 mac x64 -- jdk-19.0.2+7</title>
@@ -260,15 +269,6 @@
       <pubDate>Sat, 14 Jan 2023 12:11:05 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-01-14T12:11:05Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS LTS -- v18.13.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS LTS -- v18.13.0 -- Fri Jan 06 04:09:20 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Fri, 06 Jan 2023 04:09:20 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-01-06T04:09:20Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>
