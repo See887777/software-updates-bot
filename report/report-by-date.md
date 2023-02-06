@@ -1,5 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:09:06 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:09:04 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:56 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:39 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:20 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:14 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.0|[nodejs.org](https://nodejs.org)|Thu Feb 02 20:08:15 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.14.0|[nodejs.org](https://nodejs.org)|Thu Feb 02 20:08:08 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20|[golang.org](https://golang.org/dl/)|Wed Feb 01 20:08:19 UTC 2023|
@@ -34,13 +41,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:14 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:09 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:16:26 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:13 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:12 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:03 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:00 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:48 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:45 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:43 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|

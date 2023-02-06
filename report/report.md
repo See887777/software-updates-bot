@@ -32,13 +32,13 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:48 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:12 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:03 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:43 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:13 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:12:45 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:13:00 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:09:06 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:09:04 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:14 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:39 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:20 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Feb 01 08:10:14 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.0|[nodejs.org](https://nodejs.org)|Thu Feb 02 20:08:15 UTC 2023|
