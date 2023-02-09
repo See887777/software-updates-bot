@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:10:00 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:47 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:38 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:22 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 08 12:13:43 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 08 12:13:39 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 08 12:13:35 UTC 2023|
@@ -35,11 +39,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:40:52 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:08:58 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:09:11 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:26 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:23 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:14 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:09 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:16:26 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|

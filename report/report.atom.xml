@@ -32,6 +32,54 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>PostgreSQL 12 -- 12.14</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-09T16:10:00Z</modified>
+    <issued>2023-02-09T16:10:00Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.14 -- Thu Feb 09 16:10:00 UTC 2023</summary>
+    <dc:date>2023-02-09T16:10:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 11 -- 11.19</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-09T16:09:47Z</modified>
+    <issued>2023-02-09T16:09:47Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.19 -- Thu Feb 09 16:09:47 UTC 2023</summary>
+    <dc:date>2023-02-09T16:09:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.10</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-09T16:09:38Z</modified>
+    <issued>2023-02-09T16:09:38Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.10 -- Thu Feb 09 16:09:38 UTC 2023</summary>
+    <dc:date>2023-02-09T16:09:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 14 -- 14.7</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-09T16:09:22Z</modified>
+    <issued>2023-02-09T16:09:22Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.7 -- Thu Feb 09 16:09:22 UTC 2023</summary>
+    <dc:date>2023-02-09T16:09:22Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.11.2</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -452,18 +500,6 @@
     <dc:date>2022-11-25T16:09:11Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 11 -- 11.18</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-10T16:11:26Z</modified>
-    <issued>2022-11-10T16:11:26Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.18 -- Thu Nov 10 16:11:26 UTC 2022</summary>
-    <dc:date>2022-11-10T16:11:26Z</dc:date>
-  </entry>
-  <entry>
     <title>PostgreSQL 10 -- 10.23</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -474,42 +510,6 @@
     <issued>2022-11-10T16:11:24Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 10 -- 10.23 -- Thu Nov 10 16:11:24 UTC 2022</summary>
     <dc:date>2022-11-10T16:11:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.6</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-10T16:11:23Z</modified>
-    <issued>2022-11-10T16:11:23Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.6 -- Thu Nov 10 16:11:23 UTC 2022</summary>
-    <dc:date>2022-11-10T16:11:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.9</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-10T16:11:14Z</modified>
-    <issued>2022-11-10T16:11:14Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.9 -- Thu Nov 10 16:11:14 UTC 2022</summary>
-    <dc:date>2022-11-10T16:11:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 12 -- 12.13</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-10T16:11:09Z</modified>
-    <issued>2022-11-10T16:11:09Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.13 -- Thu Nov 10 16:11:09 UTC 2022</summary>
-    <dc:date>2022-11-10T16:11:09Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2022</title>

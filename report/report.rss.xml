@@ -60,6 +60,46 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 12 -- 12.14</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 12 -- 12.14 -- Thu Feb 09 16:10:00 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 09 Feb 2023 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-09T16:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 11 -- 11.19</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 11 -- 11.19 -- Thu Feb 09 16:09:47 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 09 Feb 2023 16:09:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-09T16:09:47Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 13 -- 13.10</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.10 -- Thu Feb 09 16:09:38 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 09 Feb 2023 16:09:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-09T16:09:38Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 14 -- 14.7</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.7 -- Thu Feb 09 16:09:22 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 09 Feb 2023 16:09:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-09T16:09:22Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.11.2</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.11.2 -- Wed Feb 08 12:13:43 UTC 2023</description>
@@ -427,16 +467,6 @@
       <dc:date>2022-11-25T16:09:11Z</dc:date>
     </item>
     <item>
-      <title>PostgreSQL 11 -- 11.18</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 11 -- 11.18 -- Thu Nov 10 16:11:26 UTC 2022</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 10 Nov 2022 16:11:26 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-10T16:11:26Z</dc:date>
-    </item>
-    <item>
       <title>PostgreSQL 10 -- 10.23</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 10 -- 10.23 -- Thu Nov 10 16:11:24 UTC 2022</description>
@@ -445,36 +475,6 @@
       <pubDate>Thu, 10 Nov 2022 16:11:24 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2022-11-10T16:11:24Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.6</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.6 -- Thu Nov 10 16:11:23 UTC 2022</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 10 Nov 2022 16:11:23 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-10T16:11:23Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.9</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.9 -- Thu Nov 10 16:11:14 UTC 2022</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 10 Nov 2022 16:11:14 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-10T16:11:14Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 12 -- 12.13</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 12 -- 12.13 -- Thu Nov 10 16:11:09 UTC 2022</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 10 Nov 2022 16:11:09 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-10T16:11:09Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2022</title>
