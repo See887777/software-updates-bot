@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 291 - ChatGPT licencie 15% des Bisounours</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-13T12:13:54Z</modified>
+    <issued>2023-02-13T12:13:54Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 291 - ChatGPT licencie 15% des Bisounours -- Mon Feb 13 12:13:54 UTC 2023</summary>
+    <dc:date>2023-02-13T12:13:54Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 12 -- 12.14</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -414,18 +426,6 @@
     <issued>2023-01-19T16:11:28Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.6+10 -- Thu Jan 19 16:11:28 UTC 2023</summary>
     <dc:date>2023-01-19T16:11:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 290 - Mettre tes lunettes dans ta base de données</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-14T12:11:05Z</modified>
-    <issued>2023-01-14T12:11:05Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 290 - Mettre tes lunettes dans ta base de données -- Sat Jan 14 12:11:05 UTC 2023</summary>
-    <dc:date>2023-01-14T12:11:05Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>
