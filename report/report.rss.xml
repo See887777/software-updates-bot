@@ -60,6 +60,24 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v19.6.1</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v19.6.1 -- Fri Feb 17 01:29:23 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Fri, 17 Feb 2023 01:29:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-17T01:29:23Z</dc:date>
+    </item>
+    <item>
+      <title>NodeJS LTS -- v18.14.1</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS LTS -- v18.14.1 -- Fri Feb 17 01:29:17 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Fri, 17 Feb 2023 01:29:17 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-02-17T01:29:17Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 17.4.4 to 17.4.5 ~ 2023-02-16</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 17.4.4 to 17.4.5 ~ 2023-02-16 -- Thu Feb 16 17:02:26 UTC 2023</description>
@@ -233,24 +251,6 @@
       <pubDate>Mon, 06 Feb 2023 20:08:14 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-02-06T20:08:14Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v19.6.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v19.6.0 -- Thu Feb 02 20:08:15 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Thu, 02 Feb 2023 20:08:15 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-02T20:08:15Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS LTS -- v18.14.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS LTS -- v18.14.0 -- Thu Feb 02 20:08:08 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Thu, 02 Feb 2023 20:08:08 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-02T20:08:08Z</dc:date>
     </item>
     <item>
       <title>Maven -- 4.0.0-alpha-4</title>
