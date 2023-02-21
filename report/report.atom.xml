@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v19.7.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-21T20:08:58Z</modified>
+    <issued>2023-02-21T20:08:58Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v19.7.0 -- Tue Feb 21 20:08:58 UTC 2023</summary>
+    <dc:date>2023-02-21T20:08:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS LTS -- v18.14.2</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-21T20:08:24Z</modified>
+    <issued>2023-02-21T20:08:24Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.14.2 -- Tue Feb 21 20:08:24 UTC 2023</summary>
+    <dc:date>2023-02-21T20:08:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.0.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -54,30 +78,6 @@
     <issued>2023-02-17T08:10:35Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Feb 2023 -- Fri Feb 17 08:10:35 UTC 2023</summary>
     <dc:date>2023-02-17T08:10:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v19.6.1</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-17T01:29:23Z</modified>
-    <issued>2023-02-17T01:29:23Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v19.6.1 -- Fri Feb 17 01:29:23 UTC 2023</summary>
-    <dc:date>2023-02-17T01:29:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS LTS -- v18.14.1</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-17T01:29:17Z</modified>
-    <issued>2023-02-17T01:29:17Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.14.1 -- Fri Feb 17 01:29:17 UTC 2023</summary>
-    <dc:date>2023-02-17T01:29:17Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 17.4.4 to 17.4.5 ~ 2023-02-16</title>
