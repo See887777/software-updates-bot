@@ -660,8 +660,8 @@
       ],
       "name": "Spring Boot",
       "website": "https://start.spring.io",
-      "version": "3.0.2.RELEASE",
-      "checkDate": "Jan 21, 2023, 8:09:07 AM",
+      "version": "3.0.3.BUILD-SNAPSHOT",
+      "checkDate": "Feb 23, 2023, 12:14:39 PM",
       "logo": "SPRING_BOOT"
     },
     {

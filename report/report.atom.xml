@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.0.3.BUILD-SNAPSHOT</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-02-23T12:14:39Z</modified>
+    <issued>2023-02-23T12:14:39Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.3.BUILD-SNAPSHOT -- Thu Feb 23 12:14:39 UTC 2023</summary>
+    <dc:date>2023-02-23T12:14:39Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v19.7.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2023-01-21T12:12:02Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk19 linux x64 -- jdk-19.0.2+7 -- Sat Jan 21 12:12:02 UTC 2023</summary>
     <dc:date>2023-01-21T12:12:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.0.2.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-21T08:09:07Z</modified>
-    <issued>2023-01-21T08:09:07Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.2.RELEASE -- Sat Jan 21 08:09:07 UTC 2023</summary>
-    <dc:date>2023-01-21T08:09:07Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u362-b09</title>
