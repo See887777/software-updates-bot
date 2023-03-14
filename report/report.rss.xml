@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v19.8.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v19.8.0 -- Tue Mar 14 20:10:29 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Tue, 14 Mar 2023 20:10:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-03-14T20:10:29Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS LTS -- v18.15.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS LTS -- v18.15.0 -- Wed Mar 08 00:39:30 UTC 2023</description>
@@ -98,15 +107,6 @@
       <pubDate>Thu, 02 Mar 2023 08:10:15 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-03-02T08:10:15Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v19.7.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v19.7.0 -- Tue Feb 21 20:08:58 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Tue, 21 Feb 2023 20:08:58 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-21T20:08:58Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2023</title>
