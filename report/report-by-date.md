@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.0|[nodejs.org](https://nodejs.org)|Tue Mar 14 20:10:29 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 15 20:08:56 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:39:30 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.4.RELEASE|[start.spring.io](https://start.spring.io)|Sat Mar 04 00:37:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.0.2|[gradle.org](https://gradle.org/releases/)|Fri Mar 03 20:09:05 UTC 2023|
