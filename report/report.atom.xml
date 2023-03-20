@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.4.5 to 17.5.0 ~ 2023-03-20</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-03-20T20:08:56Z</modified>
+    <issued>2023-03-20T20:08:56Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.4.5 to 17.5.0 ~ 2023-03-20 -- Mon Mar 20 20:08:56 UTC 2023</summary>
+    <dc:date>2023-03-20T20:08:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-alpha-5</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2023-02-17T08:10:35Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Feb 2023 -- Fri Feb 17 08:10:35 UTC 2023</summary>
     <dc:date>2023-02-17T08:10:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.4.4 to 17.4.5 ~ 2023-02-16</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-16T17:02:26Z</modified>
-    <issued>2023-02-16T17:02:26Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.4.4 to 17.4.5 ~ 2023-02-16 -- Thu Feb 16 17:02:26 UTC 2023</summary>
-    <dc:date>2023-02-16T17:02:26Z</dc:date>
   </entry>
   <entry>
     <title>Go -- go1.20.1</title>
