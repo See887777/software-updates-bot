@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 22 Mar 2023 20:09:27 GMT</pubDate>
+    <pubDate>Thu, 23 Mar 2023 00:36:52 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2023-03-22T20:09:27Z</dc:date>
+    <dc:date>2023-03-23T00:36:52Z</dc:date>
     <item>
-      <title>FAILED -- Wed Mar 22 20:09:27 UTC 2023</title>
+      <title>FAILED -- Thu Mar 23 00:36:52 UTC 2023</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.GoChecker failed, ignoring
@@ -93,7 +93,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 522 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
+java.io.IOException: Server returned HTTP response code: 521 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2010)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1592)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
@@ -133,9 +133,9 @@ java.io.IOException: Server returned HTTP response code: 522 for URL: https://ra
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 22 Mar 2023 20:09:27 GMT</pubDate>
+      <pubDate>Thu, 23 Mar 2023 00:36:52 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2023-03-22T20:09:27Z</dc:date>
+      <dc:date>2023-03-23T00:36:52Z</dc:date>
     </item>
   </channel>
 </rss>

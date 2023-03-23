@@ -82,7 +82,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 522 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
+java.io.IOException: Server returned HTTP response code: 521 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2010)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1592)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
