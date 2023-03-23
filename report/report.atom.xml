@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.0.5.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-03-23T16:09:34Z</modified>
+    <issued>2023-03-23T16:09:34Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.5.RELEASE -- Thu Mar 23 16:09:34 UTC 2023</summary>
+    <dc:date>2023-03-23T16:09:34Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.4.5 to 17.5.0 ~ 2023-03-20</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -90,18 +102,6 @@
     <issued>2023-03-08T00:39:30Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.15.0 -- Wed Mar 08 00:39:30 UTC 2023</summary>
     <dc:date>2023-03-08T00:39:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.0.4.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-03-04T00:37:37Z</modified>
-    <issued>2023-03-04T00:37:37Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.4.RELEASE -- Sat Mar 04 00:37:37 UTC 2023</summary>
-    <dc:date>2023-03-04T00:37:37Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.0.2</title>
