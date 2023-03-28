@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Wi-Fi Networking Drivers -- 22.200.2</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-03-28T00:36:00Z</modified>
+    <issued>2023-03-28T00:36:00Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Wi-Fi Networking Drivers -- 22.200.2 -- Tue Mar 28 00:36:00 UTC 2023</summary>
+    <dc:date>2023-03-28T00:36:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.0.5.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2023-03-03T20:09:05Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 8.0.2 -- Fri Mar 03 20:09:05 UTC 2023</summary>
     <dc:date>2023-03-03T20:09:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Wi-Fi Networking Drivers -- 22.200.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-03-02T08:10:15Z</modified>
-    <issued>2023-03-02T08:10:15Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Wi-Fi Networking Drivers -- 22.200.0 -- Thu Mar 02 08:10:15 UTC 2023</summary>
-    <dc:date>2023-03-02T08:10:15Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2023</title>

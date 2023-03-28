@@ -26,7 +26,7 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
-|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Mar 02 08:10:15 UTC 2023|
+|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:36:00 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.5 to 17.5.0 ~ 2023-03-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Mar 20 20:08:56 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 292 - Enterprise Go Beans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 20 08:10:27 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
