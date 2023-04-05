@@ -60,6 +60,33 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.11.3</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.11.3 -- Wed Apr 05 12:14:28 UTC 2023</description>
+      <category>Python</category>
+      <pubDate>Wed, 05 Apr 2023 12:14:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-05T12:14:28Z</dc:date>
+    </item>
+    <item>
+      <title>Python 3 windows --  3.11.3</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.11.3 -- Wed Apr 05 12:14:21 UTC 2023</description>
+      <category>Python</category>
+      <pubDate>Wed, 05 Apr 2023 12:14:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-05T12:14:21Z</dc:date>
+    </item>
+    <item>
+      <title>Python 3 source --  3.11.3</title>
+      <link>https://www.python.org/downloads/source/</link>
+      <description>Python 3 source --  3.11.3 -- Wed Apr 05 12:14:12 UTC 2023</description>
+      <category>Python</category>
+      <pubDate>Wed, 05 Apr 2023 12:14:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-05T12:14:12Z</dc:date>
+    </item>
+    <item>
       <title>Intel Wi-Fi Networking Drivers -- 22.200.2</title>
       <link>https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/</link>
       <description>Intel Wi-Fi Networking Drivers -- 22.200.2 -- Tue Mar 28 00:36:00 UTC 2023</description>
@@ -195,33 +222,6 @@
       <pubDate>Thu, 09 Feb 2023 16:09:22 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-02-09T16:09:22Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.11.2</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.11.2 -- Wed Feb 08 12:13:43 UTC 2023</description>
-      <category>Python</category>
-      <pubDate>Wed, 08 Feb 2023 12:13:43 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-08T12:13:43Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.11.2</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.11.2 -- Wed Feb 08 12:13:39 UTC 2023</description>
-      <category>Python</category>
-      <pubDate>Wed, 08 Feb 2023 12:13:39 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-08T12:13:39Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 source --  3.11.2</title>
-      <link>https://www.python.org/downloads/source/</link>
-      <description>Python 3 source --  3.11.2 -- Wed Feb 08 12:13:35 UTC 2023</description>
-      <category>Python</category>
-      <pubDate>Wed, 08 Feb 2023 12:13:35 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-08T12:13:35Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.3 -- 10.3.38</title>
