@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 17.5.0 to 17.5.2 ~ 2023-04-08</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 17.5.0 to 17.5.2 ~ 2023-04-08 -- Sat Apr 08 16:07:45 UTC 2023</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Sat, 08 Apr 2023 16:07:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-08T16:07:45Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 293 - Interview Maven et builds reproductibles avec Hervé Boutemy</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 293 - Interview Maven et builds reproductibles avec Hervé Boutemy -- Thu Apr 06 12:12:44 UTC 2023</description>
@@ -115,16 +125,6 @@
       <pubDate>Thu, 23 Mar 2023 16:09:34 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-03-23T16:09:34Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 17.4.5 to 17.5.0 ~ 2023-03-20</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 17.4.5 to 17.5.0 ~ 2023-03-20 -- Mon Mar 20 20:08:56 UTC 2023</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Mon, 20 Mar 2023 20:08:56 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-03-20T20:08:56Z</dc:date>
     </item>
     <item>
       <title>Maven -- 4.0.0-alpha-5</title>
