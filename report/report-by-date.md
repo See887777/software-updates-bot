@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v19.9.0|[nodejs.org](https://nodejs.org)|Tue Apr 11 04:08:42 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.0 to 17.5.2 ~ 2023-04-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 08 16:07:45 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 293 - Interview Maven et builds reproductibles avec Hervé Boutemy|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Apr 06 12:12:44 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:14:28 UTC 2023|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:36:00 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 23 16:09:34 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:13:58 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 15 20:08:56 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:39:30 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.0.2|[gradle.org](https://gradle.org/releases/)|Fri Mar 03 20:09:05 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:10:35 UTC 2023|
