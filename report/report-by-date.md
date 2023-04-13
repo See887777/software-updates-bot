@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:08:51 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1|[gradle.org](https://gradle.org/releases/)|Wed Apr 12 16:09:35 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.9.0|[nodejs.org](https://nodejs.org)|Tue Apr 11 04:08:42 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.0 to 17.5.2 ~ 2023-04-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 08 16:07:45 UTC 2023|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:36:00 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 23 16:09:34 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:13:58 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:39:30 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:10:35 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:10:00 UTC 2023|

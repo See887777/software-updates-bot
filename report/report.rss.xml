@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS LTS -- v18.16.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS LTS -- v18.16.0 -- Thu Apr 13 04:08:51 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Thu, 13 Apr 2023 04:08:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-13T04:08:51Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.1</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.1 -- Wed Apr 12 16:09:35 UTC 2023</description>
@@ -154,15 +163,6 @@
       <pubDate>Mon, 20 Mar 2023 12:13:58 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-03-20T12:13:58Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS LTS -- v18.15.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS LTS -- v18.15.0 -- Wed Mar 08 00:39:30 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Wed, 08 Mar 2023 00:39:30 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-03-08T00:39:30Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2023</title>
