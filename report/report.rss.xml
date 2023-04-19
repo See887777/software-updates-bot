@@ -60,6 +60,30 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk11 linux x64 -- jdk-11.0.19+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 linux x64 -- jdk-11.0.19+7 -- Wed Apr 19 16:08:55 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Wed, 19 Apr 2023 16:08:55 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-19T16:08:55Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 linux x64 -- jdk-17.0.7+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 linux x64 -- jdk-17.0.7+7 -- Wed Apr 19 16:08:50 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Wed, 19 Apr 2023 16:08:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-19T16:08:50Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v20.0.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v20.0.0 -- Tue Apr 18 20:07:43 UTC 2023</description>
@@ -402,18 +426,6 @@
       <dc:date>2023-01-20T16:09:32Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk11 linux x64 -- jdk-11.0.18+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 linux x64 -- jdk-11.0.18+10 -- Fri Jan 20 12:13:47 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 20 Jan 2023 12:13:47 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-01-20T12:13:47Z</dc:date>
-    </item>
-    <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.18+10</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 mac x64 -- jdk-11.0.18+10 -- Fri Jan 20 00:38:02 UTC 2023</description>
@@ -424,18 +436,6 @@
       <pubDate>Fri, 20 Jan 2023 00:38:02 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-01-20T00:38:02Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 linux x64 -- jdk-17.0.6+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 linux x64 -- jdk-17.0.6+10 -- Thu Jan 19 16:11:28 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 19 Jan 2023 16:11:28 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-01-19T16:11:28Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>
