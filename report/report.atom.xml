@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 linux x64 -- jdk8u372-b07</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-20T20:07:56Z</modified>
+    <issued>2023-04-20T20:07:56Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u372-b07 -- Thu Apr 20 20:07:56 UTC 2023</summary>
+    <dc:date>2023-04-20T20:07:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u372-b07</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-20T20:07:44Z</modified>
+    <issued>2023-04-20T20:07:44Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u372-b07 -- Thu Apr 20 20:07:44 UTC 2023</summary>
+    <dc:date>2023-04-20T20:07:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 mac x64 -- jdk8u372-b07</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-20T20:07:24Z</modified>
+    <issued>2023-04-20T20:07:24Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u372-b07 -- Thu Apr 20 20:07:24 UTC 2023</summary>
+    <dc:date>2023-04-20T20:07:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.0.6.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -404,18 +440,6 @@
     <dc:date>2023-01-23T20:07:52Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u362-b09</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-23T16:09:19Z</modified>
-    <issued>2023-01-23T16:09:19Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u362-b09 -- Mon Jan 23 16:09:19 UTC 2023</summary>
-    <dc:date>2023-01-23T16:09:19Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk19 linux x64 -- jdk-19.0.2+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk19&amp;jvmVariant=hotspot" />
     <author>
@@ -426,30 +450,6 @@
     <issued>2023-01-21T12:12:02Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk19 linux x64 -- jdk-19.0.2+7 -- Sat Jan 21 12:12:02 UTC 2023</summary>
     <dc:date>2023-01-21T12:12:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 linux x64 -- jdk8u362-b09</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-20T20:07:59Z</modified>
-    <issued>2023-01-20T20:07:59Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u362-b09 -- Fri Jan 20 20:07:59 UTC 2023</summary>
-    <dc:date>2023-01-20T20:07:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 mac x64 -- jdk8u362-b09</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-20T20:07:53Z</modified>
-    <issued>2023-01-20T20:07:53Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u362-b09 -- Fri Jan 20 20:07:53 UTC 2023</summary>
-    <dc:date>2023-01-20T20:07:53Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk19 windows x64 -- jdk-19.0.2+7</title>
