@@ -60,6 +60,30 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Thu, 20 Apr 2023 12:13:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-20T12:13:09Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.7+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.7+7 -- Thu Apr 20 12:13:09 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Thu, 20 Apr 2023 12:13:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-04-20T12:13:09Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk17 windows x64 -- jdk-17.0.7+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk17 windows x64 -- jdk-17.0.7+7 -- Thu Apr 20 08:09:49 UTC 2023</description>
@@ -354,18 +378,6 @@
       <dc:date>2023-01-23T16:09:19Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.6+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.6+10 -- Sat Jan 21 16:08:59 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Sat, 21 Jan 2023 16:08:59 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-01-21T16:08:59Z</dc:date>
-    </item>
-    <item>
       <title>Adoptium jdk19 linux x64 -- jdk-19.0.2+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk19&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk19 linux x64 -- jdk-19.0.2+7 -- Sat Jan 21 12:12:02 UTC 2023</description>
@@ -388,18 +400,6 @@
       <pubDate>Fri, 20 Jan 2023 20:07:59 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-01-20T20:07:59Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.18+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.18+10 -- Fri Jan 20 20:07:57 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 20 Jan 2023 20:07:57 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-01-20T20:07:57Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u362-b09</title>
