@@ -32,16 +32,28 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
+    <title>Spring Boot -- 3.0.6.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-20T16:09:20Z</modified>
+    <issued>2023-04-20T16:09:20Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.6.RELEASE -- Thu Apr 20 16:09:20 UTC 2023</summary>
+    <dc:date>2023-04-20T16:09:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 mac x64 -- jdk-11.0.19+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2023-04-20T12:13:09Z</modified>
-    <issued>2023-04-20T12:13:09Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</summary>
-    <dc:date>2023-04-20T12:13:09Z</dc:date>
+    <modified>2023-04-20T16:08:46Z</modified>
+    <issued>2023-04-20T16:08:46Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.19+7 -- Thu Apr 20 16:08:46 UTC 2023</summary>
+    <dc:date>2023-04-20T16:08:46Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.7+7</title>
@@ -53,6 +65,18 @@
     <modified>2023-04-20T12:13:09Z</modified>
     <issued>2023-04-20T12:13:09Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.7+7 -- Thu Apr 20 12:13:09 UTC 2023</summary>
+    <dc:date>2023-04-20T12:13:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-20T12:13:09Z</modified>
+    <issued>2023-04-20T12:13:09Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</summary>
     <dc:date>2023-04-20T12:13:09Z</dc:date>
   </entry>
   <entry>
@@ -198,18 +222,6 @@
     <issued>2023-03-28T00:36:00Z</issued>
     <summary type="text/plain" mode="escaped">Intel Wi-Fi Networking Drivers -- 22.200.2 -- Tue Mar 28 00:36:00 UTC 2023</summary>
     <dc:date>2023-03-28T00:36:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.0.5.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-03-23T16:09:34Z</modified>
-    <issued>2023-03-23T16:09:34Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.5.RELEASE -- Thu Mar 23 16:09:34 UTC 2023</summary>
-    <dc:date>2023-03-23T16:09:34Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-alpha-5</title>
@@ -450,18 +462,6 @@
     <issued>2023-01-20T16:09:32Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk19 windows x64 -- jdk-19.0.2+7 -- Fri Jan 20 16:09:32 UTC 2023</summary>
     <dc:date>2023-01-20T16:09:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 mac x64 -- jdk-11.0.18+10</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-01-20T00:38:02Z</modified>
-    <issued>2023-01-20T00:38:02Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.18+10 -- Fri Jan 20 00:38:02 UTC 2023</summary>
-    <dc:date>2023-01-20T00:38:02Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022)</title>

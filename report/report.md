@@ -2,7 +2,7 @@
 |---|---|---|---|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:07:56 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 19 16:08:55 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.18+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 20 00:38:02 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 20 16:08:46 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 20 12:13:09 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 mac x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
@@ -57,7 +57,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:14:28 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Apr 05 12:14:12 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:14:21 UTC 2023|
-|![logo](../media/logo/springboot.png) Spring Boot|3.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 23 16:09:34 UTC 2023|
+|![logo](../media/logo/springboot.png) Spring Boot|3.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 20 16:09:20 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:08:58 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
