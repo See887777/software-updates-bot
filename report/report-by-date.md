@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:09:07 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:07:56 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:07:44 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:07:24 UTC 2023|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 18 20:07:43 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 294 - A Devoxx France 2023 en chair en os et en béret|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 17 12:14:14 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:08:51 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.1|[gradle.org](https://gradle.org/releases/)|Wed Apr 12 16:09:35 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.0 to 17.5.2 ~ 2023-04-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 08 16:07:45 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:14:28 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:14:21 UTC 2023|

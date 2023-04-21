@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.1.1</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-21T16:09:07Z</modified>
+    <issued>2023-04-21T16:09:07Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.1.1 -- Fri Apr 21 16:09:07 UTC 2023</summary>
+    <dc:date>2023-04-21T16:09:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u372-b07</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2023-04-13T04:08:51Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.16.0 -- Thu Apr 13 04:08:51 UTC 2023</summary>
     <dc:date>2023-04-13T04:08:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-12T16:09:35Z</modified>
-    <issued>2023-04-12T16:09:35Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.1 -- Wed Apr 12 16:09:35 UTC 2023</summary>
-    <dc:date>2023-04-12T16:09:35Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 17.5.0 to 17.5.2 ~ 2023-04-08</title>
