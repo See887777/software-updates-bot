@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-22T20:07:32Z</modified>
+    <issued>2023-04-22T20:07:32Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22 -- Sat Apr 22 20:07:32 UTC 2023</summary>
+    <dc:date>2023-04-22T20:07:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.1.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2023-04-13T04:08:51Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS LTS -- v18.16.0 -- Thu Apr 13 04:08:51 UTC 2023</summary>
     <dc:date>2023-04-13T04:08:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.5.0 to 17.5.2 ~ 2023-04-08</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-08T16:07:45Z</modified>
-    <issued>2023-04-08T16:07:45Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.5.0 to 17.5.2 ~ 2023-04-08 -- Sat Apr 08 16:07:45 UTC 2023</summary>
-    <dc:date>2023-04-08T16:07:45Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.11.3</title>
