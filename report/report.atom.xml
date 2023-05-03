@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v20.1.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-03T20:07:36Z</modified>
+    <issued>2023-05-03T20:07:36Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.1.0 -- Wed May 03 20:07:36 UTC 2023</summary>
+    <dc:date>2023-05-03T20:07:36Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2023-04-19T16:08:50Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.7+7 -- Wed Apr 19 16:08:50 UTC 2023</summary>
     <dc:date>2023-04-19T16:08:50Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v20.0.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-18T20:07:43Z</modified>
-    <issued>2023-04-18T20:07:43Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.0.0 -- Tue Apr 18 20:07:43 UTC 2023</summary>
-    <dc:date>2023-04-18T20:07:43Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 294 - A Devoxx France 2023 en chair en os et en béret</title>
