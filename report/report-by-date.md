@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:10:04 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:55 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:52 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:40 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:37 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 12:51:43 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.1.0|[nodejs.org](https://nodejs.org)|Wed May 03 20:07:36 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.2 to 17.5.5 ~ 2023-04-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 22 20:07:32 UTC 2023|
@@ -9,8 +15,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:07:24 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 20 16:09:20 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 20 16:08:46 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 20 12:13:09 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 20 12:13:09 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 20 12:13:09 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 20 08:09:49 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 19 16:08:55 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 19 16:08:50 UTC 2023|
@@ -27,13 +33,7 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:47 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:38 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:22 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:09:06 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:09:04 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:56 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:39 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:20 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:14 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:07:52 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Sat Jan 21 12:12:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Fri Jan 20 16:09:32 UTC 2023|

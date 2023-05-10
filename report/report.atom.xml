@@ -32,6 +32,78 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.5 -- 10.5.20</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-10T16:10:04Z</modified>
+    <issued>2023-05-10T16:10:04Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.20 -- Wed May 10 16:10:04 UTC 2023</summary>
+    <dc:date>2023-05-10T16:10:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.8 -- 10.8.8</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-10T16:09:56Z</modified>
+    <issued>2023-05-10T16:09:56Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.8 -- 10.8.8 -- Wed May 10 16:09:56 UTC 2023</summary>
+    <dc:date>2023-05-10T16:09:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.6 -- 10.6.13</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-10T16:09:55Z</modified>
+    <issued>2023-05-10T16:09:55Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.13 -- Wed May 10 16:09:55 UTC 2023</summary>
+    <dc:date>2023-05-10T16:09:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.9 -- 10.9.6</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-10T16:09:52Z</modified>
+    <issued>2023-05-10T16:09:52Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.9 -- 10.9.6 -- Wed May 10 16:09:52 UTC 2023</summary>
+    <dc:date>2023-05-10T16:09:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.3 -- 10.3.39</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-10T16:09:40Z</modified>
+    <issued>2023-05-10T16:09:40Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.3 -- 10.3.39 -- Wed May 10 16:09:40 UTC 2023</summary>
+    <dc:date>2023-05-10T16:09:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.4 -- 10.4.29</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-10T16:09:37Z</modified>
+    <issued>2023-05-10T16:09:37Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.29 -- Wed May 10 16:09:37 UTC 2023</summary>
+    <dc:date>2023-05-10T16:09:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 22.220.1</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -140,18 +212,6 @@
     <dc:date>2023-04-20T16:08:46Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-20T12:13:09Z</modified>
-    <issued>2023-04-20T12:13:09Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</summary>
-    <dc:date>2023-04-20T12:13:09Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.7+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -161,6 +221,18 @@
     <modified>2023-04-20T12:13:09Z</modified>
     <issued>2023-04-20T12:13:09Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.7+7 -- Thu Apr 20 12:13:09 UTC 2023</summary>
+    <dc:date>2023-04-20T12:13:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-04-20T12:13:09Z</modified>
+    <issued>2023-04-20T12:13:09Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</summary>
     <dc:date>2023-04-20T12:13:09Z</dc:date>
   </entry>
   <entry>
@@ -356,54 +428,6 @@
     <dc:date>2023-02-09T16:09:22Z</dc:date>
   </entry>
   <entry>
-    <title>MariaDB 10.3 -- 10.3.38</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-06T20:09:06Z</modified>
-    <issued>2023-02-06T20:09:06Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.3 -- 10.3.38 -- Mon Feb 06 20:09:06 UTC 2023</summary>
-    <dc:date>2023-02-06T20:09:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.4 -- 10.4.28</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-06T20:09:04Z</modified>
-    <issued>2023-02-06T20:09:04Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.28 -- Mon Feb 06 20:09:04 UTC 2023</summary>
-    <dc:date>2023-02-06T20:09:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.9 -- 10.9.5</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-06T20:08:56Z</modified>
-    <issued>2023-02-06T20:08:56Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.9 -- 10.9.5 -- Mon Feb 06 20:08:56 UTC 2023</summary>
-    <dc:date>2023-02-06T20:08:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.12</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-06T20:08:39Z</modified>
-    <issued>2023-02-06T20:08:39Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.12 -- Mon Feb 06 20:08:39 UTC 2023</summary>
-    <dc:date>2023-02-06T20:08:39Z</dc:date>
-  </entry>
-  <entry>
     <title>MariaDB 10.7 -- 10.7.8</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -414,30 +438,6 @@
     <issued>2023-02-06T20:08:35Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.7 -- 10.7.8 -- Mon Feb 06 20:08:35 UTC 2023</summary>
     <dc:date>2023-02-06T20:08:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.8 -- 10.8.7</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-06T20:08:20Z</modified>
-    <issued>2023-02-06T20:08:20Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.8 -- 10.8.7 -- Mon Feb 06 20:08:20 UTC 2023</summary>
-    <dc:date>2023-02-06T20:08:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.19</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-06T20:08:14Z</modified>
-    <issued>2023-02-06T20:08:14Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.19 -- Mon Feb 06 20:08:14 UTC 2023</summary>
-    <dc:date>2023-02-06T20:08:14Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk19 mac x64 -- jdk-19.0.2+7</title>
