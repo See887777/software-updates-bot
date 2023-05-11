@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:56 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:11 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:10:04 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:55 UTC 2023|
@@ -29,10 +33,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:13:58 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:10:35 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:10:00 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:47 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:38 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:09:22 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:07:52 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Sat Jan 21 12:12:02 UTC 2023|

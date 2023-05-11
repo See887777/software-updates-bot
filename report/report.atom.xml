@@ -32,6 +32,54 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>PostgreSQL 12 -- 12.15</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-11T16:08:56Z</modified>
+    <issued>2023-05-11T16:08:56Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.15 -- Thu May 11 16:08:56 UTC 2023</summary>
+    <dc:date>2023-05-11T16:08:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 14 -- 14.8</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-11T16:08:19Z</modified>
+    <issued>2023-05-11T16:08:19Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.8 -- Thu May 11 16:08:19 UTC 2023</summary>
+    <dc:date>2023-05-11T16:08:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.11</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-11T16:08:19Z</modified>
+    <issued>2023-05-11T16:08:19Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.11 -- Thu May 11 16:08:19 UTC 2023</summary>
+    <dc:date>2023-05-11T16:08:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 11 -- 11.20</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-11T16:08:11Z</modified>
+    <issued>2023-05-11T16:08:11Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.20 -- Thu May 11 16:08:11 UTC 2023</summary>
+    <dc:date>2023-05-11T16:08:11Z</dc:date>
+  </entry>
+  <entry>
     <title>MariaDB 10.5 -- 10.5.20</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -378,54 +426,6 @@
     <issued>2023-02-14T20:08:37Z</issued>
     <summary type="text/plain" mode="escaped">Go -- go1.20.1 -- Tue Feb 14 20:08:37 UTC 2023</summary>
     <dc:date>2023-02-14T20:08:37Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 12 -- 12.14</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-09T16:10:00Z</modified>
-    <issued>2023-02-09T16:10:00Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.14 -- Thu Feb 09 16:10:00 UTC 2023</summary>
-    <dc:date>2023-02-09T16:10:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 11 -- 11.19</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-09T16:09:47Z</modified>
-    <issued>2023-02-09T16:09:47Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.19 -- Thu Feb 09 16:09:47 UTC 2023</summary>
-    <dc:date>2023-02-09T16:09:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.10</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-09T16:09:38Z</modified>
-    <issued>2023-02-09T16:09:38Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.10 -- Thu Feb 09 16:09:38 UTC 2023</summary>
-    <dc:date>2023-02-09T16:09:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.7</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-09T16:09:22Z</modified>
-    <issued>2023-02-09T16:09:22Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.7 -- Thu Feb 09 16:09:22 UTC 2023</summary>
-    <dc:date>2023-02-09T16:09:22Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.7 -- 10.7.8</title>
