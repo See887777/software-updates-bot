@@ -70,9 +70,9 @@
       <dc:date>2023-05-11T16:08:56Z</dc:date>
     </item>
     <item>
-      <title>PostgreSQL 14 -- 14.8</title>
+      <title>PostgreSQL 13 -- 13.11</title>
       <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.8 -- Thu May 11 16:08:19 UTC 2023</description>
+      <description>PostgreSQL 13 -- 13.11 -- Thu May 11 16:08:19 UTC 2023</description>
       <category>Database</category>
       <category>PostgreSQL</category>
       <pubDate>Thu, 11 May 2023 16:08:19 GMT</pubDate>
@@ -80,9 +80,9 @@
       <dc:date>2023-05-11T16:08:19Z</dc:date>
     </item>
     <item>
-      <title>PostgreSQL 13 -- 13.11</title>
+      <title>PostgreSQL 14 -- 14.8</title>
       <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.11 -- Thu May 11 16:08:19 UTC 2023</description>
+      <description>PostgreSQL 14 -- 14.8 -- Thu May 11 16:08:19 UTC 2023</description>
       <category>Database</category>
       <category>PostgreSQL</category>
       <pubDate>Thu, 11 May 2023 16:08:19 GMT</pubDate>

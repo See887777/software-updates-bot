@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:56 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:11 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:10:04 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
