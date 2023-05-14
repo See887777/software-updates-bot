@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.5.5 to 17.6.0 ~ 2023-05-14</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-14T16:07:54Z</modified>
+    <issued>2023-05-14T16:07:54Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.5.5 to 17.6.0 ~ 2023-05-14 -- Sun May 14 16:07:54 UTC 2023</summary>
+    <dc:date>2023-05-14T16:07:54Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 12 -- 12.15</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2023-05-03T20:07:36Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- v20.1.0 -- Wed May 03 20:07:36 UTC 2023</summary>
     <dc:date>2023-05-03T20:07:36Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-22T20:07:32Z</modified>
-    <issued>2023-04-22T20:07:32Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22 -- Sat Apr 22 20:07:32 UTC 2023</summary>
-    <dc:date>2023-04-22T20:07:32Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.1.1</title>

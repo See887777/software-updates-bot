@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 17.5.5 to 17.6.0 ~ 2023-05-14</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 17.5.5 to 17.6.0 ~ 2023-05-14 -- Sun May 14 16:07:54 UTC 2023</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Sun, 14 May 2023 16:07:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-05-14T16:07:54Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 12 -- 12.15</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 12 -- 12.15 -- Thu May 11 16:08:56 UTC 2023</description>
@@ -177,16 +187,6 @@
       <pubDate>Wed, 03 May 2023 20:07:36 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-05-03T20:07:36Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 17.5.2 to 17.5.5 ~ 2023-04-22 -- Sat Apr 22 20:07:32 UTC 2023</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Sat, 22 Apr 2023 20:07:32 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-04-22T20:07:32Z</dc:date>
     </item>
     <item>
       <title>Gradle -- 8.1.1</title>
