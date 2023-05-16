@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v20.2.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-16T20:07:24Z</modified>
+    <issued>2023-05-16T20:07:24Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.2.0 -- Tue May 16 20:07:24 UTC 2023</summary>
+    <dc:date>2023-05-16T20:07:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 295 - La librairie rentre dans le cadre</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2023-05-09T12:51:43Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 22.220.1 -- Tue May 09 12:51:43 UTC 2023</summary>
     <dc:date>2023-05-09T12:51:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v20.1.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-05-03T20:07:36Z</modified>
-    <issued>2023-05-03T20:07:36Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.1.0 -- Wed May 03 20:07:36 UTC 2023</summary>
-    <dc:date>2023-05-03T20:07:36Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.1.1</title>
