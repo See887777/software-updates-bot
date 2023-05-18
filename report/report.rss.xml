@@ -60,6 +60,27 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.0.7.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.0.7.RELEASE -- Thu May 18 16:08:48 UTC 2023</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 18 May 2023 16:08:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-05-18T16:08:48Z</dc:date>
+    </item>
+    <item>
+      <title>Visual C++ Redistributable Runtimes All-in-One -- May 2023</title>
+      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
+      <description>Visual C++ Redistributable Runtimes All-in-One -- May 2023 -- Thu May 18 16:08:44 UTC 2023</description>
+      <category>Redistributable Runtimes</category>
+      <category>MS Windows</category>
+      <pubDate>Thu, 18 May 2023 16:08:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-05-18T16:08:44Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v20.2.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v20.2.0 -- Tue May 16 20:07:24 UTC 2023</description>
@@ -244,17 +265,6 @@
       <dc:date>2023-04-20T20:07:24Z</dc:date>
     </item>
     <item>
-      <title>Spring Boot -- 3.0.6.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.0.6.RELEASE -- Thu Apr 20 16:09:20 UTC 2023</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 20 Apr 2023 16:09:20 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-04-20T16:09:20Z</dc:date>
-    </item>
-    <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.19+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 mac x64 -- jdk-11.0.19+7 -- Thu Apr 20 16:08:46 UTC 2023</description>
@@ -381,16 +391,6 @@
       <pubDate>Mon, 20 Mar 2023 12:13:58 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-03-20T12:13:58Z</dc:date>
-    </item>
-    <item>
-      <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2023</title>
-      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
-      <description>Visual C++ Redistributable Runtimes All-in-One -- Feb 2023 -- Fri Feb 17 08:10:35 UTC 2023</description>
-      <category>Redistributable Runtimes</category>
-      <category>MS Windows</category>
-      <pubDate>Fri, 17 Feb 2023 08:10:35 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-02-17T08:10:35Z</dc:date>
     </item>
     <item>
       <title>Go -- go1.20.1</title>

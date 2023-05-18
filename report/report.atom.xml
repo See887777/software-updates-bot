@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.0.7.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-18T16:08:48Z</modified>
+    <issued>2023-05-18T16:08:48Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.7.RELEASE -- Thu May 18 16:08:48 UTC 2023</summary>
+    <dc:date>2023-05-18T16:08:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- May 2023</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-18T16:08:44Z</modified>
+    <issued>2023-05-18T16:08:44Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- May 2023 -- Thu May 18 16:08:44 UTC 2023</summary>
+    <dc:date>2023-05-18T16:08:44Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v20.2.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -248,18 +272,6 @@
     <dc:date>2023-04-20T20:07:24Z</dc:date>
   </entry>
   <entry>
-    <title>Spring Boot -- 3.0.6.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-20T16:09:20Z</modified>
-    <issued>2023-04-20T16:09:20Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.0.6.RELEASE -- Thu Apr 20 16:09:20 UTC 2023</summary>
-    <dc:date>2023-04-20T16:09:20Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.19+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -402,18 +414,6 @@
     <issued>2023-03-20T12:13:58Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-5 -- Mon Mar 20 12:13:58 UTC 2023</summary>
     <dc:date>2023-03-20T12:13:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2023</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-02-17T08:10:35Z</modified>
-    <issued>2023-02-17T08:10:35Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Feb 2023 -- Fri Feb 17 08:10:35 UTC 2023</summary>
-    <dc:date>2023-02-17T08:10:35Z</dc:date>
   </entry>
   <entry>
     <title>Go -- go1.20.1</title>
