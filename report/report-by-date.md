@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.0.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 18 16:08:48 UTC 2023|
+|![logo](../media/logo/springboot.png) Spring Boot|3.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 19 04:08:40 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:08:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.2.0|[nodejs.org](https://nodejs.org)|Tue May 16 20:07:24 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 295 - La librairie rentre dans le cadre|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 15 12:12:26 UTC 2023|
