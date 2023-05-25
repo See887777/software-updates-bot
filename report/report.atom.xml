@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 296 - Interview Google IA IA I/O 2023</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-05-25T12:12:20Z</modified>
+    <issued>2023-05-25T12:12:20Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 296 - Interview Google IA IA I/O 2023 -- Thu May 25 12:12:20 UTC 2023</summary>
+    <dc:date>2023-05-25T12:12:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.1.0.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2023-05-16T20:07:24Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- v20.2.0 -- Tue May 16 20:07:24 UTC 2023</summary>
     <dc:date>2023-05-16T20:07:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 295 - La librairie rentre dans le cadre</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-05-15T12:12:26Z</modified>
-    <issued>2023-05-15T12:12:26Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 295 - La librairie rentre dans le cadre -- Mon May 15 12:12:26 UTC 2023</summary>
-    <dc:date>2023-05-15T12:12:26Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 17.5.5 to 17.6.0 ~ 2023-05-14</title>
