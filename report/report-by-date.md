@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 mac| 3.11.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 07 12:13:20 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 windows| 3.11.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 07 12:13:18 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 source| 3.11.4|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 07 12:13:12 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:09:08 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 296 - Interview Google IA IA I/O 2023|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu May 25 12:12:20 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 19 04:08:40 UTC 2023|
@@ -28,9 +31,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 19 16:08:55 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 19 16:08:50 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:08:51 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:14:28 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:14:21 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 source| 3.11.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Apr 05 12:14:12 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:36:00 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:13:58 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
