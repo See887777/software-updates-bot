@@ -60,6 +60,46 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>MariaDB 10.5 -- 10.5.21</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.5 -- 10.5.21 -- Wed Jun 07 16:08:56 UTC 2023</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Wed, 07 Jun 2023 16:08:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-06-07T16:08:56Z</dc:date>
+    </item>
+    <item>
+      <title>MariaDB 10.6 -- 10.6.14</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.6 -- 10.6.14 -- Wed Jun 07 16:08:54 UTC 2023</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Wed, 07 Jun 2023 16:08:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-06-07T16:08:54Z</dc:date>
+    </item>
+    <item>
+      <title>MariaDB 10.4 -- 10.4.30</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.4 -- 10.4.30 -- Wed Jun 07 16:08:45 UTC 2023</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Wed, 07 Jun 2023 16:08:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-06-07T16:08:45Z</dc:date>
+    </item>
+    <item>
+      <title>MariaDB 10.9 -- 10.9.7</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.9 -- 10.9.7 -- Wed Jun 07 16:08:39 UTC 2023</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Wed, 07 Jun 2023 16:08:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-06-07T16:08:39Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 mac --  3.11.4</title>
       <link>https://www.python.org/downloads/mac-osx/</link>
       <description>Python 3 mac --  3.11.4 -- Wed Jun 07 12:13:20 UTC 2023</description>
@@ -185,16 +225,6 @@
       <dc:date>2023-05-11T16:08:11Z</dc:date>
     </item>
     <item>
-      <title>MariaDB 10.5 -- 10.5.20</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.5 -- 10.5.20 -- Wed May 10 16:10:04 UTC 2023</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Wed, 10 May 2023 16:10:04 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-10T16:10:04Z</dc:date>
-    </item>
-    <item>
       <title>MariaDB 10.8 -- 10.8.8</title>
       <link>https://downloads.mariadb.org</link>
       <description>MariaDB 10.8 -- 10.8.8 -- Wed May 10 16:09:56 UTC 2023</description>
@@ -205,26 +235,6 @@
       <dc:date>2023-05-10T16:09:56Z</dc:date>
     </item>
     <item>
-      <title>MariaDB 10.6 -- 10.6.13</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.6 -- 10.6.13 -- Wed May 10 16:09:55 UTC 2023</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Wed, 10 May 2023 16:09:55 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-10T16:09:55Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.9 -- 10.9.6</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.9 -- 10.9.6 -- Wed May 10 16:09:52 UTC 2023</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Wed, 10 May 2023 16:09:52 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-10T16:09:52Z</dc:date>
-    </item>
-    <item>
       <title>MariaDB 10.3 -- 10.3.39</title>
       <link>https://downloads.mariadb.org</link>
       <description>MariaDB 10.3 -- 10.3.39 -- Wed May 10 16:09:40 UTC 2023</description>
@@ -233,16 +243,6 @@
       <pubDate>Wed, 10 May 2023 16:09:40 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-05-10T16:09:40Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.4 -- 10.4.29</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.4 -- 10.4.29 -- Wed May 10 16:09:37 UTC 2023</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Wed, 10 May 2023 16:09:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-10T16:09:37Z</dc:date>
     </item>
     <item>
       <title>Intel Bluetooth Drivers -- 22.220.1</title>
