@@ -1,10 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v20.3.1|[nodejs.org](https://nodejs.org)|Mon Jun 26 20:08:28 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.1|[nodejs.org](https://nodejs.org)|Mon Jun 26 20:08:19 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 22 16:08:09 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 297 - Lockless design|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 12 16:07:42 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.0 to 17.6.6 ~ 2023-06-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 10 00:39:42 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v20.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 08 20:07:42 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:54 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:45 UTC 2023|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 20 08:09:49 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 19 16:08:55 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 19 16:08:50 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:08:51 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:13:58 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
