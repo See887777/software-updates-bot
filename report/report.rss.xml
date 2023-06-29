@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Maven -- 4.0.0-alpha-7</title>
+      <link>https://maven.apache.org/download.cgi</link>
+      <description>Maven -- 4.0.0-alpha-7 -- Thu Jun 29 00:43:46 UTC 2023</description>
+      <category>Java</category>
+      <category>Maven</category>
+      <pubDate>Thu, 29 Jun 2023 00:43:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-06-29T00:43:46Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v20.3.1</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v20.3.1 -- Mon Jun 26 20:08:28 UTC 2023</description>
@@ -214,9 +224,9 @@
       <dc:date>2023-05-11T16:08:56Z</dc:date>
     </item>
     <item>
-      <title>PostgreSQL 14 -- 14.8</title>
+      <title>PostgreSQL 13 -- 13.11</title>
       <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.8 -- Thu May 11 16:08:19 UTC 2023</description>
+      <description>PostgreSQL 13 -- 13.11 -- Thu May 11 16:08:19 UTC 2023</description>
       <category>Database</category>
       <category>PostgreSQL</category>
       <pubDate>Thu, 11 May 2023 16:08:19 GMT</pubDate>
@@ -224,9 +234,9 @@
       <dc:date>2023-05-11T16:08:19Z</dc:date>
     </item>
     <item>
-      <title>PostgreSQL 13 -- 13.11</title>
+      <title>PostgreSQL 14 -- 14.8</title>
       <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.11 -- Thu May 11 16:08:19 UTC 2023</description>
+      <description>PostgreSQL 14 -- 14.8 -- Thu May 11 16:08:19 UTC 2023</description>
       <category>Database</category>
       <category>PostgreSQL</category>
       <pubDate>Thu, 11 May 2023 16:08:19 GMT</pubDate>
@@ -332,9 +342,9 @@
       <dc:date>2023-04-20T16:08:46Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.7+7</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.7+7 -- Thu Apr 20 12:13:09 UTC 2023</description>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -344,9 +354,9 @@
       <dc:date>2023-04-20T12:13:09Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.19+7</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.19+7 -- Thu Apr 20 12:13:09 UTC 2023</description>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.7+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.7+7 -- Thu Apr 20 12:13:09 UTC 2023</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -390,16 +400,6 @@
       <pubDate>Wed, 19 Apr 2023 16:08:50 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-04-19T16:08:50Z</dc:date>
-    </item>
-    <item>
-      <title>Maven -- 4.0.0-alpha-5</title>
-      <link>https://maven.apache.org/download.cgi</link>
-      <description>Maven -- 4.0.0-alpha-5 -- Mon Mar 20 12:13:58 UTC 2023</description>
-      <category>Java</category>
-      <category>Maven</category>
-      <pubDate>Mon, 20 Mar 2023 12:13:58 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-03-20T12:13:58Z</dc:date>
     </item>
     <item>
       <title>Go -- go1.20.1</title>

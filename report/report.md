@@ -40,7 +40,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:39 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
-|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:13:58 UTC 2023|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:43:46 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.3.1|[nodejs.org](https://nodejs.org)|Mon Jun 26 20:08:28 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.1|[nodejs.org](https://nodejs.org)|Mon Jun 26 20:08:19 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
