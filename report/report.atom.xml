@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.2</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-06-30T20:07:47Z</modified>
+    <issued>2023-06-30T20:07:47Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.2 -- Fri Jun 30 20:07:47 UTC 2023</summary>
+    <dc:date>2023-06-30T20:07:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-alpha-7</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -306,18 +318,6 @@
     <issued>2023-05-09T12:51:43Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 22.220.1 -- Tue May 09 12:51:43 UTC 2023</summary>
     <dc:date>2023-05-09T12:51:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.1.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-21T16:09:07Z</modified>
-    <issued>2023-04-21T16:09:07Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.1.1 -- Fri Apr 21 16:09:07 UTC 2023</summary>
-    <dc:date>2023-04-21T16:09:07Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u372-b07</title>

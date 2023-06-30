@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.2</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.2 -- Fri Jun 30 20:07:47 UTC 2023</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 30 Jun 2023 20:07:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-06-30T20:07:47Z</dc:date>
+    </item>
+    <item>
       <title>Maven -- 4.0.0-alpha-7</title>
       <link>https://maven.apache.org/download.cgi</link>
       <description>Maven -- 4.0.0-alpha-7 -- Thu Jun 29 00:43:46 UTC 2023</description>
@@ -282,16 +292,6 @@
       <pubDate>Tue, 09 May 2023 12:51:43 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-05-09T12:51:43Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.1.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.1.1 -- Fri Apr 21 16:09:07 UTC 2023</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 21 Apr 2023 16:09:07 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-04-21T16:09:07Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 linux x64 -- jdk8u372-b07</title>
