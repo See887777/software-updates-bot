@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v20.4.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-05T16:11:04Z</modified>
+    <issued>2023-07-05T16:11:04Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.4.0 -- Wed Jul 05 16:11:04 UTC 2023</summary>
+    <dc:date>2023-07-05T16:11:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.2</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2023-06-29T00:43:46Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-7 -- Thu Jun 29 00:43:46 UTC 2023</summary>
     <dc:date>2023-06-29T00:43:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v20.3.1</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-06-26T20:08:28Z</modified>
-    <issued>2023-06-26T20:08:28Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.3.1 -- Mon Jun 26 20:08:28 UTC 2023</summary>
-    <dc:date>2023-06-26T20:08:28Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS LTS -- v18.16.1</title>

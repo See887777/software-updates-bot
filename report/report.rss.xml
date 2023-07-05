@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v20.4.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v20.4.0 -- Wed Jul 05 16:11:04 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Wed, 05 Jul 2023 16:11:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-07-05T16:11:04Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.2</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.2 -- Fri Jun 30 20:07:47 UTC 2023</description>
@@ -78,15 +87,6 @@
       <pubDate>Thu, 29 Jun 2023 00:43:46 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-06-29T00:43:46Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v20.3.1</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v20.3.1 -- Mon Jun 26 20:08:28 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Mon, 26 Jun 2023 20:08:28 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-06-26T20:08:28Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v18.16.1</title>
