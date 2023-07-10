@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.2.1</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-10T16:10:25Z</modified>
+    <issued>2023-07-10T16:10:25Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.2.1 -- Mon Jul 10 16:10:25 UTC 2023</summary>
+    <dc:date>2023-07-10T16:10:25Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.6.6 to 17.6.8 ~ 2023-07-06</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2023-07-05T16:11:04Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- v20.4.0 -- Wed Jul 05 16:11:04 UTC 2023</summary>
     <dc:date>2023-07-05T16:11:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.2</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-06-30T20:07:47Z</modified>
-    <issued>2023-06-30T20:07:47Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.2 -- Fri Jun 30 20:07:47 UTC 2023</summary>
-    <dc:date>2023-06-30T20:07:47Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-alpha-7</title>
