@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:09:58 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.3 (Sunday July 2, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jul 12 20:08:33 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:10:25 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.6 to 17.6.8 ~ 2023-07-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 06 16:11:04 UTC 2023|
@@ -40,7 +41,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Sat Jan 21 12:12:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Fri Jan 20 16:09:32 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:07:56 UTC 2022|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:13:41 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:40:52 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:08:58 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
