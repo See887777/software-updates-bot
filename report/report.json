@@ -214,8 +214,8 @@
       ],
       "name": "Adoptium jdk8 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u372-b07",
-      "checkDate": "Apr 20, 2023, 8:07:56 PM",
+      "version": "jdk8u382-b05",
+      "checkDate": "Jul 21, 2023, 8:08:18 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -240,8 +240,8 @@
       ],
       "name": "Adoptium jdk8 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u372-b07",
-      "checkDate": "Apr 20, 2023, 8:07:44 PM",
+      "version": "jdk8u382-b05",
+      "checkDate": "Jul 21, 2023, 8:08:05 PM",
       "logo": "ADOPTIUM"
     },
     {

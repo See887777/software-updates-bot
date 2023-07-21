@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 linux x64 -- jdk8u382-b05</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-21T20:08:18Z</modified>
+    <issued>2023-07-21T20:08:18Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u382-b05 -- Fri Jul 21 20:08:18 UTC 2023</summary>
+    <dc:date>2023-07-21T20:08:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u382-b05</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-21T20:08:05Z</modified>
+    <issued>2023-07-21T20:08:05Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u382-b05 -- Fri Jul 21 20:08:05 UTC 2023</summary>
+    <dc:date>2023-07-21T20:08:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.20+8</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -414,30 +438,6 @@
     <issued>2023-05-09T12:51:43Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 22.220.1 -- Tue May 09 12:51:43 UTC 2023</summary>
     <dc:date>2023-05-09T12:51:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 linux x64 -- jdk8u372-b07</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-20T20:07:56Z</modified>
-    <issued>2023-04-20T20:07:56Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u372-b07 -- Thu Apr 20 20:07:56 UTC 2023</summary>
-    <dc:date>2023-04-20T20:07:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u372-b07</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-20T20:07:44Z</modified>
-    <issued>2023-04-20T20:07:44Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u372-b07 -- Thu Apr 20 20:07:44 UTC 2023</summary>
-    <dc:date>2023-04-20T20:07:44Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u372-b07</title>
