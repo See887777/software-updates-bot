@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 mac x64 -- jdk-11.0.20+8</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-21T00:38:44Z</modified>
+    <issued>2023-07-21T00:38:44Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.20+8 -- Fri Jul 21 00:38:44 UTC 2023</summary>
+    <dc:date>2023-07-21T00:38:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS Current -- v20.5.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-21T00:38:11Z</modified>
+    <issued>2023-07-21T00:38:11Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.5.0 -- Fri Jul 21 00:38:11 UTC 2023</summary>
+    <dc:date>2023-07-21T00:38:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 windows x64 -- jdk-11.0.20+8</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -162,18 +186,6 @@
     <issued>2023-07-06T16:11:04Z</issued>
     <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.6.6 to 17.6.8 ~ 2023-07-06 -- Thu Jul 06 16:11:04 UTC 2023</summary>
     <dc:date>2023-07-06T16:11:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v20.4.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-05T16:11:04Z</modified>
-    <issued>2023-07-05T16:11:04Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v20.4.0 -- Wed Jul 05 16:11:04 UTC 2023</summary>
-    <dc:date>2023-07-05T16:11:04Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-alpha-7</title>
@@ -438,18 +450,6 @@
     <issued>2023-04-20T20:07:24Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u372-b07 -- Thu Apr 20 20:07:24 UTC 2023</summary>
     <dc:date>2023-04-20T20:07:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 mac x64 -- jdk-11.0.19+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-04-20T16:08:46Z</modified>
-    <issued>2023-04-20T16:08:46Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.19+7 -- Thu Apr 20 16:08:46 UTC 2023</summary>
-    <dc:date>2023-04-20T16:08:46Z</dc:date>
   </entry>
   <entry>
     <title>Go -- go1.20.1</title>

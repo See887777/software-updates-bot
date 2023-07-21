@@ -32,8 +32,8 @@
       ],
       "name": "Adoptium jdk11 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.19+7",
-      "checkDate": "Apr 20, 2023, 4:08:46 PM",
+      "version": "jdk-11.0.20+8",
+      "checkDate": "Jul 21, 2023, 12:38:44 AM",
       "logo": "ADOPTIUM"
     },
     {
@@ -490,8 +490,8 @@
       ],
       "name": "NodeJS Current",
       "website": "https://nodejs.org",
-      "version": "v20.4.0",
-      "checkDate": "Jul 5, 2023, 4:11:04 PM",
+      "version": "v20.5.0",
+      "checkDate": "Jul 21, 2023, 12:38:11 AM",
       "logo": "NODEJS"
     },
     {
