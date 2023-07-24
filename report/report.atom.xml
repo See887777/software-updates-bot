@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Inkscape -- 1.3</title>
+    <link rel="alternate" href="https://inkscape.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-24T00:38:19Z</modified>
+    <issued>2023-07-24T00:38:19Z</issued>
+    <summary type="text/plain" mode="escaped">Inkscape -- 1.3 -- Mon Jul 24 00:38:19 UTC 2023</summary>
+    <dc:date>2023-07-24T00:38:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u382-b05</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -522,18 +534,6 @@
     <issued>2022-12-22T20:07:56Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.14.1 (December 22, 2022) -- Thu Dec 22 20:07:56 UTC 2022</summary>
     <dc:date>2022-12-22T20:07:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>Inkscape -- 1.2.2</title>
-    <link rel="alternate" href="https://inkscape.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-12-06T00:40:52Z</modified>
-    <issued>2022-12-06T00:40:52Z</issued>
-    <summary type="text/plain" mode="escaped">Inkscape -- 1.2.2 -- Tue Dec 06 00:40:52 UTC 2022</summary>
-    <dc:date>2022-12-06T00:40:52Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.18</title>

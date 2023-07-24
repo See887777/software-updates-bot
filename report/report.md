@@ -22,7 +22,7 @@
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:09:58 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:10:25 UTC 2023|
-|![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:40:52 UTC 2022|
+|![logo](../media/logo/inkscape.png) Inkscape|1.3|[inkscape.org](https://inkscape.org)|Mon Jul 24 00:38:19 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 12:51:43 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
