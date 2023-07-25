@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>VeraCrypt -- Latest BETA Release - 1.26.4 (Monday July 24, 2023)</title>
+    <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-07-25T04:09:04Z</modified>
+    <issued>2023-07-25T04:09:04Z</issued>
+    <summary type="text/plain" mode="escaped">VeraCrypt -- Latest BETA Release - 1.26.4 (Monday July 24, 2023) -- Tue Jul 25 04:09:04 UTC 2023</summary>
+    <dc:date>2023-07-25T04:09:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 298 - De l'IA à toutes les sauces</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -210,18 +222,6 @@
     <issued>2023-07-14T16:09:58Z</issued>
     <summary type="text/plain" mode="escaped">GPG4Win -- 4.2.0 (2023-07-14) -- Fri Jul 14 16:09:58 UTC 2023</summary>
     <dc:date>2023-07-14T16:09:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>VeraCrypt -- Latest BETA Release - 1.26.3 (Sunday July 2, 2023)</title>
-    <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-12T20:08:33Z</modified>
-    <issued>2023-07-12T20:08:33Z</issued>
-    <summary type="text/plain" mode="escaped">VeraCrypt -- Latest BETA Release - 1.26.3 (Sunday July 2, 2023) -- Wed Jul 12 20:08:33 UTC 2023</summary>
-    <dc:date>2023-07-12T20:08:33Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.2.1</title>
