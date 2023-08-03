@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.6.8 to 17.7.0 ~ 2023-08-03</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-03T20:08:03Z</modified>
+    <issued>2023-08-03T20:08:03Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.6.8 to 17.7.0 ~ 2023-08-03 -- Thu Aug 03 20:08:03 UTC 2023</summary>
+    <dc:date>2023-08-03T20:08:03Z</dc:date>
+  </entry>
+  <entry>
     <title>VeraCrypt -- Latest BETA Release - 1.26.4 (Monday July 24, 2023)</title>
     <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
     <author>
@@ -234,18 +246,6 @@
     <issued>2023-07-10T16:10:25Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 8.2.1 -- Mon Jul 10 16:10:25 UTC 2023</summary>
     <dc:date>2023-07-10T16:10:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.6.6 to 17.6.8 ~ 2023-07-06</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-06T16:11:04Z</modified>
-    <issued>2023-07-06T16:11:04Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.6.6 to 17.6.8 ~ 2023-07-06 -- Thu Jul 06 16:11:04 UTC 2023</summary>
-    <dc:date>2023-07-06T16:11:04Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-alpha-7</title>
