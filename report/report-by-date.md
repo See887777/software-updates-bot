@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:41 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:38 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:33 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:20 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.8 to 17.7.0 ~ 2023-08-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Aug 03 20:08:03 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.4 (Monday July 24, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Tue Jul 25 04:09:04 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 298 - De l'IA à toutes les sauces|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jul 24 16:09:25 UTC 2023|
@@ -29,10 +33,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.11.4|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 07 12:13:12 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:09:08 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:08:44 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:56 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:19 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:08:11 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:40 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 12:51:43 UTC 2023|

@@ -60,6 +60,46 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 14 -- 14.9</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.9 -- Thu Aug 10 16:09:41 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 10 Aug 2023 16:09:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-10T16:09:41Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 13 -- 13.12</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.12 -- Thu Aug 10 16:09:38 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 10 Aug 2023 16:09:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-10T16:09:38Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 11 -- 11.21</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 11 -- 11.21 -- Thu Aug 10 16:09:33 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 10 Aug 2023 16:09:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-10T16:09:33Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 12 -- 12.16</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 12 -- 12.16 -- Thu Aug 10 16:09:20 UTC 2023</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 10 Aug 2023 16:09:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-10T16:09:20Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 17.6.8 to 17.7.0 ~ 2023-08-03</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 17.6.8 to 17.7.0 ~ 2023-08-03 -- Thu Aug 03 20:08:03 UTC 2023</description>
@@ -359,46 +399,6 @@
       <pubDate>Thu, 18 May 2023 16:08:44 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-05-18T16:08:44Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 12 -- 12.15</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 12 -- 12.15 -- Thu May 11 16:08:56 UTC 2023</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 11 May 2023 16:08:56 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-11T16:08:56Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.11</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.11 -- Thu May 11 16:08:19 UTC 2023</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 11 May 2023 16:08:19 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-11T16:08:19Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.8</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.8 -- Thu May 11 16:08:19 UTC 2023</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 11 May 2023 16:08:19 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-11T16:08:19Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 11 -- 11.20</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 11 -- 11.20 -- Thu May 11 16:08:11 UTC 2023</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 11 May 2023 16:08:11 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-05-11T16:08:11Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.8 -- 10.8.8</title>
