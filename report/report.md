@@ -33,12 +33,12 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:40 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:45 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:56 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:54 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:21 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:29 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:40 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:39 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:43:46 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.5.0|[nodejs.org](https://nodejs.org)|Fri Jul 21 00:38:11 UTC 2023|

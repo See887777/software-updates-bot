@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:40 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:29 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:21 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:41 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:38 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:33 UTC 2023|
@@ -24,10 +28,6 @@
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:10:25 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:43:46 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:56 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:54 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:45 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:08:39 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 07 12:13:20 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 07 12:13:18 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.4|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 07 12:13:12 UTC 2023|

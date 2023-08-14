@@ -32,6 +32,54 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.6 -- 10.6.15</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-14T20:07:40Z</modified>
+    <issued>2023-08-14T20:07:40Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.15 -- Mon Aug 14 20:07:40 UTC 2023</summary>
+    <dc:date>2023-08-14T20:07:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.5 -- 10.5.22</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-14T20:07:29Z</modified>
+    <issued>2023-08-14T20:07:29Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.22 -- Mon Aug 14 20:07:29 UTC 2023</summary>
+    <dc:date>2023-08-14T20:07:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.9 -- 10.9.8</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-14T20:07:22Z</modified>
+    <issued>2023-08-14T20:07:22Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.9 -- 10.9.8 -- Mon Aug 14 20:07:22 UTC 2023</summary>
+    <dc:date>2023-08-14T20:07:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.4 -- 10.4.31</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-14T20:07:21Z</modified>
+    <issued>2023-08-14T20:07:21Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.31 -- Mon Aug 14 20:07:21 UTC 2023</summary>
+    <dc:date>2023-08-14T20:07:21Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 14 -- 14.9</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -318,54 +366,6 @@
     <issued>2023-06-23T20:08:08Z</issued>
     <summary type="text/plain" mode="escaped">Intel Wi-Fi Networking Drivers -- 22.230.0 -- Fri Jun 23 20:08:08 UTC 2023</summary>
     <dc:date>2023-06-23T20:08:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.21</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-06-07T16:08:56Z</modified>
-    <issued>2023-06-07T16:08:56Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.21 -- Wed Jun 07 16:08:56 UTC 2023</summary>
-    <dc:date>2023-06-07T16:08:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.14</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-06-07T16:08:54Z</modified>
-    <issued>2023-06-07T16:08:54Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.14 -- Wed Jun 07 16:08:54 UTC 2023</summary>
-    <dc:date>2023-06-07T16:08:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.4 -- 10.4.30</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-06-07T16:08:45Z</modified>
-    <issued>2023-06-07T16:08:45Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.30 -- Wed Jun 07 16:08:45 UTC 2023</summary>
-    <dc:date>2023-06-07T16:08:45Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.9 -- 10.9.7</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-06-07T16:08:39Z</modified>
-    <issued>2023-06-07T16:08:39Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.9 -- 10.9.7 -- Wed Jun 07 16:08:39 UTC 2023</summary>
-    <dc:date>2023-06-07T16:08:39Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.11.4</title>
