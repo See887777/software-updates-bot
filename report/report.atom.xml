@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.3</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-17T12:11:37Z</modified>
+    <issued>2023-08-17T12:11:37Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.3 -- Thu Aug 17 12:11:37 UTC 2023</summary>
+    <dc:date>2023-08-17T12:11:37Z</dc:date>
+  </entry>
+  <entry>
     <title>MariaDB 10.6 -- 10.6.15</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -332,18 +344,6 @@
     <dc:date>2023-07-14T16:09:58Z</dc:date>
   </entry>
   <entry>
-    <title>Gradle -- 8.2.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-10T16:10:25Z</modified>
-    <issued>2023-07-10T16:10:25Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.2.1 -- Mon Jul 10 16:10:25 UTC 2023</summary>
-    <dc:date>2023-07-10T16:10:25Z</dc:date>
-  </entry>
-  <entry>
     <title>Maven -- 4.0.0-alpha-7</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -596,18 +596,6 @@
     <dc:date>2022-08-26T23:00:11Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-26T17:00:12Z</modified>
-    <issued>2022-08-26T17:00:12Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
-    <dc:date>2022-08-26T17:00:12Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
     <author>
@@ -617,6 +605,18 @@
     <modified>2022-08-26T17:00:12Z</modified>
     <issued>2022-08-26T17:00:12Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
+    <dc:date>2022-08-26T17:00:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-26T17:00:12Z</modified>
+    <issued>2022-08-26T17:00:12Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
     <dc:date>2022-08-26T17:00:12Z</dc:date>
   </entry>
   <entry>
