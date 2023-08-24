@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|3.1.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 24 12:12:28 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.3|[gradle.org](https://gradle.org/releases/)|Thu Aug 17 12:11:37 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:40 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:29 UTC 2023|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 21 00:38:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.5.0|[nodejs.org](https://nodejs.org)|Fri Jul 21 00:38:11 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 20:07:23 UTC 2023|
-|![logo](../media/logo/springboot.png) Spring Boot|3.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 20 16:08:28 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:13:22 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:13:19 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:13:06 UTC 2023|
