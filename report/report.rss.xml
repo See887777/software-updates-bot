@@ -60,6 +60,66 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 29 Aug 2023 16:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-29T16:09:14Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 29 Aug 2023 16:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-29T16:09:14Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 29 Aug 2023 16:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-29T16:09:14Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 linux x64 -- jdk-17.0.8.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 linux x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:08:58 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 29 Aug 2023 16:08:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-29T16:08:58Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.20.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.20.1+1 -- Tue Aug 29 16:08:45 UTC 2023</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 29 Aug 2023 16:08:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-08-29T16:08:45Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 17.7.0 to 17.7.5 ~ 2023-08-25</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 17.7.0 to 17.7.5 ~ 2023-08-25 -- Fri Aug 25 16:08:26 UTC 2023</description>
@@ -290,66 +350,6 @@
       <pubDate>Fri, 21 Jul 2023 00:38:11 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-07-21T00:38:11Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.20+8</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.20+8 -- Thu Jul 20 20:07:23 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 20 Jul 2023 20:07:23 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-07-20T20:07:23Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 windows x64 -- jdk-17.0.8+7</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 windows x64 -- jdk-17.0.8+7 -- Thu Jul 20 12:13:22 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 20 Jul 2023 12:13:22 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-07-20T12:13:22Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 linux x64 -- jdk-17.0.8+7</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 linux x64 -- jdk-17.0.8+7 -- Thu Jul 20 12:13:19 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 20 Jul 2023 12:13:19 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-07-20T12:13:19Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.8+7</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.8+7 -- Thu Jul 20 12:13:06 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 20 Jul 2023 12:13:06 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-07-20T12:13:06Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 linux x64 -- jdk-11.0.20+8</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 linux x64 -- jdk-11.0.20+8 -- Thu Jul 20 12:13:05 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 20 Jul 2023 12:13:05 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-07-20T12:13:05Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v18.17.0</title>

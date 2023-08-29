@@ -19,8 +19,8 @@
       ],
       "name": "Adoptium jdk11 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.20+8",
-      "checkDate": "Jul 20, 2023, 12:13:05 PM",
+      "version": "jdk-11.0.20.1+1",
+      "checkDate": "Aug 29, 2023, 4:09:14 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -45,8 +45,8 @@
       ],
       "name": "Adoptium jdk11 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.20+8",
-      "checkDate": "Jul 20, 2023, 8:07:23 PM",
+      "version": "jdk-11.0.20.1+1",
+      "checkDate": "Aug 29, 2023, 4:08:45 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -97,8 +97,8 @@
       ],
       "name": "Adoptium jdk17 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.8+7",
-      "checkDate": "Jul 20, 2023, 12:13:19 PM",
+      "version": "jdk-17.0.8.1+1",
+      "checkDate": "Aug 29, 2023, 4:08:58 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -110,8 +110,8 @@
       ],
       "name": "Adoptium jdk17 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.8+7",
-      "checkDate": "Jul 20, 2023, 12:13:06 PM",
+      "version": "jdk-17.0.8.1+1",
+      "checkDate": "Aug 29, 2023, 4:09:14 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -123,8 +123,8 @@
       ],
       "name": "Adoptium jdk17 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.8+7",
-      "checkDate": "Jul 20, 2023, 12:13:22 PM",
+      "version": "jdk-17.0.8.1+1",
+      "checkDate": "Aug 29, 2023, 4:09:14 PM",
       "logo": "ADOPTIUM"
     },
     {

@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:08:58 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:08:45 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.0 to 17.7.5 ~ 2023-08-25|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 25 16:08:26 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.2 (August 24, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Aug 24 20:16:00 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 24 20:15:58 UTC 2023|
@@ -23,11 +28,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 21 20:08:05 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 21 00:38:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.5.0|[nodejs.org](https://nodejs.org)|Fri Jul 21 00:38:11 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 20:07:23 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:13:22 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:13:19 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:13:06 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 12:13:05 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.17.0|[nodejs.org](https://nodejs.org)|Tue Jul 18 20:07:50 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:09:58 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:43:46 UTC 2023|

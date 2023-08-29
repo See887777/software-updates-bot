@@ -32,6 +32,66 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-29T16:09:14Z</modified>
+    <issued>2023-08-29T16:09:14Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1 -- Tue Aug 29 16:09:14 UTC 2023</summary>
+    <dc:date>2023-08-29T16:09:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-29T16:09:14Z</modified>
+    <issued>2023-08-29T16:09:14Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</summary>
+    <dc:date>2023-08-29T16:09:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-29T16:09:14Z</modified>
+    <issued>2023-08-29T16:09:14Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</summary>
+    <dc:date>2023-08-29T16:09:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 linux x64 -- jdk-17.0.8.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-29T16:08:58Z</modified>
+    <issued>2023-08-29T16:08:58Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:08:58 UTC 2023</summary>
+    <dc:date>2023-08-29T16:08:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.20.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-08-29T16:08:45Z</modified>
+    <issued>2023-08-29T16:08:45Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.20.1+1 -- Tue Aug 29 16:08:45 UTC 2023</summary>
+    <dc:date>2023-08-29T16:08:45Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.7.0 to 17.7.5 ~ 2023-08-25</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -306,66 +366,6 @@
     <issued>2023-07-21T00:38:11Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- v20.5.0 -- Fri Jul 21 00:38:11 UTC 2023</summary>
     <dc:date>2023-07-21T00:38:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.20+8</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-20T20:07:23Z</modified>
-    <issued>2023-07-20T20:07:23Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.20+8 -- Thu Jul 20 20:07:23 UTC 2023</summary>
-    <dc:date>2023-07-20T20:07:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 windows x64 -- jdk-17.0.8+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-20T12:13:22Z</modified>
-    <issued>2023-07-20T12:13:22Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.8+7 -- Thu Jul 20 12:13:22 UTC 2023</summary>
-    <dc:date>2023-07-20T12:13:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 linux x64 -- jdk-17.0.8+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-20T12:13:19Z</modified>
-    <issued>2023-07-20T12:13:19Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.8+7 -- Thu Jul 20 12:13:19 UTC 2023</summary>
-    <dc:date>2023-07-20T12:13:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 mac x64 -- jdk-17.0.8+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-20T12:13:06Z</modified>
-    <issued>2023-07-20T12:13:06Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.8+7 -- Thu Jul 20 12:13:06 UTC 2023</summary>
-    <dc:date>2023-07-20T12:13:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 linux x64 -- jdk-11.0.20+8</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-20T12:13:05Z</modified>
-    <issued>2023-07-20T12:13:05Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.20+8 -- Thu Jul 20 12:13:05 UTC 2023</summary>
-    <dc:date>2023-07-20T12:13:05Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS LTS -- v18.17.0</title>
