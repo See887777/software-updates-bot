@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 299 - Katia est dans la place !</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 299 - Katia est dans la place ! -- Mon Sep 11 12:12:55 UTC 2023</description>
+      <category>Podcast</category>
+      <pubDate>Mon, 11 Sep 2023 12:12:55 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-09-11T12:12:55Z</dc:date>
+    </item>
+    <item>
       <title>VeraCrypt -- Latest BETA Release - 1.26.5 (Tuesday August 15, 2023)</title>
       <link>https://www.veracrypt.fr/en/Downloads.html</link>
       <description>VeraCrypt -- Latest BETA Release - 1.26.5 (Tuesday August 15, 2023) -- Sat Sep 02 00:29:31 UTC 2023</description>
@@ -286,15 +295,6 @@
       <pubDate>Thu, 10 Aug 2023 16:09:20 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-08-10T16:09:20Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 298 - De l'IA à toutes les sauces</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 298 - De l'IA à toutes les sauces -- Mon Jul 24 16:09:25 UTC 2023</description>
-      <category>Podcast</category>
-      <pubDate>Mon, 24 Jul 2023 16:09:25 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-07-24T16:09:25Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u382-b05</title>
