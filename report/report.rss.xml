@@ -100,9 +100,9 @@
       <dc:date>2023-08-30T16:08:20Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -124,9 +124,9 @@
       <dc:date>2023-08-29T16:09:14Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
+      <title>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 linux x64 -- jdk-11.0.20.1+1 -- Tue Aug 29 16:09:14 UTC 2023</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -547,9 +547,9 @@
       <dc:date>2022-08-26T23:00:11Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -559,9 +559,9 @@
       <dc:date>2022-08-26T17:00:12Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
