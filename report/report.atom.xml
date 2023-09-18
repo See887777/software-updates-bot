@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-09-18T20:07:38Z</modified>
+    <issued>2023-09-18T20:07:38Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin -- Mon Sep 18 20:07:38 UTC 2023</summary>
+    <dc:date>2023-09-18T20:07:38Z</dc:date>
+  </entry>
+  <entry>
     <title>7+ Taskbar Tweaker -- v5.14.3 (September 15, 2023)</title>
     <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2023-09-11T16:08:39Z</issued>
     <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.7.5 to 17.8.0 ~ 2023-09-11 -- Mon Sep 11 16:08:39 UTC 2023</summary>
     <dc:date>2023-09-11T16:08:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 299 - Katia est dans la place !</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-09-11T12:12:55Z</modified>
-    <issued>2023-09-11T12:12:55Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 299 - Katia est dans la place ! -- Mon Sep 11 12:12:55 UTC 2023</summary>
-    <dc:date>2023-09-11T12:12:55Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest BETA Release - 1.26.5 (Tuesday August 15, 2023)</title>
