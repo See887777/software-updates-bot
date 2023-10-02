@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 source| 3.12.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 02 16:09:38 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 windows| 3.12.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 02 16:09:38 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 mac| 3.12.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 02 16:08:50 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:32:21 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 21 16:08:53 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 18 20:07:38 UTC 2023|
@@ -11,9 +14,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:08:58 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:08:45 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 windows| 3.11.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 24 20:15:58 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 source| 3.11.5|[www.python.org](https://www.python.org/downloads/source/)|Thu Aug 24 20:15:56 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 mac| 3.11.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Aug 24 20:15:55 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.3|[gradle.org](https://gradle.org/releases/)|Thu Aug 17 12:11:37 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:40 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:29 UTC 2023|
