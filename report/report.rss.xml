@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.4</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.4 -- Thu Oct 05 04:08:55 UTC 2023</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Thu, 05 Oct 2023 04:08:55 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-10-05T04:08:55Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.12.0</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.12.0 -- Mon Oct 02 16:09:38 UTC 2023</description>
@@ -205,16 +215,6 @@
       <pubDate>Tue, 29 Aug 2023 16:08:45 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-08-29T16:08:45Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.3</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.3 -- Thu Aug 17 12:11:37 UTC 2023</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Thu, 17 Aug 2023 12:11:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-08-17T12:11:37Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.6 -- 10.6.15</title>
