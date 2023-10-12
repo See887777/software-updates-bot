@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>VLC -- 3.0.19</title>
+    <link rel="alternate" href="https://www.videolan.org/vlc/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-12T12:13:51Z</modified>
+    <issued>2023-10-12T12:13:51Z</issued>
+    <summary type="text/plain" mode="escaped">VLC -- 3.0.19 -- Thu Oct 12 12:13:51 UTC 2023</summary>
+    <dc:date>2023-10-12T12:13:51Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.8.0 to 17.8.5 ~ 2023-10-09</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -534,18 +546,6 @@
     <issued>2023-01-20T16:09:32Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk19 windows x64 -- jdk-19.0.2+7 -- Fri Jan 20 16:09:32 UTC 2023</summary>
     <dc:date>2023-01-20T16:09:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>VLC -- 3.0.18</title>
-    <link rel="alternate" href="https://www.videolan.org/vlc/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-11-29T20:08:58Z</modified>
-    <issued>2022-11-29T20:08:58Z</issued>
-    <summary type="text/plain" mode="escaped">VLC -- 3.0.18 -- Tue Nov 29 20:08:58 UTC 2022</summary>
-    <dc:date>2022-11-29T20:08:58Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 10 -- 10.23</title>

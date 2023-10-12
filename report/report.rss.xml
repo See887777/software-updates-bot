@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>VLC -- 3.0.19</title>
+      <link>https://www.videolan.org/vlc/</link>
+      <description>VLC -- 3.0.19 -- Thu Oct 12 12:13:51 UTC 2023</description>
+      <category>Video player</category>
+      <category>VLC</category>
+      <pubDate>Thu, 12 Oct 2023 12:13:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-10-12T12:13:51Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 17.8.0 to 17.8.5 ~ 2023-10-09</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 17.8.0 to 17.8.5 ~ 2023-10-09 -- Mon Oct 09 20:05:15 UTC 2023</description>
@@ -493,16 +503,6 @@
       <pubDate>Fri, 20 Jan 2023 16:09:32 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-01-20T16:09:32Z</dc:date>
-    </item>
-    <item>
-      <title>VLC -- 3.0.18</title>
-      <link>https://www.videolan.org/vlc/</link>
-      <description>VLC -- 3.0.18 -- Tue Nov 29 20:08:58 UTC 2022</description>
-      <category>Video player</category>
-      <category>VLC</category>
-      <pubDate>Tue, 29 Nov 2022 20:08:58 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2022-11-29T20:08:58Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 10 -- 10.23</title>
