@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 mac x64 -- jdk-11.0.21+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-18T16:09:43Z</modified>
+    <issued>2023-10-18T16:09:43Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.21+9 -- Wed Oct 18 16:09:43 UTC 2023</summary>
+    <dc:date>2023-10-18T16:09:43Z</dc:date>
+  </entry>
+  <entry>
     <title>VLC -- 3.0.19</title>
     <link rel="alternate" href="https://www.videolan.org/vlc/" />
     <author>
@@ -150,18 +162,6 @@
     <issued>2023-09-15T16:08:15Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.14.3 (September 15, 2023) -- Fri Sep 15 16:08:15 UTC 2023</summary>
     <dc:date>2023-09-15T16:08:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 mac x64 -- jdk-11.0.20.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-08-30T16:08:20Z</modified>
-    <issued>2023-08-30T16:08:20Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.20.1+1 -- Wed Aug 30 16:08:20 UTC 2023</summary>
-    <dc:date>2023-08-30T16:08:20Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1</title>

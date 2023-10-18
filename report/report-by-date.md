@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:09:43 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.19|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Oct 12 12:13:51 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.8.0 to 17.8.5 ~ 2023-10-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Oct 09 20:05:15 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.4|[gradle.org](https://gradle.org/releases/)|Thu Oct 05 04:08:55 UTC 2023|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 21 16:08:53 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 18 20:07:38 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.3 (September 15, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Sep 15 16:08:15 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Aug 30 16:08:20 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
