@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.1.5.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-19T16:09:33Z</modified>
+    <issued>2023-10-19T16:09:33Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.1.5.RELEASE -- Thu Oct 19 16:09:33 UTC 2023</summary>
+    <dc:date>2023-10-19T16:09:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.21+9</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -150,18 +162,6 @@
     <issued>2023-10-02T00:32:21Z</issued>
     <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.7 (Sunday October 1st, 2023) -- Mon Oct 02 00:32:21 UTC 2023</summary>
     <dc:date>2023-10-02T00:32:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.1.4.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-09-21T16:08:53Z</modified>
-    <issued>2023-09-21T16:08:53Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.1.4.RELEASE -- Thu Sep 21 16:08:53 UTC 2023</summary>
-    <dc:date>2023-09-21T16:08:53Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin</title>
