@@ -240,8 +240,8 @@
       ],
       "name": "Adoptium jdk8 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u382-b05",
-      "checkDate": "Jul 21, 2023, 8:08:05 PM",
+      "version": "jdk8u392-b08",
+      "checkDate": "Oct 20, 2023, 12:12:48 PM",
       "logo": "ADOPTIUM"
     },
     {
