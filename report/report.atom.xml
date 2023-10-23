@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 mac x64 -- jdk-17.0.9+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-23T16:09:13Z</modified>
+    <issued>2023-10-23T16:09:13Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.9+9 -- Mon Oct 23 16:09:13 UTC 2023</summary>
+    <dc:date>2023-10-23T16:09:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 linux x64 -- jdk8u392-b08</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-23T16:09:06Z</modified>
+    <issued>2023-10-23T16:09:06Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u392-b08 -- Mon Oct 23 16:09:06 UTC 2023</summary>
+    <dc:date>2023-10-23T16:09:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 301 - Minoritaire ou majoritaire, là est la question!</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-23T16:09:01Z</modified>
+    <issued>2023-10-23T16:09:01Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 301 - Minoritaire ou majoritaire, là est la question! -- Mon Oct 23 16:09:01 UTC 2023</summary>
+    <dc:date>2023-10-23T16:09:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 windows x64 -- jdk8u392-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -188,18 +224,6 @@
     <dc:date>2023-10-02T00:32:21Z</dc:date>
   </entry>
   <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-09-18T20:07:38Z</modified>
-    <issued>2023-09-18T20:07:38Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin -- Mon Sep 18 20:07:38 UTC 2023</summary>
-    <dc:date>2023-09-18T20:07:38Z</dc:date>
-  </entry>
-  <entry>
     <title>7+ Taskbar Tweaker -- v5.14.3 (September 15, 2023)</title>
     <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
     <author>
@@ -210,18 +234,6 @@
     <issued>2023-09-15T16:08:15Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.14.3 (September 15, 2023) -- Fri Sep 15 16:08:15 UTC 2023</summary>
     <dc:date>2023-09-15T16:08:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-08-29T16:09:14Z</modified>
-    <issued>2023-08-29T16:09:14Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</summary>
-    <dc:date>2023-08-29T16:09:14Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1</title>
@@ -354,18 +366,6 @@
     <issued>2023-07-24T00:38:19Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.3 -- Mon Jul 24 00:38:19 UTC 2023</summary>
     <dc:date>2023-07-24T00:38:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 linux x64 -- jdk8u382-b05</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-07-21T20:08:18Z</modified>
-    <issued>2023-07-21T20:08:18Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u382-b05 -- Fri Jul 21 20:08:18 UTC 2023</summary>
-    <dc:date>2023-07-21T20:08:18Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS Current -- v20.5.0</title>
