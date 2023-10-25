@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Maven -- 4.0.0-alpha-8</title>
+      <link>https://maven.apache.org/download.cgi</link>
+      <description>Maven -- 4.0.0-alpha-8 -- Wed Oct 25 12:13:16 UTC 2023</description>
+      <category>Java</category>
+      <category>Maven</category>
+      <pubDate>Wed, 25 Oct 2023 12:13:16 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-10-25T12:13:16Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk17 mac x64 -- jdk-17.0.9+9</title>
       <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk17 mac x64 -- jdk-17.0.9+9 -- Mon Oct 23 16:09:13 UTC 2023</description>
@@ -379,16 +389,6 @@
       <pubDate>Fri, 14 Jul 2023 16:09:58 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-07-14T16:09:58Z</dc:date>
-    </item>
-    <item>
-      <title>Maven -- 4.0.0-alpha-7</title>
-      <link>https://maven.apache.org/download.cgi</link>
-      <description>Maven -- 4.0.0-alpha-7 -- Thu Jun 29 00:43:46 UTC 2023</description>
-      <category>Java</category>
-      <category>Maven</category>
-      <pubDate>Thu, 29 Jun 2023 00:43:46 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-06-29T00:43:46Z</dc:date>
     </item>
     <item>
       <title>Intel Wi-Fi Networking Drivers -- 22.230.0</title>
