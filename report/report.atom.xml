@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 windows x64 -- jdk-17.0.9+9.1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-10-27T16:08:48Z</modified>
+    <issued>2023-10-27T16:08:48Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.9+9.1 -- Fri Oct 27 16:08:48 UTC 2023</summary>
+    <dc:date>2023-10-27T16:08:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u392-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -258,18 +270,6 @@
     <issued>2023-09-15T16:08:15Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.14.3 (September 15, 2023) -- Fri Sep 15 16:08:15 UTC 2023</summary>
     <dc:date>2023-09-15T16:08:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-08-29T16:09:14Z</modified>
-    <issued>2023-08-29T16:09:14Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.8.1+1 -- Tue Aug 29 16:09:14 UTC 2023</summary>
-    <dc:date>2023-08-29T16:09:14Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.6 -- 10.6.15</title>

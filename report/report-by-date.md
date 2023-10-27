@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:08:48 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:09:47 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-8|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 25 12:13:16 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.9+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 23 16:09:13 UTC 2023|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 02 16:08:50 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:32:21 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.3 (September 15, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Sep 15 16:08:15 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:09:14 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:40 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:29 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
