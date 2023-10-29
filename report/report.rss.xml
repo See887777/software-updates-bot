@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 17.8.5 to 17.9.0 ~ 2023-10-29</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 17.8.5 to 17.9.0 ~ 2023-10-29 -- Sun Oct 29 20:06:58 UTC 2023</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Sun, 29 Oct 2023 20:06:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-10-29T20:06:58Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk17 windows x64 -- jdk-17.0.9+9.1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk17 windows x64 -- jdk-17.0.9+9.1 -- Fri Oct 27 16:08:48 UTC 2023</description>
@@ -206,16 +216,6 @@
       <pubDate>Thu, 12 Oct 2023 12:13:51 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-10-12T12:13:51Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 17.8.0 to 17.8.5 ~ 2023-10-09</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 17.8.0 to 17.8.5 ~ 2023-10-09 -- Mon Oct 09 20:05:15 UTC 2023</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Mon, 09 Oct 2023 20:05:15 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-10-09T20:05:15Z</dc:date>
     </item>
     <item>
       <title>Gradle -- 8.4</title>
