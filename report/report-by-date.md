@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v21.1.0|[nodejs.org](https://nodejs.org)|Tue Nov 07 20:07:36 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v20.9.0|[nodejs.org](https://nodejs.org)|Tue Nov 07 20:07:27 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:32:10 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.8.5 to 17.9.0 ~ 2023-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 29 20:06:58 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:08:48 UTC 2023|
@@ -29,8 +31,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:33 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:20 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3|[inkscape.org](https://inkscape.org)|Mon Jul 24 00:38:19 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v20.5.0|[nodejs.org](https://nodejs.org)|Fri Jul 21 00:38:11 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.17.0|[nodejs.org](https://nodejs.org)|Tue Jul 18 20:07:50 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:09:58 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:09:08 UTC 2023|
