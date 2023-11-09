@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:09:37 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:09:03 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:51 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15 (November 9, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Nov 09 12:12:11 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.0 to 17.9.3 ~ 2023-11-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Nov 09 00:32:11 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.1.0|[nodejs.org](https://nodejs.org)|Tue Nov 07 20:07:36 UTC 2023|
@@ -26,10 +30,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:29 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:21 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:41 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:38 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:33 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:09:20 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3|[inkscape.org](https://inkscape.org)|Mon Jul 24 00:38:19 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:09:58 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|

@@ -522,8 +522,8 @@
       ],
       "name": "PostgreSQL 11",
       "website": "https://www.postgresql.org/download/",
-      "version": "11.21",
-      "checkDate": "Aug 10, 2023, 4:09:33 PM",
+      "version": "11.22",
+      "checkDate": "Nov 9, 2023, 4:08:52 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -533,8 +533,8 @@
       ],
       "name": "PostgreSQL 12",
       "website": "https://www.postgresql.org/download/",
-      "version": "12.16",
-      "checkDate": "Aug 10, 2023, 4:09:20 PM",
+      "version": "12.17",
+      "checkDate": "Nov 9, 2023, 4:08:51 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -544,8 +544,8 @@
       ],
       "name": "PostgreSQL 13",
       "website": "https://www.postgresql.org/download/",
-      "version": "13.12",
-      "checkDate": "Aug 10, 2023, 4:09:38 PM",
+      "version": "13.13",
+      "checkDate": "Nov 9, 2023, 4:09:03 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -555,8 +555,8 @@
       ],
       "name": "PostgreSQL 14",
       "website": "https://www.postgresql.org/download/",
-      "version": "14.9",
-      "checkDate": "Aug 10, 2023, 4:09:41 PM",
+      "version": "14.10",
+      "checkDate": "Nov 9, 2023, 4:09:37 PM",
       "logo": "POSTGRESQL"
     },
     {
