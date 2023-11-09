@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 17.9.0 to 17.9.3 ~ 2023-11-08</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 17.9.0 to 17.9.3 ~ 2023-11-08 -- Thu Nov 09 00:32:11 UTC 2023</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Thu, 09 Nov 2023 00:32:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-11-09T00:32:11Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v21.1.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v21.1.0 -- Tue Nov 07 20:07:36 UTC 2023</description>
@@ -86,16 +96,6 @@
       <pubDate>Thu, 02 Nov 2023 00:32:10 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-02T00:32:10Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 17.8.5 to 17.9.0 ~ 2023-10-29</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 17.8.5 to 17.9.0 ~ 2023-10-29 -- Sun Oct 29 20:06:58 UTC 2023</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Sun, 29 Oct 2023 20:06:58 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-10-29T20:06:58Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk17 windows x64 -- jdk-17.0.9+9.1</title>

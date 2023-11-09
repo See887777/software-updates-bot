@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.9.0 to 17.9.3 ~ 2023-11-08</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-11-09T00:32:11Z</modified>
+    <issued>2023-11-09T00:32:11Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.9.0 to 17.9.3 ~ 2023-11-08 -- Thu Nov 09 00:32:11 UTC 2023</summary>
+    <dc:date>2023-11-09T00:32:11Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v21.1.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2023-11-02T00:32:10Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.20 -- Thu Nov 02 00:32:10 UTC 2023</summary>
     <dc:date>2023-11-02T00:32:10Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.8.5 to 17.9.0 ~ 2023-10-29</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-10-29T20:06:58Z</modified>
-    <issued>2023-10-29T20:06:58Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.8.5 to 17.9.0 ~ 2023-10-29 -- Sun Oct 29 20:06:58 UTC 2023</summary>
-    <dc:date>2023-10-29T20:06:58Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.9+9.1</title>
