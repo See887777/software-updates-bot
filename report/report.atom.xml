@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.6 -- 10.6.16</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-11-13T12:13:29Z</modified>
+    <issued>2023-11-13T12:13:29Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.16 -- Mon Nov 13 12:13:29 UTC 2023</summary>
+    <dc:date>2023-11-13T12:13:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.4 -- 10.4.32</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-11-13T12:13:12Z</modified>
+    <issued>2023-11-13T12:13:12Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.32 -- Mon Nov 13 12:13:12 UTC 2023</summary>
+    <dc:date>2023-11-13T12:13:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.5 -- 10.5.23</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-11-13T12:13:04Z</modified>
+    <issued>2023-11-13T12:13:04Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.23 -- Mon Nov 13 12:13:04 UTC 2023</summary>
+    <dc:date>2023-11-13T12:13:04Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 17.9.0 to 17.9.4 ~ 2023-11-09</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -344,30 +380,6 @@
     <dc:date>2023-10-02T00:32:21Z</dc:date>
   </entry>
   <entry>
-    <title>MariaDB 10.6 -- 10.6.15</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-08-14T20:07:40Z</modified>
-    <issued>2023-08-14T20:07:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.15 -- Mon Aug 14 20:07:40 UTC 2023</summary>
-    <dc:date>2023-08-14T20:07:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.22</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-08-14T20:07:29Z</modified>
-    <issued>2023-08-14T20:07:29Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.22 -- Mon Aug 14 20:07:29 UTC 2023</summary>
-    <dc:date>2023-08-14T20:07:29Z</dc:date>
-  </entry>
-  <entry>
     <title>MariaDB 10.9 -- 10.9.8</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -378,18 +390,6 @@
     <issued>2023-08-14T20:07:22Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.9 -- 10.9.8 -- Mon Aug 14 20:07:22 UTC 2023</summary>
     <dc:date>2023-08-14T20:07:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.4 -- 10.4.31</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-08-14T20:07:21Z</modified>
-    <issued>2023-08-14T20:07:21Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.31 -- Mon Aug 14 20:07:21 UTC 2023</summary>
-    <dc:date>2023-08-14T20:07:21Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.3</title>
