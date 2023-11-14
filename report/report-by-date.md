@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v21.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 14 20:06:43 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:13:29 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:13:12 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:13:04 UTC 2023|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:51 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15 (November 9, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Nov 09 12:12:11 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v21.1.0|[nodejs.org](https://nodejs.org)|Tue Nov 07 20:07:36 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.9.0|[nodejs.org](https://nodejs.org)|Tue Nov 07 20:07:27 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:32:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:08:48 UTC 2023|
