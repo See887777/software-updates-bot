@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2023</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-11-15T12:13:18Z</modified>
+    <issued>2023-11-15T12:13:18Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Nov 2023 -- Wed Nov 15 12:13:18 UTC 2023</summary>
+    <dc:date>2023-11-15T12:13:18Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v21.2.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -438,18 +450,6 @@
     <issued>2023-05-25T16:09:08Z</issued>
     <summary type="text/plain" mode="escaped">ThrottleStop -- 9.6 -- Thu May 25 16:09:08 UTC 2023</summary>
     <dc:date>2023-05-25T16:09:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- May 2023</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-05-18T16:08:44Z</modified>
-    <issued>2023-05-18T16:08:44Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- May 2023 -- Thu May 18 16:08:44 UTC 2023</summary>
-    <dc:date>2023-05-18T16:08:44Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.8 -- 10.8.8</title>
