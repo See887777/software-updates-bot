@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 302 - Amour, Gloire et OpenAI|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 27 20:08:13 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 23 16:09:19 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.10.0|[nodejs.org](https://nodejs.org)|Wed Nov 22 20:08:49 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.1|[inkscape.org](https://inkscape.org)|Sun Nov 19 00:35:57 UTC 2023|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-8|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 25 12:13:16 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.9+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 23 16:09:13 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 23 16:09:06 UTC 2023|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 301 - Minoritaire ou majoritaire, là est la question!|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 23 16:09:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 20 12:12:48 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.9+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Oct 19 20:08:19 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:31:55 UTC 2023|

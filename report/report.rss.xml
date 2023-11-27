@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 302 - Amour, Gloire et OpenAI</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 302 - Amour, Gloire et OpenAI -- Mon Nov 27 20:08:13 UTC 2023</description>
+      <category>Podcast</category>
+      <pubDate>Mon, 27 Nov 2023 20:08:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-11-27T20:08:13Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.2.0.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.2.0.RELEASE -- Thu Nov 23 16:09:19 UTC 2023</description>
@@ -264,15 +273,6 @@
       <pubDate>Mon, 23 Oct 2023 16:09:06 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-10-23T16:09:06Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 301 - Minoritaire ou majoritaire, là est la question!</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 301 - Minoritaire ou majoritaire, là est la question! -- Mon Oct 23 16:09:01 UTC 2023</description>
-      <category>Podcast</category>
-      <pubDate>Mon, 23 Oct 2023 16:09:01 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-10-23T16:09:01Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u392-b08</title>
