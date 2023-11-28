@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:33:16 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 302 - Amour, Gloire et OpenAI|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 27 20:08:13 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 23 16:09:19 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.10.0|[nodejs.org](https://nodejs.org)|Wed Nov 22 20:08:49 UTC 2023|
-|![logo](../media/logo/inkscape.png) Inkscape|1.3.1|[inkscape.org](https://inkscape.org)|Sun Nov 19 00:35:57 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:13:18 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 14 20:06:43 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:13:29 UTC 2023|
