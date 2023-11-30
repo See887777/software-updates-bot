@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v21.3.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v21.3.0 -- Thu Nov 30 20:07:48 UTC 2023</description>
+      <category>NodeJS</category>
+      <pubDate>Thu, 30 Nov 2023 20:07:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-11-30T20:07:48Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.5</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.5 -- Thu Nov 30 00:33:34 UTC 2023</description>
@@ -117,15 +126,6 @@
       <pubDate>Wed, 15 Nov 2023 12:13:18 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-15T12:13:18Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v21.2.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v21.2.0 -- Tue Nov 14 20:06:43 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Tue, 14 Nov 2023 20:06:43 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-11-14T20:06:43Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.6 -- 10.6.16</title>
