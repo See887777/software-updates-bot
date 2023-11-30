@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:33:34 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:33:16 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 302 - Amour, Gloire et OpenAI|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 27 20:08:13 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 23 16:09:19 UTC 2023|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:31:55 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:31:35 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:09:43 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.4|[gradle.org](https://gradle.org/releases/)|Thu Oct 05 04:08:55 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 02 16:09:38 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 02 16:09:38 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 02 16:08:50 UTC 2023|
