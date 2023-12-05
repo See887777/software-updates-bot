@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v21.4.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-12-05T12:12:56Z</modified>
+    <issued>2023-12-05T12:12:56Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v21.4.0 -- Tue Dec 05 12:12:56 UTC 2023</summary>
+    <dc:date>2023-12-05T12:12:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 303 - Interview sur Vert.x 4.5 avec Julien Viet</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -42,18 +54,6 @@
     <issued>2023-12-04T20:07:58Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 303 - Interview sur Vert.x 4.5 avec Julien Viet -- Mon Dec 04 20:07:58 UTC 2023</summary>
     <dc:date>2023-12-04T20:07:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v21.3.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-11-30T20:07:48Z</modified>
-    <issued>2023-11-30T20:07:48Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v21.3.0 -- Thu Nov 30 20:07:48 UTC 2023</summary>
-    <dc:date>2023-11-30T20:07:48Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.5</title>
