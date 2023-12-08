@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.12.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-12-08T04:09:41Z</modified>
+    <issued>2023-12-08T04:09:41Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.12.1 -- Fri Dec 08 04:09:41 UTC 2023</summary>
+    <dc:date>2023-12-08T04:09:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 source --  3.12.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-12-08T04:09:36Z</modified>
+    <issued>2023-12-08T04:09:36Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.12.1 -- Fri Dec 08 04:09:36 UTC 2023</summary>
+    <dc:date>2023-12-08T04:09:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 mac --  3.12.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-12-08T04:09:06Z</modified>
+    <issued>2023-12-08T04:09:06Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.12.1 -- Fri Dec 08 04:09:06 UTC 2023</summary>
+    <dc:date>2023-12-08T04:09:06Z</dc:date>
+  </entry>
+  <entry>
     <title>NodeJS Current -- v21.4.0</title>
     <link rel="alternate" href="https://nodejs.org" />
     <author>
@@ -356,42 +392,6 @@
     <dc:date>2023-10-18T16:09:43Z</dc:date>
   </entry>
   <entry>
-    <title>Python 3 source --  3.12.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-10-02T16:09:38Z</modified>
-    <issued>2023-10-02T16:09:38Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.12.0 -- Mon Oct 02 16:09:38 UTC 2023</summary>
-    <dc:date>2023-10-02T16:09:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.12.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-10-02T16:09:38Z</modified>
-    <issued>2023-10-02T16:09:38Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.12.0 -- Mon Oct 02 16:09:38 UTC 2023</summary>
-    <dc:date>2023-10-02T16:09:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.12.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-10-02T16:08:50Z</modified>
-    <issued>2023-10-02T16:08:50Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.12.0 -- Mon Oct 02 16:08:50 UTC 2023</summary>
-    <dc:date>2023-10-02T16:08:50Z</dc:date>
-  </entry>
-  <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)</title>
     <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
     <author>
@@ -596,18 +596,6 @@
     <dc:date>2022-08-26T23:00:11Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-26T17:00:12Z</modified>
-    <issued>2022-08-26T17:00:12Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
-    <dc:date>2022-08-26T17:00:12Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
     <author>
@@ -617,6 +605,18 @@
     <modified>2022-08-26T17:00:12Z</modified>
     <issued>2022-08-26T17:00:12Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
+    <dc:date>2022-08-26T17:00:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-26T17:00:12Z</modified>
+    <issued>2022-08-26T17:00:12Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
     <dc:date>2022-08-26T17:00:12Z</dc:date>
   </entry>
   <entry>
