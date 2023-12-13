@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:09:25 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-9|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 12 16:09:42 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:09:41 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:09:36 UTC 2023|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:09:03 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:51 UTC 2023|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15 (November 9, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Nov 09 12:12:11 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:32:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:08:48 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:09:47 UTC 2023|
