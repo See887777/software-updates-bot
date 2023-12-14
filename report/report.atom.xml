@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 17.9.4 to 18.0.0 ~ 2023-12-13</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2023-12-14T00:33:51Z</modified>
+    <issued>2023-12-14T00:33:51Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.9.4 to 18.0.0 ~ 2023-12-13 -- Thu Dec 14 00:33:51 UTC 2023</summary>
+    <dc:date>2023-12-14T00:33:51Z</dc:date>
+  </entry>
+  <entry>
     <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
     <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
     <author>
@@ -210,18 +222,6 @@
     <issued>2023-11-13T12:13:04Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.23 -- Mon Nov 13 12:13:04 UTC 2023</summary>
     <dc:date>2023-11-13T12:13:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 17.9.0 to 17.9.4 ~ 2023-11-09</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-11-10T00:31:37Z</modified>
-    <issued>2023-11-10T00:31:37Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 17.9.0 to 17.9.4 ~ 2023-11-09 -- Fri Nov 10 00:31:37 UTC 2023</summary>
-    <dc:date>2023-11-10T00:31:37Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 14 -- 14.10</title>
