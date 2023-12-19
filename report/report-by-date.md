@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v21.5.0|[nodejs.org](https://nodejs.org)|Tue Dec 19 20:07:20 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 304 - Dark punk|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 18 12:12:58 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.4 to 18.0.0 ~ 2023-12-13|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 14 00:33:51 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:09:25 UTC 2023|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:09:41 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:09:36 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 08 04:09:06 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v21.4.0|[nodejs.org](https://nodejs.org)|Tue Dec 05 12:12:56 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:33:34 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:33:16 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 23 16:09:19 UTC 2023|
