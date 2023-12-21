@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.2.1.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.2.1.RELEASE -- Thu Dec 21 16:09:40 UTC 2023</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 21 Dec 2023 16:09:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2023-12-21T16:09:40Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v21.5.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v21.5.0 -- Tue Dec 19 20:07:20 UTC 2023</description>
@@ -152,17 +163,6 @@
       <pubDate>Tue, 28 Nov 2023 00:33:16 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-28T00:33:16Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.2.0.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.2.0.RELEASE -- Thu Nov 23 16:09:19 UTC 2023</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 23 Nov 2023 16:09:19 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-11-23T16:09:19Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v20.10.0</title>
