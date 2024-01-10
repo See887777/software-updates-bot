@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS LTS -- v20.11.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS LTS -- v20.11.0 -- Wed Jan 10 20:08:16 UTC 2024</description>
+      <category>NodeJS</category>
+      <pubDate>Wed, 10 Jan 2024 20:08:16 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-10T20:08:16Z</dc:date>
+    </item>
+    <item>
       <title>Maven -- 4.0.0-alpha-10</title>
       <link>https://maven.apache.org/download.cgi</link>
       <description>Maven -- 4.0.0-alpha-10 -- Fri Dec 22 08:11:11 UTC 2023</description>
@@ -163,15 +172,6 @@
       <pubDate>Tue, 28 Nov 2023 00:33:16 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-28T00:33:16Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS LTS -- v20.10.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS LTS -- v20.10.0 -- Wed Nov 22 20:08:49 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Wed, 22 Nov 2023 20:08:49 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-11-22T20:08:49Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2023</title>
