@@ -60,6 +60,26 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Maven -- 4.0.0-alpha-12</title>
+      <link>https://maven.apache.org/download.cgi</link>
+      <description>Maven -- 4.0.0-alpha-12 -- Mon Jan 15 20:08:38 UTC 2024</description>
+      <category>Java</category>
+      <category>Maven</category>
+      <pubDate>Mon, 15 Jan 2024 20:08:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-15T20:08:38Z</dc:date>
+    </item>
+    <item>
+      <title>K-Lite Codec Pack Basic -- 18.0.0 to 18.0.5 ~ 2024-01-15</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 18.0.0 to 18.0.5 ~ 2024-01-15 -- Mon Jan 15 20:08:13 UTC 2024</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Mon, 15 Jan 2024 20:08:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-15T20:08:13Z</dc:date>
+    </item>
+    <item>
       <title>NodeJS Current -- v21.6.0</title>
       <link>https://nodejs.org</link>
       <description>NodeJS Current -- v21.6.0 -- Mon Jan 15 16:09:36 UTC 2024</description>
@@ -87,16 +107,6 @@
       <dc:date>2024-01-10T20:08:16Z</dc:date>
     </item>
     <item>
-      <title>Maven -- 4.0.0-alpha-10</title>
-      <link>https://maven.apache.org/download.cgi</link>
-      <description>Maven -- 4.0.0-alpha-10 -- Fri Dec 22 08:11:11 UTC 2023</description>
-      <category>Java</category>
-      <category>Maven</category>
-      <pubDate>Fri, 22 Dec 2023 08:11:11 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-12-22T08:11:11Z</dc:date>
-    </item>
-    <item>
       <title>Spring Boot -- 3.2.1.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.2.1.RELEASE -- Thu Dec 21 16:09:40 UTC 2023</description>
@@ -106,16 +116,6 @@
       <pubDate>Thu, 21 Dec 2023 16:09:40 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-12-21T16:09:40Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 17.9.4 to 18.0.0 ~ 2023-12-13</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 17.9.4 to 18.0.0 ~ 2023-12-13 -- Thu Dec 14 00:33:51 UTC 2023</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Thu, 14 Dec 2023 00:33:51 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-12-14T00:33:51Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>

@@ -338,8 +338,8 @@
       ],
       "name": "K-Lite Codec Pack Basic",
       "website": "https://www.codecguide.com/download_k-lite_codec_pack_basic.htm",
-      "version": "17.9.4 to 18.0.0 ~ 2023-12-13",
-      "checkDate": "Dec 14, 2023, 12:33:51 AM",
+      "version": "18.0.0 to 18.0.5 ~ 2024-01-15",
+      "checkDate": "Jan 15, 2024, 8:08:13 PM",
       "logo": "KLITE"
     },
     {
@@ -480,8 +480,8 @@
       ],
       "name": "Maven",
       "website": "https://maven.apache.org/download.cgi",
-      "version": "4.0.0-alpha-10",
-      "checkDate": "Dec 22, 2023, 8:11:11 AM",
+      "version": "4.0.0-alpha-12",
+      "checkDate": "Jan 15, 2024, 8:08:38 PM",
       "logo": "MAVEN"
     },
     {
