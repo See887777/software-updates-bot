@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v21.6.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v21.6.0 -- Mon Jan 15 16:09:36 UTC 2024</description>
+      <category>NodeJS</category>
+      <pubDate>Mon, 15 Jan 2024 16:09:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-15T16:09:36Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 305 - Dia critique</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 305 - Dia critique -- Mon Jan 15 12:13:26 UTC 2024</description>
@@ -97,15 +106,6 @@
       <pubDate>Thu, 21 Dec 2023 16:09:40 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-12-21T16:09:40Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v21.5.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v21.5.0 -- Tue Dec 19 20:07:20 UTC 2023</description>
-      <category>NodeJS</category>
-      <pubDate>Tue, 19 Dec 2023 20:07:20 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-12-19T20:07:20Z</dc:date>
     </item>
     <item>
       <title>K-Lite Codec Pack Basic -- 17.9.4 to 18.0.0 ~ 2023-12-13</title>
