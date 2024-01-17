@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 mac x64 -- jdk-17.0.10+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-01-17T16:09:58Z</modified>
+    <issued>2024-01-17T16:09:58Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.10+7 -- Wed Jan 17 16:09:58 UTC 2024</summary>
+    <dc:date>2024-01-17T16:09:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-alpha-12</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -306,18 +318,6 @@
     <issued>2023-10-25T16:09:47Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u392-b08 -- Wed Oct 25 16:09:47 UTC 2023</summary>
     <dc:date>2023-10-25T16:09:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 mac x64 -- jdk-17.0.9+9</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-10-23T16:09:13Z</modified>
-    <issued>2023-10-23T16:09:13Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.9+9 -- Mon Oct 23 16:09:13 UTC 2023</summary>
-    <dc:date>2023-10-23T16:09:13Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u392-b08</title>
