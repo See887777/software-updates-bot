@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 20:08:31 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:09:49 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 16:09:48 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:09:25 UTC 2024|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:09:47 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 23 16:09:06 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 20 12:12:48 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:31:35 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:09:43 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:32:21 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
