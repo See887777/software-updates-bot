@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u402-b06</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-01-19T20:07:56Z</modified>
+    <issued>2024-01-19T20:07:56Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u402-b06 -- Fri Jan 19 20:07:56 UTC 2024</summary>
+    <dc:date>2024-01-19T20:07:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u402-b06</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -366,18 +378,6 @@
     <issued>2023-10-25T16:09:47Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u392-b08 -- Wed Oct 25 16:09:47 UTC 2023</summary>
     <dc:date>2023-10-25T16:09:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u392-b08</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-10-20T12:12:48Z</modified>
-    <issued>2023-10-20T12:12:48Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u392-b08 -- Fri Oct 20 12:12:48 UTC 2023</summary>
-    <dc:date>2023-10-20T12:12:48Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.21+9</title>
