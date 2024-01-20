@@ -60,6 +60,29 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.2.2.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.2.2.RELEASE -- Sat Jan 20 00:34:18 UTC 2024</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Sat, 20 Jan 2024 00:34:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-20T00:34:18Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk8 mac x64 -- jdk8u402-b06</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk8 mac x64 -- jdk8u402-b06 -- Sat Jan 20 00:33:59 UTC 2024</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Sat, 20 Jan 2024 00:33:59 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-20T00:33:59Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u402-b06</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 windows x64 -- jdk8u402-b06 -- Fri Jan 19 20:07:56 UTC 2024</description>
@@ -189,17 +212,6 @@
       <pubDate>Wed, 10 Jan 2024 20:08:16 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-01-10T20:08:16Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.2.1.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.2.1.RELEASE -- Thu Dec 21 16:09:40 UTC 2023</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 21 Dec 2023 16:09:40 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-12-21T16:09:40Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
@@ -346,18 +358,6 @@
       <pubDate>Thu, 02 Nov 2023 00:32:10 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-02T00:32:10Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk8 mac x64 -- jdk8u392-b08</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 mac x64 -- jdk8u392-b08 -- Wed Oct 25 16:09:47 UTC 2023</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Wed, 25 Oct 2023 16:09:47 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-10-25T16:09:47Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.21+9</title>
