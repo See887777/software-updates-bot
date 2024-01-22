@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v21.6.1|[nodejs.org](https://nodejs.org)|Mon Jan 22 20:09:04 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.2.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jan 20 00:34:18 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Jan 20 00:33:59 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 19 20:07:56 UTC 2024|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 17 16:09:58 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-12|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Jan 15 20:08:38 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.0.0 to 18.0.5 ~ 2024-01-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 15 20:08:13 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v21.6.0|[nodejs.org](https://nodejs.org)|Mon Jan 15 16:09:36 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 305 - Dia critique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 15 12:13:26 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.0|[nodejs.org](https://nodejs.org)|Wed Jan 10 20:08:16 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:09:25 UTC 2023|

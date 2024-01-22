@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v21.6.1</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v21.6.1 -- Mon Jan 22 20:09:04 UTC 2024</description>
+      <category>NodeJS</category>
+      <pubDate>Mon, 22 Jan 2024 20:09:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-01-22T20:09:04Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.2.2.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.2.2.RELEASE -- Sat Jan 20 00:34:18 UTC 2024</description>
@@ -185,15 +194,6 @@
       <pubDate>Mon, 15 Jan 2024 20:08:13 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-01-15T20:08:13Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v21.6.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v21.6.0 -- Mon Jan 15 16:09:36 UTC 2024</description>
-      <category>NodeJS</category>
-      <pubDate>Mon, 15 Jan 2024 16:09:36 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-01-15T16:09:36Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 305 - Dia critique</title>
