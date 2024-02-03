@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.6|[gradle.org](https://gradle.org/releases/)|Sat Feb 03 00:31:53 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.0 (2024-01-25)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jan 26 08:09:51 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:13:30 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.6.1|[nodejs.org](https://nodejs.org)|Mon Jan 22 20:09:04 UTC 2024|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:09:41 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:09:36 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 08 04:09:06 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:33:34 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:33:16 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:13:18 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:13:29 UTC 2023|
