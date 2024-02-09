@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:12:07 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:09:35 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:08:47 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:08:47 UTC 2024|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.0|[nodejs.org](https://nodejs.org)|Wed Jan 10 20:08:16 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:09:25 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:33:16 UTC 2023|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:13:18 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:32:10 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:32:21 UTC 2023|

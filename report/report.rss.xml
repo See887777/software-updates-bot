@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2024</title>
+      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
+      <description>Visual C++ Redistributable Runtimes All-in-One -- Feb 2024 -- Fri Feb 09 12:12:07 UTC 2024</description>
+      <category>Redistributable Runtimes</category>
+      <category>MS Windows</category>
+      <pubDate>Fri, 09 Feb 2024 12:12:07 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-02-09T12:12:07Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 14 -- 14.11</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 14 -- 14.11 -- Thu Feb 08 16:09:35 UTC 2024</description>
@@ -350,16 +360,6 @@
       <pubDate>Tue, 28 Nov 2023 00:33:16 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-28T00:33:16Z</dc:date>
-    </item>
-    <item>
-      <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2023</title>
-      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
-      <description>Visual C++ Redistributable Runtimes All-in-One -- Nov 2023 -- Wed Nov 15 12:13:18 UTC 2023</description>
-      <category>Redistributable Runtimes</category>
-      <category>MS Windows</category>
-      <pubDate>Wed, 15 Nov 2023 12:13:18 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-11-15T12:13:18Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 11 -- 11.22</title>
