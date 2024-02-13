@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 306 - Alors tu squash ou tu pointes?</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 306 - Alors tu squash ou tu pointes? -- Tue Feb 13 12:12:01 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Tue, 13 Feb 2024 12:12:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-02-13T12:12:01Z</dc:date>
+    </item>
+    <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2024</title>
       <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
       <description>Visual C++ Redistributable Runtimes All-in-One -- Feb 2024 -- Fri Feb 09 12:12:07 UTC 2024</description>
@@ -323,15 +332,6 @@
       <pubDate>Mon, 15 Jan 2024 20:08:13 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-01-15T20:08:13Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 305 - Dia critique</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 305 - Dia critique -- Mon Jan 15 12:13:26 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Mon, 15 Jan 2024 12:13:26 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-01-15T12:13:26Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v20.11.0</title>
