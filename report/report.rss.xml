@@ -60,6 +60,24 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v21.6.2</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v21.6.2 -- Wed Feb 14 20:08:21 UTC 2024</description>
+      <category>NodeJS</category>
+      <pubDate>Wed, 14 Feb 2024 20:08:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-02-14T20:08:21Z</dc:date>
+    </item>
+    <item>
+      <title>NodeJS LTS -- v20.11.1</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS LTS -- v20.11.1 -- Wed Feb 14 20:08:15 UTC 2024</description>
+      <category>NodeJS</category>
+      <pubDate>Wed, 14 Feb 2024 20:08:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-02-14T20:08:15Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 306 - Alors tu squash ou tu pointes?</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 306 - Alors tu squash ou tu pointes? -- Tue Feb 13 12:12:01 UTC 2024</description>
@@ -198,15 +216,6 @@
       <dc:date>2024-01-23T12:13:30Z</dc:date>
     </item>
     <item>
-      <title>NodeJS Current -- v21.6.1</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v21.6.1 -- Mon Jan 22 20:09:04 UTC 2024</description>
-      <category>NodeJS</category>
-      <pubDate>Mon, 22 Jan 2024 20:09:04 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-01-22T20:09:04Z</dc:date>
-    </item>
-    <item>
       <title>Spring Boot -- 3.2.2.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.2.2.RELEASE -- Sat Jan 20 00:34:18 UTC 2024</description>
@@ -332,15 +341,6 @@
       <pubDate>Mon, 15 Jan 2024 20:08:13 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-01-15T20:08:13Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS LTS -- v20.11.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS LTS -- v20.11.0 -- Wed Jan 10 20:08:16 UTC 2024</description>
-      <category>NodeJS</category>
-      <pubDate>Wed, 10 Jan 2024 20:08:16 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-01-10T20:08:16Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>

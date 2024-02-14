@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v21.6.2</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-02-14T20:08:21Z</modified>
+    <issued>2024-02-14T20:08:21Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v21.6.2 -- Wed Feb 14 20:08:21 UTC 2024</summary>
+    <dc:date>2024-02-14T20:08:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS LTS -- v20.11.1</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-02-14T20:08:15Z</modified>
+    <issued>2024-02-14T20:08:15Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS LTS -- v20.11.1 -- Wed Feb 14 20:08:15 UTC 2024</summary>
+    <dc:date>2024-02-14T20:08:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 306 - Alors tu squash ou tu pointes?</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -200,18 +224,6 @@
     <dc:date>2024-01-23T12:13:30Z</dc:date>
   </entry>
   <entry>
-    <title>NodeJS Current -- v21.6.1</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-22T20:09:04Z</modified>
-    <issued>2024-01-22T20:09:04Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v21.6.1 -- Mon Jan 22 20:09:04 UTC 2024</summary>
-    <dc:date>2024-01-22T20:09:04Z</dc:date>
-  </entry>
-  <entry>
     <title>Spring Boot -- 3.2.2.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2024-01-15T20:08:13Z</issued>
     <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.0.0 to 18.0.5 ~ 2024-01-15 -- Mon Jan 15 20:08:13 UTC 2024</summary>
     <dc:date>2024-01-15T20:08:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS LTS -- v20.11.0</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-10T20:08:16Z</modified>
-    <issued>2024-01-10T20:08:16Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS LTS -- v20.11.0 -- Wed Jan 10 20:08:16 UTC 2024</summary>
-    <dc:date>2024-01-10T20:08:16Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
