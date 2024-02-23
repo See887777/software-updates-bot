@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.2.3.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-02-23T00:31:34Z</modified>
+    <issued>2024-02-23T00:31:34Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.2.3.RELEASE -- Fri Feb 23 00:31:34 UTC 2024</summary>
+    <dc:date>2024-02-23T00:31:34Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.0.5 to 18.1.0 ~ 2024-02-15</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -234,18 +246,6 @@
     <issued>2024-01-23T12:13:30Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.22+7 -- Tue Jan 23 12:13:30 UTC 2024</summary>
     <dc:date>2024-01-23T12:13:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.2.2.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-20T00:34:18Z</modified>
-    <issued>2024-01-20T00:34:18Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.2.2.RELEASE -- Sat Jan 20 00:34:18 UTC 2024</summary>
-    <dc:date>2024-01-20T00:34:18Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u402-b06</title>
