@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>NodeJS Current -- v21.7.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-03-06T20:07:06Z</modified>
+    <issued>2024-03-06T20:07:06Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v21.7.0 -- Wed Mar 06 20:07:06 UTC 2024</summary>
+    <dc:date>2024-03-06T20:07:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2024-02-23T00:31:34Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 3.2.3.RELEASE -- Fri Feb 23 00:31:34 UTC 2024</summary>
     <dc:date>2024-02-23T00:31:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS Current -- v21.6.2</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-02-14T20:08:21Z</modified>
-    <issued>2024-02-14T20:08:21Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS Current -- v21.6.2 -- Wed Feb 14 20:08:21 UTC 2024</summary>
-    <dc:date>2024-02-14T20:08:21Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS LTS -- v20.11.1</title>

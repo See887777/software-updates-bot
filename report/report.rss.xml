@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>NodeJS Current -- v21.7.0</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v21.7.0 -- Wed Mar 06 20:07:06 UTC 2024</description>
+      <category>NodeJS</category>
+      <pubDate>Wed, 06 Mar 2024 20:07:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-03-06T20:07:06Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane -- Mon Mar 04 09:27:15 UTC 2024</description>
@@ -88,15 +97,6 @@
       <pubDate>Fri, 23 Feb 2024 00:31:34 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-02-23T00:31:34Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v21.6.2</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v21.6.2 -- Wed Feb 14 20:08:21 UTC 2024</description>
-      <category>NodeJS</category>
-      <pubDate>Wed, 14 Feb 2024 20:08:21 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-02-14T20:08:21Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v20.11.1</title>
