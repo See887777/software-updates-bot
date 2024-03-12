@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Maven -- 4.0.0-alpha-13</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-03-12T16:09:34Z</modified>
+    <issued>2024-03-12T16:09:34Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-13 -- Tue Mar 12 16:09:34 UTC 2024</summary>
+    <dc:date>2024-03-12T16:09:34Z</dc:date>
+  </entry>
+  <entry>
     <title>GPG4Win -- 4.3.1 (2024-03-11)</title>
     <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2024-01-17T16:09:58Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.10+7 -- Wed Jan 17 16:09:58 UTC 2024</summary>
     <dc:date>2024-01-17T16:09:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Maven -- 4.0.0-alpha-12</title>
-    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-15T20:08:38Z</modified>
-    <issued>2024-01-15T20:08:38Z</issued>
-    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-alpha-12 -- Mon Jan 15 20:08:38 UTC 2024</summary>
-    <dc:date>2024-01-15T20:08:38Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
