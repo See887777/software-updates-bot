@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.1.5 to 18.2.0 ~ 2024-03-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Mar 12 00:32:07 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:31:13 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 04 09:27:15 UTC 2024|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.1.0 to 18.1.5 ~ 2024-02-28|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Feb 29 00:32:02 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Feb 23 00:31:34 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:12:07 UTC 2024|
