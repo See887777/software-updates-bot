@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 308 - Après c'est avant</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-03-19T12:13:26Z</modified>
+    <issued>2024-03-19T12:13:26Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 308 - Après c'est avant -- Tue Mar 19 12:13:26 UTC 2024</summary>
+    <dc:date>2024-03-19T12:13:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-alpha-13</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -78,18 +90,6 @@
     <issued>2024-03-09T00:31:13Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- v21.7.1 -- Sat Mar 09 00:31:13 UTC 2024</summary>
     <dc:date>2024-03-09T00:31:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-03-04T09:27:15Z</modified>
-    <issued>2024-03-04T09:27:15Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane -- Mon Mar 04 09:27:15 UTC 2024</summary>
-    <dc:date>2024-03-04T09:27:15Z</dc:date>
   </entry>
   <entry>
     <title>Spring Boot -- 3.2.3.RELEASE</title>
