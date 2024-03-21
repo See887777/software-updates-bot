@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.2.4.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.2.4.RELEASE -- Thu Mar 21 16:09:35 UTC 2024</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 21 Mar 2024 16:09:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-03-21T16:09:35Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 308 - Après c'est avant</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 308 - Après c'est avant -- Tue Mar 19 12:13:26 UTC 2024</description>
@@ -106,17 +117,6 @@
       <pubDate>Sat, 09 Mar 2024 00:31:13 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-03-09T00:31:13Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.2.3.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.2.3.RELEASE -- Fri Feb 23 00:31:34 UTC 2024</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Fri, 23 Feb 2024 00:31:34 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-02-23T00:31:34Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v20.11.1</title>
