@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.7</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-03-24T08:08:52Z</modified>
+    <issued>2024-03-24T08:08:52Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.7 -- Sun Mar 24 08:08:52 UTC 2024</summary>
+    <dc:date>2024-03-24T08:08:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.2.4.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -234,18 +246,6 @@
     <issued>2024-02-07T00:30:44Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.12.2 -- Wed Feb 07 00:30:44 UTC 2024</summary>
     <dc:date>2024-02-07T00:30:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.6</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-02-03T00:31:53Z</modified>
-    <issued>2024-02-03T00:31:53Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.6 -- Sat Feb 03 00:31:53 UTC 2024</summary>
-    <dc:date>2024-02-03T00:31:53Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.22+7</title>

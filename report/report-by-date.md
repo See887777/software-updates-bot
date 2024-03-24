@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:08:52 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 21 16:09:35 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 308 - Après c'est avant|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Mar 19 12:13:26 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-13|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Mar 12 16:09:34 UTC 2024|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 07 00:31:10 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 07 00:30:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 07 00:30:44 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.6|[gradle.org](https://gradle.org/releases/)|Sat Feb 03 00:31:53 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:13:30 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Jan 20 00:33:59 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 19 20:07:56 UTC 2024|
