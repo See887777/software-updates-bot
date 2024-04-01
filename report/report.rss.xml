@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 18.2.0 to 18.2.6 ~ 2024-04-01</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 18.2.0 to 18.2.6 ~ 2024-04-01 -- Mon Apr 01 16:09:53 UTC 2024</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Mon, 01 Apr 2024 16:09:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-04-01T16:09:53Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.7</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.7 -- Sun Mar 24 08:08:52 UTC 2024</description>
@@ -108,16 +118,6 @@
       <pubDate>Tue, 12 Mar 2024 12:12:03 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-03-12T12:12:03Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 18.1.5 to 18.2.0 ~ 2024-03-11</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 18.1.5 to 18.2.0 ~ 2024-03-11 -- Tue Mar 12 00:32:07 UTC 2024</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Tue, 12 Mar 2024 00:32:07 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-03-12T00:32:07Z</dc:date>
     </item>
     <item>
       <title>NodeJS Current -- v21.7.1</title>
