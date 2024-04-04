@@ -1,17 +1,17 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 309 - React a 10 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Apr 04 12:13:39 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.0 to 18.2.6 ~ 2024-04-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 01 16:09:53 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:08:52 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 21 16:09:35 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 308 - Après c'est avant|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Mar 19 12:13:26 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-13|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Mar 12 16:09:34 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:12:03 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:31:13 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:12:07 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:09:35 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:08:47 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:08:47 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:08:47 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:12:41 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:12:36 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:12:20 UTC 2024|
@@ -47,8 +47,8 @@
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|

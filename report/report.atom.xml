@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 309 - React a 10 ans</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-04-04T12:13:39Z</modified>
+    <issued>2024-04-04T12:13:39Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 309 - React a 10 ans -- Thu Apr 04 12:13:39 UTC 2024</summary>
+    <dc:date>2024-04-04T12:13:39Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.2.0 to 18.2.6 ~ 2024-04-01</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2024-03-21T16:09:35Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 3.2.4.RELEASE -- Thu Mar 21 16:09:35 UTC 2024</summary>
     <dc:date>2024-03-21T16:09:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 308 - Après c'est avant</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-03-19T12:13:26Z</modified>
-    <issued>2024-03-19T12:13:26Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 308 - Après c'est avant -- Tue Mar 19 12:13:26 UTC 2024</summary>
-    <dc:date>2024-03-19T12:13:26Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-alpha-13</title>
@@ -152,18 +152,6 @@
     <dc:date>2024-02-08T16:09:35Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 12 -- 12.18</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-02-08T16:08:47Z</modified>
-    <issued>2024-02-08T16:08:47Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.18 -- Thu Feb 08 16:08:47 UTC 2024</summary>
-    <dc:date>2024-02-08T16:08:47Z</dc:date>
-  </entry>
-  <entry>
     <title>PostgreSQL 13 -- 13.14</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -173,6 +161,18 @@
     <modified>2024-02-08T16:08:47Z</modified>
     <issued>2024-02-08T16:08:47Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.14 -- Thu Feb 08 16:08:47 UTC 2024</summary>
+    <dc:date>2024-02-08T16:08:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 12 -- 12.18</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-02-08T16:08:47Z</modified>
+    <issued>2024-02-08T16:08:47Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.18 -- Thu Feb 08 16:08:47 UTC 2024</summary>
     <dc:date>2024-02-08T16:08:47Z</dc:date>
   </entry>
   <entry>
@@ -596,18 +596,6 @@
     <dc:date>2022-08-26T23:00:11Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-26T17:00:12Z</modified>
-    <issued>2022-08-26T17:00:12Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
-    <dc:date>2022-08-26T17:00:12Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
     <author>
@@ -617,6 +605,18 @@
     <modified>2022-08-26T17:00:12Z</modified>
     <issued>2022-08-26T17:00:12Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
+    <dc:date>2022-08-26T17:00:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-26T17:00:12Z</modified>
+    <issued>2022-08-26T17:00:12Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</summary>
     <dc:date>2022-08-26T17:00:12Z</dc:date>
   </entry>
   <entry>
