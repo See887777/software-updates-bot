@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 windows x64 -- jdk-17.0.11+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-04-18T16:09:25Z</modified>
+    <issued>2024-04-18T16:09:25Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.11+9 -- Thu Apr 18 16:09:25 UTC 2024</summary>
+    <dc:date>2024-04-18T16:09:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 linux x64 -- jdk-17.0.11+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-04-18T16:09:04Z</modified>
+    <issued>2024-04-18T16:09:04Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.11+9 -- Thu Apr 18 16:09:04 UTC 2024</summary>
+    <dc:date>2024-04-18T16:09:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 mac x64 -- jdk-17.0.11+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-04-18T16:08:56Z</modified>
+    <issued>2024-04-18T16:08:56Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.11+9 -- Thu Apr 18 16:08:56 UTC 2024</summary>
+    <dc:date>2024-04-18T16:08:56Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.2.6 to 18.3.0 ~ 2024-04-10</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -308,18 +344,6 @@
     <dc:date>2024-01-18T20:08:31Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk17 windows x64 -- jdk-17.0.10+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-18T16:09:49Z</modified>
-    <issued>2024-01-18T16:09:49Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.10+7 -- Thu Jan 18 16:09:49 UTC 2024</summary>
-    <dc:date>2024-01-18T16:09:49Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.22+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -330,30 +354,6 @@
     <issued>2024-01-18T16:09:48Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.22+7 -- Thu Jan 18 16:09:48 UTC 2024</summary>
     <dc:date>2024-01-18T16:09:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 linux x64 -- jdk-17.0.10+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-18T16:09:25Z</modified>
-    <issued>2024-01-18T16:09:25Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.10+7 -- Thu Jan 18 16:09:25 UTC 2024</summary>
-    <dc:date>2024-01-18T16:09:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 mac x64 -- jdk-17.0.10+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-17T16:09:58Z</modified>
-    <issued>2024-01-17T16:09:58Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.10+7 -- Wed Jan 17 16:09:58 UTC 2024</summary>
-    <dc:date>2024-01-17T16:09:58Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
