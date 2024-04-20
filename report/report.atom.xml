@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 mac x64 -- jdk-11.0.23+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-04-20T00:33:04Z</modified>
+    <issued>2024-04-20T00:33:04Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.23+9 -- Sat Apr 20 00:33:04 UTC 2024</summary>
+    <dc:date>2024-04-20T00:33:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u412-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2024-02-07T00:30:44Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.12.2 -- Wed Feb 07 00:30:44 UTC 2024</summary>
     <dc:date>2024-02-07T00:30:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 mac x64 -- jdk-11.0.22+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-01-23T12:13:30Z</modified>
-    <issued>2024-01-23T12:13:30Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.22+7 -- Tue Jan 23 12:13:30 UTC 2024</summary>
-    <dc:date>2024-01-23T12:13:30Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
