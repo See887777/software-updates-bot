@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 23 20:07:48 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 00:33:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:08:09 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 19 00:33:45 UTC 2024|
@@ -24,7 +25,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:12:41 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:12:36 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:12:20 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 mac| 3.12.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 07 00:31:10 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 07 00:30:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 07 00:30:44 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:09:25 UTC 2023|

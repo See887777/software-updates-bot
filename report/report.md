@@ -54,7 +54,7 @@
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
-|![logo](../media/logo/python.png) Python 3 mac| 3.12.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 07 00:31:10 UTC 2024|
+|![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 23 20:07:48 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 07 00:30:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 07 00:30:44 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 18 20:08:53 UTC 2024|

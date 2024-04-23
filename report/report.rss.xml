@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.12.3</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.12.3 -- Tue Apr 23 20:07:48 UTC 2024</description>
+      <category>Python</category>
+      <pubDate>Tue, 23 Apr 2024 20:07:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-04-23T20:07:48Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.23+9</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 mac x64 -- jdk-11.0.23+9 -- Sat Apr 20 00:33:04 UTC 2024</description>
@@ -314,15 +323,6 @@
       <pubDate>Thu, 08 Feb 2024 12:12:20 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-02-08T12:12:20Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.12.2</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.12.2 -- Wed Feb 07 00:31:10 UTC 2024</description>
-      <category>Python</category>
-      <pubDate>Wed, 07 Feb 2024 00:31:10 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-02-07T00:31:10Z</dc:date>
     </item>
     <item>
       <title>Python 3 source --  3.12.2</title>
