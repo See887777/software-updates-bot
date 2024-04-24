@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 310 - Les Cast Codeurs à Devoxx France 2024 - sous-titre édition</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 310 - Les Cast Codeurs à Devoxx France 2024 - sous-titre édition -- Wed Apr 24 12:15:08 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Wed, 24 Apr 2024 12:15:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-04-24T12:15:08Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 mac --  3.12.3</title>
       <link>https://www.python.org/downloads/mac-osx/</link>
       <description>Python 3 mac --  3.12.3 -- Tue Apr 23 20:07:48 UTC 2024</description>
@@ -196,15 +205,6 @@
       <pubDate>Wed, 10 Apr 2024 20:08:43 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-04-10T20:08:43Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 309 - React a 10 ans</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 309 - React a 10 ans -- Thu Apr 04 12:13:39 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Thu, 04 Apr 2024 12:13:39 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-04-04T12:13:39Z</dc:date>
     </item>
     <item>
       <title>Gradle -- 8.7</title>

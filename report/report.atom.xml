@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 310 - Les Cast Codeurs à Devoxx France 2024 - sous-titre édition</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-04-24T12:15:08Z</modified>
+    <issued>2024-04-24T12:15:08Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 310 - Les Cast Codeurs à Devoxx France 2024 - sous-titre édition -- Wed Apr 24 12:15:08 UTC 2024</summary>
+    <dc:date>2024-04-24T12:15:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.12.3</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2024-04-10T20:08:43Z</issued>
     <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.2.6 to 18.3.0 ~ 2024-04-10 -- Wed Apr 10 20:08:43 UTC 2024</summary>
     <dc:date>2024-04-10T20:08:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 309 - React a 10 ans</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-04-04T12:13:39Z</modified>
-    <issued>2024-04-04T12:13:39Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 309 - React a 10 ans -- Thu Apr 04 12:13:39 UTC 2024</summary>
-    <dc:date>2024-04-04T12:13:39Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.7</title>
