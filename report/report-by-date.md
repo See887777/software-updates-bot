@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 310 - Les Cast Codeurs à Devoxx France 2024 - sous-titre édition|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Apr 24 12:15:08 UTC 2024|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 311 - Tu changes ta licence et tu vends|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 29 08:11:32 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 23 20:07:48 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 00:33:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:08:09 UTC 2024|
