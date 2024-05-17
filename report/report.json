@@ -403,8 +403,8 @@
       ],
       "name": "MariaDB 10.4",
       "website": "https://downloads.mariadb.org",
-      "version": "10.4.33",
-      "checkDate": "Feb 8, 2024, 12:12:36 PM",
+      "version": "10.4.34",
+      "checkDate": "May 17, 2024, 8:11:18 AM",
       "logo": "MARIADB"
     },
     {
@@ -414,8 +414,8 @@
       ],
       "name": "MariaDB 10.5",
       "website": "https://downloads.mariadb.org",
-      "version": "10.5.24",
-      "checkDate": "Feb 8, 2024, 12:12:20 PM",
+      "version": "10.5.25",
+      "checkDate": "May 17, 2024, 8:11:06 AM",
       "logo": "MARIADB"
     },
     {
@@ -425,8 +425,8 @@
       ],
       "name": "MariaDB 10.6",
       "website": "https://downloads.mariadb.org",
-      "version": "10.6.17",
-      "checkDate": "Feb 8, 2024, 12:12:41 PM",
+      "version": "10.6.18",
+      "checkDate": "May 17, 2024, 8:10:37 AM",
       "logo": "MARIADB"
     },
     {
