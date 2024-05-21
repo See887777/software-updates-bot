@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 312 - Dans la ferme de Mathurin IA IA IO !</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 312 - Dans la ferme de Mathurin IA IA IO ! -- Tue May 21 16:09:10 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Tue, 21 May 2024 16:09:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-05-21T16:09:10Z</dc:date>
+    </item>
+    <item>
       <title>MariaDB 10.4 -- 10.4.34</title>
       <link>https://downloads.mariadb.org</link>
       <description>MariaDB 10.4 -- 10.4.34 -- Fri May 17 08:11:18 UTC 2024</description>
@@ -118,15 +127,6 @@
       <pubDate>Thu, 09 May 2024 16:09:38 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-05-09T16:09:38Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 311 - Tu changes ta licence et tu vends</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 311 - Tu changes ta licence et tu vends -- Mon Apr 29 08:11:32 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Mon, 29 Apr 2024 08:11:32 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-04-29T08:11:32Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.12.3</title>
