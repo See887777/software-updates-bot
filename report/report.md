@@ -57,7 +57,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 23 20:07:48 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 07 00:30:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 07 00:30:44 UTC 2024|
-|![logo](../media/logo/springboot.png) Spring Boot|3.2.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 23 12:13:36 UTC 2024|
+|![logo](../media/logo/springboot.png) Spring Boot|3.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 23 16:10:21 UTC 2024|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:09:08 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:32:10 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:32:21 UTC 2023|

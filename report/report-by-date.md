@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.2.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 23 12:13:36 UTC 2024|
+|![logo](../media/logo/springboot.png) Spring Boot|3.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 23 16:10:21 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 312 - Dans la ferme de Mathurin IA IA IO !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 21 16:09:10 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:18 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:06 UTC 2024|
