@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.2.6.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-05-23T12:13:36Z</modified>
+    <issued>2024-05-23T12:13:36Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.2.6.RELEASE -- Thu May 23 12:13:36 UTC 2024</summary>
+    <dc:date>2024-05-23T12:13:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 312 - Dans la ferme de Mathurin IA IA IO !</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2024-04-18T20:08:54Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.23+9 -- Thu Apr 18 20:08:54 UTC 2024</summary>
     <dc:date>2024-04-18T20:08:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.2.5.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-04-18T20:08:53Z</modified>
-    <issued>2024-04-18T20:08:53Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.2.5.RELEASE -- Thu Apr 18 20:08:53 UTC 2024</summary>
-    <dc:date>2024-04-18T20:08:53Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u412-b08</title>
