@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.8</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-06-01T00:37:34Z</modified>
+    <issued>2024-06-01T00:37:34Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.8 -- Sat Jun 01 00:37:34 UTC 2024</summary>
+    <dc:date>2024-06-01T00:37:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-beta-3</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -270,18 +282,6 @@
     <issued>2024-04-10T20:08:43Z</issued>
     <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.2.6 to 18.3.0 ~ 2024-04-10 -- Wed Apr 10 20:08:43 UTC 2024</summary>
     <dc:date>2024-04-10T20:08:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.7</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-03-24T08:08:52Z</modified>
-    <issued>2024-03-24T08:08:52Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.7 -- Sun Mar 24 08:08:52 UTC 2024</summary>
-    <dc:date>2024-03-24T08:08:52Z</dc:date>
   </entry>
   <entry>
     <title>GPG4Win -- 4.3.1 (2024-03-11)</title>
