@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.0 to 18.3.5 ~ 2024-06-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 01 16:10:20 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:37:34 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:08:29 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 23 16:10:21 UTC 2024|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:09:25 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:09:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:08:56 UTC 2024|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.6 to 18.3.0 ~ 2024-04-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Apr 10 20:08:43 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:12:03 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:31:13 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
