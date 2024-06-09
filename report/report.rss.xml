@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>VLC -- 3.0.21</title>
+      <link>https://www.videolan.org/vlc/</link>
+      <description>VLC -- 3.0.21 -- Sun Jun 09 12:13:58 UTC 2024</description>
+      <category>Video player</category>
+      <category>VLC</category>
+      <pubDate>Sun, 09 Jun 2024 12:13:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-06-09T12:13:58Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 18.3.0 to 18.3.5 ~ 2024-06-01</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 18.3.0 to 18.3.5 ~ 2024-06-01 -- Sat Jun 01 16:10:20 UTC 2024</description>
@@ -370,16 +380,6 @@
       <pubDate>Thu, 09 Nov 2023 16:08:52 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2023-11-09T16:08:52Z</dc:date>
-    </item>
-    <item>
-      <title>VLC -- 3.0.20</title>
-      <link>https://www.videolan.org/vlc/</link>
-      <description>VLC -- 3.0.20 -- Thu Nov 02 00:32:10 UTC 2023</description>
-      <category>Video player</category>
-      <category>VLC</category>
-      <pubDate>Thu, 02 Nov 2023 00:32:10 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2023-11-02T00:32:10Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)</title>
