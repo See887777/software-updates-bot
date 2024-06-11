@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 18.3.5 to 18.4.0 ~ 2024-06-11</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 18.3.5 to 18.4.0 ~ 2024-06-11 -- Tue Jun 11 20:09:14 UTC 2024</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Tue, 11 Jun 2024 20:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-06-11T20:09:14Z</dc:date>
+    </item>
+    <item>
       <title>VLC -- 3.0.21</title>
       <link>https://www.videolan.org/vlc/</link>
       <description>VLC -- 3.0.21 -- Sun Jun 09 12:13:58 UTC 2024</description>
@@ -68,16 +78,6 @@
       <pubDate>Sun, 09 Jun 2024 12:13:58 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-06-09T12:13:58Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 18.3.0 to 18.3.5 ~ 2024-06-01</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 18.3.0 to 18.3.5 ~ 2024-06-01 -- Sat Jun 01 16:10:20 UTC 2024</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Sat, 01 Jun 2024 16:10:20 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-06-01T16:10:20Z</dc:date>
     </item>
     <item>
       <title>Gradle -- 8.8</title>

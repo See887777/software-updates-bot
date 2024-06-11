@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.3.5 to 18.4.0 ~ 2024-06-11</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-06-11T20:09:14Z</modified>
+    <issued>2024-06-11T20:09:14Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.3.5 to 18.4.0 ~ 2024-06-11 -- Tue Jun 11 20:09:14 UTC 2024</summary>
+    <dc:date>2024-06-11T20:09:14Z</dc:date>
+  </entry>
+  <entry>
     <title>VLC -- 3.0.21</title>
     <link rel="alternate" href="https://www.videolan.org/vlc/" />
     <author>
@@ -42,18 +54,6 @@
     <issued>2024-06-09T12:13:58Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.21 -- Sun Jun 09 12:13:58 UTC 2024</summary>
     <dc:date>2024-06-09T12:13:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 18.3.0 to 18.3.5 ~ 2024-06-01</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-01T16:10:20Z</modified>
-    <issued>2024-06-01T16:10:20Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.3.0 to 18.3.5 ~ 2024-06-01 -- Sat Jun 01 16:10:20 UTC 2024</summary>
-    <dc:date>2024-06-01T16:10:20Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.8</title>
