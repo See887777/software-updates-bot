@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.3.1.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.3.1.RELEASE -- Thu Jun 20 12:14:44 UTC 2024</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 20 Jun 2024 12:14:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-06-20T12:14:44Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 313 - 313 CCL</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 313 - 313 CCL -- Sat Jun 15 12:13:41 UTC 2024</description>
@@ -107,17 +118,6 @@
       <pubDate>Sun, 26 May 2024 16:08:29 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-05-26T16:08:29Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.3.0.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.3.0.RELEASE -- Thu May 23 16:10:21 UTC 2024</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 23 May 2024 16:10:21 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-05-23T16:10:21Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.4 -- 10.4.34</title>
