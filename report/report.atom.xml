@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 source --  3.12.4</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-06-25T16:10:34Z</modified>
+    <issued>2024-06-25T16:10:34Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.12.4 -- Tue Jun 25 16:10:34 UTC 2024</summary>
+    <dc:date>2024-06-25T16:10:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.3.1.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2024-02-09T12:12:07Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Feb 2024 -- Fri Feb 09 12:12:07 UTC 2024</summary>
     <dc:date>2024-02-09T12:12:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 source --  3.12.2</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-02-07T00:30:45Z</modified>
-    <issued>2024-02-07T00:30:45Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.12.2 -- Wed Feb 07 00:30:45 UTC 2024</summary>
-    <dc:date>2024-02-07T00:30:45Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.12.2</title>
