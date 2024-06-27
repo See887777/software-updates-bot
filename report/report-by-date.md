@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Jun 27 20:08:41 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.4|[www.python.org](https://www.python.org/downloads/source/)|Tue Jun 25 16:10:34 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 20 12:14:44 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 313 - 313 CCL|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jun 15 12:13:41 UTC 2024|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:09:47 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:09:43 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:09:38 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 23 20:07:48 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 00:33:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:08:09 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 19 00:33:45 UTC 2024|
