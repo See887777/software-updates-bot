@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.4.0 to 18.4.5 ~ 2024-07-01</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-01T20:09:06Z</modified>
+    <issued>2024-07-01T20:09:06Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.4.0 to 18.4.5 ~ 2024-07-01 -- Mon Jul 01 20:09:06 UTC 2024</summary>
+    <dc:date>2024-07-01T20:09:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.12.4</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -78,18 +90,6 @@
     <issued>2024-06-15T12:13:41Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 313 - 313 CCL -- Sat Jun 15 12:13:41 UTC 2024</summary>
     <dc:date>2024-06-15T12:13:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 18.3.5 to 18.4.0 ~ 2024-06-11</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-11T20:09:14Z</modified>
-    <issued>2024-06-11T20:09:14Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.3.5 to 18.4.0 ~ 2024-06-11 -- Tue Jun 11 20:09:14 UTC 2024</summary>
-    <dc:date>2024-06-11T20:09:14Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.21</title>
