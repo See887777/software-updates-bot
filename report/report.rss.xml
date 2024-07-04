@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 windows --  3.12.4</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.12.4 -- Thu Jul 04 20:08:32 UTC 2024</description>
+      <category>Python</category>
+      <pubDate>Thu, 04 Jul 2024 20:08:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-07-04T20:08:32Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 18.4.0 to 18.4.5 ~ 2024-07-01</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 18.4.0 to 18.4.5 ~ 2024-07-01 -- Mon Jul 01 20:09:06 UTC 2024</description>
@@ -342,15 +351,6 @@
       <pubDate>Fri, 09 Feb 2024 12:12:07 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-02-09T12:12:07Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.12.2</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.12.2 -- Wed Feb 07 00:30:44 UTC 2024</description>
-      <category>Python</category>
-      <pubDate>Wed, 07 Feb 2024 00:30:44 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-02-07T00:30:44Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>

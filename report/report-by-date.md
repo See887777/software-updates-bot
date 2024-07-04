@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jul 04 20:08:32 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.0 to 18.4.5 ~ 2024-07-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 01 20:09:06 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Jun 27 20:08:41 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.4|[www.python.org](https://www.python.org/downloads/source/)|Tue Jun 25 16:10:34 UTC 2024|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:31:13 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:12:07 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 windows| 3.12.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 07 00:30:44 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:09:25 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:33:16 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
