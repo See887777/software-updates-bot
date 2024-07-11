@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.9</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-11T20:08:51Z</modified>
+    <issued>2024-07-11T20:08:51Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.9 -- Thu Jul 11 20:08:51 UTC 2024</summary>
+    <dc:date>2024-07-11T20:08:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.12.4</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2024-06-09T12:13:58Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.21 -- Sun Jun 09 12:13:58 UTC 2024</summary>
     <dc:date>2024-06-09T12:13:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.8</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-01T00:37:34Z</modified>
-    <issued>2024-06-01T00:37:34Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.8 -- Sat Jun 01 00:37:34 UTC 2024</summary>
-    <dc:date>2024-06-01T00:37:34Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-beta-3</title>

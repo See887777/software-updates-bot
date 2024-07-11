@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.9</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.9 -- Thu Jul 11 20:08:51 UTC 2024</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Thu, 11 Jul 2024 20:08:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-07-11T20:08:51Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.12.4</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.12.4 -- Thu Jul 04 20:08:32 UTC 2024</description>
@@ -125,16 +135,6 @@
       <pubDate>Sun, 09 Jun 2024 12:13:58 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-06-09T12:13:58Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.8</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.8 -- Sat Jun 01 00:37:34 UTC 2024</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Sat, 01 Jun 2024 00:37:34 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-06-01T00:37:34Z</dc:date>
     </item>
     <item>
       <title>Maven -- 4.0.0-beta-3</title>
