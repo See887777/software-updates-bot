@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-16T12:14:50Z</modified>
+    <issued>2024-07-16T12:14:50Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances -- Tue Jul 16 12:14:50 UTC 2024</summary>
+    <dc:date>2024-07-16T12:14:50Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.9</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -102,18 +114,6 @@
     <issued>2024-06-20T12:14:44Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.1.RELEASE -- Thu Jun 20 12:14:44 UTC 2024</summary>
     <dc:date>2024-06-20T12:14:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 313 - 313 CCL</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-15T12:13:41Z</modified>
-    <issued>2024-06-15T12:13:41Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 313 - 313 CCL -- Sat Jun 15 12:13:41 UTC 2024</summary>
-    <dc:date>2024-06-15T12:13:41Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.21</title>

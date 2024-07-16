@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:14:50 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:08:51 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jul 04 20:08:32 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.0 to 18.4.5 ~ 2024-07-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 01 20:09:06 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Jun 27 20:08:41 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.4|[www.python.org](https://www.python.org/downloads/source/)|Tue Jun 25 16:10:34 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 20 12:14:44 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 313 - 313 CCL|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jun 15 12:13:41 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:08:29 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:18 UTC 2024|
