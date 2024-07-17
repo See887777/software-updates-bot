@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 mac x64 -- jdk-17.0.12+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-17T16:10:27Z</modified>
+    <issued>2024-07-17T16:10:27Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.12+7 -- Wed Jul 17 16:10:27 UTC 2024</summary>
+    <dc:date>2024-07-17T16:10:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 linux x64 -- jdk-17.0.12+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-17T16:10:08Z</modified>
+    <issued>2024-07-17T16:10:08Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.12+7 -- Wed Jul 17 16:10:08 UTC 2024</summary>
+    <dc:date>2024-07-17T16:10:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -294,30 +318,6 @@
     <issued>2024-04-18T16:09:25Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.11+9 -- Thu Apr 18 16:09:25 UTC 2024</summary>
     <dc:date>2024-04-18T16:09:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 linux x64 -- jdk-17.0.11+9</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-04-18T16:09:04Z</modified>
-    <issued>2024-04-18T16:09:04Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.11+9 -- Thu Apr 18 16:09:04 UTC 2024</summary>
-    <dc:date>2024-04-18T16:09:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 mac x64 -- jdk-17.0.11+9</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-04-18T16:08:56Z</modified>
-    <issued>2024-04-18T16:08:56Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.11+9 -- Thu Apr 18 16:08:56 UTC 2024</summary>
-    <dc:date>2024-04-18T16:08:56Z</dc:date>
   </entry>
   <entry>
     <title>GPG4Win -- 4.3.1 (2024-03-11)</title>

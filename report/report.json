@@ -97,8 +97,8 @@
       ],
       "name": "Adoptium jdk17 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.11+9",
-      "checkDate": "Apr 18, 2024, 4:09:04 PM",
+      "version": "jdk-17.0.12+7",
+      "checkDate": "Jul 17, 2024, 4:10:08 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -110,8 +110,8 @@
       ],
       "name": "Adoptium jdk17 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.11+9",
-      "checkDate": "Apr 18, 2024, 4:08:56 PM",
+      "version": "jdk-17.0.12+7",
+      "checkDate": "Jul 17, 2024, 4:10:27 PM",
       "logo": "ADOPTIUM"
     },
     {
