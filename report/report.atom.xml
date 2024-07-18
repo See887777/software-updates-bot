@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.4.5 to 18.4.8 ~ 2024-07-18</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-18T20:09:26Z</modified>
+    <issued>2024-07-18T20:09:26Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.4.5 to 18.4.8 ~ 2024-07-18 -- Thu Jul 18 20:09:26 UTC 2024</summary>
+    <dc:date>2024-07-18T20:09:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spring Boot -- 3.3.2.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-07-18T20:08:50Z</modified>
+    <issued>2024-07-18T20:08:50Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.2.RELEASE -- Thu Jul 18 20:08:50 UTC 2024</summary>
+    <dc:date>2024-07-18T20:08:50Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.24+8</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -140,18 +164,6 @@
     <dc:date>2024-07-04T20:08:32Z</dc:date>
   </entry>
   <entry>
-    <title>K-Lite Codec Pack Basic -- 18.4.0 to 18.4.5 ~ 2024-07-01</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-07-01T20:09:06Z</modified>
-    <issued>2024-07-01T20:09:06Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.4.0 to 18.4.5 ~ 2024-07-01 -- Mon Jul 01 20:09:06 UTC 2024</summary>
-    <dc:date>2024-07-01T20:09:06Z</dc:date>
-  </entry>
-  <entry>
     <title>Python 3 mac --  3.12.4</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2024-06-25T16:10:34Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.12.4 -- Tue Jun 25 16:10:34 UTC 2024</summary>
     <dc:date>2024-06-25T16:10:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.3.1.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-20T12:14:44Z</modified>
-    <issued>2024-06-20T12:14:44Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.1.RELEASE -- Thu Jun 20 12:14:44 UTC 2024</summary>
-    <dc:date>2024-06-20T12:14:44Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.21</title>
