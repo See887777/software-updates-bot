@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk8 mac x64 -- jdk8u422-b05.1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk8 mac x64 -- jdk8u422-b05.1 -- Thu Jul 25 20:09:35 UTC 2024</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Thu, 25 Jul 2024 20:09:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-07-25T20:09:35Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u422-b05</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 windows x64 -- jdk8u422-b05 -- Fri Jul 19 20:11:11 UTC 2024</description>
@@ -70,18 +82,6 @@
       <pubDate>Fri, 19 Jul 2024 20:11:11 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-07-19T20:11:11Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk8 mac x64 -- jdk8u422-b05</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 mac x64 -- jdk8u422-b05 -- Fri Jul 19 16:09:25 UTC 2024</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 19 Jul 2024 16:09:25 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-07-19T16:09:25Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 linux x64 -- jdk8u422-b05</title>

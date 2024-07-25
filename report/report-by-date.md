@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:09:35 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:11:11 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 16:09:25 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 00:37:27 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.5 to 18.4.8 ~ 2024-07-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 18 20:09:26 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 18 20:08:50 UTC 2024|
