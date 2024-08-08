@@ -60,6 +60,36 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 13 -- 13.16</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.16 -- Thu Aug 08 16:10:28 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 08 Aug 2024 16:10:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-08-08T16:10:28Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 12 -- 12.20</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 12 -- 12.20 -- Thu Aug 08 16:10:18 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 08 Aug 2024 16:10:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-08-08T16:10:18Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 14 -- 14.13</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.13 -- Thu Aug 08 16:10:06 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 08 Aug 2024 16:10:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-08-08T16:10:06Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 18.4.8 to 18.5.0 ~ 2024-08-06</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 18.4.8 to 18.5.0 ~ 2024-08-06 -- Tue Aug 06 20:08:48 UTC 2024</description>
@@ -283,36 +313,6 @@
       <pubDate>Fri, 17 May 2024 08:10:37 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-05-17T08:10:37Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.15</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.15 -- Thu May 09 16:09:47 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 09 May 2024 16:09:47 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-05-09T16:09:47Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.12</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.12 -- Thu May 09 16:09:43 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 09 May 2024 16:09:43 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-05-09T16:09:43Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 12 -- 12.19</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 12 -- 12.19 -- Thu May 09 16:09:38 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 09 May 2024 16:09:38 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-05-09T16:09:38Z</dc:date>
     </item>
     <item>
       <title>GPG4Win -- 4.3.1 (2024-03-11)</title>
