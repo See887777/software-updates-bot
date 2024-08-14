@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.10</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-08-14T16:12:08Z</modified>
+    <issued>2024-08-14T16:12:08Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.10 -- Wed Aug 14 16:12:08 UTC 2024</summary>
+    <dc:date>2024-08-14T16:12:08Z</dc:date>
+  </entry>
+  <entry>
     <title>MariaDB 10.6 -- 10.6.19</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -234,18 +246,6 @@
     <issued>2024-07-16T12:14:50Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances -- Tue Jul 16 12:14:50 UTC 2024</summary>
     <dc:date>2024-07-16T12:14:50Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.9</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-07-11T20:08:51Z</modified>
-    <issued>2024-07-11T20:08:51Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.9 -- Thu Jul 11 20:08:51 UTC 2024</summary>
-    <dc:date>2024-07-11T20:08:51Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.12.4</title>
