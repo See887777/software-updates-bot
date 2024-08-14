@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.6 -- 10.6.19</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-08-14T12:15:33Z</modified>
+    <issued>2024-08-14T12:15:33Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.19 -- Wed Aug 14 12:15:33 UTC 2024</summary>
+    <dc:date>2024-08-14T12:15:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.5 -- 10.5.26</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-08-14T12:15:04Z</modified>
+    <issued>2024-08-14T12:15:04Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.26 -- Wed Aug 14 12:15:04 UTC 2024</summary>
+    <dc:date>2024-08-14T12:15:04Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 13 -- 13.16</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -294,30 +318,6 @@
     <issued>2024-05-17T08:11:18Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.34 -- Fri May 17 08:11:18 UTC 2024</summary>
     <dc:date>2024-05-17T08:11:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.25</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-05-17T08:11:06Z</modified>
-    <issued>2024-05-17T08:11:06Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.25 -- Fri May 17 08:11:06 UTC 2024</summary>
-    <dc:date>2024-05-17T08:11:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.18</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-05-17T08:10:37Z</modified>
-    <issued>2024-05-17T08:10:37Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.18 -- Fri May 17 08:10:37 UTC 2024</summary>
-    <dc:date>2024-05-17T08:10:37Z</dc:date>
   </entry>
   <entry>
     <title>GPG4Win -- 4.3.1 (2024-03-11)</title>

@@ -60,6 +60,26 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>MariaDB 10.6 -- 10.6.19</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.6 -- 10.6.19 -- Wed Aug 14 12:15:33 UTC 2024</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Wed, 14 Aug 2024 12:15:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-08-14T12:15:33Z</dc:date>
+    </item>
+    <item>
+      <title>MariaDB 10.5 -- 10.5.26</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.5 -- 10.5.26 -- Wed Aug 14 12:15:04 UTC 2024</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Wed, 14 Aug 2024 12:15:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-08-14T12:15:04Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 13 -- 13.16</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 13 -- 13.16 -- Thu Aug 08 16:10:28 UTC 2024</description>
@@ -293,26 +313,6 @@
       <pubDate>Fri, 17 May 2024 08:11:18 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-05-17T08:11:18Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.5 -- 10.5.25</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.5 -- 10.5.25 -- Fri May 17 08:11:06 UTC 2024</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Fri, 17 May 2024 08:11:06 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-05-17T08:11:06Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.6 -- 10.6.18</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.6 -- 10.6.18 -- Fri May 17 08:10:37 UTC 2024</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Fri, 17 May 2024 08:10:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-05-17T08:10:37Z</dc:date>
     </item>
     <item>
       <title>GPG4Win -- 4.3.1 (2024-03-11)</title>
