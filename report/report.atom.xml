@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024)</title>
+    <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-08-16T12:15:37Z</modified>
+    <issued>2024-08-16T12:15:37Z</issued>
+    <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024) -- Fri Aug 16 12:15:37 UTC 2024</summary>
+    <dc:date>2024-08-16T12:15:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.10</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -366,18 +378,6 @@
     <issued>2024-02-09T12:12:07Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Feb 2024 -- Fri Feb 09 12:12:07 UTC 2024</summary>
     <dc:date>2024-02-09T12:12:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023)</title>
-    <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-12-13T04:09:25Z</modified>
-    <issued>2023-12-13T04:09:25Z</issued>
-    <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.1 (December 13, 2023) -- Wed Dec 13 04:09:25 UTC 2023</summary>
-    <dc:date>2023-12-13T04:09:25Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.3.2</title>
