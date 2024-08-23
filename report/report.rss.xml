@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.3.3.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.3.3.RELEASE -- Fri Aug 23 00:38:13 UTC 2024</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Fri, 23 Aug 2024 00:38:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-08-23T00:38:13Z</dc:date>
+    </item>
+    <item>
       <title>7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024)</title>
       <link>https://ramensoftware.com/7-taskbar-tweaker</link>
       <description>7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024) -- Fri Aug 16 12:15:37 UTC 2024</description>
@@ -173,17 +184,6 @@
       <pubDate>Fri, 19 Jul 2024 00:37:27 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-07-19T00:37:27Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.3.2.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.3.2.RELEASE -- Thu Jul 18 20:08:50 UTC 2024</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 18 Jul 2024 20:08:50 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-07-18T20:08:50Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.24+8</title>
