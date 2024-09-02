@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Maven -- 4.0.0-beta-4</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-02T12:16:22Z</modified>
+    <issued>2024-09-02T12:16:22Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-beta-4 -- Mon Sep 02 12:16:22 UTC 2024</summary>
+    <dc:date>2024-09-02T12:16:22Z</dc:date>
+  </entry>
+  <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)</title>
     <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
     <author>
@@ -318,18 +330,6 @@
     <issued>2024-06-09T12:13:58Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.21 -- Sun Jun 09 12:13:58 UTC 2024</summary>
     <dc:date>2024-06-09T12:13:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Maven -- 4.0.0-beta-3</title>
-    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-05-26T16:08:29Z</modified>
-    <issued>2024-05-26T16:08:29Z</issued>
-    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-beta-3 -- Sun May 26 16:08:29 UTC 2024</summary>
-    <dc:date>2024-05-26T16:08:29Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.4 -- 10.4.34</title>
