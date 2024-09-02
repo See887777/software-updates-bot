@@ -294,8 +294,8 @@
       ],
       "name": "Intel Bluetooth Drivers",
       "website": "https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/",
-      "version": "22.220.1",
-      "checkDate": "May 9, 2023, 12:51:43 PM",
+      "version": "23.70.3",
+      "checkDate": "Sep 2, 2024, 4:11:30 PM",
       "logo": "INTEL"
     },
     {
@@ -338,8 +338,8 @@
       ],
       "name": "K-Lite Codec Pack Basic",
       "website": "https://www.codecguide.com/download_k-lite_codec_pack_basic.htm",
-      "version": "18.4.8 to 18.5.0 ~ 2024-08-06",
-      "checkDate": "Aug 6, 2024, 8:08:48 PM",
+      "version": "18.5.0 to 18.5.0 ~ 2024-09-02",
+      "checkDate": "Sep 2, 2024, 4:11:45 PM",
       "logo": "KLITE"
     },
     {
@@ -702,8 +702,8 @@
       ],
       "name": "Visual C++ Redistributable Runtimes All-in-One",
       "website": "https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/",
-      "version": "Feb 2024",
-      "checkDate": "Feb 9, 2024, 12:12:07 PM",
+      "version": "May 2024",
+      "checkDate": "Sep 2, 2024, 4:11:36 PM",
       "logo": "VC_REDIST"
     }
   ]

@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.5.0 to 18.5.0 ~ 2024-09-02</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-02T16:11:45Z</modified>
+    <issued>2024-09-02T16:11:45Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.5.0 to 18.5.0 ~ 2024-09-02 -- Mon Sep 02 16:11:45 UTC 2024</summary>
+    <dc:date>2024-09-02T16:11:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- May 2024</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-02T16:11:36Z</modified>
+    <issued>2024-09-02T16:11:36Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- May 2024 -- Mon Sep 02 16:11:36 UTC 2024</summary>
+    <dc:date>2024-09-02T16:11:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Intel Bluetooth Drivers -- 23.70.3</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-02T16:11:30Z</modified>
+    <issued>2024-09-02T16:11:30Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.70.3 -- Mon Sep 02 16:11:30 UTC 2024</summary>
+    <dc:date>2024-09-02T16:11:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-beta-4</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -150,18 +186,6 @@
     <issued>2024-08-08T16:10:06Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.13 -- Thu Aug 08 16:10:06 UTC 2024</summary>
     <dc:date>2024-08-08T16:10:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 18.4.8 to 18.5.0 ~ 2024-08-06</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-08-06T20:08:48Z</modified>
-    <issued>2024-08-06T20:08:48Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.4.8 to 18.5.0 ~ 2024-08-06 -- Tue Aug 06 20:08:48 UTC 2024</summary>
-    <dc:date>2024-08-06T20:08:48Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u422-b05.1</title>
@@ -380,18 +404,6 @@
     <dc:date>2024-02-14T20:08:15Z</dc:date>
   </entry>
   <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- Feb 2024</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-02-09T12:12:07Z</modified>
-    <issued>2024-02-09T12:12:07Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Feb 2024 -- Fri Feb 09 12:12:07 UTC 2024</summary>
-    <dc:date>2024-02-09T12:12:07Z</dc:date>
-  </entry>
-  <entry>
     <title>Inkscape -- 1.3.2</title>
     <link rel="alternate" href="https://inkscape.org" />
     <author>
@@ -474,18 +486,6 @@
     <issued>2023-05-10T16:09:40Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.3 -- 10.3.39 -- Wed May 10 16:09:40 UTC 2023</summary>
     <dc:date>2023-05-10T16:09:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 22.220.1</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2023-05-09T12:51:43Z</modified>
-    <issued>2023-05-09T12:51:43Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 22.220.1 -- Tue May 09 12:51:43 UTC 2023</summary>
-    <dc:date>2023-05-09T12:51:43Z</dc:date>
   </entry>
   <entry>
     <title>Go -- go1.20.1</title>
