@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.10.1</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-09T16:11:22Z</modified>
+    <issued>2024-09-09T16:11:22Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.10.1 -- Mon Sep 09 16:11:22 UTC 2024</summary>
+    <dc:date>2024-09-09T16:11:22Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.5.0 to 18.5.0 ~ 2024-09-02</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2024-08-16T12:15:37Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024) -- Fri Aug 16 12:15:37 UTC 2024</summary>
     <dc:date>2024-08-16T12:15:37Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.10</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-08-14T16:12:08Z</modified>
-    <issued>2024-08-14T16:12:08Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.10 -- Wed Aug 14 16:12:08 UTC 2024</summary>
-    <dc:date>2024-08-14T16:12:08Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.6 -- 10.6.19</title>

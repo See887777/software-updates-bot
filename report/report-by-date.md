@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.10.1|[gradle.org](https://gradle.org/releases/)|Mon Sep 09 16:11:22 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.0 to 18.5.0 ~ 2024-09-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 02 16:11:45 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Mon Sep 02 16:11:36 UTC 2024|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.70.3|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon Sep 02 16:11:30 UTC 2024|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 23 00:38:13 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 12:15:37 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.10|[gradle.org](https://gradle.org/releases/)|Wed Aug 14 16:12:08 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:15:33 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:15:04 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:10:28 UTC 2024|
