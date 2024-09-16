@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.5.0 to 18.5.5 ~ 2024-09-02</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-16T16:12:45Z</modified>
+    <issued>2024-09-16T16:12:45Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.5.0 to 18.5.5 ~ 2024-09-02 -- Mon Sep 16 16:12:45 UTC 2024</summary>
+    <dc:date>2024-09-16T16:12:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2024-09-09T16:11:22Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 8.10.1 -- Mon Sep 09 16:11:22 UTC 2024</summary>
     <dc:date>2024-09-09T16:11:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 18.5.0 to 18.5.0 ~ 2024-09-02</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-09-02T16:11:45Z</modified>
-    <issued>2024-09-02T16:11:45Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.5.0 to 18.5.0 ~ 2024-09-02 -- Mon Sep 02 16:11:45 UTC 2024</summary>
-    <dc:date>2024-09-02T16:11:45Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- May 2024</title>
