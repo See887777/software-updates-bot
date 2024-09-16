@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-16T12:18:06Z</modified>
+    <issued>2024-09-16T12:18:06Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes -- Mon Sep 16 12:18:06 UTC 2024</summary>
+    <dc:date>2024-09-16T12:18:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.10.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -294,18 +306,6 @@
     <issued>2024-07-17T16:10:08Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.12+7 -- Wed Jul 17 16:10:08 UTC 2024</summary>
     <dc:date>2024-07-17T16:10:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-07-16T12:14:50Z</modified>
-    <issued>2024-07-16T12:14:50Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances -- Tue Jul 16 12:14:50 UTC 2024</summary>
-    <dc:date>2024-07-16T12:14:50Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.12.4</title>

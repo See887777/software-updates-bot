@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 315 - les températures ne sont pas déterministes|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 16 12:18:06 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.1|[gradle.org](https://gradle.org/releases/)|Mon Sep 09 16:11:22 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.0 to 18.5.0 ~ 2024-09-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 02 16:11:45 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Mon Sep 02 16:11:36 UTC 2024|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.24+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 18 00:36:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:10:27 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:10:08 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:14:50 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jul 04 20:08:32 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Jun 27 20:08:41 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.4|[www.python.org](https://www.python.org/downloads/source/)|Tue Jun 25 16:10:34 UTC 2024|

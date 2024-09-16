@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes -- Mon Sep 16 12:18:06 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Mon, 16 Sep 2024 12:18:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-09-16T12:18:06Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.10.1</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.10.1 -- Mon Sep 09 16:11:22 UTC 2024</description>
@@ -295,15 +304,6 @@
       <pubDate>Wed, 17 Jul 2024 16:10:08 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-07-17T16:10:08Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 314 - 1000 fois 1000 dépendances -- Tue Jul 16 12:14:50 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Tue, 16 Jul 2024 12:14:50 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-07-16T12:14:50Z</dc:date>
     </item>
     <item>
       <title>Python 3 windows --  3.12.4</title>
