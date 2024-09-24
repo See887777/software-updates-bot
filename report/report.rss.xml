@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.10.2</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.10.2 -- Tue Sep 24 00:42:13 UTC 2024</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Tue, 24 Sep 2024 00:42:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-09-24T00:42:13Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.3.4.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.3.4.RELEASE -- Thu Sep 19 12:15:59 UTC 2024</description>
@@ -88,16 +98,6 @@
       <pubDate>Mon, 16 Sep 2024 12:18:06 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-09-16T12:18:06Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.10.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.10.1 -- Mon Sep 09 16:11:22 UTC 2024</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Mon, 09 Sep 2024 16:11:22 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-09-09T16:11:22Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- May 2024</title>

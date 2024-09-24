@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.10.2</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-09-24T00:42:13Z</modified>
+    <issued>2024-09-24T00:42:13Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.10.2 -- Tue Sep 24 00:42:13 UTC 2024</summary>
+    <dc:date>2024-09-24T00:42:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.3.4.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2024-09-16T12:18:06Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes -- Mon Sep 16 12:18:06 UTC 2024</summary>
     <dc:date>2024-09-16T12:18:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.10.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-09-09T16:11:22Z</modified>
-    <issued>2024-09-09T16:11:22Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.10.1 -- Mon Sep 09 16:11:22 UTC 2024</summary>
-    <dc:date>2024-09-09T16:11:22Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- May 2024</title>
