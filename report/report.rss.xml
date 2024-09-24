@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 windows --  3.12.6</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.12.6 -- Tue Sep 24 20:11:41 UTC 2024</description>
+      <category>Python</category>
+      <pubDate>Tue, 24 Sep 2024 20:11:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-09-24T20:11:41Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.10.2</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.10.2 -- Tue Sep 24 00:42:13 UTC 2024</description>
@@ -304,15 +313,6 @@
       <pubDate>Wed, 17 Jul 2024 16:10:08 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-07-17T16:10:08Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.12.4</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.12.4 -- Thu Jul 04 20:08:32 UTC 2024</description>
-      <category>Python</category>
-      <pubDate>Thu, 04 Jul 2024 20:08:32 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-07-04T20:08:32Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.12.4</title>
