@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.12.7</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.12.7 -- Tue Oct 01 16:11:53 UTC 2024</description>
+      <category>Python</category>
+      <pubDate>Tue, 01 Oct 2024 16:11:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-10-01T16:11:53Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.12.6</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.12.6 -- Tue Sep 24 20:11:41 UTC 2024</description>
@@ -313,15 +322,6 @@
       <pubDate>Wed, 17 Jul 2024 16:10:08 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-07-17T16:10:08Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.12.4</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.12.4 -- Thu Jun 27 20:08:41 UTC 2024</description>
-      <category>Python</category>
-      <pubDate>Thu, 27 Jun 2024 20:08:41 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-06-27T20:08:41Z</dc:date>
     </item>
     <item>
       <title>Python 3 source --  3.12.4</title>

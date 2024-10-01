@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 mac --  3.12.7</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-10-01T16:11:53Z</modified>
+    <issued>2024-10-01T16:11:53Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.12.7 -- Tue Oct 01 16:11:53 UTC 2024</summary>
+    <dc:date>2024-10-01T16:11:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.12.6</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -318,18 +330,6 @@
     <issued>2024-07-17T16:10:08Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.12+7 -- Wed Jul 17 16:10:08 UTC 2024</summary>
     <dc:date>2024-07-17T16:10:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.12.4</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-27T20:08:41Z</modified>
-    <issued>2024-06-27T20:08:41Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.12.4 -- Thu Jun 27 20:08:41 UTC 2024</summary>
-    <dc:date>2024-06-27T20:08:41Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 source --  3.12.4</title>
