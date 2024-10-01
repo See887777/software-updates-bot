@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 source| 3.12.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 01 20:11:34 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 01 16:11:53 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.6|[www.python.org](https://www.python.org/downloads/windows/)|Tue Sep 24 20:11:41 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:42:13 UTC 2024|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.24+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 18 00:36:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:10:27 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:10:08 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 source| 3.12.4|[www.python.org](https://www.python.org/downloads/source/)|Tue Jun 25 16:10:34 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:18 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:12:03 UTC 2024|
