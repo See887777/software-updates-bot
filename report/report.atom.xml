@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.5.5 to 18.6.0 ~ 2024-10-05</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-10-05T20:27:13Z</modified>
+    <issued>2024-10-05T20:27:13Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.5.5 to 18.6.0 ~ 2024-10-05 -- Sat Oct 05 20:27:13 UTC 2024</summary>
+    <dc:date>2024-10-05T20:27:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 source --  3.12.7</title>
     <link rel="alternate" href="https://www.python.org/downloads/source/" />
     <author>
@@ -90,18 +102,6 @@
     <issued>2024-09-19T12:15:59Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.4.RELEASE -- Thu Sep 19 12:15:59 UTC 2024</summary>
     <dc:date>2024-09-19T12:15:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 18.5.0 to 18.5.5 ~ 2024-09-02</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-09-16T16:12:45Z</modified>
-    <issued>2024-09-16T16:12:45Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.5.0 to 18.5.5 ~ 2024-09-02 -- Mon Sep 16 16:12:45 UTC 2024</summary>
-    <dc:date>2024-09-16T16:12:45Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes</title>
