@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 316 - Devoxx Belgique 2024 - On rase gratis</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 316 - Devoxx Belgique 2024 - On rase gratis -- Sun Oct 13 12:15:29 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Sun, 13 Oct 2024 12:15:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-10-13T12:15:29Z</dc:date>
+    </item>
+    <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Oct 2024</title>
       <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
       <description>Visual C++ Redistributable Runtimes All-in-One -- Oct 2024 -- Thu Oct 10 12:16:39 UTC 2024</description>
@@ -126,15 +135,6 @@
       <pubDate>Thu, 19 Sep 2024 12:15:59 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-09-19T12:15:59Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 315 - les températures ne sont pas déterministes -- Mon Sep 16 12:18:06 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Mon, 16 Sep 2024 12:18:06 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-09-16T12:18:06Z</dc:date>
     </item>
     <item>
       <title>Intel Bluetooth Drivers -- 23.70.3</title>
