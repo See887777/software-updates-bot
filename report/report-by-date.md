@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:25:32 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:12:38 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 16 20:10:30 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 16 08:13:27 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:23:42 UTC 2024|
@@ -23,8 +25,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 00:37:27 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.24+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 18 16:09:59 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 18 16:09:52 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.24+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 18 16:09:36 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.24+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 18 00:36:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:10:27 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:10:08 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
