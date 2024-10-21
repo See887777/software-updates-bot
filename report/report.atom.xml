@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u432-b06</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-10-21T16:24:55Z</modified>
+    <issued>2024-10-21T16:24:55Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u432-b06 -- Mon Oct 21 16:24:55 UTC 2024</summary>
+    <dc:date>2024-10-21T16:24:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 317 - les nouvelles paramétriques</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-10-21T16:11:50Z</modified>
+    <issued>2024-10-21T16:11:50Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 317 - les nouvelles paramétriques -- Mon Oct 21 16:11:50 UTC 2024</summary>
+    <dc:date>2024-10-21T16:11:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 mac x64 -- jdk8u432-b06</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-10-21T16:11:48Z</modified>
+    <issued>2024-10-21T16:11:48Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u432-b06 -- Mon Oct 21 16:11:48 UTC 2024</summary>
+    <dc:date>2024-10-21T16:11:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.13+11</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -150,18 +186,6 @@
     <issued>2024-10-13T20:23:42Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.4 -- Sun Oct 13 20:23:42 UTC 2024</summary>
     <dc:date>2024-10-13T20:23:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 316 - Devoxx Belgique 2024 - On rase gratis</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-13T12:15:29Z</modified>
-    <issued>2024-10-13T12:15:29Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 316 - Devoxx Belgique 2024 - On rase gratis -- Sun Oct 13 12:15:29 UTC 2024</summary>
-    <dc:date>2024-10-13T12:15:29Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Oct 2024</title>
@@ -330,30 +354,6 @@
     <issued>2024-08-08T16:10:06Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.13 -- Thu Aug 08 16:10:06 UTC 2024</summary>
     <dc:date>2024-08-08T16:10:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 mac x64 -- jdk8u422-b05.1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-07-25T20:09:35Z</modified>
-    <issued>2024-07-25T20:09:35Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u422-b05.1 -- Thu Jul 25 20:09:35 UTC 2024</summary>
-    <dc:date>2024-07-25T20:09:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u422-b05</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-07-19T20:11:11Z</modified>
-    <issued>2024-07-19T20:11:11Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u422-b05 -- Fri Jul 19 20:11:11 UTC 2024</summary>
-    <dc:date>2024-07-19T20:11:11Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.21</title>
