@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Maven -- 4.0.0-beta-5</title>
+      <link>https://maven.apache.org/download.cgi</link>
+      <description>Maven -- 4.0.0-beta-5 -- Tue Oct 22 16:12:04 UTC 2024</description>
+      <category>Java</category>
+      <category>Maven</category>
+      <pubDate>Tue, 22 Oct 2024 16:12:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-10-22T16:12:04Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u432-b06</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 windows x64 -- jdk8u432-b06 -- Mon Oct 21 16:24:55 UTC 2024</description>
@@ -263,16 +273,6 @@
       <pubDate>Mon, 02 Sep 2024 16:11:30 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-09-02T16:11:30Z</dc:date>
-    </item>
-    <item>
-      <title>Maven -- 4.0.0-beta-4</title>
-      <link>https://maven.apache.org/download.cgi</link>
-      <description>Maven -- 4.0.0-beta-4 -- Mon Sep 02 12:16:22 UTC 2024</description>
-      <category>Java</category>
-      <category>Maven</category>
-      <pubDate>Mon, 02 Sep 2024 12:16:22 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-09-02T12:16:22Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)</title>

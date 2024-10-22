@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-beta-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Oct 22 16:12:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:24:55 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 317 - les nouvelles paramétriques|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 21 16:11:50 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:11:48 UTC 2024|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:42:13 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 19 12:15:59 UTC 2024|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.70.3|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon Sep 02 16:11:30 UTC 2024|
-|![logo](../media/logo/maven.png) Maven|4.0.0-beta-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Sep 02 12:16:22 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 12:15:37 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:15:33 UTC 2024|
