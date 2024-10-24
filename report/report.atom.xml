@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.3.5.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-10-24T16:24:58Z</modified>
+    <issued>2024-10-24T16:24:58Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.5.RELEASE -- Thu Oct 24 16:24:58 UTC 2024</summary>
+    <dc:date>2024-10-24T16:24:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-beta-5</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -246,18 +258,6 @@
     <issued>2024-09-24T00:42:13Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 8.10.2 -- Tue Sep 24 00:42:13 UTC 2024</summary>
     <dc:date>2024-09-24T00:42:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.3.4.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-09-19T12:15:59Z</modified>
-    <issued>2024-09-19T12:15:59Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.4.RELEASE -- Thu Sep 19 12:15:59 UTC 2024</summary>
-    <dc:date>2024-09-19T12:15:59Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 23.70.3</title>
