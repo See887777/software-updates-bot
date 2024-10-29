@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.0 to 18.6.5 ~ 2024-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Oct 29 20:11:17 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 28 20:10:51 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:24:58 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Oct 22 16:12:04 UTC 2024|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.13.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 16 08:13:27 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:23:42 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Oct 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Oct 10 12:16:39 UTC 2024|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.5 to 18.6.0 ~ 2024-10-05|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Oct 05 20:27:13 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:42:13 UTC 2024|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.70.3|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon Sep 02 16:11:30 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|
