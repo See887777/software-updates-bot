@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.5 -- 10.5.27</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-04T12:31:30Z</modified>
+    <issued>2024-11-04T12:31:30Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.27 -- Mon Nov 04 12:31:30 UTC 2024</summary>
+    <dc:date>2024-11-04T12:31:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.6 -- 10.6.20</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-04T12:24:22Z</modified>
+    <issued>2024-11-04T12:24:22Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.20 -- Mon Nov 04 12:24:22 UTC 2024</summary>
+    <dc:date>2024-11-04T12:24:22Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.6.0 to 18.6.5 ~ 2024-10-29</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -294,30 +318,6 @@
     <issued>2024-08-16T12:15:37Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024) -- Fri Aug 16 12:15:37 UTC 2024</summary>
     <dc:date>2024-08-16T12:15:37Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.19</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-08-14T12:15:33Z</modified>
-    <issued>2024-08-14T12:15:33Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.19 -- Wed Aug 14 12:15:33 UTC 2024</summary>
-    <dc:date>2024-08-14T12:15:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.26</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-08-14T12:15:04Z</modified>
-    <issued>2024-08-14T12:15:04Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.26 -- Wed Aug 14 12:15:04 UTC 2024</summary>
-    <dc:date>2024-08-14T12:15:04Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 13 -- 13.16</title>

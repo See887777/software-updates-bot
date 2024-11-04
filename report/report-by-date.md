@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:31:30 UTC 2024|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:24:22 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.0 to 18.6.5 ~ 2024-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Oct 29 20:11:17 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 28 20:10:51 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:24:58 UTC 2024|
@@ -22,8 +24,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.70.3|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon Sep 02 16:11:30 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 12:15:37 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:15:33 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:15:04 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:10:28 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:10:18 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:10:06 UTC 2024|
