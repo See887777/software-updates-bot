@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:11:37 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:31:30 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:24:22 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.0 to 18.6.5 ~ 2024-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Oct 29 20:11:17 UTC 2024|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:24:58 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Oct 22 16:12:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:24:55 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 317 - les nouvelles paramétriques|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 21 16:11:50 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:11:48 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 21 12:31:09 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 18 16:17:50 UTC 2024|
