@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.11</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-11T16:11:06Z</modified>
+    <issued>2024-11-11T16:11:06Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.11 -- Mon Nov 11 16:11:06 UTC 2024</summary>
+    <dc:date>2024-11-11T16:11:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 318 - La faille sous la faille sous la faille</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -270,18 +282,6 @@
     <issued>2024-10-10T12:16:39Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Oct 2024 -- Thu Oct 10 12:16:39 UTC 2024</summary>
     <dc:date>2024-10-10T12:16:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.10.2</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-09-24T00:42:13Z</modified>
-    <issued>2024-09-24T00:42:13Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.10.2 -- Tue Sep 24 00:42:13 UTC 2024</summary>
-    <dc:date>2024-09-24T00:42:13Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 23.70.3</title>
