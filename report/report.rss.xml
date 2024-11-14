@@ -60,6 +60,36 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 12 -- 12.21</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 12 -- 12.21 -- Thu Nov 14 16:25:09 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 14 Nov 2024 16:25:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-14T16:25:09Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 13 -- 13.17</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.17 -- Thu Nov 14 16:17:59 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 14 Nov 2024 16:17:59 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-14T16:17:59Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 14 -- 14.14</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.14 -- Thu Nov 14 16:12:12 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 14 Nov 2024 16:12:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-14T16:12:12Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.11</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.11 -- Mon Nov 11 16:11:06 UTC 2024</description>
@@ -311,36 +341,6 @@
       <pubDate>Fri, 16 Aug 2024 12:15:37 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-08-16T12:15:37Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.16</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.16 -- Thu Aug 08 16:10:28 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 08 Aug 2024 16:10:28 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-08-08T16:10:28Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 12 -- 12.20</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 12 -- 12.20 -- Thu Aug 08 16:10:18 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 08 Aug 2024 16:10:18 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-08-08T16:10:18Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.13</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.13 -- Thu Aug 08 16:10:06 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 08 Aug 2024 16:10:06 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-08-08T16:10:06Z</dc:date>
     </item>
     <item>
       <title>VLC -- 3.0.21</title>
