@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2024</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-16T16:10:15Z</modified>
+    <issued>2024-11-16T16:10:15Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Nov 2024 -- Sat Nov 16 16:10:15 UTC 2024</summary>
+    <dc:date>2024-11-16T16:10:15Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 12 -- 12.21</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -306,18 +318,6 @@
     <issued>2024-10-13T20:23:42Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.4 -- Sun Oct 13 20:23:42 UTC 2024</summary>
     <dc:date>2024-10-13T20:23:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- Oct 2024</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-10T12:16:39Z</modified>
-    <issued>2024-10-10T12:16:39Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Oct 2024 -- Thu Oct 10 12:16:39 UTC 2024</summary>
-    <dc:date>2024-10-10T12:16:39Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 23.70.3</title>

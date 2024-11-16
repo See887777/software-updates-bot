@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2024</title>
+      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
+      <description>Visual C++ Redistributable Runtimes All-in-One -- Nov 2024 -- Sat Nov 16 16:10:15 UTC 2024</description>
+      <category>Redistributable Runtimes</category>
+      <category>MS Windows</category>
+      <pubDate>Sat, 16 Nov 2024 16:10:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-16T16:10:15Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 12 -- 12.21</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 12 -- 12.21 -- Thu Nov 14 16:25:09 UTC 2024</description>
@@ -303,16 +313,6 @@
       <pubDate>Sun, 13 Oct 2024 20:23:42 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-10-13T20:23:42Z</dc:date>
-    </item>
-    <item>
-      <title>Visual C++ Redistributable Runtimes All-in-One -- Oct 2024</title>
-      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
-      <description>Visual C++ Redistributable Runtimes All-in-One -- Oct 2024 -- Thu Oct 10 12:16:39 UTC 2024</description>
-      <category>Redistributable Runtimes</category>
-      <category>MS Windows</category>
-      <pubDate>Thu, 10 Oct 2024 12:16:39 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-10-10T12:16:39Z</dc:date>
     </item>
     <item>
       <title>Intel Bluetooth Drivers -- 23.70.3</title>
