@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.11.1</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.11.1 -- Wed Nov 20 20:11:05 UTC 2024</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Wed, 20 Nov 2024 20:11:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-20T20:11:05Z</dc:date>
+    </item>
+    <item>
       <title>Intel Bluetooth Drivers -- 23.90.0</title>
       <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
       <description>Intel Bluetooth Drivers -- 23.90.0 -- Wed Nov 20 00:45:10 UTC 2024</description>
@@ -108,16 +118,6 @@
       <pubDate>Thu, 14 Nov 2024 16:12:12 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-11-14T16:12:12Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.11</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.11 -- Mon Nov 11 16:11:06 UTC 2024</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Mon, 11 Nov 2024 16:11:06 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-11T16:11:06Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 318 - La faille sous la faille sous la faille</title>

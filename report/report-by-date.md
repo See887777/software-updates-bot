@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:11:05 UTC 2024|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.90.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Nov 20 00:45:10 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sat Nov 16 16:10:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:25:09 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:17:59 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:12:12 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.11|[gradle.org](https://gradle.org/releases/)|Mon Nov 11 16:11:06 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:11:37 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:31:30 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:24:22 UTC 2024|
