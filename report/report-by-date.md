@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.90.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Nov 20 00:45:10 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sat Nov 16 16:10:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:25:09 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:17:59 UTC 2024|
@@ -24,7 +25,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 16 20:10:30 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 16 08:13:27 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:23:42 UTC 2024|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.70.3|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon Sep 02 16:11:30 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 12:15:37 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|

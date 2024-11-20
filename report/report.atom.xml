@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 23.90.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-20T00:45:10Z</modified>
+    <issued>2024-11-20T00:45:10Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.90.0 -- Wed Nov 20 00:45:10 UTC 2024</summary>
+    <dc:date>2024-11-20T00:45:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2024</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -318,18 +330,6 @@
     <issued>2024-10-13T20:23:42Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.4 -- Sun Oct 13 20:23:42 UTC 2024</summary>
     <dc:date>2024-10-13T20:23:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 23.70.3</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-09-02T16:11:30Z</modified>
-    <issued>2024-09-02T16:11:30Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.70.3 -- Mon Sep 02 16:11:30 UTC 2024</summary>
-    <dc:date>2024-09-02T16:11:30Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)</title>
