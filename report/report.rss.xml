@@ -60,15 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
-      <title>Spring Boot -- 3.3.6.RELEASE</title>
+      <title>Spring Boot -- 3.4.0.RELEASE</title>
       <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.3.6.RELEASE -- Thu Nov 21 16:25:41 UTC 2024</description>
+      <description>Spring Boot -- 3.4.0.RELEASE -- Thu Nov 21 20:24:54 UTC 2024</description>
       <category>Java</category>
       <category>Library</category>
       <category>Spring Framework</category>
-      <pubDate>Thu, 21 Nov 2024 16:25:41 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 20:24:54 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2024-11-21T16:25:41Z</dc:date>
+      <dc:date>2024-11-21T20:24:54Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 12 -- 12.22</title>

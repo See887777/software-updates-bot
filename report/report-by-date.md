@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.3.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 16:25:41 UTC 2024|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 20:24:54 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:18:24 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:12:33 UTC 2024|
