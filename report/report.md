@@ -45,9 +45,9 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:25:09 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:17:59 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:12:12 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:18:24 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:12:33 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
@@ -57,7 +57,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 28 20:10:51 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 16 08:13:27 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 16 20:10:30 UTC 2024|
-|![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:24:58 UTC 2024|
+|![logo](../media/logo/springboot.png) Spring Boot|3.3.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 16:25:41 UTC 2024|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:09:08 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|

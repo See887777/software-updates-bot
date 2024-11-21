@@ -533,8 +533,8 @@
       ],
       "name": "PostgreSQL 12",
       "website": "https://www.postgresql.org/download/",
-      "version": "12.21",
-      "checkDate": "Nov 14, 2024, 4:25:09 PM",
+      "version": "12.22",
+      "checkDate": "Nov 21, 2024, 4:25:34 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -544,8 +544,8 @@
       ],
       "name": "PostgreSQL 13",
       "website": "https://www.postgresql.org/download/",
-      "version": "13.17",
-      "checkDate": "Nov 14, 2024, 4:17:59 PM",
+      "version": "13.18",
+      "checkDate": "Nov 21, 2024, 4:18:24 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -555,8 +555,8 @@
       ],
       "name": "PostgreSQL 14",
       "website": "https://www.postgresql.org/download/",
-      "version": "14.14",
-      "checkDate": "Nov 14, 2024, 4:12:12 PM",
+      "version": "14.15",
+      "checkDate": "Nov 21, 2024, 4:12:33 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -660,8 +660,8 @@
       ],
       "name": "Spring Boot",
       "website": "https://start.spring.io",
-      "version": "3.3.5.RELEASE",
-      "checkDate": "Oct 24, 2024, 4:24:58 PM",
+      "version": "3.3.6.RELEASE",
+      "checkDate": "Nov 21, 2024, 4:25:41 PM",
       "logo": "SPRING_BOOT"
     },
     {

@@ -60,6 +60,47 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.3.6.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.3.6.RELEASE -- Thu Nov 21 16:25:41 UTC 2024</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 21 Nov 2024 16:25:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-21T16:25:41Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 12 -- 12.22</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 12 -- 12.22 -- Thu Nov 21 16:25:34 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 21 Nov 2024 16:25:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-21T16:25:34Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 13 -- 13.18</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.18 -- Thu Nov 21 16:18:24 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 21 Nov 2024 16:18:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-21T16:18:24Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 14 -- 14.15</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.15 -- Thu Nov 21 16:12:33 UTC 2024</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 21 Nov 2024 16:12:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-11-21T16:12:33Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.11.1</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.11.1 -- Wed Nov 20 20:11:05 UTC 2024</description>
@@ -88,36 +129,6 @@
       <pubDate>Sat, 16 Nov 2024 16:10:15 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-11-16T16:10:15Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 12 -- 12.21</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 12 -- 12.21 -- Thu Nov 14 16:25:09 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 14 Nov 2024 16:25:09 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-14T16:25:09Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.17</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.17 -- Thu Nov 14 16:17:59 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 14 Nov 2024 16:17:59 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-14T16:17:59Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.14</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.14 -- Thu Nov 14 16:12:12 UTC 2024</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 14 Nov 2024 16:12:12 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-14T16:12:12Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 318 - La faille sous la faille sous la faille</title>
@@ -166,17 +177,6 @@
       <pubDate>Mon, 28 Oct 2024 20:10:51 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-10-28T20:10:51Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.3.5.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.3.5.RELEASE -- Thu Oct 24 16:24:58 UTC 2024</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 24 Oct 2024 16:24:58 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-10-24T16:24:58Z</dc:date>
     </item>
     <item>
       <title>Maven -- 4.0.0-beta-5</title>

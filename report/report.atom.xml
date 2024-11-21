@@ -32,6 +32,54 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.3.6.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-21T16:25:41Z</modified>
+    <issued>2024-11-21T16:25:41Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.6.RELEASE -- Thu Nov 21 16:25:41 UTC 2024</summary>
+    <dc:date>2024-11-21T16:25:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 12 -- 12.22</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-21T16:25:34Z</modified>
+    <issued>2024-11-21T16:25:34Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.22 -- Thu Nov 21 16:25:34 UTC 2024</summary>
+    <dc:date>2024-11-21T16:25:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.18</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-21T16:18:24Z</modified>
+    <issued>2024-11-21T16:18:24Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.18 -- Thu Nov 21 16:18:24 UTC 2024</summary>
+    <dc:date>2024-11-21T16:18:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 14 -- 14.15</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-21T16:12:33Z</modified>
+    <issued>2024-11-21T16:12:33Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.15 -- Thu Nov 21 16:12:33 UTC 2024</summary>
+    <dc:date>2024-11-21T16:12:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.11.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -66,42 +114,6 @@
     <issued>2024-11-16T16:10:15Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Nov 2024 -- Sat Nov 16 16:10:15 UTC 2024</summary>
     <dc:date>2024-11-16T16:10:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 12 -- 12.21</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-14T16:25:09Z</modified>
-    <issued>2024-11-14T16:25:09Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.21 -- Thu Nov 14 16:25:09 UTC 2024</summary>
-    <dc:date>2024-11-14T16:25:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.17</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-14T16:17:59Z</modified>
-    <issued>2024-11-14T16:17:59Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.17 -- Thu Nov 14 16:17:59 UTC 2024</summary>
-    <dc:date>2024-11-14T16:17:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.14</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-14T16:12:12Z</modified>
-    <issued>2024-11-14T16:12:12Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.14 -- Thu Nov 14 16:12:12 UTC 2024</summary>
-    <dc:date>2024-11-14T16:12:12Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 318 - La faille sous la faille sous la faille</title>
@@ -162,18 +174,6 @@
     <issued>2024-10-28T20:10:51Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 mac --  3.13.0 -- Mon Oct 28 20:10:51 UTC 2024</summary>
     <dc:date>2024-10-28T20:10:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.3.5.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-24T16:24:58Z</modified>
-    <issued>2024-10-24T16:24:58Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.3.5.RELEASE -- Thu Oct 24 16:24:58 UTC 2024</summary>
-    <dc:date>2024-10-24T16:24:58Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-beta-5</title>
