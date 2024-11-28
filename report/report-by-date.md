@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 12:18:15 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.5 to 18.7.0 ~ 2024-11-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Nov 26 20:12:09 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 20:24:54 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
@@ -29,7 +30,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 12:15:37 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:18 UTC 2024|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:12:03 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:31:13 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|

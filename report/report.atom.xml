@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>GPG4Win -- 4.4.0 (2024-11-27)</title>
+    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-11-28T12:18:15Z</modified>
+    <issued>2024-11-28T12:18:15Z</issued>
+    <summary type="text/plain" mode="escaped">GPG4Win -- 4.4.0 (2024-11-27) -- Thu Nov 28 12:18:15 UTC 2024</summary>
+    <dc:date>2024-11-28T12:18:15Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.6.5 to 18.7.0 ~ 2024-11-26</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -378,18 +390,6 @@
     <issued>2024-05-17T08:11:18Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.34 -- Fri May 17 08:11:18 UTC 2024</summary>
     <dc:date>2024-05-17T08:11:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>GPG4Win -- 4.3.1 (2024-03-11)</title>
-    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-03-12T12:12:03Z</modified>
-    <issued>2024-03-12T12:12:03Z</issued>
-    <summary type="text/plain" mode="escaped">GPG4Win -- 4.3.1 (2024-03-11) -- Tue Mar 12 12:12:03 UTC 2024</summary>
-    <dc:date>2024-03-12T12:12:03Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS Current -- v21.7.1</title>
