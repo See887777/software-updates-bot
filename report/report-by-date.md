@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 11 12:18:42 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-1|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Nov 29 08:27:33 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 12:18:15 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.5 to 18.7.0 ~ 2024-11-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Nov 26 20:12:09 UTC 2024|
@@ -23,7 +24,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 00:56:26 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:25:32 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:12:38 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 16 20:10:30 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 16 08:13:27 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:23:42 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|

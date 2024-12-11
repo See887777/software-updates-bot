@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 windows --  3.13.1</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.13.1 -- Wed Dec 11 12:18:42 UTC 2024</description>
+      <category>Python</category>
+      <pubDate>Wed, 11 Dec 2024 12:18:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-12-11T12:18:42Z</dc:date>
+    </item>
+    <item>
       <title>Maven -- 4.0.0-rc-1</title>
       <link>https://maven.apache.org/download.cgi</link>
       <description>Maven -- 4.0.0-rc-1 -- Fri Nov 29 08:27:33 UTC 2024</description>
@@ -305,15 +314,6 @@
       <pubDate>Thu, 17 Oct 2024 16:12:38 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-10-17T16:12:38Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.13.0</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.13.0 -- Wed Oct 16 20:10:30 UTC 2024</description>
-      <category>Python</category>
-      <pubDate>Wed, 16 Oct 2024 20:10:30 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-10-16T20:10:30Z</dc:date>
     </item>
     <item>
       <title>Python 3 source --  3.13.0</title>
