@@ -60,6 +60,25 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Maven -- 4.0.0-rc-2</title>
+      <link>https://maven.apache.org/download.cgi</link>
+      <description>Maven -- 4.0.0-rc-2 -- Tue Dec 17 01:01:14 UTC 2024</description>
+      <category>Java</category>
+      <category>Maven</category>
+      <pubDate>Tue, 17 Dec 2024 01:01:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-12-17T01:01:14Z</dc:date>
+    </item>
+    <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 319 - le ramasse-miettes-charognes</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 319 - le ramasse-miettes-charognes -- Tue Dec 17 00:47:57 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Tue, 17 Dec 2024 00:47:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-12-17T00:47:57Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.13.1</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.13.1 -- Wed Dec 11 12:18:42 UTC 2024</description>
@@ -67,16 +86,6 @@
       <pubDate>Wed, 11 Dec 2024 12:18:42 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-12-11T12:18:42Z</dc:date>
-    </item>
-    <item>
-      <title>Maven -- 4.0.0-rc-1</title>
-      <link>https://maven.apache.org/download.cgi</link>
-      <description>Maven -- 4.0.0-rc-1 -- Fri Nov 29 08:27:33 UTC 2024</description>
-      <category>Java</category>
-      <category>Maven</category>
-      <pubDate>Fri, 29 Nov 2024 08:27:33 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-29T08:27:33Z</dc:date>
     </item>
     <item>
       <title>GPG4Win -- 4.4.0 (2024-11-27)</title>
@@ -168,15 +177,6 @@
       <pubDate>Sat, 16 Nov 2024 16:10:15 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-11-16T16:10:15Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 318 - La faille sous la faille sous la faille</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 318 - La faille sous la faille sous la faille -- Fri Nov 08 16:11:37 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Fri, 08 Nov 2024 16:11:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-08T16:11:37Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.5 -- 10.5.27</title>

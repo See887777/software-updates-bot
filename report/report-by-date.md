@@ -1,7 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 01:01:14 UTC 2024|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 319 - le ramasse-miettes-charognes|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Dec 17 00:47:57 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 11 12:18:42 UTC 2024|
-|![logo](../media/logo/maven.png) Maven|4.0.0-rc-1|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Nov 29 08:27:33 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 12:18:15 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.5 to 18.7.0 ~ 2024-11-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Nov 26 20:12:09 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 20:24:54 UTC 2024|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:11:05 UTC 2024|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.90.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Nov 20 00:45:10 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sat Nov 16 16:10:15 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:11:37 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:31:30 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:24:22 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 28 20:10:51 UTC 2024|
