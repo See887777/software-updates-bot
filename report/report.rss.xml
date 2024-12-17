@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.13.1</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.13.1 -- Tue Dec 17 16:12:26 UTC 2024</description>
+      <category>Python</category>
+      <pubDate>Tue, 17 Dec 2024 16:12:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-12-17T16:12:26Z</dc:date>
+    </item>
+    <item>
       <title>Maven -- 4.0.0-rc-2</title>
       <link>https://maven.apache.org/download.cgi</link>
       <description>Maven -- 4.0.0-rc-2 -- Tue Dec 17 01:01:14 UTC 2024</description>
@@ -197,15 +206,6 @@
       <pubDate>Mon, 04 Nov 2024 12:24:22 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-11-04T12:24:22Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.13.0</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.13.0 -- Mon Oct 28 20:10:51 UTC 2024</description>
-      <category>Python</category>
-      <pubDate>Mon, 28 Oct 2024 20:10:51 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-10-28T20:10:51Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u432-b06</title>
