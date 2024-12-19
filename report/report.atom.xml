@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.4.1.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-12-19T16:11:25Z</modified>
+    <issued>2024-12-19T16:11:25Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.4.1.RELEASE -- Thu Dec 19 16:11:25 UTC 2024</summary>
+    <dc:date>2024-12-19T16:11:25Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.7.0 to 18.7.5 ~ 2024-12-18</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -102,18 +114,6 @@
     <issued>2024-11-28T12:18:15Z</issued>
     <summary type="text/plain" mode="escaped">GPG4Win -- 4.4.0 (2024-11-27) -- Thu Nov 28 12:18:15 UTC 2024</summary>
     <dc:date>2024-11-28T12:18:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.4.0.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-21T20:24:54Z</modified>
-    <issued>2024-11-21T20:24:54Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.4.0.RELEASE -- Thu Nov 21 20:24:54 UTC 2024</summary>
-    <dc:date>2024-11-21T20:24:54Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 12 -- 12.22</title>
