@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:11:33 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:11:25 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:11:57 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 17 16:12:26 UTC 2024|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:18:24 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:12:33 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:11:05 UTC 2024|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.90.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Nov 20 00:45:10 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sat Nov 16 16:10:15 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:31:30 UTC 2024|
