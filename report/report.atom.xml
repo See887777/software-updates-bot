@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 320 - Diataxis, la méthode de documentation</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2024-12-21T12:15:31Z</modified>
+    <issued>2024-12-21T12:15:31Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 320 - Diataxis, la méthode de documentation -- Sat Dec 21 12:15:31 UTC 2024</summary>
+    <dc:date>2024-12-21T12:15:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.12</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -90,18 +102,6 @@
     <issued>2024-12-17T01:01:14Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-2 -- Tue Dec 17 01:01:14 UTC 2024</summary>
     <dc:date>2024-12-17T01:01:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 319 - le ramasse-miettes-charognes</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-12-17T00:47:57Z</modified>
-    <issued>2024-12-17T00:47:57Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 319 - le ramasse-miettes-charognes -- Tue Dec 17 00:47:57 UTC 2024</summary>
-    <dc:date>2024-12-17T00:47:57Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.13.1</title>

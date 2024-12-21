@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 320 - Diataxis, la méthode de documentation</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 320 - Diataxis, la méthode de documentation -- Sat Dec 21 12:15:31 UTC 2024</description>
+      <category>Podcast</category>
+      <pubDate>Sat, 21 Dec 2024 12:15:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2024-12-21T12:15:31Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.12</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.12 -- Fri Dec 20 20:11:33 UTC 2024</description>
@@ -108,15 +117,6 @@
       <pubDate>Tue, 17 Dec 2024 01:01:14 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-12-17T01:01:14Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 319 - le ramasse-miettes-charognes</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 319 - le ramasse-miettes-charognes -- Tue Dec 17 00:47:57 UTC 2024</description>
-      <category>Podcast</category>
-      <pubDate>Tue, 17 Dec 2024 00:47:57 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-12-17T00:47:57Z</dc:date>
     </item>
     <item>
       <title>Python 3 windows --  3.13.1</title>
