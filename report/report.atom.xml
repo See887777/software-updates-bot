@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 23.100.1</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-02T20:10:11Z</modified>
+    <issued>2025-01-02T20:10:11Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.100.1 -- Thu Jan 02 20:10:11 UTC 2025</summary>
+    <dc:date>2025-01-02T20:10:11Z</dc:date>
+  </entry>
+  <entry>
     <title>ThrottleStop -- 9.7</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/techpowerup-throttlestop/" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2024-11-21T16:12:33Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.15 -- Thu Nov 21 16:12:33 UTC 2024</summary>
     <dc:date>2024-11-21T16:12:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 23.90.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-20T00:45:10Z</modified>
-    <issued>2024-11-20T00:45:10Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.90.0 -- Wed Nov 20 00:45:10 UTC 2024</summary>
-    <dc:date>2024-11-20T00:45:10Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2024</title>
