@@ -58,7 +58,7 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.13.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 16 08:13:27 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 11 12:18:42 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:11:25 UTC 2024|
-|![logo](../media/logo/throttlestop.png) ThrottleStop|9.7|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Dec 26 12:16:34 UTC 2024|
+|![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.2|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Jan 16 12:16:19 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:38:52 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sat Nov 16 16:10:15 UTC 2024|

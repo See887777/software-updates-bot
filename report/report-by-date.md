@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.2|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Jan 16 12:16:19 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.100.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Thu Jan 02 20:10:11 UTC 2025|
-|![logo](../media/logo/throttlestop.png) ThrottleStop|9.7|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Dec 26 12:16:34 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 320 - Diataxis, la méthode de documentation|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Dec 21 12:15:31 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:11:33 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:11:25 UTC 2024|
