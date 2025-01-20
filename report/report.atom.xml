@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 321 - Les évènements écran large</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-20T12:17:22Z</modified>
+    <issued>2025-01-20T12:17:22Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 321 - Les évènements écran large -- Mon Jan 20 12:17:22 UTC 2025</summary>
+    <dc:date>2025-01-20T12:17:22Z</dc:date>
+  </entry>
+  <entry>
     <title>ThrottleStop -- 9.7.2</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/techpowerup-throttlestop/" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2025-01-02T20:10:11Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.100.1 -- Thu Jan 02 20:10:11 UTC 2025</summary>
     <dc:date>2025-01-02T20:10:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 320 - Diataxis, la méthode de documentation</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-12-21T12:15:31Z</modified>
-    <issued>2024-12-21T12:15:31Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 320 - Diataxis, la méthode de documentation -- Sat Dec 21 12:15:31 UTC 2024</summary>
-    <dc:date>2024-12-21T12:15:31Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.12</title>
