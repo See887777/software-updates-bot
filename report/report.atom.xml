@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 mac x64 -- jdk-17.0.14+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-23T16:12:01Z</modified>
+    <issued>2025-01-23T16:12:01Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.14+7 -- Thu Jan 23 16:12:01 UTC 2025</summary>
+    <dc:date>2025-01-23T16:12:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spring Boot -- 3.4.2.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-23T16:11:31Z</modified>
+    <issued>2025-01-23T16:11:31Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.4.2.RELEASE -- Thu Jan 23 16:11:31 UTC 2025</summary>
+    <dc:date>2025-01-23T16:11:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.14+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -102,18 +126,6 @@
     <issued>2024-12-20T20:11:33Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 8.12 -- Fri Dec 20 20:11:33 UTC 2024</summary>
     <dc:date>2024-12-20T20:11:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.4.1.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-12-19T16:11:25Z</modified>
-    <issued>2024-12-19T16:11:25Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.4.1.RELEASE -- Thu Dec 19 16:11:25 UTC 2024</summary>
-    <dc:date>2024-12-19T16:11:25Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 18.7.0 to 18.7.5 ~ 2024-12-18</title>
@@ -294,18 +306,6 @@
     <issued>2024-10-18T12:41:18Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.25+9 -- Fri Oct 18 12:41:18 UTC 2024</summary>
     <dc:date>2024-10-18T12:41:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 mac x64 -- jdk-17.0.13+11</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-18T12:17:15Z</modified>
-    <issued>2024-10-18T12:17:15Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.13+11 -- Fri Oct 18 12:17:15 UTC 2024</summary>
-    <dc:date>2024-10-18T12:17:15Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.13+11</title>
