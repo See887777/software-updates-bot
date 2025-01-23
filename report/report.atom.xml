@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 mac x64 -- jdk-11.0.26+4</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-23T20:11:03Z</modified>
+    <issued>2025-01-23T20:11:03Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.26+4 -- Thu Jan 23 20:11:03 UTC 2025</summary>
+    <dc:date>2025-01-23T20:11:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u442-b06</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-23T20:10:46Z</modified>
+    <issued>2025-01-23T20:10:46Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u442-b06 -- Thu Jan 23 20:10:46 UTC 2025</summary>
+    <dc:date>2025-01-23T20:10:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.26+4</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-23T20:10:31Z</modified>
+    <issued>2025-01-23T20:10:31Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.26+4 -- Thu Jan 23 20:10:31 UTC 2025</summary>
+    <dc:date>2025-01-23T20:10:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.14+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -260,18 +296,6 @@
     <dc:date>2024-11-04T12:24:22Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u432-b06</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-21T16:24:55Z</modified>
-    <issued>2024-10-21T16:24:55Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u432-b06 -- Mon Oct 21 16:24:55 UTC 2024</summary>
-    <dc:date>2024-10-21T16:24:55Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u432-b06</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -296,18 +320,6 @@
     <dc:date>2024-10-18T16:17:50Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk11 mac x64 -- jdk-11.0.25+9</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-18T12:41:18Z</modified>
-    <issued>2024-10-18T12:41:18Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.25+9 -- Fri Oct 18 12:41:18 UTC 2024</summary>
-    <dc:date>2024-10-18T12:41:18Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.13+11</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -318,18 +330,6 @@
     <issued>2024-10-18T00:56:26Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.13+11 -- Fri Oct 18 00:56:26 UTC 2024</summary>
     <dc:date>2024-10-18T00:56:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.25+9</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-17T16:25:32Z</modified>
-    <issued>2024-10-17T16:25:32Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.25+9 -- Thu Oct 17 16:25:32 UTC 2024</summary>
-    <dc:date>2024-10-17T16:25:32Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.25+9</title>
