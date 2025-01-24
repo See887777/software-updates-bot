@@ -19,8 +19,8 @@
       ],
       "name": "Adoptium jdk11 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.25+9",
-      "checkDate": "Oct 17, 2024, 4:12:38 PM",
+      "version": "jdk-11.0.26+4",
+      "checkDate": "Jan 24, 2025, 4:11:45 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -97,8 +97,8 @@
       ],
       "name": "Adoptium jdk17 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.13+11",
-      "checkDate": "Oct 18, 2024, 12:56:26 AM",
+      "version": "jdk-17.0.14+7",
+      "checkDate": "Jan 24, 2025, 4:11:31 PM",
       "logo": "ADOPTIUM"
     },
     {

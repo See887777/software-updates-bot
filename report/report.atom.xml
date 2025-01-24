@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 linux x64 -- jdk-11.0.26+4</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-24T16:11:45Z</modified>
+    <issued>2025-01-24T16:11:45Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.26+4 -- Fri Jan 24 16:11:45 UTC 2025</summary>
+    <dc:date>2025-01-24T16:11:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 linux x64 -- jdk-17.0.14+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-24T16:11:31Z</modified>
+    <issued>2025-01-24T16:11:31Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.14+7 -- Fri Jan 24 16:11:31 UTC 2025</summary>
+    <dc:date>2025-01-24T16:11:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u442-b06</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -318,30 +342,6 @@
     <issued>2024-11-04T12:24:22Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.20 -- Mon Nov 04 12:24:22 UTC 2024</summary>
     <dc:date>2024-11-04T12:24:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 linux x64 -- jdk-17.0.13+11</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-18T00:56:26Z</modified>
-    <issued>2024-10-18T00:56:26Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.13+11 -- Fri Oct 18 00:56:26 UTC 2024</summary>
-    <dc:date>2024-10-18T00:56:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 linux x64 -- jdk-11.0.25+9</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-10-17T16:12:38Z</modified>
-    <issued>2024-10-17T16:12:38Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.25+9 -- Thu Oct 17 16:12:38 UTC 2024</summary>
-    <dc:date>2024-10-17T16:12:38Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 source --  3.13.0</title>
