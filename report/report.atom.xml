@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.12.1</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-01-24T20:11:14Z</modified>
+    <issued>2025-01-24T20:11:14Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.12.1 -- Fri Jan 24 20:11:14 UTC 2025</summary>
+    <dc:date>2025-01-24T20:11:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.26+4</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2025-01-02T20:10:11Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.100.1 -- Thu Jan 02 20:10:11 UTC 2025</summary>
     <dc:date>2025-01-02T20:10:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.12</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-12-20T20:11:33Z</modified>
-    <issued>2024-12-20T20:11:33Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.12 -- Fri Dec 20 20:11:33 UTC 2024</summary>
-    <dc:date>2024-12-20T20:11:33Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 18.7.0 to 18.7.5 ~ 2024-12-18</title>

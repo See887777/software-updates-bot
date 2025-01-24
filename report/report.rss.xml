@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.12.1</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.12.1 -- Fri Jan 24 20:11:14 UTC 2025</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 24 Jan 2025 20:11:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-01-24T20:11:14Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk11 linux x64 -- jdk-11.0.26+4</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 linux x64 -- jdk-11.0.26+4 -- Fri Jan 24 16:11:45 UTC 2025</description>
@@ -214,16 +224,6 @@
       <pubDate>Thu, 02 Jan 2025 20:10:11 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-01-02T20:10:11Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.12</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.12 -- Fri Dec 20 20:11:33 UTC 2024</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 20 Dec 2024 20:11:33 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-12-20T20:11:33Z</dc:date>
     </item>
     <item>
       <title>K-Lite Codec Pack Basic -- 18.7.0 to 18.7.5 ~ 2024-12-18</title>
