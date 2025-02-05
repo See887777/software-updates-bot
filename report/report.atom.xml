@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>
+    <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-02-05T20:11:20Z</modified>
+    <issued>2025-02-05T20:11:20Z</issued>
+    <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025) -- Wed Feb 05 20:11:20 UTC 2025</summary>
+    <dc:date>2025-02-05T20:11:20Z</dc:date>
+  </entry>
+  <entry>
     <title>MariaDB 10.6 -- 10.6.21</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2025-01-23T12:17:32Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.14+7 -- Thu Jan 23 12:17:32 UTC 2025</summary>
     <dc:date>2025-01-23T12:17:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>VeraCrypt -- Latest Stable Release - 1.26.18 (Monday January 20th, 2025)</title>
-    <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-01-22T00:43:36Z</modified>
-    <issued>2025-01-22T00:43:36Z</issued>
-    <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.18 (Monday January 20th, 2025) -- Wed Jan 22 00:43:36 UTC 2025</summary>
-    <dc:date>2025-01-22T00:43:36Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 321 - Les évènements écran large</title>

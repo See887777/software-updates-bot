@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 20:11:20 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 05 12:18:00 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 05 12:17:55 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Jan 28 12:16:39 UTC 2025|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 16:12:01 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 23 16:11:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:17:32 UTC 2025|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.18 (Monday January 20th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jan 22 00:43:36 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 321 - Les évènements écran large|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 20 12:17:22 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.2|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Jan 16 12:16:19 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.100.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Thu Jan 02 20:10:11 UTC 2025|

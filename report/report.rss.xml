@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>
+      <link>https://www.veracrypt.fr/en/Downloads.html</link>
+      <description>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025) -- Wed Feb 05 20:11:20 UTC 2025</description>
+      <category>VeraCrypt</category>
+      <pubDate>Wed, 05 Feb 2025 20:11:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-02-05T20:11:20Z</dc:date>
+    </item>
+    <item>
       <title>MariaDB 10.6 -- 10.6.21</title>
       <link>https://downloads.mariadb.org</link>
       <description>MariaDB 10.6 -- 10.6.21 -- Wed Feb 05 12:18:00 UTC 2025</description>
@@ -216,15 +225,6 @@
       <pubDate>Thu, 23 Jan 2025 12:17:32 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-01-23T12:17:32Z</dc:date>
-    </item>
-    <item>
-      <title>VeraCrypt -- Latest Stable Release - 1.26.18 (Monday January 20th, 2025)</title>
-      <link>https://www.veracrypt.fr/en/Downloads.html</link>
-      <description>VeraCrypt -- Latest Stable Release - 1.26.18 (Monday January 20th, 2025) -- Wed Jan 22 00:43:36 UTC 2025</description>
-      <category>VeraCrypt</category>
-      <pubDate>Wed, 22 Jan 2025 00:43:36 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-01-22T00:43:36Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 321 - Les évènements écran large</title>
