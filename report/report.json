@@ -414,8 +414,8 @@
       ],
       "name": "MariaDB 10.5",
       "website": "https://downloads.mariadb.org",
-      "version": "10.5.27",
-      "checkDate": "Nov 4, 2024, 12:31:30 PM",
+      "version": "10.5.28",
+      "checkDate": "Feb 5, 2025, 12:17:55 PM",
       "logo": "MARIADB"
     },
     {
@@ -425,8 +425,8 @@
       ],
       "name": "MariaDB 10.6",
       "website": "https://downloads.mariadb.org",
-      "version": "10.6.20",
-      "checkDate": "Nov 4, 2024, 12:24:22 PM",
+      "version": "10.6.21",
+      "checkDate": "Feb 5, 2025, 12:18:00 PM",
       "logo": "MARIADB"
     },
     {
