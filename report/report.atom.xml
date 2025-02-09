@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 322 - Maaaaveeeeen 4 !</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-02-09T16:10:03Z</modified>
+    <issued>2025-02-09T16:10:03Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 322 - Maaaaveeeeen 4 ! -- Sun Feb 09 16:10:03 UTC 2025</summary>
+    <dc:date>2025-02-09T16:10:03Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 18.7.5 to 18.8.0 ~ 2025-02-08</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -222,18 +234,6 @@
     <issued>2025-01-23T12:17:32Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.14+7 -- Thu Jan 23 12:17:32 UTC 2025</summary>
     <dc:date>2025-01-23T12:17:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 321 - Les évènements écran large</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-01-20T12:17:22Z</modified>
-    <issued>2025-01-20T12:17:22Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 321 - Les évènements écran large -- Mon Jan 20 12:17:22 UTC 2025</summary>
-    <dc:date>2025-01-20T12:17:22Z</dc:date>
   </entry>
   <entry>
     <title>ThrottleStop -- 9.7.2</title>
