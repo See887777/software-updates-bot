@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.13.2</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-02-12T12:17:10Z</modified>
+    <issued>2025-02-12T12:17:10Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.13.2 -- Wed Feb 12 12:17:10 UTC 2025</summary>
+    <dc:date>2025-02-12T12:17:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 322 - Maaaaveeeeen 4 !</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -282,18 +294,6 @@
     <issued>2024-12-17T01:01:14Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-2 -- Tue Dec 17 01:01:14 UTC 2024</summary>
     <dc:date>2024-12-17T01:01:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.13.1</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-12-11T12:18:42Z</modified>
-    <issued>2024-12-11T12:18:42Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.13.1 -- Wed Dec 11 12:18:42 UTC 2024</summary>
-    <dc:date>2024-12-11T12:18:42Z</dc:date>
   </entry>
   <entry>
     <title>GPG4Win -- 4.4.0 (2024-11-27)</title>
