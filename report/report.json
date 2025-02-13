@@ -544,8 +544,8 @@
       ],
       "name": "PostgreSQL 13",
       "website": "https://www.postgresql.org/download/",
-      "version": "13.18",
-      "checkDate": "Nov 21, 2024, 4:18:24 PM",
+      "version": "13.19",
+      "checkDate": "Feb 13, 2025, 4:12:41 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -555,8 +555,8 @@
       ],
       "name": "PostgreSQL 14",
       "website": "https://www.postgresql.org/download/",
-      "version": "14.15",
-      "checkDate": "Nov 21, 2024, 4:12:33 PM",
+      "version": "14.16",
+      "checkDate": "Feb 13, 2025, 4:12:39 PM",
       "logo": "POSTGRESQL"
     },
     {

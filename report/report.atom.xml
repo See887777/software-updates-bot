@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>PostgreSQL 13 -- 13.19</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-02-13T16:12:41Z</modified>
+    <issued>2025-02-13T16:12:41Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.19 -- Thu Feb 13 16:12:41 UTC 2025</summary>
+    <dc:date>2025-02-13T16:12:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 14 -- 14.16</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-02-13T16:12:39Z</modified>
+    <issued>2025-02-13T16:12:39Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.16 -- Thu Feb 13 16:12:39 UTC 2025</summary>
+    <dc:date>2025-02-13T16:12:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.13.2</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -318,30 +342,6 @@
     <issued>2024-11-21T16:25:34Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.22 -- Thu Nov 21 16:25:34 UTC 2024</summary>
     <dc:date>2024-11-21T16:25:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.18</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-21T16:18:24Z</modified>
-    <issued>2024-11-21T16:18:24Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.18 -- Thu Nov 21 16:18:24 UTC 2024</summary>
-    <dc:date>2024-11-21T16:18:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.15</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-21T16:12:33Z</modified>
-    <issued>2024-11-21T16:12:33Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.15 -- Thu Nov 21 16:12:33 UTC 2024</summary>
-    <dc:date>2024-11-21T16:12:33Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2024</title>
