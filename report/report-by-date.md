@@ -1,7 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:12:41 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:12:39 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:33 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 16:12:01 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 12 12:17:10 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 322 - Maaaaveeeeen 4 !|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Feb 09 16:10:03 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.5 to 18.8.0 ~ 2025-02-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Feb 08 20:09:03 UTC 2025|
@@ -18,7 +19,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 23 20:10:46 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 23 20:10:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 16:12:01 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 23 16:11:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:17:32 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.2|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Jan 16 12:16:19 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.100.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Thu Jan 02 20:10:11 UTC 2025|

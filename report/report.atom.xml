@@ -32,28 +32,40 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
-    <title>PostgreSQL 13 -- 13.19</title>
+    <title>PostgreSQL 13 -- 13.20</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2025-02-13T16:12:41Z</modified>
-    <issued>2025-02-13T16:12:41Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.19 -- Thu Feb 13 16:12:41 UTC 2025</summary>
-    <dc:date>2025-02-13T16:12:41Z</dc:date>
+    <modified>2025-02-20T16:12:35Z</modified>
+    <issued>2025-02-20T16:12:35Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.20 -- Thu Feb 20 16:12:35 UTC 2025</summary>
+    <dc:date>2025-02-20T16:12:35Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 14 -- 14.16</title>
+    <title>PostgreSQL 14 -- 14.17</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2025-02-13T16:12:39Z</modified>
-    <issued>2025-02-13T16:12:39Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.16 -- Thu Feb 13 16:12:39 UTC 2025</summary>
-    <dc:date>2025-02-13T16:12:39Z</dc:date>
+    <modified>2025-02-20T16:12:33Z</modified>
+    <issued>2025-02-20T16:12:33Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.17 -- Thu Feb 20 16:12:33 UTC 2025</summary>
+    <dc:date>2025-02-20T16:12:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spring Boot -- 3.4.3.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-02-20T16:12:01Z</modified>
+    <issued>2025-02-20T16:12:01Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.4.3.RELEASE -- Thu Feb 20 16:12:01 UTC 2025</summary>
+    <dc:date>2025-02-20T16:12:01Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.13.2</title>
@@ -246,18 +258,6 @@
     <issued>2025-01-23T16:12:01Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.14+7 -- Thu Jan 23 16:12:01 UTC 2025</summary>
     <dc:date>2025-01-23T16:12:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.4.2.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-01-23T16:11:31Z</modified>
-    <issued>2025-01-23T16:11:31Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.4.2.RELEASE -- Thu Jan 23 16:11:31 UTC 2025</summary>
-    <dc:date>2025-01-23T16:11:31Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.14+7</title>

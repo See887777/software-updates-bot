@@ -46,8 +46,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:12:41 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:12:39 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:33 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
@@ -57,7 +57,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 17 16:12:26 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Jan 28 12:16:39 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 12 12:17:10 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 23 16:11:31 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 16:12:01 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.2|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Jan 16 12:16:19 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 20:11:20 UTC 2025|
