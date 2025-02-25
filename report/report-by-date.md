@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:31:26 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:33 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 16:12:01 UTC 2025|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 05 12:18:00 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 05 12:17:55 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Jan 28 12:16:39 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|8.12.1|[gradle.org](https://gradle.org/releases/)|Fri Jan 24 20:11:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 24 16:11:45 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 24 16:11:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:49:00 UTC 2025|

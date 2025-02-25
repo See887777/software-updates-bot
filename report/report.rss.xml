@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.13</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.13 -- Tue Feb 25 12:31:26 UTC 2025</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Tue, 25 Feb 2025 12:31:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-02-25T12:31:26Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 13 -- 13.20</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 13 -- 13.20 -- Thu Feb 20 16:12:35 UTC 2025</description>
@@ -155,16 +165,6 @@
       <pubDate>Tue, 28 Jan 2025 12:16:39 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-01-28T12:16:39Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.12.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.12.1 -- Fri Jan 24 20:11:14 UTC 2025</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 24 Jan 2025 20:11:14 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-01-24T20:11:14Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 linux x64 -- jdk-11.0.26+4</title>
