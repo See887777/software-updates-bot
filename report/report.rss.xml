@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>7+ Taskbar Tweaker -- v5.15.3 (March 1, 2025)</title>
+      <link>https://ramensoftware.com/7-taskbar-tweaker</link>
+      <description>7+ Taskbar Tweaker -- v5.15.3 (March 1, 2025) -- Sun Mar 02 00:48:18 UTC 2025</description>
+      <category>MS Windows</category>
+      <pubDate>Sun, 02 Mar 2025 00:48:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-03-02T00:48:18Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.13</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.13 -- Tue Feb 25 12:31:26 UTC 2025</description>
@@ -351,15 +360,6 @@
       <pubDate>Sun, 13 Oct 2024 20:23:42 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-10-13T20:23:42Z</dc:date>
-    </item>
-    <item>
-      <title>7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024)</title>
-      <link>https://ramensoftware.com/7-taskbar-tweaker</link>
-      <description>7+ Taskbar Tweaker -- v5.15.2 (August 16, 2024) -- Fri Aug 16 12:15:37 UTC 2024</description>
-      <category>MS Windows</category>
-      <pubDate>Fri, 16 Aug 2024 12:15:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-08-16T12:15:37Z</dc:date>
     </item>
     <item>
       <title>VLC -- 3.0.21</title>
