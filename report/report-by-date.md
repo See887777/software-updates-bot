@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:10:50 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:31:26 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
@@ -24,7 +25,6 @@
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.2|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu Jan 16 12:16:19 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.100.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Thu Jan 02 20:10:11 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 17 16:12:26 UTC 2024|
-|![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 01:01:14 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 12:18:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sat Nov 16 16:10:15 UTC 2024|
