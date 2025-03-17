@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 323 - L'accessibilité des messageries chiffrées</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 323 - L'accessibilité des messageries chiffrées -- Mon Mar 17 12:18:52 UTC 2025</description>
+      <category>Podcast</category>
+      <pubDate>Mon, 17 Mar 2025 12:18:52 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-03-17T12:18:52Z</dc:date>
+    </item>
+    <item>
       <title>Maven -- 4.0.0-rc-3</title>
       <link>https://maven.apache.org/download.cgi</link>
       <description>Maven -- 4.0.0-rc-3 -- Mon Mar 10 16:10:50 UTC 2025</description>
@@ -127,15 +136,6 @@
       <pubDate>Wed, 12 Feb 2025 12:17:10 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-02-12T12:17:10Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 322 - Maaaaveeeeen 4 !</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 322 - Maaaaveeeeen 4 ! -- Sun Feb 09 16:10:03 UTC 2025</description>
-      <category>Podcast</category>
-      <pubDate>Sun, 09 Feb 2025 16:10:03 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-09T16:10:03Z</dc:date>
     </item>
     <item>
       <title>K-Lite Codec Pack Basic -- 18.7.5 to 18.8.0 ~ 2025-02-08</title>
