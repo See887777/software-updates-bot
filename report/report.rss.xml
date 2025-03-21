@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.4.4.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.4.4.RELEASE -- Fri Mar 21 08:13:44 UTC 2025</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Fri, 21 Mar 2025 08:13:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-03-21T08:13:44Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 323 - L'accessibilité des messageries chiffrées</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 323 - L'accessibilité des messageries chiffrées -- Mon Mar 17 12:18:52 UTC 2025</description>
@@ -116,17 +127,6 @@
       <pubDate>Thu, 20 Feb 2025 16:12:33 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-02-20T16:12:33Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.4.3.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.4.3.RELEASE -- Thu Feb 20 16:12:01 UTC 2025</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 20 Feb 2025 16:12:01 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-20T16:12:01Z</dc:date>
     </item>
     <item>
       <title>Python 3 windows --  3.13.2</title>
