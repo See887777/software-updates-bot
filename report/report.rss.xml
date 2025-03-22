@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 18.8.0 to 18.8.5 ~ 2025-03-22</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 18.8.0 to 18.8.5 ~ 2025-03-22 -- Sat Mar 22 20:10:19 UTC 2025</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Sat, 22 Mar 2025 20:10:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-03-22T20:10:19Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.4.4.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.4.4.RELEASE -- Fri Mar 21 08:13:44 UTC 2025</description>
@@ -136,16 +146,6 @@
       <pubDate>Wed, 12 Feb 2025 12:17:10 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-02-12T12:17:10Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 18.7.5 to 18.8.0 ~ 2025-02-08</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 18.7.5 to 18.8.0 ~ 2025-02-08 -- Sat Feb 08 20:09:03 UTC 2025</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Sat, 08 Feb 2025 20:09:03 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-08T20:09:03Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>
