@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 source --  3.13.2</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-03-27T12:18:57Z</modified>
+    <issued>2025-03-27T12:18:57Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.13.2 -- Thu Mar 27 12:18:57 UTC 2025</summary>
+    <dc:date>2025-03-27T12:18:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Mar 2025</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2025-02-05T12:17:55Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.28 -- Wed Feb 05 12:17:55 UTC 2025</summary>
     <dc:date>2025-02-05T12:17:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 source --  3.13.1</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-01-28T12:16:39Z</modified>
-    <issued>2025-01-28T12:16:39Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.13.1 -- Tue Jan 28 12:16:39 UTC 2025</summary>
-    <dc:date>2025-01-28T12:16:39Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.26+4</title>
