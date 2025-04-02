@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>ThrottleStop -- 9.7.3</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/techpowerup-throttlestop/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-04-02T16:12:55Z</modified>
+    <issued>2025-04-02T16:12:55Z</issued>
+    <summary type="text/plain" mode="escaped">ThrottleStop -- 9.7.3 -- Wed Apr 02 16:12:55 UTC 2025</summary>
+    <dc:date>2025-04-02T16:12:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 23.120.0</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -318,18 +330,6 @@
     <issued>2025-01-23T12:17:32Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.14+7 -- Thu Jan 23 12:17:32 UTC 2025</summary>
     <dc:date>2025-01-23T12:17:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>ThrottleStop -- 9.7.2</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/techpowerup-throttlestop/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-01-16T12:16:19Z</modified>
-    <issued>2025-01-16T12:16:19Z</issued>
-    <summary type="text/plain" mode="escaped">ThrottleStop -- 9.7.2 -- Thu Jan 16 12:16:19 UTC 2025</summary>
-    <dc:date>2025-01-16T12:16:19Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.13.1</title>
