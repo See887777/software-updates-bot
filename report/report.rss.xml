@@ -60,6 +60,30 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.27+6</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.27+6 -- Fri Apr 18 00:48:36 UTC 2025</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 18 Apr 2025 00:48:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-04-18T00:48:36Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk8 linux x64 -- jdk8u452-b09</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk8 linux x64 -- jdk8u452-b09 -- Fri Apr 18 00:47:50 UTC 2025</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 18 Apr 2025 00:47:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-04-18T00:47:50Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u452-b09</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 mac x64 -- jdk8u452-b09 -- Thu Apr 17 20:11:49 UTC 2025</description>
@@ -275,18 +299,6 @@
       <dc:date>2025-02-05T12:17:55Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk8 linux x64 -- jdk8u442-b06</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 linux x64 -- jdk8u442-b06 -- Fri Jan 24 00:43:04 UTC 2025</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 24 Jan 2025 00:43:04 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-01-24T00:43:04Z</dc:date>
-    </item>
-    <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.26+4</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 mac x64 -- jdk-11.0.26+4 -- Thu Jan 23 20:11:03 UTC 2025</description>
@@ -309,18 +321,6 @@
       <pubDate>Thu, 23 Jan 2025 20:10:46 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-01-23T20:10:46Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.26+4</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.26+4 -- Thu Jan 23 20:10:31 UTC 2025</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 23 Jan 2025 20:10:31 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-01-23T20:10:31Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.13.1</title>
