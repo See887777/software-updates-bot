@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.8.5 to 18.9.0 ~ 2025-04-19|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 19 16:11:35 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 18 00:48:36 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 18 00:47:50 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 17 20:11:49 UTC 2025|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.120.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Fri Mar 28 20:12:00 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.2|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 27 12:18:57 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Mar 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Tue Mar 25 12:19:30 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.8.0 to 18.8.5 ~ 2025-03-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Mar 22 20:10:19 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Fri Mar 21 08:13:44 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:18:52 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:10:50 UTC 2025|
