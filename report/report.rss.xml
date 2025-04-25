@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.14</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.14 -- Fri Apr 25 12:19:29 UTC 2025</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 25 Apr 2025 12:19:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-04-25T12:19:29Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.4.5.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.4.5.RELEASE -- Thu Apr 24 16:14:36 UTC 2025</description>
@@ -253,16 +263,6 @@
       <pubDate>Sun, 02 Mar 2025 00:48:18 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-03-02T00:48:18Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.13</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.13 -- Tue Feb 25 12:31:26 UTC 2025</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Tue, 25 Feb 2025 12:31:26 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-25T12:31:26Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 13 -- 13.20</title>
