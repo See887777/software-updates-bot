@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-04-29T12:21:51Z</modified>
+    <issued>2025-04-29T12:21:51Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live -- Tue Apr 29 12:21:51 UTC 2025</summary>
+    <dc:date>2025-04-29T12:21:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.14</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -222,18 +234,6 @@
     <issued>2025-03-25T12:19:30Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Mar 2025 -- Tue Mar 25 12:19:30 UTC 2025</summary>
     <dc:date>2025-03-25T12:19:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 323 - L'accessibilité des messageries chiffrées</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-03-17T12:18:52Z</modified>
-    <issued>2025-03-17T12:18:52Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 323 - L'accessibilité des messageries chiffrées -- Mon Mar 17 12:18:52 UTC 2025</summary>
-    <dc:date>2025-03-17T12:18:52Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-rc-3</title>

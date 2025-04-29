@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 324 - Devoxx France 2025 en live|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 29 12:21:51 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:19:29 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 24 16:14:36 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:12:28 UTC 2025|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.120.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Fri Mar 28 20:12:00 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.2|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 27 12:18:57 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Mar 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Tue Mar 25 12:19:30 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:18:52 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:10:50 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
