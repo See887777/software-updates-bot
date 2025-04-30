@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 23.130.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-04-30T08:15:33Z</modified>
+    <issued>2025-04-30T08:15:33Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.130.0 -- Wed Apr 30 08:15:33 UTC 2025</summary>
+    <dc:date>2025-04-30T08:15:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2025-04-02T16:12:55Z</issued>
     <summary type="text/plain" mode="escaped">ThrottleStop -- 9.7.3 -- Wed Apr 02 16:12:55 UTC 2025</summary>
     <dc:date>2025-04-02T16:12:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 23.120.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-03-28T20:12:00Z</modified>
-    <issued>2025-03-28T20:12:00Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.120.0 -- Fri Mar 28 20:12:00 UTC 2025</summary>
-    <dc:date>2025-03-28T20:12:00Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 source --  3.13.2</title>
