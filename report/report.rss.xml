@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 windows --  3.13.3</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.13.3 -- Mon May 05 16:14:31 UTC 2025</description>
+      <category>Python</category>
+      <pubDate>Mon, 05 May 2025 16:14:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-05T16:14:31Z</dc:date>
+    </item>
+    <item>
       <title>Intel Bluetooth Drivers -- 23.130.0</title>
       <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
       <description>Intel Bluetooth Drivers -- 23.130.0 -- Wed Apr 30 08:15:33 UTC 2025</description>
@@ -283,15 +292,6 @@
       <pubDate>Thu, 20 Feb 2025 16:12:33 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-02-20T16:12:33Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.13.2</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.13.2 -- Wed Feb 12 12:17:10 UTC 2025</description>
-      <category>Python</category>
-      <pubDate>Wed, 12 Feb 2025 12:17:10 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-12T12:17:10Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>

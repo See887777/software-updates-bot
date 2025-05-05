@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 05 16:14:31 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.130.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Apr 30 08:15:33 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 324 - Devoxx France 2025 en live|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 29 12:21:51 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:19:29 UTC 2025|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:33 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 12 12:17:10 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 20:11:20 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 05 12:18:00 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 05 12:17:55 UTC 2025|
