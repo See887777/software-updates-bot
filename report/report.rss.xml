@@ -60,6 +60,26 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>MariaDB 10.5 -- 10.5.29</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.5 -- 10.5.29 -- Thu May 08 08:15:42 UTC 2025</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Thu, 08 May 2025 08:15:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-08T08:15:42Z</dc:date>
+    </item>
+    <item>
+      <title>MariaDB 10.6 -- 10.6.22</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.6 -- 10.6.22 -- Thu May 08 08:15:31 UTC 2025</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Thu, 08 May 2025 08:15:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-08T08:15:31Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.13.3</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.13.3 -- Mon May 05 16:14:31 UTC 2025</description>
@@ -301,26 +321,6 @@
       <pubDate>Wed, 05 Feb 2025 20:11:20 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-02-05T20:11:20Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.6 -- 10.6.21</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.6 -- 10.6.21 -- Wed Feb 05 12:18:00 UTC 2025</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Wed, 05 Feb 2025 12:18:00 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-05T12:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.5 -- 10.5.28</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.5 -- 10.5.28 -- Wed Feb 05 12:17:55 UTC 2025</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Wed, 05 Feb 2025 12:17:55 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-05T12:17:55Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.13.1</title>

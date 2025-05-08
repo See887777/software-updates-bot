@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.5 -- 10.5.29</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-08T08:15:42Z</modified>
+    <issued>2025-05-08T08:15:42Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.29 -- Thu May 08 08:15:42 UTC 2025</summary>
+    <dc:date>2025-05-08T08:15:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.6 -- 10.6.22</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-08T08:15:31Z</modified>
+    <issued>2025-05-08T08:15:31Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.22 -- Thu May 08 08:15:31 UTC 2025</summary>
+    <dc:date>2025-05-08T08:15:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.13.3</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -306,30 +330,6 @@
     <issued>2025-02-05T20:11:20Z</issued>
     <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025) -- Wed Feb 05 20:11:20 UTC 2025</summary>
     <dc:date>2025-02-05T20:11:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.21</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-02-05T12:18:00Z</modified>
-    <issued>2025-02-05T12:18:00Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.21 -- Wed Feb 05 12:18:00 UTC 2025</summary>
-    <dc:date>2025-02-05T12:18:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.28</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-02-05T12:17:55Z</modified>
-    <issued>2025-02-05T12:17:55Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.28 -- Wed Feb 05 12:17:55 UTC 2025</summary>
-    <dc:date>2025-02-05T12:17:55Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.13.1</title>
