@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>PostgreSQL 14 -- 14.18</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-08T16:14:54Z</modified>
+    <issued>2025-05-08T16:14:54Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.18 -- Thu May 08 16:14:54 UTC 2025</summary>
+    <dc:date>2025-05-08T16:14:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.21</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-08T16:14:33Z</modified>
+    <issued>2025-05-08T16:14:33Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.21 -- Thu May 08 16:14:33 UTC 2025</summary>
+    <dc:date>2025-05-08T16:14:33Z</dc:date>
+  </entry>
+  <entry>
     <title>MariaDB 10.5 -- 10.5.29</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -294,30 +318,6 @@
     <issued>2025-03-02T00:48:18Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.3 (March 1, 2025) -- Sun Mar 02 00:48:18 UTC 2025</summary>
     <dc:date>2025-03-02T00:48:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.20</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-02-20T16:12:35Z</modified>
-    <issued>2025-02-20T16:12:35Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.20 -- Thu Feb 20 16:12:35 UTC 2025</summary>
-    <dc:date>2025-02-20T16:12:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.17</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-02-20T16:12:33Z</modified>
-    <issued>2025-02-20T16:12:33Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.17 -- Thu Feb 20 16:12:33 UTC 2025</summary>
-    <dc:date>2025-02-20T16:12:33Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>

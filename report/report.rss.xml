@@ -60,6 +60,26 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 14 -- 14.18</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.18 -- Thu May 08 16:14:54 UTC 2025</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 08 May 2025 16:14:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-08T16:14:54Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 13 -- 13.21</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.21 -- Thu May 08 16:14:33 UTC 2025</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 08 May 2025 16:14:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-08T16:14:33Z</dc:date>
+    </item>
+    <item>
       <title>MariaDB 10.5 -- 10.5.29</title>
       <link>https://downloads.mariadb.org</link>
       <description>MariaDB 10.5 -- 10.5.29 -- Thu May 08 08:15:42 UTC 2025</description>
@@ -292,26 +312,6 @@
       <pubDate>Sun, 02 Mar 2025 00:48:18 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-03-02T00:48:18Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.20</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.20 -- Thu Feb 20 16:12:35 UTC 2025</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 20 Feb 2025 16:12:35 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-20T16:12:35Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.17</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.17 -- Thu Feb 20 16:12:33 UTC 2025</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 20 Feb 2025 16:12:33 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-20T16:12:33Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>

@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:54 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:33 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:31 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 05 16:14:31 UTC 2025|
@@ -22,8 +24,6 @@
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Mar 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Tue Mar 25 12:19:30 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:10:50 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:35 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:12:33 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 20:11:20 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 17 16:12:26 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 12:18:15 UTC 2024|
