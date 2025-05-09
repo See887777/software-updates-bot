@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 325 - Trier le hachis des concurrents</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 325 - Trier le hachis des concurrents -- Fri May 09 12:20:17 UTC 2025</description>
+      <category>Podcast</category>
+      <pubDate>Fri, 09 May 2025 12:20:17 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-09T12:20:17Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 14 -- 14.18</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 14 -- 14.18 -- Thu May 08 16:14:54 UTC 2025</description>
@@ -117,15 +126,6 @@
       <pubDate>Wed, 30 Apr 2025 08:15:33 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-04-30T08:15:33Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live -- Tue Apr 29 12:21:51 UTC 2025</description>
-      <category>Podcast</category>
-      <pubDate>Tue, 29 Apr 2025 12:21:51 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-04-29T12:21:51Z</dc:date>
     </item>
     <item>
       <title>Gradle -- 8.14</title>

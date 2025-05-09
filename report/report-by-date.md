@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 325 - Trier le hachis des concurrents|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri May 09 12:20:17 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:54 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:33 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:31 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 05 16:14:31 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.130.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Apr 30 08:15:33 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 324 - Devoxx France 2025 en live|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 29 12:21:51 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:19:29 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 24 16:14:36 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:12:28 UTC 2025|

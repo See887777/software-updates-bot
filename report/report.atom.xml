@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 325 - Trier le hachis des concurrents</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-09T12:20:17Z</modified>
+    <issued>2025-05-09T12:20:17Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 325 - Trier le hachis des concurrents -- Fri May 09 12:20:17 UTC 2025</summary>
+    <dc:date>2025-05-09T12:20:17Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 14 -- 14.18</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -102,18 +114,6 @@
     <issued>2025-04-30T08:15:33Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.130.0 -- Wed Apr 30 08:15:33 UTC 2025</summary>
     <dc:date>2025-04-30T08:15:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-04-29T12:21:51Z</modified>
-    <issued>2025-04-29T12:21:51Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 324 - Devoxx France 2025 en live -- Tue Apr 29 12:21:51 UTC 2025</summary>
-    <dc:date>2025-04-29T12:21:51Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 8.14</title>
