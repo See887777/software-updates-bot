@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 15 08:16:20 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:13:19 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 325 - Trier le hachis des concurrents|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri May 09 12:20:17 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:54 UTC 2025|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.15+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 16 20:12:52 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.2|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 27 12:18:57 UTC 2025|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Mar 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Tue Mar 25 12:19:30 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:10:50 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 20:11:20 UTC 2025|

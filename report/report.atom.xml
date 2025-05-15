@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- May 2025</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-15T08:16:20Z</modified>
+    <issued>2025-05-15T08:16:20Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- May 2025 -- Thu May 15 08:16:20 UTC 2025</summary>
+    <dc:date>2025-05-15T08:16:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Inkscape -- 1.4.2</title>
     <link rel="alternate" href="https://inkscape.org" />
     <author>
@@ -294,18 +306,6 @@
     <issued>2025-03-27T12:18:57Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.13.2 -- Thu Mar 27 12:18:57 UTC 2025</summary>
     <dc:date>2025-03-27T12:18:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- Mar 2025</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-03-25T12:19:30Z</modified>
-    <issued>2025-03-25T12:19:30Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Mar 2025 -- Tue Mar 25 12:19:30 UTC 2025</summary>
-    <dc:date>2025-03-25T12:19:30Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-rc-3</title>
