@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-21T16:15:07Z</modified>
+    <issued>2025-05-21T16:15:07Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21 -- Wed May 21 16:15:07 UTC 2025</summary>
+    <dc:date>2025-05-21T16:15:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- May 2025</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2025-04-20T16:11:15Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.27+6 -- Sun Apr 20 16:11:15 UTC 2025</summary>
     <dc:date>2025-04-20T16:11:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 18.8.5 to 18.9.0 ~ 2025-04-19</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-04-19T16:11:35Z</modified>
-    <issued>2025-04-19T16:11:35Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 18.8.5 to 18.9.0 ~ 2025-04-19 -- Sat Apr 19 16:11:35 UTC 2025</summary>
-    <dc:date>2025-04-19T16:11:35Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk11 windows x64 -- jdk-11.0.27+6</title>
