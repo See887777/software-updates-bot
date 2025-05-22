@@ -60,6 +60,27 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 8.14.1</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 8.14.1 -- Thu May 22 16:20:47 UTC 2025</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Thu, 22 May 2025 16:20:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-22T16:20:47Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Boot -- 3.4.6.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.4.6.RELEASE -- Thu May 22 16:14:36 UTC 2025</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 22 May 2025 16:14:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-22T16:14:36Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21 -- Wed May 21 16:15:07 UTC 2025</description>
@@ -156,27 +177,6 @@
       <pubDate>Wed, 30 Apr 2025 08:15:33 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-04-30T08:15:33Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.14</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.14 -- Fri Apr 25 12:19:29 UTC 2025</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 25 Apr 2025 12:19:29 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-04-25T12:19:29Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.4.5.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.4.5.RELEASE -- Thu Apr 24 16:14:36 UTC 2025</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 24 Apr 2025 16:14:36 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-04-24T16:14:36Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u452-b09</title>
