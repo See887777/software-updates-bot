@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>GPG4Win -- 4.4.1 (2025-05-21)</title>
+    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-05-23T12:21:16Z</modified>
+    <issued>2025-05-23T12:21:16Z</issued>
+    <summary type="text/plain" mode="escaped">GPG4Win -- 4.4.1 (2025-05-21) -- Fri May 23 12:21:16 UTC 2025</summary>
+    <dc:date>2025-05-23T12:21:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.5.0.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -354,18 +366,6 @@
     <issued>2024-12-17T16:12:26Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 mac --  3.13.1 -- Tue Dec 17 16:12:26 UTC 2024</summary>
     <dc:date>2024-12-17T16:12:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>GPG4Win -- 4.4.0 (2024-11-27)</title>
-    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-11-28T12:18:15Z</modified>
-    <issued>2024-11-28T12:18:15Z</issued>
-    <summary type="text/plain" mode="escaped">GPG4Win -- 4.4.0 (2024-11-27) -- Thu Nov 28 12:18:15 UTC 2024</summary>
-    <dc:date>2024-11-28T12:18:15Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 12 -- 12.22</title>

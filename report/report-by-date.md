@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 12:21:16 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 23 00:52:39 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.1|[gradle.org](https://gradle.org/releases/)|Thu May 22 16:20:47 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.0 to 18.9.5 ~ 2025-05-21|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed May 21 16:15:07 UTC 2025|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 20:11:20 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 17 16:12:26 UTC 2024|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 12:18:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:18 UTC 2024|

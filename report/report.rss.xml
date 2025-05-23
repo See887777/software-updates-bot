@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>GPG4Win -- 4.4.1 (2025-05-21)</title>
+      <link>https://www.gpg4win.org/get-gpg4win.html</link>
+      <description>GPG4Win -- 4.4.1 (2025-05-21) -- Fri May 23 12:21:16 UTC 2025</description>
+      <category>MS Windows</category>
+      <category>GPG</category>
+      <pubDate>Fri, 23 May 2025 12:21:16 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-23T12:21:16Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.5.0.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.5.0.RELEASE -- Fri May 23 00:52:39 UTC 2025</description>
@@ -340,16 +350,6 @@
       <pubDate>Tue, 17 Dec 2024 16:12:26 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2024-12-17T16:12:26Z</dc:date>
-    </item>
-    <item>
-      <title>GPG4Win -- 4.4.0 (2024-11-27)</title>
-      <link>https://www.gpg4win.org/get-gpg4win.html</link>
-      <description>GPG4Win -- 4.4.0 (2024-11-27) -- Thu Nov 28 12:18:15 UTC 2024</description>
-      <category>MS Windows</category>
-      <category>GPG</category>
-      <pubDate>Thu, 28 Nov 2024 12:18:15 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2024-11-28T12:18:15Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 12 -- 12.22</title>
