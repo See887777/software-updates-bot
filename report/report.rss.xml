@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
+      <link>https://www.veracrypt.fr/en/Downloads.html</link>
+      <description>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025) -- Sat May 31 08:30:22 UTC 2025</description>
+      <category>VeraCrypt</category>
+      <pubDate>Sat, 31 May 2025 08:30:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-05-31T08:30:22Z</dc:date>
+    </item>
+    <item>
       <title>GPG4Win -- 4.4.1 (2025-05-21)</title>
       <link>https://www.gpg4win.org/get-gpg4win.html</link>
       <description>GPG4Win -- 4.4.1 (2025-05-21) -- Fri May 23 12:21:16 UTC 2025</description>
@@ -332,15 +341,6 @@
       <pubDate>Sun, 02 Mar 2025 00:48:18 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-03-02T00:48:18Z</dc:date>
-    </item>
-    <item>
-      <title>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025)</title>
-      <link>https://www.veracrypt.fr/en/Downloads.html</link>
-      <description>VeraCrypt -- Latest Stable Release - 1.26.20 (Monday February 3rd, 2025) -- Wed Feb 05 20:11:20 UTC 2025</description>
-      <category>VeraCrypt</category>
-      <pubDate>Wed, 05 Feb 2025 20:11:20 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-02-05T20:11:20Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.13.1</title>
