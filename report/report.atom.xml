@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 326 - Interview assistants de code IA avec Philippe Charrière et Kevin Aubry</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-06-03T12:24:02Z</modified>
+    <issued>2025-06-03T12:24:02Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 326 - Interview assistants de code IA avec Philippe Charrière et Kevin Aubry -- Tue Jun 03 12:24:02 UTC 2025</summary>
+    <dc:date>2025-06-03T12:24:02Z</dc:date>
+  </entry>
+  <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
     <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2025-05-12T20:13:19Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.4.2 -- Mon May 12 20:13:19 UTC 2025</summary>
     <dc:date>2025-05-12T20:13:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 325 - Trier le hachis des concurrents</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-09T12:20:17Z</modified>
-    <issued>2025-05-09T12:20:17Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 325 - Trier le hachis des concurrents -- Fri May 09 12:20:17 UTC 2025</summary>
-    <dc:date>2025-05-09T12:20:17Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 14 -- 14.18</title>
