@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.13.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 04 00:56:36 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Jun 03 20:21:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 326 - Interview assistants de code IA avec Philippe Charrière et Kevin Aubry|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jun 03 12:24:02 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:33 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:31 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 05 16:14:31 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.130.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Apr 30 08:15:33 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:12:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Apr 20 16:11:15 UTC 2025|

@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.13.4</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-06-04T00:56:36Z</modified>
+    <issued>2025-06-04T00:56:36Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.13.4 -- Wed Jun 04 00:56:36 UTC 2025</summary>
+    <dc:date>2025-06-04T00:56:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.13.3</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -186,18 +198,6 @@
     <issued>2025-05-08T08:15:31Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.22 -- Thu May 08 08:15:31 UTC 2025</summary>
     <dc:date>2025-05-08T08:15:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.13.3</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-05T16:14:31Z</modified>
-    <issued>2025-05-05T16:14:31Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.13.3 -- Mon May 05 16:14:31 UTC 2025</summary>
-    <dc:date>2025-05-05T16:14:31Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 23.130.0</title>

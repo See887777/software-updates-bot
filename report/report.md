@@ -56,7 +56,7 @@
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Jun 03 20:21:49 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.2|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 27 12:18:57 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 05 16:14:31 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 windows| 3.13.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 04 00:56:36 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 23 00:52:39 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
