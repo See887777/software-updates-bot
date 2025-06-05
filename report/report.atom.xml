@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 8.14.2</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-06-05T16:16:48Z</modified>
+    <issued>2025-06-05T16:16:48Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 8.14.2 -- Thu Jun 05 16:16:48 UTC 2025</summary>
+    <dc:date>2025-06-05T16:16:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.13.4</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -102,18 +114,6 @@
     <issued>2025-05-23T00:52:39Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.0.RELEASE -- Fri May 23 00:52:39 UTC 2025</summary>
     <dc:date>2025-05-23T00:52:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.14.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-22T16:20:47Z</modified>
-    <issued>2025-05-22T16:20:47Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.14.1 -- Thu May 22 16:20:47 UTC 2025</summary>
-    <dc:date>2025-05-22T16:20:47Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21</title>
