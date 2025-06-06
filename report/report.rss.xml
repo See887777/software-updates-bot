@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 18.9.5 to 19.0.0 ~ 2025-06-06</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 18.9.5 to 19.0.0 ~ 2025-06-06 -- Fri Jun 06 16:17:09 UTC 2025</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Fri, 06 Jun 2025 16:17:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-06-06T16:17:09Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.14.2</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.14.2 -- Thu Jun 05 16:16:48 UTC 2025</description>
@@ -125,16 +135,6 @@
       <pubDate>Fri, 23 May 2025 00:52:39 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-05-23T00:52:39Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 18.9.0 to 18.9.5 ~ 2025-05-21 -- Wed May 21 16:15:07 UTC 2025</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Wed, 21 May 2025 16:15:07 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-05-21T16:15:07Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- May 2025</title>
