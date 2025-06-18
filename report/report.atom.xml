@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 23.140.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-06-18T16:14:46Z</modified>
+    <issued>2025-06-18T16:14:46Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.140.0 -- Wed Jun 18 16:14:46 UTC 2025</summary>
+    <dc:date>2025-06-18T16:14:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 327 - Mon ami de 30 ans</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2025-05-08T08:15:31Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.22 -- Thu May 08 08:15:31 UTC 2025</summary>
     <dc:date>2025-05-08T08:15:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 23.130.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-04-30T08:15:33Z</modified>
-    <issued>2025-04-30T08:15:33Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.130.0 -- Wed Apr 30 08:15:33 UTC 2025</summary>
-    <dc:date>2025-04-30T08:15:33Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 windows x64 -- jdk8u452-b09</title>

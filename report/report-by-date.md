@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.140.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jun 18 16:14:46 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:21:40 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Mon Jun 09 20:15:54 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.0 to 19.0.1 ~ 2025-06-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jun 09 16:30:09 UTC 2025|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:33 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:31 UTC 2025|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.130.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Apr 30 08:15:33 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:12:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Apr 20 16:11:15 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 18 00:48:36 UTC 2025|
