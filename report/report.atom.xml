@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.5.1.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-06-19T16:14:27Z</modified>
+    <issued>2025-06-19T16:14:27Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.1.RELEASE -- Thu Jun 19 16:14:27 UTC 2025</summary>
+    <dc:date>2025-06-19T16:14:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 23.140.0</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -138,18 +150,6 @@
     <issued>2025-05-23T12:21:16Z</issued>
     <summary type="text/plain" mode="escaped">GPG4Win -- 4.4.1 (2025-05-21) -- Fri May 23 12:21:16 UTC 2025</summary>
     <dc:date>2025-05-23T12:21:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.5.0.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-23T00:52:39Z</modified>
-    <issued>2025-05-23T00:52:39Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.0.RELEASE -- Fri May 23 00:52:39 UTC 2025</summary>
-    <dc:date>2025-05-23T00:52:39Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.4.2</title>
