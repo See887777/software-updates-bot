@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 19 16:14:27 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|3.5.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 19 20:15:05 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.140.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jun 18 16:14:46 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:21:40 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Mon Jun 09 20:15:54 UTC 2025|

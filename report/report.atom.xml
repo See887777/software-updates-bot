@@ -32,16 +32,16 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
-    <title>Spring Boot -- 3.5.1.RELEASE</title>
+    <title>Spring Boot -- 3.5.2.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2025-06-19T16:14:27Z</modified>
-    <issued>2025-06-19T16:14:27Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.1.RELEASE -- Thu Jun 19 16:14:27 UTC 2025</summary>
-    <dc:date>2025-06-19T16:14:27Z</dc:date>
+    <modified>2025-06-19T20:15:05Z</modified>
+    <issued>2025-06-19T20:15:05Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.2.RELEASE -- Thu Jun 19 20:15:05 UTC 2025</summary>
+    <dc:date>2025-06-19T20:15:05Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 23.140.0</title>
