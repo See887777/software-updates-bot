@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025</title>
+      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
+      <description>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025 -- Thu Jul 10 08:16:54 UTC 2025</description>
+      <category>Redistributable Runtimes</category>
+      <category>MS Windows</category>
+      <pubDate>Thu, 10 Jul 2025 08:16:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-07-10T08:16:54Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 8.14.3</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 8.14.3 -- Fri Jul 04 20:13:31 UTC 2025</description>
@@ -118,16 +128,6 @@
       <pubDate>Mon, 16 Jun 2025 12:21:40 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-06-16T12:21:40Z</dc:date>
-    </item>
-    <item>
-      <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2025</title>
-      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
-      <description>Visual C++ Redistributable Runtimes All-in-One -- Jun 2025 -- Mon Jun 09 20:15:54 UTC 2025</description>
-      <category>Redistributable Runtimes</category>
-      <category>MS Windows</category>
-      <pubDate>Mon, 09 Jun 2025 20:15:54 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-06-09T20:15:54Z</dc:date>
     </item>
     <item>
       <title>Python 3 windows --  3.13.4</title>

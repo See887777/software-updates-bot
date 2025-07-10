@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-07-10T08:16:54Z</modified>
+    <issued>2025-07-10T08:16:54Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Jul 2025 -- Thu Jul 10 08:16:54 UTC 2025</summary>
+    <dc:date>2025-07-10T08:16:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 8.14.3</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -102,18 +114,6 @@
     <issued>2025-06-16T12:21:40Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 327 - Mon ami de 30 ans -- Mon Jun 16 12:21:40 UTC 2025</summary>
     <dc:date>2025-06-16T12:21:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2025</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-06-09T20:15:54Z</modified>
-    <issued>2025-06-09T20:15:54Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Jun 2025 -- Mon Jun 09 20:15:54 UTC 2025</summary>
-    <dc:date>2025-06-09T20:15:54Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.13.4</title>
