@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.13.5</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-07-15T16:15:02Z</modified>
+    <issued>2025-07-15T16:15:02Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.13.5 -- Tue Jul 15 16:15:02 UTC 2025</summary>
+    <dc:date>2025-07-15T16:15:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2025-06-16T12:21:40Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 327 - Mon ami de 30 ans -- Mon Jun 16 12:21:40 UTC 2025</summary>
     <dc:date>2025-06-16T12:21:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.13.4</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-06-04T00:56:36Z</modified>
-    <issued>2025-06-04T00:56:36Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.13.4 -- Wed Jun 04 00:56:36 UTC 2025</summary>
-    <dc:date>2025-06-04T00:56:36Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.13.3</title>

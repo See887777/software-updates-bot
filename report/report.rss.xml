@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 windows --  3.13.5</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.13.5 -- Tue Jul 15 16:15:02 UTC 2025</description>
+      <category>Python</category>
+      <pubDate>Tue, 15 Jul 2025 16:15:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-07-15T16:15:02Z</dc:date>
+    </item>
+    <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025</title>
       <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
       <description>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025 -- Thu Jul 10 08:16:54 UTC 2025</description>
@@ -128,15 +137,6 @@
       <pubDate>Mon, 16 Jun 2025 12:21:40 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-06-16T12:21:40Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.13.4</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.13.4 -- Wed Jun 04 00:56:36 UTC 2025</description>
-      <category>Python</category>
-      <pubDate>Wed, 04 Jun 2025 00:56:36 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-06-04T00:56:36Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.13.3</title>
