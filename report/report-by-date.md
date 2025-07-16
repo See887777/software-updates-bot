@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 328 - Expert généraliste cherche Virtual Thread|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 16 16:15:34 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.5|[www.python.org](https://www.python.org/downloads/windows/)|Tue Jul 15 16:15:02 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Jul 10 08:16:54 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.3|[gradle.org](https://gradle.org/releases/)|Fri Jul 04 20:13:31 UTC 2025|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:16:35 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jun 20 08:16:44 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.140.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jun 18 16:14:46 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:21:40 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Jun 03 20:21:49 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 12:21:16 UTC 2025|

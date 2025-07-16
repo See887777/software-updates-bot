@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-07-16T16:15:34Z</modified>
+    <issued>2025-07-16T16:15:34Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread -- Wed Jul 16 16:15:34 UTC 2025</summary>
+    <dc:date>2025-07-16T16:15:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.13.5</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2025-06-18T16:14:46Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.140.0 -- Wed Jun 18 16:14:46 UTC 2025</summary>
     <dc:date>2025-06-18T16:14:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 327 - Mon ami de 30 ans</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-06-16T12:21:40Z</modified>
-    <issued>2025-06-16T12:21:40Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 327 - Mon ami de 30 ans -- Mon Jun 16 12:21:40 UTC 2025</summary>
-    <dc:date>2025-06-16T12:21:40Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.13.3</title>
