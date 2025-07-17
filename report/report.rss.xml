@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.16+8</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.16+8 -- Thu Jul 17 20:13:22 UTC 2025</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Thu, 17 Jul 2025 20:13:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-07-17T20:13:22Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread -- Wed Jul 16 16:15:34 UTC 2025</description>
@@ -275,18 +287,6 @@
       <pubDate>Thu, 17 Apr 2025 20:11:49 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-04-17T20:11:49Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.15+6</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.15+6 -- Thu Apr 17 12:19:56 UTC 2025</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 17 Apr 2025 12:19:56 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-04-17T12:19:56Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 linux x64 -- jdk-11.0.27+6</title>

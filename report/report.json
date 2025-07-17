@@ -110,8 +110,8 @@
       ],
       "name": "Adoptium jdk17 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.15+6",
-      "checkDate": "Apr 17, 2025, 12:19:56 PM",
+      "version": "jdk-17.0.16+8",
+      "checkDate": "Jul 17, 2025, 8:13:22 PM",
       "logo": "ADOPTIUM"
     },
     {
