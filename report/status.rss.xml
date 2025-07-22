@@ -4,14 +4,34 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 22 Jul 2025 12:23:01 GMT</pubDate>
+    <pubDate>Tue, 22 Jul 2025 16:15:56 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2025-07-22T12:23:01Z</dc:date>
+    <dc:date>2025-07-22T16:15:56Z</dc:date>
     <item>
-      <title>FAILED -- Tue Jul 22 12:23:01 UTC 2025</title>
+      <title>FAILED -- Tue Jul 22 16:15:56 UTC 2025</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Python3SrcChecker failed, ignoring
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+
+checker class biz.lermitage.sub.service.checker.impl.Python3WindowsChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
@@ -219,9 +239,9 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Tue, 22 Jul 2025 12:23:01 GMT</pubDate>
+      <pubDate>Tue, 22 Jul 2025 16:15:56 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2025-07-22T12:23:01Z</dc:date>
+      <dc:date>2025-07-22T16:15:56Z</dc:date>
     </item>
   </channel>
 </rss>
