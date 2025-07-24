@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.5.4.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-07-24T12:23:04Z</modified>
+    <issued>2025-07-24T12:23:04Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.4.RELEASE -- Thu Jul 24 12:23:04 UTC 2025</summary>
+    <dc:date>2025-07-24T12:23:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u462-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2025-06-26T08:16:35Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-4 -- Thu Jun 26 08:16:35 UTC 2025</summary>
     <dc:date>2025-06-26T08:16:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.5.3.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-06-20T08:16:44Z</modified>
-    <issued>2025-06-20T08:16:44Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.3.RELEASE -- Fri Jun 20 08:16:44 UTC 2025</summary>
-    <dc:date>2025-06-20T08:16:44Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.13.3</title>
