@@ -27,7 +27,7 @@
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.1 to 19.0.5 ~ 2025-06-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Jun 27 20:12:29 UTC 2025|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.5 to 19.1.0 ~ 2025-07-24|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 24 16:14:17 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 328 - Expert généraliste cherche Virtual Thread|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 16 16:15:34 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
