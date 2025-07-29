@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jul 29 04:40:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 01:02:11 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.5 to 19.1.0 ~ 2025-07-24|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 24 16:14:17 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 24 12:23:04 UTC 2025|
@@ -24,7 +25,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:33 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:31 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 17 20:11:49 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.13.2|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 27 12:18:57 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
