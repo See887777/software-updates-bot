@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 9.0.0</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-07-31T20:13:51Z</modified>
+    <issued>2025-07-31T20:13:51Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 9.0.0 -- Thu Jul 31 20:13:51 UTC 2025</summary>
+    <dc:date>2025-07-31T20:13:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u462-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -210,18 +222,6 @@
     <issued>2025-07-10T08:16:54Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Jul 2025 -- Thu Jul 10 08:16:54 UTC 2025</summary>
     <dc:date>2025-07-10T08:16:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 8.14.3</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-07-04T20:13:31Z</modified>
-    <issued>2025-07-04T20:13:31Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 8.14.3 -- Fri Jul 04 20:13:31 UTC 2025</summary>
-    <dc:date>2025-07-04T20:13:31Z</dc:date>
   </entry>
   <entry>
     <title>Maven -- 4.0.0-rc-4</title>

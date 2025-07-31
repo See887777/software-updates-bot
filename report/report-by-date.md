@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.0.0|[gradle.org](https://gradle.org/releases/)|Thu Jul 31 20:13:51 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jul 29 04:40:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 01:02:11 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.5 to 19.1.0 ~ 2025-07-24|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 24 16:14:17 UTC 2025|
@@ -15,7 +16,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 328 - Expert généraliste cherche Virtual Thread|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 16 16:15:34 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.5|[www.python.org](https://www.python.org/downloads/windows/)|Tue Jul 15 16:15:02 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Jul 10 08:16:54 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|8.14.3|[gradle.org](https://gradle.org/releases/)|Fri Jul 04 20:13:31 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:16:35 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Jun 03 20:21:49 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|

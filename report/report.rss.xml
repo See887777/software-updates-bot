@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.0.0</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.0.0 -- Thu Jul 31 20:13:51 UTC 2025</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Thu, 31 Jul 2025 20:13:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-07-31T20:13:51Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u462-b08</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 mac x64 -- jdk8u462-b08 -- Tue Jul 29 04:40:28 UTC 2025</description>
@@ -225,16 +235,6 @@
       <pubDate>Thu, 10 Jul 2025 08:16:54 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-07-10T08:16:54Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 8.14.3</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 8.14.3 -- Fri Jul 04 20:13:31 UTC 2025</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 04 Jul 2025 20:13:31 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-04T20:13:31Z</dc:date>
     </item>
     <item>
       <title>Maven -- 4.0.0-rc-4</title>
