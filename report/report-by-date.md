@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.0 to 19.1.5 ~ 2025-08-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 12 16:14:49 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.160.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Aug 12 08:16:17 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri Aug 08 08:53:28 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.0.0|[gradle.org](https://gradle.org/releases/)|Thu Jul 31 20:13:51 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jul 29 04:40:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 01:02:11 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.5 to 19.1.0 ~ 2025-07-24|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 24 16:14:17 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 24 12:23:04 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 24 00:57:05 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 24 00:57:02 UTC 2025|

@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.1.0 to 19.1.5 ~ 2025-08-12</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-08-12T16:14:49Z</modified>
+    <issued>2025-08-12T16:14:49Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.1.0 to 19.1.5 ~ 2025-08-12 -- Tue Aug 12 16:14:49 UTC 2025</summary>
+    <dc:date>2025-08-12T16:14:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 23.160.0</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -90,18 +102,6 @@
     <issued>2025-07-27T01:02:11Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u462-b08 -- Sun Jul 27 01:02:11 UTC 2025</summary>
     <dc:date>2025-07-27T01:02:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.0.5 to 19.1.0 ~ 2025-07-24</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-07-24T16:14:17Z</modified>
-    <issued>2025-07-24T16:14:17Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.0.5 to 19.1.0 ~ 2025-07-24 -- Thu Jul 24 16:14:17 UTC 2025</summary>
-    <dc:date>2025-07-24T16:14:17Z</dc:date>
   </entry>
   <entry>
     <title>Spring Boot -- 3.5.4.RELEASE</title>
