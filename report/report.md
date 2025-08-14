@@ -28,7 +28,7 @@
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.0 to 19.1.5 ~ 2025-08-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 12 16:14:49 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 328 - Expert généraliste cherche Virtual Thread|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 16 16:15:34 UTC 2025|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Aug 14 16:15:32 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
@@ -46,8 +46,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:33 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:14:54 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:15:21 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:15:05 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|

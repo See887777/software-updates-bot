@@ -60,6 +60,35 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus -- Thu Aug 14 16:15:32 UTC 2025</description>
+      <category>Podcast</category>
+      <pubDate>Thu, 14 Aug 2025 16:15:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-08-14T16:15:32Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 13 -- 13.22</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 13 -- 13.22 -- Thu Aug 14 16:15:21 UTC 2025</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 14 Aug 2025 16:15:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-08-14T16:15:21Z</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL 14 -- 14.19</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.19 -- Thu Aug 14 16:15:05 UTC 2025</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 14 Aug 2025 16:15:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-08-14T16:15:05Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 19.1.0 to 19.1.5 ~ 2025-08-12</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 19.1.0 to 19.1.5 ~ 2025-08-12 -- Tue Aug 12 16:14:49 UTC 2025</description>
@@ -219,15 +248,6 @@
       <dc:date>2025-07-17T20:13:22Z</dc:date>
     </item>
     <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread -- Wed Jul 16 16:15:34 UTC 2025</description>
-      <category>Podcast</category>
-      <pubDate>Wed, 16 Jul 2025 16:15:34 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-16T16:15:34Z</dc:date>
-    </item>
-    <item>
       <title>Python 3 windows --  3.13.5</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.13.5 -- Tue Jul 15 16:15:02 UTC 2025</description>
@@ -293,26 +313,6 @@
       <pubDate>Mon, 12 May 2025 20:13:19 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-05-12T20:13:19Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.18</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.18 -- Thu May 08 16:14:54 UTC 2025</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 08 May 2025 16:14:54 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-05-08T16:14:54Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 13 -- 13.21</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 13 -- 13.21 -- Thu May 08 16:14:33 UTC 2025</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 08 May 2025 16:14:33 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-05-08T16:14:33Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.5 -- 10.5.29</title>

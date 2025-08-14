@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-08-14T16:15:32Z</modified>
+    <issued>2025-08-14T16:15:32Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus -- Thu Aug 14 16:15:32 UTC 2025</summary>
+    <dc:date>2025-08-14T16:15:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.22</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-08-14T16:15:21Z</modified>
+    <issued>2025-08-14T16:15:21Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.22 -- Thu Aug 14 16:15:21 UTC 2025</summary>
+    <dc:date>2025-08-14T16:15:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 14 -- 14.19</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-08-14T16:15:05Z</modified>
+    <issued>2025-08-14T16:15:05Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.19 -- Thu Aug 14 16:15:05 UTC 2025</summary>
+    <dc:date>2025-08-14T16:15:05Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.1.0 to 19.1.5 ~ 2025-08-12</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -200,18 +236,6 @@
     <dc:date>2025-07-17T20:13:22Z</dc:date>
   </entry>
   <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-07-16T16:15:34Z</modified>
-    <issued>2025-07-16T16:15:34Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 328 - Expert généraliste cherche Virtual Thread -- Wed Jul 16 16:15:34 UTC 2025</summary>
-    <dc:date>2025-07-16T16:15:34Z</dc:date>
-  </entry>
-  <entry>
     <title>Python 3 windows --  3.13.5</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -294,30 +318,6 @@
     <issued>2025-05-12T20:13:19Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.4.2 -- Mon May 12 20:13:19 UTC 2025</summary>
     <dc:date>2025-05-12T20:13:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.18</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-08T16:14:54Z</modified>
-    <issued>2025-05-08T16:14:54Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.18 -- Thu May 08 16:14:54 UTC 2025</summary>
-    <dc:date>2025-05-08T16:14:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.21</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-08T16:14:33Z</modified>
-    <issued>2025-05-08T16:14:33Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.21 -- Thu May 08 16:14:33 UTC 2025</summary>
-    <dc:date>2025-05-08T16:14:33Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.5 -- 10.5.29</title>
