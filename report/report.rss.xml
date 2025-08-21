@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.5.5.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.5.5.RELEASE -- Thu Aug 21 16:23:41 UTC 2025</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 21 Aug 2025 16:23:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-08-21T16:23:41Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus -- Thu Aug 14 16:15:32 UTC 2025</description>
@@ -151,17 +162,6 @@
       <pubDate>Sun, 27 Jul 2025 01:02:11 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-07-27T01:02:11Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.5.4.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.5.4.RELEASE -- Thu Jul 24 12:23:04 UTC 2025</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 24 Jul 2025 12:23:04 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-24T12:23:04Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 linux x64 -- jdk8u462-b08</title>
