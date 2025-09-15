@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 330 - Nano banana l'AI de Julia</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-09-15T12:20:15Z</modified>
+    <issued>2025-09-15T12:20:15Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 330 - Nano banana l'AI de Julia -- Mon Sep 15 12:20:15 UTC 2025</summary>
+    <dc:date>2025-09-15T12:20:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.13.7</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2025-08-21T16:23:41Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.5.RELEASE -- Thu Aug 21 16:23:41 UTC 2025</summary>
     <dc:date>2025-08-21T16:23:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-08-14T16:15:32Z</modified>
-    <issued>2025-08-14T16:15:32Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus -- Thu Aug 14 16:15:32 UTC 2025</summary>
-    <dc:date>2025-08-14T16:15:32Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 13 -- 13.22</title>
