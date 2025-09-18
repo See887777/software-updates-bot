@@ -60,6 +60,27 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.1.0</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.1.0 -- Thu Sep 18 16:42:30 UTC 2025</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Thu, 18 Sep 2025 16:42:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-09-18T16:42:30Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Boot -- 3.5.6.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.5.6.RELEASE -- Thu Sep 18 16:20:28 UTC 2025</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 18 Sep 2025 16:20:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-09-18T16:20:28Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 19.1.5 to 19.2.0 ~ 2025-09-16</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 19.1.5 to 19.2.0 ~ 2025-09-16 -- Tue Sep 16 20:12:35 UTC 2025</description>
@@ -86,17 +107,6 @@
       <pubDate>Tue, 09 Sep 2025 12:21:52 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-09-09T12:21:52Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.5.5.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.5.5.RELEASE -- Thu Aug 21 16:23:41 UTC 2025</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 21 Aug 2025 16:23:41 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-08-21T16:23:41Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 13 -- 13.22</title>
@@ -137,16 +147,6 @@
       <pubDate>Fri, 08 Aug 2025 08:53:28 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-08-08T08:53:28Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.0.0</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.0.0 -- Thu Jul 31 20:13:51 UTC 2025</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Thu, 31 Jul 2025 20:13:51 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-31T20:13:51Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u462-b08</title>
