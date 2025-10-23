@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 3.5.7.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 3.5.7.RELEASE -- Thu Oct 23 16:13:43 UTC 2025</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 23 Oct 2025 16:13:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-10-23T16:13:43Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.14.0</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.14.0 -- Wed Oct 15 12:22:12 UTC 2025</description>
@@ -96,17 +107,6 @@
       <pubDate>Thu, 18 Sep 2025 16:42:30 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-09-18T16:42:30Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 3.5.6.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 3.5.6.RELEASE -- Thu Sep 18 16:20:28 UTC 2025</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 18 Sep 2025 16:20:28 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-09-18T16:20:28Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 330 - Nano banana l'AI de Julia</title>
