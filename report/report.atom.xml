@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 linux x64 -- jdk-17.0.17+10</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-10-24T00:45:53Z</modified>
+    <issued>2025-10-24T00:45:53Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.17+10 -- Fri Oct 24 00:45:53 UTC 2025</summary>
+    <dc:date>2025-10-24T00:45:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 3.5.7.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -234,18 +246,6 @@
     <issued>2025-07-19T00:54:49Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.28+6 -- Sat Jul 19 00:54:49 UTC 2025</summary>
     <dc:date>2025-07-19T00:54:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 linux x64 -- jdk-17.0.16+8</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-07-18T16:16:09Z</modified>
-    <issued>2025-07-18T16:16:09Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.16+8 -- Fri Jul 18 16:16:09 UTC 2025</summary>
-    <dc:date>2025-07-18T16:16:09Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.16+8</title>

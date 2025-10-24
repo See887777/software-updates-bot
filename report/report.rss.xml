@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk17 linux x64 -- jdk-17.0.17+10</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 linux x64 -- jdk-17.0.17+10 -- Fri Oct 24 00:45:53 UTC 2025</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 24 Oct 2025 00:45:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-10-24T00:45:53Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 3.5.7.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 3.5.7.RELEASE -- Thu Oct 23 16:13:43 UTC 2025</description>
@@ -240,18 +252,6 @@
       <pubDate>Sat, 19 Jul 2025 00:54:49 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-07-19T00:54:49Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 linux x64 -- jdk-17.0.16+8</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 linux x64 -- jdk-17.0.16+8 -- Fri Jul 18 16:16:09 UTC 2025</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 18 Jul 2025 16:16:09 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-18T16:16:09Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk17 mac x64 -- jdk-17.0.16+8</title>
