@@ -19,8 +19,8 @@
       ],
       "name": "Adoptium jdk11 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.28+6",
-      "checkDate": "Jul 19, 2025, 12:54:49 AM",
+      "version": "jdk-11.0.29+7",
+      "checkDate": "Oct 28, 2025, 12:20:58 PM",
       "logo": "ADOPTIUM"
     },
     {

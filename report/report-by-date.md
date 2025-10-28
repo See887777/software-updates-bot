@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 28 12:20:58 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 24 00:45:53 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 23 16:13:43 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 15 12:22:12 UTC 2025|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 24 00:57:02 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 23 01:33:26 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 19 00:55:19 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 19 00:54:49 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 17 20:13:22 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Jul 10 08:16:54 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:16:35 UTC 2025|
