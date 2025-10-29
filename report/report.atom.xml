@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 23.170.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-10-29T08:16:49Z</modified>
+    <issued>2025-10-29T08:16:49Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.170.0 -- Wed Oct 29 08:16:49 UTC 2025</summary>
+    <dc:date>2025-10-29T08:16:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u472-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -162,18 +174,6 @@
     <issued>2025-08-14T16:15:05Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.19 -- Thu Aug 14 16:15:05 UTC 2025</summary>
     <dc:date>2025-08-14T16:15:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 23.160.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-08-12T08:16:17Z</modified>
-    <issued>2025-08-12T08:16:17Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.160.0 -- Tue Aug 12 08:16:17 UTC 2025</summary>
-    <dc:date>2025-08-12T08:16:17Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.6 -- 10.6.23</title>

@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Intel Bluetooth Drivers -- 23.170.0</title>
+      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
+      <description>Intel Bluetooth Drivers -- 23.170.0 -- Wed Oct 29 08:16:49 UTC 2025</description>
+      <category>Drivers</category>
+      <category>MS Windows</category>
+      <pubDate>Wed, 29 Oct 2025 08:16:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-10-29T08:16:49Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 linux x64 -- jdk8u472-b08</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 linux x64 -- jdk8u472-b08 -- Tue Oct 28 16:15:26 UTC 2025</description>
@@ -172,16 +182,6 @@
       <pubDate>Thu, 14 Aug 2025 16:15:05 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-08-14T16:15:05Z</dc:date>
-    </item>
-    <item>
-      <title>Intel Bluetooth Drivers -- 23.160.0</title>
-      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
-      <description>Intel Bluetooth Drivers -- 23.160.0 -- Tue Aug 12 08:16:17 UTC 2025</description>
-      <category>Drivers</category>
-      <category>MS Windows</category>
-      <pubDate>Tue, 12 Aug 2025 08:16:17 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-08-12T08:16:17Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.6 -- 10.6.23</title>
