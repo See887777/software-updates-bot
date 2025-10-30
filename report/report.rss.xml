@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk8 windows x64 -- jdk8u472-b08</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk8 windows x64 -- jdk8u472-b08 -- Thu Oct 30 04:13:57 UTC 2025</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Thu, 30 Oct 2025 04:13:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-10-30T04:13:57Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 9.2.0</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 9.2.0 -- Thu Oct 30 00:53:36 UTC 2025</description>
@@ -204,18 +216,6 @@
       <pubDate>Tue, 29 Jul 2025 04:40:28 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-07-29T04:40:28Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk8 windows x64 -- jdk8u462-b08</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 windows x64 -- jdk8u462-b08 -- Sun Jul 27 01:02:11 UTC 2025</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Sun, 27 Jul 2025 01:02:11 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-27T01:02:11Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 windows x64 -- jdk-11.0.28+6</title>
