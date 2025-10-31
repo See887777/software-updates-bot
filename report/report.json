@@ -123,8 +123,8 @@
       ],
       "name": "Adoptium jdk17 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.16+8",
-      "checkDate": "Jul 23, 2025, 1:33:26 AM",
+      "version": "jdk-17.0.17+10",
+      "checkDate": "Oct 31, 2025, 12:50:48 AM",
       "logo": "ADOPTIUM"
     },
     {
