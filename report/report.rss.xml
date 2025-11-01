@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.29+7</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.29+7 -- Sat Nov 01 16:47:51 UTC 2025</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Sat, 01 Nov 2025 16:47:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-11-01T16:47:51Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 19.2.5 to 19.3.0 ~ 2025-10-31</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 19.2.5 to 19.3.0 ~ 2025-10-31 -- Fri Oct 31 20:13:11 UTC 2025</description>
@@ -228,18 +240,6 @@
       <pubDate>Tue, 29 Jul 2025 04:40:28 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-07-29T04:40:28Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.28+6</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.28+6 -- Thu Jul 24 00:57:02 UTC 2025</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 24 Jul 2025 00:57:02 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-24T00:57:02Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.28+6</title>
