@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 331 - Le retour des jackson 5</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-11-06T16:18:02Z</modified>
+    <issued>2025-11-06T16:18:02Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 331 - Le retour des jackson 5 -- Thu Nov 06 16:18:02 UTC 2025</summary>
+    <dc:date>2025-11-06T16:18:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.17+10</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -210,18 +222,6 @@
     <issued>2025-10-08T16:24:56Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.0 -- Wed Oct 08 16:24:56 UTC 2025</summary>
     <dc:date>2025-10-08T16:24:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 330 - Nano banana l'AI de Julia</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-09-15T12:20:15Z</modified>
-    <issued>2025-09-15T12:20:15Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 330 - Nano banana l'AI de Julia -- Mon Sep 15 12:20:15 UTC 2025</summary>
-    <dc:date>2025-09-15T12:20:15Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 13 -- 13.22</title>
