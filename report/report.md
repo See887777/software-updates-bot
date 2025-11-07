@@ -35,7 +35,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:40 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:11:18 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri Aug 08 08:53:28 UTC 2025|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri Nov 07 08:17:33 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:08:35 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
