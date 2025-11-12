@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2025</title>
+      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
+      <description>Visual C++ Redistributable Runtimes All-in-One -- Nov 2025 -- Wed Nov 12 12:22:25 UTC 2025</description>
+      <category>Redistributable Runtimes</category>
+      <category>MS Windows</category>
+      <pubDate>Wed, 12 Nov 2025 12:22:25 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-11-12T12:22:25Z</dc:date>
+    </item>
+    <item>
       <title>MariaDB 10.6 -- 10.6.24</title>
       <link>https://downloads.mariadb.org</link>
       <description>MariaDB 10.6 -- 10.6.24 -- Fri Nov 07 08:17:33 UTC 2025</description>
@@ -264,16 +274,6 @@
       <pubDate>Thu, 14 Aug 2025 16:15:05 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-08-14T16:15:05Z</dc:date>
-    </item>
-    <item>
-      <title>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025</title>
-      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
-      <description>Visual C++ Redistributable Runtimes All-in-One -- Jul 2025 -- Thu Jul 10 08:16:54 UTC 2025</description>
-      <category>Redistributable Runtimes</category>
-      <category>MS Windows</category>
-      <pubDate>Thu, 10 Jul 2025 08:16:54 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-07-10T08:16:54Z</dc:date>
     </item>
     <item>
       <title>Maven -- 4.0.0-rc-4</title>

@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 12 12:22:25 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri Nov 07 08:17:33 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 331 - Le retour des jackson 5|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 06 16:18:02 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Nov 06 12:22:38 UTC 2025|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 08 16:24:56 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:15:21 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:15:05 UTC 2025|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Jul 10 08:16:54 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:16:35 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 12:21:16 UTC 2025|
