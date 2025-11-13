@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>PostgreSQL 14 -- 14.20</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-11-13T16:15:07Z</modified>
+    <issued>2025-11-13T16:15:07Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.20 -- Thu Nov 13 16:15:07 UTC 2025</summary>
+    <dc:date>2025-11-13T16:15:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.23</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-11-13T16:14:53Z</modified>
+    <issued>2025-11-13T16:14:53Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.23 -- Thu Nov 13 16:14:53 UTC 2025</summary>
+    <dc:date>2025-11-13T16:14:53Z</dc:date>
+  </entry>
+  <entry>
+    <title>Maven -- 4.0.0-rc-5</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-11-13T16:14:48Z</modified>
+    <issued>2025-11-13T16:14:48Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-5 -- Thu Nov 13 16:14:48 UTC 2025</summary>
+    <dc:date>2025-11-13T16:14:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2025</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -246,42 +282,6 @@
     <issued>2025-10-08T16:24:56Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.0 -- Wed Oct 08 16:24:56 UTC 2025</summary>
     <dc:date>2025-10-08T16:24:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 13 -- 13.22</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-08-14T16:15:21Z</modified>
-    <issued>2025-08-14T16:15:21Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.22 -- Thu Aug 14 16:15:21 UTC 2025</summary>
-    <dc:date>2025-08-14T16:15:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 14 -- 14.19</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-08-14T16:15:05Z</modified>
-    <issued>2025-08-14T16:15:05Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.19 -- Thu Aug 14 16:15:05 UTC 2025</summary>
-    <dc:date>2025-08-14T16:15:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Maven -- 4.0.0-rc-4</title>
-    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-06-26T08:16:35Z</modified>
-    <issued>2025-06-26T08:16:35Z</issued>
-    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-4 -- Thu Jun 26 08:16:35 UTC 2025</summary>
-    <dc:date>2025-06-26T08:16:35Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>

@@ -40,14 +40,14 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:09:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:07:22 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
-|![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:16:35 UTC 2025|
+|![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:14:48 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:31:13 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v20.11.1|[nodejs.org](https://nodejs.org)|Wed Feb 14 20:08:15 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:11:24 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:15:21 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:15:05 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:14:53 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:15:07 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
