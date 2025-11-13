@@ -3,17 +3,17 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2025-11-12T20:49:49Z</modified>
+  <modified>2025-11-13T01:29:05Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2025-11-12T20:49:49Z</dc:date>
+  <dc:date>2025-11-13T01:29:05Z</dc:date>
   <entry>
-    <title>FAILED -- Wed Nov 12 20:49:49 UTC 2025</title>
+    <title>FAILED -- Thu Nov 13 01:29:05 UTC 2025</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2025-11-12T20:49:49Z</modified>
-    <issued>2025-11-12T20:49:49Z</issued>
+    <modified>2025-11-13T01:29:05Z</modified>
+    <issued>2025-11-13T01:29:05Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
@@ -105,9 +105,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:579)
 	at java.base/sun.nio.ch.Net.connect(Net.java:568)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:639)
+	at java.base/java.net.Socket.connect(Socket.java:641)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
@@ -162,9 +162,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:579)
 	at java.base/sun.nio.ch.Net.connect(Net.java:568)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:639)
+	at java.base/java.net.Socket.connect(Socket.java:641)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
@@ -243,9 +243,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:579)
 	at java.base/sun.nio.ch.Net.connect(Net.java:568)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:639)
+	at java.base/java.net.Socket.connect(Socket.java:641)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
@@ -300,9 +300,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:579)
 	at java.base/sun.nio.ch.Net.connect(Net.java:568)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:639)
+	at java.base/java.net.Socket.connect(Socket.java:641)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
@@ -357,9 +357,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:579)
 	at java.base/sun.nio.ch.Net.connect(Net.java:568)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:639)
+	at java.base/java.net.Socket.connect(Socket.java:641)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
@@ -471,6 +471,6 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2025-11-12T20:49:49Z</dc:date>
+    <dc:date>2025-11-13T01:29:05Z</dc:date>
   </entry>
 </feed>
