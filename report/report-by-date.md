@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:16:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:15:07 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:14:53 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:14:48 UTC 2025|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.5 to 19.3.0 ~ 2025-10-31|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Oct 31 20:13:11 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 31 00:50:48 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Oct 30 04:13:57 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|9.2.0|[gradle.org](https://gradle.org/releases/)|Thu Oct 30 00:53:36 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|23.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Oct 29 08:16:49 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 28 16:15:26 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 28 12:20:58 UTC 2025|
