@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.5.8.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 16:14:45 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:13:30 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 332 - Groquik revient, Emmanuel s'en va|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 18 12:23:18 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:16:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:15:07 UTC 2025|

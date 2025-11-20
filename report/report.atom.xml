@@ -32,16 +32,16 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
-    <title>Spring Boot -- 3.5.8.RELEASE</title>
+    <title>Spring Boot -- 4.0.0.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2025-11-20T16:14:45Z</modified>
-    <issued>2025-11-20T16:14:45Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.8.RELEASE -- Thu Nov 20 16:14:45 UTC 2025</summary>
-    <dc:date>2025-11-20T16:14:45Z</dc:date>
+    <modified>2025-11-20T20:13:30Z</modified>
+    <issued>2025-11-20T20:13:30Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.0.RELEASE -- Thu Nov 20 20:13:30 UTC 2025</summary>
+    <dc:date>2025-11-20T20:13:30Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 332 - Groquik revient, Emmanuel s'en va</title>
