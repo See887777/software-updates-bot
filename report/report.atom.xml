@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 3.5.8.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-11-20T16:14:45Z</modified>
+    <issued>2025-11-20T16:14:45Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.8.RELEASE -- Thu Nov 20 16:14:45 UTC 2025</summary>
+    <dc:date>2025-11-20T16:14:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 332 - Groquik revient, Emmanuel s'en va</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -246,18 +258,6 @@
     <issued>2025-10-24T00:45:53Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.17+10 -- Fri Oct 24 00:45:53 UTC 2025</summary>
     <dc:date>2025-10-24T00:45:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 3.5.7.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-23T16:13:43Z</modified>
-    <issued>2025-10-23T16:13:43Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 3.5.7.RELEASE -- Thu Oct 23 16:13:43 UTC 2025</summary>
-    <dc:date>2025-10-23T16:13:43Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.14.0</title>
