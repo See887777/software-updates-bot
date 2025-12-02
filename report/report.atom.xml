@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 source --  3.14.1</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-02T16:16:47Z</modified>
+    <issued>2025-12-02T16:16:47Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.14.1 -- Tue Dec 02 16:16:47 UTC 2025</summary>
+    <dc:date>2025-12-02T16:16:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 4.0.0.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2025-04-02T16:12:55Z</issued>
     <summary type="text/plain" mode="escaped">ThrottleStop -- 9.7.3 -- Wed Apr 02 16:12:55 UTC 2025</summary>
     <dc:date>2025-04-02T16:12:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 source --  3.13.2</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-03-27T12:18:57Z</modified>
-    <issued>2025-03-27T12:18:57Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.13.2 -- Thu Mar 27 12:18:57 UTC 2025</summary>
-    <dc:date>2025-03-27T12:18:57Z</dc:date>
   </entry>
   <entry>
     <title>7+ Taskbar Tweaker -- v5.15.3 (March 1, 2025)</title>

@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 source| 3.14.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 02 16:16:47 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:13:30 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 332 - Groquik revient, Emmanuel s'en va|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 18 12:23:18 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:16:42 UTC 2025|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:13:19 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 source| 3.13.2|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 27 12:18:57 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:48:18 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:13:58 UTC 2024|
