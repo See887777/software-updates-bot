@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 19.3.0 to 19.3.5 ~ 2025-12-04</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 19.3.0 to 19.3.5 ~ 2025-12-04 -- Thu Dec 04 20:14:23 UTC 2025</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Thu, 04 Dec 2025 20:14:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-12-04T20:14:23Z</dc:date>
+    </item>
+    <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025</title>
       <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
       <description>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025 -- Thu Dec 04 12:23:51 UTC 2025</description>
@@ -195,16 +205,6 @@
       <pubDate>Sat, 01 Nov 2025 16:47:51 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-11-01T16:47:51Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 19.2.5 to 19.3.0 ~ 2025-10-31</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 19.2.5 to 19.3.0 ~ 2025-10-31 -- Fri Oct 31 20:13:11 UTC 2025</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Fri, 31 Oct 2025 20:13:11 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-10-31T20:13:11Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk17 windows x64 -- jdk-17.0.17+10</title>
