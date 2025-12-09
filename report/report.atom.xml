@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 24.0.1</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-09T16:16:53Z</modified>
+    <issued>2025-12-09T16:16:53Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.0.1 -- Tue Dec 09 16:16:53 UTC 2025</summary>
+    <dc:date>2025-12-09T16:16:53Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.3.0 to 19.3.5 ~ 2025-12-04</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -222,18 +234,6 @@
     <issued>2025-10-30T04:13:57Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u472-b08 -- Thu Oct 30 04:13:57 UTC 2025</summary>
     <dc:date>2025-10-30T04:13:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 23.170.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-29T08:16:49Z</modified>
-    <issued>2025-10-29T08:16:49Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 23.170.0 -- Wed Oct 29 08:16:49 UTC 2025</summary>
-    <dc:date>2025-10-29T08:16:49Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u472-b08</title>
