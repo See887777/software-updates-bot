@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 mac --  3.14.2</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-12T20:15:39Z</modified>
+    <issued>2025-12-12T20:15:39Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.2 -- Fri Dec 12 20:15:39 UTC 2025</summary>
+    <dc:date>2025-12-12T20:15:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 windows --  3.14.2</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-12T20:13:48Z</modified>
+    <issued>2025-12-12T20:13:48Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.2 -- Fri Dec 12 20:13:48 UTC 2025</summary>
+    <dc:date>2025-12-12T20:13:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 24.0.1</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -270,30 +294,6 @@
     <issued>2025-10-24T00:45:53Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.17+10 -- Fri Oct 24 00:45:53 UTC 2025</summary>
     <dc:date>2025-10-24T00:45:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.14.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-15T12:22:12Z</modified>
-    <issued>2025-10-15T12:22:12Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.0 -- Wed Oct 15 12:22:12 UTC 2025</summary>
-    <dc:date>2025-10-15T12:22:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.14.0</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-08T16:24:56Z</modified>
-    <issued>2025-10-08T16:24:56Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.0 -- Wed Oct 08 16:24:56 UTC 2025</summary>
-    <dc:date>2025-10-08T16:24:56Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>

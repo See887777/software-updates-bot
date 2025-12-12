@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 12 20:15:39 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 12 20:13:48 UTC 2025|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.0.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Dec 09 16:16:53 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.3.0 to 19.3.5 ~ 2025-12-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 04 20:14:23 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Dec 04 12:23:51 UTC 2025|
@@ -20,8 +22,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 28 16:15:26 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 28 12:20:58 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 24 00:45:53 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 15 12:22:12 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 08 16:24:56 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 12:21:16 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:13:19 UTC 2025|

@@ -60,6 +60,24 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.14.2</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.14.2 -- Fri Dec 12 20:15:39 UTC 2025</description>
+      <category>Python</category>
+      <pubDate>Fri, 12 Dec 2025 20:15:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-12-12T20:15:39Z</dc:date>
+    </item>
+    <item>
+      <title>Python 3 windows --  3.14.2</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.14.2 -- Fri Dec 12 20:13:48 UTC 2025</description>
+      <category>Python</category>
+      <pubDate>Fri, 12 Dec 2025 20:13:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-12-12T20:13:48Z</dc:date>
+    </item>
+    <item>
       <title>Intel Bluetooth Drivers -- 24.0.1</title>
       <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
       <description>Intel Bluetooth Drivers -- 24.0.1 -- Tue Dec 09 16:16:53 UTC 2025</description>
@@ -275,24 +293,6 @@
       <pubDate>Fri, 24 Oct 2025 00:45:53 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-10-24T00:45:53Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.14.0</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.14.0 -- Wed Oct 15 12:22:12 UTC 2025</description>
-      <category>Python</category>
-      <pubDate>Wed, 15 Oct 2025 12:22:12 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-10-15T12:22:12Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.14.0</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.14.0 -- Wed Oct 08 16:24:56 UTC 2025</description>
-      <category>Python</category>
-      <pubDate>Wed, 08 Oct 2025 16:24:56 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-10-08T16:24:56Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>

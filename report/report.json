@@ -628,8 +628,8 @@
       ],
       "name": "Python 3 mac",
       "website": "https://www.python.org/downloads/mac-osx/",
-      "version": " 3.14.0",
-      "checkDate": "Oct 8, 2025, 4:24:56 PM",
+      "version": " 3.14.2",
+      "checkDate": "Dec 12, 2025, 8:15:39 PM",
       "logo": "PYTHON"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "name": "Python 3 windows",
       "website": "https://www.python.org/downloads/windows/",
-      "version": " 3.14.0",
-      "checkDate": "Oct 15, 2025, 12:22:12 PM",
+      "version": " 3.14.2",
+      "checkDate": "Dec 12, 2025, 8:13:48 PM",
       "logo": "PYTHON"
     },
     {
