@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 333 - A vendre OSS primitif TBE</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-15T16:17:58Z</modified>
+    <issued>2025-12-15T16:17:58Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 333 - A vendre OSS primitif TBE -- Mon Dec 15 16:17:58 UTC 2025</summary>
+    <dc:date>2025-12-15T16:17:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.14.2</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2025-11-20T20:13:30Z</issued>
     <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.0.RELEASE -- Thu Nov 20 20:13:30 UTC 2025</summary>
     <dc:date>2025-11-20T20:13:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 332 - Groquik revient, Emmanuel s'en va</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-11-18T12:23:18Z</modified>
-    <issued>2025-11-18T12:23:18Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 332 - Groquik revient, Emmanuel s'en va -- Tue Nov 18 12:23:18 UTC 2025</summary>
-    <dc:date>2025-11-18T12:23:18Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 9.2.1</title>
