@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 4.0.1.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 4.0.1.RELEASE -- Thu Dec 18 20:12:56 UTC 2025</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 18 Dec 2025 20:12:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2025-12-18T20:12:56Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 source --  3.14.2</title>
       <link>https://www.python.org/downloads/source/</link>
       <description>Python 3 source --  3.14.2 -- Tue Dec 16 16:16:48 UTC 2025</description>
@@ -124,17 +135,6 @@
       <pubDate>Thu, 04 Dec 2025 12:23:51 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-12-04T12:23:51Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 4.0.0.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 4.0.0.RELEASE -- Thu Nov 20 20:13:30 UTC 2025</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Thu, 20 Nov 2025 20:13:30 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-11-20T20:13:30Z</dc:date>
     </item>
     <item>
       <title>Gradle -- 9.2.1</title>
