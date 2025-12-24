@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 334 - Interview de Muriel Ekovich sur les biais cognitifs</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-24T16:15:27Z</modified>
+    <issued>2025-12-24T16:15:27Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 334 - Interview de Muriel Ekovich sur les biais cognitifs -- Wed Dec 24 16:15:27 UTC 2025</summary>
+    <dc:date>2025-12-24T16:15:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 4.0.1.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2025-12-16T16:16:48Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.14.2 -- Tue Dec 16 16:16:48 UTC 2025</summary>
     <dc:date>2025-12-16T16:16:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 333 - A vendre OSS primitif TBE</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-12-15T16:17:58Z</modified>
-    <issued>2025-12-15T16:17:58Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 333 - A vendre OSS primitif TBE -- Mon Dec 15 16:17:58 UTC 2025</summary>
-    <dc:date>2025-12-15T16:17:58Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.14.2</title>
