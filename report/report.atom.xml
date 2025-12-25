@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>7+ Taskbar Tweaker -- v5.15.4 (December 24, 2025)</title>
+    <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2025-12-25T00:55:14Z</modified>
+    <issued>2025-12-25T00:55:14Z</issued>
+    <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.4 (December 24, 2025) -- Thu Dec 25 00:55:14 UTC 2025</summary>
+    <dc:date>2025-12-25T00:55:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 334 - Interview de Muriel Ekovich sur les biais cognitifs</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -354,18 +366,6 @@
     <issued>2025-04-02T16:12:55Z</issued>
     <summary type="text/plain" mode="escaped">ThrottleStop -- 9.7.3 -- Wed Apr 02 16:12:55 UTC 2025</summary>
     <dc:date>2025-04-02T16:12:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>7+ Taskbar Tweaker -- v5.15.3 (March 1, 2025)</title>
-    <link rel="alternate" href="https://ramensoftware.com/7-taskbar-tweaker" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-03-02T00:48:18Z</modified>
-    <issued>2025-03-02T00:48:18Z</issued>
-    <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.3 (March 1, 2025) -- Sun Mar 02 00:48:18 UTC 2025</summary>
-    <dc:date>2025-03-02T00:48:18Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 12 -- 12.22</title>
