@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 24.10.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-01-03T16:14:07Z</modified>
+    <issued>2026-01-03T16:14:07Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.10.0 -- Sat Jan 03 16:14:07 UTC 2026</summary>
+    <dc:date>2026-01-03T16:14:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Inkscape -- 1.4.3</title>
     <link rel="alternate" href="https://inkscape.org" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2025-12-12T20:13:48Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.2 -- Fri Dec 12 20:13:48 UTC 2025</summary>
     <dc:date>2025-12-12T20:13:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 24.0.1</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-12-09T16:16:53Z</modified>
-    <issued>2025-12-09T16:16:53Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.0.1 -- Tue Dec 09 16:16:53 UTC 2025</summary>
-    <dc:date>2025-12-09T16:16:53Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 19.3.0 to 19.3.5 ~ 2025-12-04</title>
