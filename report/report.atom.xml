@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>VLC -- 3.0.23</title>
+    <link rel="alternate" href="https://www.videolan.org/vlc/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-01-08T12:25:35Z</modified>
+    <issued>2026-01-08T12:25:35Z</issued>
+    <summary type="text/plain" mode="escaped">VLC -- 3.0.23 -- Thu Jan 08 12:25:35 UTC 2026</summary>
+    <dc:date>2026-01-08T12:25:35Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.3.5 to 19.4.0 ~ 2026-01-07</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -378,18 +390,6 @@
     <issued>2024-11-21T16:25:34Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.22 -- Thu Nov 21 16:25:34 UTC 2024</summary>
     <dc:date>2024-11-21T16:25:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>VLC -- 3.0.21</title>
-    <link rel="alternate" href="https://www.videolan.org/vlc/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2024-06-09T12:13:58Z</modified>
-    <issued>2024-06-09T12:13:58Z</issued>
-    <summary type="text/plain" mode="escaped">VLC -- 3.0.21 -- Sun Jun 09 12:13:58 UTC 2024</summary>
-    <dc:date>2024-06-09T12:13:58Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.4 -- 10.4.34</title>
