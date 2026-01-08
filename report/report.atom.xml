@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.3.5 to 19.4.0 ~ 2026-01-07</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-01-08T01:00:35Z</modified>
+    <issued>2026-01-08T01:00:35Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.3.5 to 19.4.0 ~ 2026-01-07 -- Thu Jan 08 01:00:35 UTC 2026</summary>
+    <dc:date>2026-01-08T01:00:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 24.10.0</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2025-12-12T20:13:48Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.2 -- Fri Dec 12 20:13:48 UTC 2025</summary>
     <dc:date>2025-12-12T20:13:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.3.0 to 19.3.5 ~ 2025-12-04</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-12-04T20:14:23Z</modified>
-    <issued>2025-12-04T20:14:23Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.3.0 to 19.3.5 ~ 2025-12-04 -- Thu Dec 04 20:14:23 UTC 2025</summary>
-    <dc:date>2025-12-04T20:14:23Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025</title>
