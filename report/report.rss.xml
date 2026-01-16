@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.3.0</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.3.0 -- Fri Jan 16 16:17:31 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 16 Jan 2026 16:17:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-01-16T16:17:31Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 335 - 200 terminaux en prod vendredi</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 335 - 200 terminaux en prod vendredi -- Fri Jan 16 12:23:53 UTC 2026</description>
@@ -174,16 +184,6 @@
       <pubDate>Thu, 04 Dec 2025 12:23:51 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-12-04T12:23:51Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.2.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.2.1 -- Mon Nov 17 16:16:42 UTC 2025</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Mon, 17 Nov 2025 16:16:42 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-11-17T16:16:42Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 14 -- 14.20</title>
