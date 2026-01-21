@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 21 16:25:17 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.0|[gradle.org](https://gradle.org/releases/)|Fri Jan 16 16:17:31 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:23:53 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.0 (2026-01-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jan 14 20:11:58 UTC 2026|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Oct 30 04:13:57 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 28 16:15:26 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 28 12:20:58 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 24 00:45:53 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 08 08:15:42 UTC 2025|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
