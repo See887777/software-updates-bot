@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 4.0.2.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-01-22T16:23:10Z</modified>
+    <issued>2026-01-22T16:23:10Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.2.RELEASE -- Thu Jan 22 16:23:10 UTC 2026</summary>
+    <dc:date>2026-01-22T16:23:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -138,18 +150,6 @@
     <issued>2025-12-25T00:55:14Z</issued>
     <summary type="text/plain" mode="escaped">7+ Taskbar Tweaker -- v5.15.4 (December 24, 2025) -- Thu Dec 25 00:55:14 UTC 2025</summary>
     <dc:date>2025-12-25T00:55:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 4.0.1.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-12-18T20:12:56Z</modified>
-    <issued>2025-12-18T20:12:56Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.1.RELEASE -- Thu Dec 18 20:12:56 UTC 2025</summary>
-    <dc:date>2025-12-18T20:12:56Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 source --  3.14.2</title>

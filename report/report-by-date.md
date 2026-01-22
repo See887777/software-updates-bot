@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|4.0.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 22 16:23:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 21 16:25:17 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.0|[gradle.org](https://gradle.org/releases/)|Fri Jan 16 16:17:31 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:23:53 UTC 2026|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.10.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Sat Jan 03 16:14:07 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:14:14 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:55:14 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|4.0.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 18 20:12:56 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.2|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 16 16:16:48 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 12 20:15:39 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 12 20:13:48 UTC 2025|
