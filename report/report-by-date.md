@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|4.0.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 22 16:23:10 UTC 2026|
+|![logo](../media/logo/springboot.png) Spring Boot|4.1.0.M1|[start.spring.io](https://start.spring.io)|Thu Jan 22 20:15:23 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 21 16:25:17 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.0|[gradle.org](https://gradle.org/releases/)|Fri Jan 16 16:17:31 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:23:53 UTC 2026|

@@ -60,15 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
-      <title>Spring Boot -- 4.0.2.RELEASE</title>
+      <title>Spring Boot -- 4.1.0.M1</title>
       <link>https://start.spring.io</link>
-      <description>Spring Boot -- 4.0.2.RELEASE -- Thu Jan 22 16:23:10 UTC 2026</description>
+      <description>Spring Boot -- 4.1.0.M1 -- Thu Jan 22 20:15:23 UTC 2026</description>
       <category>Java</category>
       <category>Library</category>
       <category>Spring Framework</category>
-      <pubDate>Thu, 22 Jan 2026 16:23:10 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 20:15:23 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-01-22T16:23:10Z</dc:date>
+      <dc:date>2026-01-22T20:15:23Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>
