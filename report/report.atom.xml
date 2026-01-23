@@ -32,16 +32,16 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
-    <title>Spring Boot -- 4.1.0.M1</title>
+    <title>Spring Boot -- 4.0.2.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2026-01-22T20:15:23Z</modified>
-    <issued>2026-01-22T20:15:23Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.1.0.M1 -- Thu Jan 22 20:15:23 UTC 2026</summary>
-    <dc:date>2026-01-22T20:15:23Z</dc:date>
+    <modified>2026-01-23T12:25:57Z</modified>
+    <issued>2026-01-23T12:25:57Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.2.RELEASE -- Fri Jan 23 12:25:57 UTC 2026</summary>
+    <dc:date>2026-01-23T12:25:57Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>

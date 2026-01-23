@@ -660,8 +660,8 @@
       ],
       "name": "Spring Boot",
       "website": "https://start.spring.io",
-      "version": "4.1.0.M1",
-      "checkDate": "Jan 22, 2026, 8:15:23 PM",
+      "version": "4.0.2.RELEASE",
+      "checkDate": "Jan 23, 2026, 12:25:57 PM",
       "logo": "SPRING_BOOT"
     },
     {
