@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 linux x64 -- jdk-11.0.30+7</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-01-28T12:27:07Z</modified>
+    <issued>2026-01-28T12:27:07Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.30+7 -- Wed Jan 28 12:27:07 UTC 2026</summary>
+    <dc:date>2026-01-28T12:27:07Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.4.0 to 19.4.5 ~ 2026-01-27</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -330,18 +342,6 @@
     <issued>2025-10-28T16:15:26Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u472-b08 -- Tue Oct 28 16:15:26 UTC 2025</summary>
     <dc:date>2025-10-28T16:15:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 linux x64 -- jdk-11.0.29+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-28T12:20:58Z</modified>
-    <issued>2025-10-28T12:20:58Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.29+7 -- Tue Oct 28 12:20:58 UTC 2025</summary>
-    <dc:date>2025-10-28T12:20:58Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
