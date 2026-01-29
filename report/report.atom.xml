@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 9.3.1</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-01-29T16:31:29Z</modified>
+    <issued>2026-01-29T16:31:29Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 9.3.1 -- Thu Jan 29 16:31:29 UTC 2026</summary>
+    <dc:date>2026-01-29T16:31:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.30+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -90,18 +102,6 @@
     <issued>2026-01-21T16:25:17Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.18+8 -- Wed Jan 21 16:25:17 UTC 2026</summary>
     <dc:date>2026-01-21T16:25:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 9.3.0</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-01-16T16:17:31Z</modified>
-    <issued>2026-01-16T16:17:31Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 9.3.0 -- Fri Jan 16 16:17:31 UTC 2026</summary>
-    <dc:date>2026-01-16T16:17:31Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 335 - 200 terminaux en prod vendredi</title>
