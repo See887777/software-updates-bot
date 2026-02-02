@@ -214,8 +214,8 @@
       ],
       "name": "Adoptium jdk8 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u472-b08",
-      "checkDate": "Oct 28, 2025, 4:15:26 PM",
+      "version": "jdk8u482-b08",
+      "checkDate": "Feb 2, 2026, 12:34:03 PM",
       "logo": "ADOPTIUM"
     },
     {

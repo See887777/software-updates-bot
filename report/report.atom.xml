@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 linux x64 -- jdk8u482-b08</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-02-02T12:34:03Z</modified>
+    <issued>2026-02-02T12:34:03Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u482-b08 -- Mon Feb 02 12:34:03 UTC 2026</summary>
+    <dc:date>2026-02-02T12:34:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 9.3.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -330,18 +342,6 @@
     <issued>2025-10-30T04:13:57Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u472-b08 -- Thu Oct 30 04:13:57 UTC 2025</summary>
     <dc:date>2025-10-30T04:13:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 linux x64 -- jdk8u472-b08</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-28T16:15:26Z</modified>
-    <issued>2025-10-28T16:15:26Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u472-b08 -- Tue Oct 28 16:15:26 UTC 2025</summary>
-    <dc:date>2025-10-28T16:15:26Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
