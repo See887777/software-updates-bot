@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.6 -- 10.6.25</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-02-05T16:34:54Z</modified>
+    <issued>2026-02-05T16:34:54Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.25 -- Thu Feb 05 16:34:54 UTC 2026</summary>
+    <dc:date>2026-02-05T16:34:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 windows x64 -- jdk8u482-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -330,18 +342,6 @@
     <issued>2025-11-13T16:14:48Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-5 -- Thu Nov 13 16:14:48 UTC 2025</summary>
     <dc:date>2025-11-13T16:14:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.24</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-11-07T08:17:33Z</modified>
-    <issued>2025-11-07T08:17:33Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.24 -- Fri Nov 07 08:17:33 UTC 2025</summary>
-    <dc:date>2025-11-07T08:17:33Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
