@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u482-b08</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-02-05T01:07:14Z</modified>
+    <issued>2026-02-05T01:07:14Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u482-b08 -- Thu Feb 05 01:07:14 UTC 2026</summary>
+    <dc:date>2026-02-05T01:07:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u482-b08</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -330,18 +342,6 @@
     <issued>2025-11-07T08:17:33Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.24 -- Fri Nov 07 08:17:33 UTC 2025</summary>
     <dc:date>2025-11-07T08:17:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u472-b08</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-10-30T04:13:57Z</modified>
-    <issued>2025-10-30T04:13:57Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u472-b08 -- Thu Oct 30 04:13:57 UTC 2025</summary>
-    <dc:date>2025-10-30T04:13:57Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
