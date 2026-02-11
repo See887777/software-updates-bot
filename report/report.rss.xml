@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 windows --  3.14.3</title>
+      <link>https://www.python.org/downloads/windows/</link>
+      <description>Python 3 windows --  3.14.3 -- Wed Feb 11 16:53:08 UTC 2026</description>
+      <category>Python</category>
+      <pubDate>Wed, 11 Feb 2026 16:53:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-02-11T16:53:08Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 336 - Interview Kotlin avec Arnaud Giuliani</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 336 - Interview Kotlin avec Arnaud Giuliani -- Fri Feb 06 16:32:30 UTC 2026</description>
@@ -283,15 +292,6 @@
       <pubDate>Fri, 12 Dec 2025 20:15:39 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-12-12T20:15:39Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 windows --  3.14.2</title>
-      <link>https://www.python.org/downloads/windows/</link>
-      <description>Python 3 windows --  3.14.2 -- Fri Dec 12 20:13:48 UTC 2025</description>
-      <category>Python</category>
-      <pubDate>Fri, 12 Dec 2025 20:13:48 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-12-12T20:13:48Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025</title>

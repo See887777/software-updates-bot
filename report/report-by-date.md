@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 11 16:53:08 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 336 - Interview Kotlin avec Arnaud Giuliani|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 06 16:32:30 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 05 16:34:54 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Feb 05 01:07:14 UTC 2026|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:55:14 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.2|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 16 16:16:48 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 12 20:15:39 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 12 20:13:48 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Dec 04 12:23:51 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:15:07 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:14:53 UTC 2025|
