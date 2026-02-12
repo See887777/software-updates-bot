@@ -555,8 +555,8 @@
       ],
       "name": "PostgreSQL 14",
       "website": "https://www.postgresql.org/download/",
-      "version": "14.20",
-      "checkDate": "Nov 13, 2025, 4:15:07 PM",
+      "version": "14.21",
+      "checkDate": "Feb 12, 2026, 4:45:44 PM",
       "logo": "POSTGRESQL"
     },
     {
