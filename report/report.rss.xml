@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 337 - Datacenters Carrier Class dans l'espace</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 337 - Datacenters Carrier Class dans l'espace -- Mon Feb 16 08:35:14 UTC 2026</description>
+      <category>Podcast</category>
+      <pubDate>Mon, 16 Feb 2026 08:35:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-02-16T08:35:14Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 14 -- 14.21</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 14 -- 14.21 -- Thu Feb 12 16:45:44 UTC 2026</description>
@@ -77,15 +86,6 @@
       <pubDate>Wed, 11 Feb 2026 16:53:08 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-02-11T16:53:08Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 336 - Interview Kotlin avec Arnaud Giuliani</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 336 - Interview Kotlin avec Arnaud Giuliani -- Fri Feb 06 16:32:30 UTC 2026</description>
-      <category>Podcast</category>
-      <pubDate>Fri, 06 Feb 2026 16:32:30 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-02-06T16:32:30Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.6 -- 10.6.25</title>

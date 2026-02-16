@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 08:35:14 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:45:44 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 11 16:53:08 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 336 - Interview Kotlin avec Arnaud Giuliani|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 06 16:32:30 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 05 16:34:54 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Feb 05 01:07:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Feb 04 20:23:39 UTC 2026|
