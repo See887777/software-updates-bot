@@ -102,7 +102,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Python3MacosChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
@@ -122,7 +122,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Python3WindowsChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)

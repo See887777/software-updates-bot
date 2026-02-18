@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 18 Feb 2026 08:34:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 16:52:09 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-02-18T08:34:16Z</dc:date>
+    <dc:date>2026-02-18T16:52:09Z</dc:date>
     <item>
-      <title>FAILED -- Wed Feb 18 08:34:16 UTC 2026</title>
+      <title>FAILED -- Wed Feb 18 16:52:09 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
@@ -113,7 +113,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Python3MacosChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
@@ -133,7 +133,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Python3WindowsChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
 	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
@@ -219,9 +219,9 @@ java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 8
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 08:34:16 GMT</pubDate>
+      <pubDate>Wed, 18 Feb 2026 16:52:09 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-02-18T08:34:16Z</dc:date>
+      <dc:date>2026-02-18T16:52:09Z</dc:date>
     </item>
   </channel>
 </rss>

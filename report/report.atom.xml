@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 mac --  3.14.3</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-02-18T16:51:46Z</modified>
+    <issued>2026-02-18T16:51:46Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.3 -- Wed Feb 18 16:51:46 UTC 2026</summary>
+    <dc:date>2026-02-18T16:51:46Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.4.5 to 19.5.0 ~ 2026-02-16</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -294,18 +306,6 @@
     <issued>2025-12-16T16:16:48Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.14.2 -- Tue Dec 16 16:16:48 UTC 2025</summary>
     <dc:date>2025-12-16T16:16:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.14.2</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-12-12T20:15:39Z</modified>
-    <issued>2025-12-12T20:15:39Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.2 -- Fri Dec 12 20:15:39 UTC 2025</summary>
-    <dc:date>2025-12-12T20:15:39Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025</title>
