@@ -60,6 +60,17 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Spring Boot -- 4.0.3.RELEASE</title>
+      <link>https://start.spring.io</link>
+      <description>Spring Boot -- 4.0.3.RELEASE -- Thu Feb 19 16:40:28 UTC 2026</description>
+      <category>Java</category>
+      <category>Library</category>
+      <category>Spring Framework</category>
+      <pubDate>Thu, 19 Feb 2026 16:40:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-02-19T16:40:28Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 mac --  3.14.3</title>
       <link>https://www.python.org/downloads/mac-osx/</link>
       <description>Python 3 mac --  3.14.3 -- Wed Feb 18 16:51:46 UTC 2026</description>
@@ -231,17 +242,6 @@
       <pubDate>Tue, 27 Jan 2026 16:18:49 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-01-27T16:18:49Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot -- 4.0.2.RELEASE</title>
-      <link>https://start.spring.io</link>
-      <description>Spring Boot -- 4.0.2.RELEASE -- Fri Jan 23 12:25:57 UTC 2026</description>
-      <category>Java</category>
-      <category>Library</category>
-      <category>Spring Framework</category>
-      <pubDate>Fri, 23 Jan 2026 12:25:57 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-01-23T12:25:57Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>

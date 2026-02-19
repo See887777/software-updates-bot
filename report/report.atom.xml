@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 4.0.3.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-02-19T16:40:28Z</modified>
+    <issued>2026-02-19T16:40:28Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.3.RELEASE -- Thu Feb 19 16:40:28 UTC 2026</summary>
+    <dc:date>2026-02-19T16:40:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.14.3</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -222,18 +234,6 @@
     <issued>2026-01-27T16:18:49Z</issued>
     <summary type="text/plain" mode="escaped">GPG4Win -- 5.0.1 (2026-01-27) -- Tue Jan 27 16:18:49 UTC 2026</summary>
     <dc:date>2026-01-27T16:18:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 4.0.2.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-01-23T12:25:57Z</modified>
-    <issued>2026-01-23T12:25:57Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.2.RELEASE -- Fri Jan 23 12:25:57 UTC 2026</summary>
-    <dc:date>2026-01-23T12:25:57Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>
