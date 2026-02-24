@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Intel Bluetooth Drivers -- 24.20.0</title>
+      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
+      <description>Intel Bluetooth Drivers -- 24.20.0 -- Tue Feb 24 01:08:40 UTC 2026</description>
+      <category>Drivers</category>
+      <category>MS Windows</category>
+      <pubDate>Tue, 24 Feb 2026 01:08:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-02-24T01:08:40Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 4.0.3.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 4.0.3.RELEASE -- Thu Feb 19 16:40:28 UTC 2026</description>
@@ -264,16 +274,6 @@
       <pubDate>Thu, 08 Jan 2026 12:25:35 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-01-08T12:25:35Z</dc:date>
-    </item>
-    <item>
-      <title>Intel Bluetooth Drivers -- 24.10.0</title>
-      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
-      <description>Intel Bluetooth Drivers -- 24.10.0 -- Sat Jan 03 16:14:07 UTC 2026</description>
-      <category>Drivers</category>
-      <category>MS Windows</category>
-      <pubDate>Sat, 03 Jan 2026 16:14:07 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-01-03T16:14:07Z</dc:date>
     </item>
     <item>
       <title>Inkscape -- 1.4.3</title>
