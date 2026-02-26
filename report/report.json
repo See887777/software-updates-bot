@@ -555,8 +555,8 @@
       ],
       "name": "PostgreSQL 14",
       "website": "https://www.postgresql.org/download/",
-      "version": "14.21",
-      "checkDate": "Feb 12, 2026, 4:45:44 PM",
+      "version": "14.22",
+      "checkDate": "Feb 26, 2026, 4:45:34 PM",
       "logo": "POSTGRESQL"
     },
     {
@@ -638,8 +638,8 @@
       ],
       "name": "Python 3 source",
       "website": "https://www.python.org/downloads/source/",
-      "version": " 3.14.2",
-      "checkDate": "Dec 16, 2025, 4:16:48 PM",
+      "version": " 3.14.3",
+      "checkDate": "Feb 26, 2026, 4:45:44 PM",
       "logo": "PYTHON"
     },
     {

@@ -47,7 +47,7 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:08:52 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:25:34 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:14:53 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:45:44 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:45:34 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
@@ -55,7 +55,7 @@
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 18 16:51:46 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 source| 3.14.2|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 16 16:16:48 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 source| 3.14.3|[www.python.org](https://www.python.org/downloads/source/)|Thu Feb 26 16:45:44 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 11 16:53:08 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:40:28 UTC 2026|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|

@@ -1,11 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 source| 3.14.3|[www.python.org](https://www.python.org/downloads/source/)|Thu Feb 26 16:45:44 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:45:34 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.20.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Feb 24 01:08:40 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:40:28 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 18 16:51:46 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.5 to 19.5.0 ~ 2026-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Feb 17 01:09:21 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 08:35:14 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:45:44 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 11 16:53:08 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 05 16:34:54 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Feb 05 01:07:14 UTC 2026|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:25:35 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:14:14 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:55:14 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 source| 3.14.2|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 16 16:16:48 UTC 2025|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Dec 04 12:23:51 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:14:53 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:14:48 UTC 2025|
