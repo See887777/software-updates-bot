@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.4.0|[gradle.org](https://gradle.org/releases/)|Wed Mar 04 16:30:53 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.0 to 19.5.5 ~ 2026-03-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 04 01:06:26 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.3|[www.python.org](https://www.python.org/downloads/source/)|Thu Feb 26 16:45:44 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:45:34 UTC 2026|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Feb 03 16:41:05 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Feb 03 16:41:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Feb 02 12:34:03 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.3.1|[gradle.org](https://gradle.org/releases/)|Thu Jan 29 16:31:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jan 28 12:27:07 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.1 (2026-01-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jan 27 16:18:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 21 16:25:17 UTC 2026|
