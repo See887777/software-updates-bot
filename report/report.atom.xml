@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>GPG4Win -- 5.0.2 (2026-03-16)</title>
+    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-03-16T16:53:23Z</modified>
+    <issued>2026-03-16T16:53:23Z</issued>
+    <summary type="text/plain" mode="escaped">GPG4Win -- 5.0.2 (2026-03-16) -- Mon Mar 16 16:53:23 UTC 2026</summary>
+    <dc:date>2026-03-16T16:53:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 9.4.0</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -246,18 +258,6 @@
     <issued>2026-01-28T12:27:07Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.30+7 -- Wed Jan 28 12:27:07 UTC 2026</summary>
     <dc:date>2026-01-28T12:27:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>GPG4Win -- 5.0.1 (2026-01-27)</title>
-    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-01-27T16:18:49Z</modified>
-    <issued>2026-01-27T16:18:49Z</issued>
-    <summary type="text/plain" mode="escaped">GPG4Win -- 5.0.1 (2026-01-27) -- Tue Jan 27 16:18:49 UTC 2026</summary>
-    <dc:date>2026-01-27T16:18:49Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>
