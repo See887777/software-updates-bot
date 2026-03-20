@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-03-20T20:21:32Z</modified>
+    <issued>2026-03-20T20:21:32Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills -- Fri Mar 20 20:21:32 UTC 2026</summary>
+    <dc:date>2026-03-20T20:21:32Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.5.5 to 19.6.0 ~ 2026-03-19</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2026-02-18T16:51:46Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.3 -- Wed Feb 18 16:51:46 UTC 2026</summary>
     <dc:date>2026-02-18T16:51:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 337 - Datacenters Carrier Class dans l'espace</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-02-16T08:35:14Z</modified>
-    <issued>2026-02-16T08:35:14Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 337 - Datacenters Carrier Class dans l'espace -- Mon Feb 16 08:35:14 UTC 2026</summary>
-    <dc:date>2026-02-16T08:35:14Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.14.3</title>
