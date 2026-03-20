@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.5 to 19.6.0 ~ 2026-03-19|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Mar 20 01:08:58 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 19 16:46:12 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.4.1|[gradle.org](https://gradle.org/releases/)|Thu Mar 19 12:37:41 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:53:23 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.0 to 19.5.5 ~ 2026-03-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 04 01:06:26 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.3|[www.python.org](https://www.python.org/downloads/source/)|Thu Feb 26 16:45:44 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:45:34 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.20.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Feb 24 01:08:40 UTC 2026|
