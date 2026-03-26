@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 4.0.5.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-03-26T12:49:34Z</modified>
+    <issued>2026-03-26T12:49:34Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.5.RELEASE -- Thu Mar 26 12:49:34 UTC 2026</summary>
+    <dc:date>2026-03-26T12:49:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 24.30.1</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2026-03-20T01:08:58Z</issued>
     <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.5.5 to 19.6.0 ~ 2026-03-19 -- Fri Mar 20 01:08:58 UTC 2026</summary>
     <dc:date>2026-03-20T01:08:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 4.0.4.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-03-19T16:46:12Z</modified>
-    <issued>2026-03-19T16:46:12Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.4.RELEASE -- Thu Mar 19 16:46:12 UTC 2026</summary>
-    <dc:date>2026-03-19T16:46:12Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 9.4.1</title>
