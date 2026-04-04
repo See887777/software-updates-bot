@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.6.0 to 19.6.6 ~ 2026-04-04</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-04-04T20:19:32Z</modified>
+    <issued>2026-04-04T20:19:32Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.6.0 to 19.6.6 ~ 2026-04-04 -- Sat Apr 04 20:19:32 UTC 2026</summary>
+    <dc:date>2026-04-04T20:19:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 4.0.5.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2026-03-20T20:21:32Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills -- Fri Mar 20 20:21:32 UTC 2026</summary>
     <dc:date>2026-03-20T20:21:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.5.5 to 19.6.0 ~ 2026-03-19</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-03-20T01:08:58Z</modified>
-    <issued>2026-03-20T01:08:58Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.5.5 to 19.6.0 ~ 2026-03-19 -- Fri Mar 20 01:08:58 UTC 2026</summary>
-    <dc:date>2026-03-20T01:08:58Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 9.4.1</title>
