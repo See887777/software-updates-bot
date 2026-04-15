@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 mac --  3.14.4</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-04-15T16:53:00Z</modified>
+    <issued>2026-04-15T16:53:00Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.4 -- Wed Apr 15 16:53:00 UTC 2026</summary>
+    <dc:date>2026-04-15T16:53:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 source --  3.14.4</title>
     <link rel="alternate" href="https://www.python.org/downloads/source/" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2026-02-26T16:45:34Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.22 -- Thu Feb 26 16:45:34 UTC 2026</summary>
     <dc:date>2026-02-26T16:45:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.14.3</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-02-18T16:51:46Z</modified>
-    <issued>2026-02-18T16:51:46Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.3 -- Wed Feb 18 16:51:46 UTC 2026</summary>
-    <dc:date>2026-02-18T16:51:46Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.14.3</title>
