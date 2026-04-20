@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 19.6.6 to 19.6.8 ~ 2026-04-20</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 19.6.6 to 19.6.8 ~ 2026-04-20 -- Mon Apr 20 20:36:24 UTC 2026</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Mon, 20 Apr 2026 20:36:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-04-20T20:36:24Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 mac --  3.14.4</title>
       <link>https://www.python.org/downloads/mac-osx/</link>
       <description>Python 3 mac --  3.14.4 -- Wed Apr 15 16:53:00 UTC 2026</description>
@@ -76,16 +86,6 @@
       <pubDate>Tue, 07 Apr 2026 20:35:38 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-04-07T20:35:38Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 19.6.0 to 19.6.6 ~ 2026-04-04</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 19.6.0 to 19.6.6 ~ 2026-04-04 -- Sat Apr 04 20:19:32 UTC 2026</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Sat, 04 Apr 2026 20:19:32 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-04-04T20:19:32Z</dc:date>
     </item>
     <item>
       <title>Spring Boot -- 4.0.5.RELEASE</title>
