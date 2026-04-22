@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk17 linux x64 -- jdk-17.0.19+10</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-04-22T16:49:27Z</modified>
+    <issued>2026-04-22T16:49:27Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.19+10 -- Wed Apr 22 16:49:27 UTC 2026</summary>
+    <dc:date>2026-04-22T16:49:27Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.6.6 to 19.6.8 ~ 2026-04-20</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -258,18 +270,6 @@
     <issued>2026-01-28T12:27:07Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.30+7 -- Wed Jan 28 12:27:07 UTC 2026</summary>
     <dc:date>2026-01-28T12:27:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk17 linux x64 -- jdk-17.0.18+8</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-01-21T16:25:17Z</modified>
-    <issued>2026-01-21T16:25:17Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.18+8 -- Wed Jan 21 16:25:17 UTC 2026</summary>
-    <dc:date>2026-01-21T16:25:17Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.23</title>
