@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|4.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 23 17:09:19 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 22 16:49:27 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.6 to 19.6.8 ~ 2026-04-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 20 20:36:24 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 15 16:53:00 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.4|[www.python.org](https://www.python.org/downloads/source/)|Tue Apr 07 20:35:38 UTC 2026|
-|![logo](../media/logo/springboot.png) Spring Boot|4.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 26 12:49:34 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.30.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Mar 25 08:38:20 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 338 - Le soulèvement des bots de skills|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Mar 20 20:21:32 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.4.1|[gradle.org](https://gradle.org/releases/)|Thu Mar 19 12:37:41 UTC 2026|

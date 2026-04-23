@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 4.0.6.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-04-23T17:09:19Z</modified>
+    <issued>2026-04-23T17:09:19Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.6.RELEASE -- Thu Apr 23 17:09:19 UTC 2026</summary>
+    <dc:date>2026-04-23T17:09:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.19+10</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -78,18 +90,6 @@
     <issued>2026-04-07T20:35:38Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.14.4 -- Tue Apr 07 20:35:38 UTC 2026</summary>
     <dc:date>2026-04-07T20:35:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 4.0.5.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-03-26T12:49:34Z</modified>
-    <issued>2026-03-26T12:49:34Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.0.5.RELEASE -- Thu Mar 26 12:49:34 UTC 2026</summary>
-    <dc:date>2026-03-26T12:49:34Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 24.30.1</title>
