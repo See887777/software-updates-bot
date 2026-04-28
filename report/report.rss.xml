@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.5.0</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.5.0 -- Tue Apr 28 17:29:37 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Tue, 28 Apr 2026 17:29:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-04-28T17:29:37Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.31+11</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 mac x64 -- jdk-11.0.31+11 -- Tue Apr 28 13:26:52 UTC 2026</description>
@@ -164,16 +174,6 @@
       <pubDate>Fri, 20 Mar 2026 20:21:32 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-03-20T20:21:32Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.4.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.4.1 -- Thu Mar 19 12:37:41 UTC 2026</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Thu, 19 Mar 2026 12:37:41 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-03-19T12:37:41Z</dc:date>
     </item>
     <item>
       <title>GPG4Win -- 5.0.2 (2026-03-16)</title>
@@ -547,9 +547,9 @@
       <dc:date>2022-08-26T23:00:11Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -559,9 +559,9 @@
       <dc:date>2022-08-26T17:00:12Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
