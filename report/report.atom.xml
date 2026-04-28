@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 linux x64 -- jdk-11.0.31+11</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-04-28T10:05:44Z</modified>
+    <issued>2026-04-28T10:05:44Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.31+11 -- Tue Apr 28 10:05:44 UTC 2026</summary>
+    <dc:date>2026-04-28T10:05:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 4.0.6.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -258,18 +270,6 @@
     <issued>2026-02-02T12:34:03Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u482-b08 -- Mon Feb 02 12:34:03 UTC 2026</summary>
     <dc:date>2026-02-02T12:34:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 linux x64 -- jdk-11.0.30+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-01-28T12:27:07Z</modified>
-    <issued>2026-01-28T12:27:07Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.30+7 -- Wed Jan 28 12:27:07 UTC 2026</summary>
-    <dc:date>2026-01-28T12:27:07Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.23</title>
