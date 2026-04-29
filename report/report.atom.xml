@@ -33,6 +33,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-04-29T16:30:03Z</modified>
+    <issued>2026-04-29T16:30:03Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs -- Wed Apr 29 16:30:03 UTC 2026</summary>
+    <dc:date>2026-04-29T16:30:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk25 windows x64 -- jdk-25.0.3+9</title>
     <link rel="alternate" href="https://adoptium.net/temurin/releases/" />
     <author>
@@ -283,18 +295,6 @@
     <issued>2026-04-01T16:17:59Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- 25.9.0 -- Wed Apr 01 16:17:59 UTC 2026</summary>
     <dc:date>2026-04-01T16:17:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-03-20T20:04:34Z</modified>
-    <issued>2026-03-20T20:04:34Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills -- Fri Mar 20 20:04:34 UTC 2026</summary>
-    <dc:date>2026-03-20T20:04:34Z</dc:date>
   </entry>
   <entry>
     <title>GPG4Win -- 5.0.2 (2026-03-16)</title>

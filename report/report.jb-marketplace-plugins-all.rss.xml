@@ -6,19 +6,6 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>LuaCodeStyle - Wed Apr 29 09:31:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31522-luacodestyle</link>
-      <description>LuaCodeStyle plugin for Intellij. fun, fast and powerful multi editor support include vscode, intellij, neovim only support configure by .editorconfig for document see...
-
-vendor: kibernet
-downloads: 0
-pricingModel: FREE
-xmlId: com.kibernet.EmmyLuaCodeStyle</description>
-      <pubDate>Wed, 29 Apr 2026 09:31:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31522-luacodestyle</guid>
-      <dc:date>2026-04-29T09:31:45Z</dc:date>
-    </item>
-    <item>
       <title>Extract Hardcoded Strings Only - Wed Apr 29 11:37:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</link>
       <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
@@ -264,6 +251,19 @@ xmlId: com.mb.training.karate.pack</description>
       <pubDate>Tue, 28 Apr 2026 16:33:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</guid>
       <dc:date>2026-04-28T16:33:14Z</dc:date>
+    </item>
+    <item>
+      <title>Arthas Hot Deploy - Tue Apr 28 03:14:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</link>
+      <description>Arthas Hot Deploy An IntelliJ IDEA plugin for Java hot deployment based on Arthas retransform command. Right-click a Java file to generate a hot deploy script, then...
+
+vendor: neuSnail
+downloads: 1
+pricingModel: FREE
+xmlId: com.arthas.hotdeploy</description>
+      <pubDate>Tue, 28 Apr 2026 03:14:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</guid>
+      <dc:date>2026-04-28T03:14:43Z</dc:date>
     </item>
   </channel>
 </rss>
