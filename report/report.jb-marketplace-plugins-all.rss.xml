@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LuaCodeStyle - Wed Apr 29 09:31:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31522-luacodestyle</link>
+      <description>LuaCodeStyle plugin for Intellij. fun, fast and powerful multi editor support include vscode, intellij, neovim only support configure by .editorconfig for document see...
+
+vendor: kibernet
+downloads: 0
+pricingModel: FREE
+xmlId: com.kibernet.EmmyLuaCodeStyle</description>
+      <pubDate>Wed, 29 Apr 2026 09:31:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31522-luacodestyle</guid>
+      <dc:date>2026-04-29T09:31:45Z</dc:date>
+    </item>
+    <item>
+      <title>Extract Hardcoded Strings Only - Wed Apr 29 11:37:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</link>
+      <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
+
+vendor: codemagic
+downloads: 0
+pricingModel: FREE
+xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
+      <pubDate>Wed, 29 Apr 2026 11:37:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</guid>
+      <dc:date>2026-04-29T11:37:45Z</dc:date>
+    </item>
+    <item>
+      <title>SurrealQL - Fri Apr 24 09:51:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31397-surrealql</link>
+      <description>SurrealQL language support for JetBrains IDEs — brings first-class editing of .surql and .surrealql files to IntelliJ IDEA, PyCharm, WebStorm, GoLand, RustRover...
+
+vendor: SurrealDB
+downloads: 2
+pricingModel: FREE
+xmlId: com.surrealdb.surql-jetbrains</description>
+      <pubDate>Fri, 24 Apr 2026 09:51:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31397-surrealql</guid>
+      <dc:date>2026-04-24T09:51:17Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode UI (unofficial) - Wed Apr 29 03:32:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31519-opencode-ui-unofficial-</link>
+      <description>OpenCode UI (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer...
+
+vendor: OpenCodeUI
+downloads: 0
+pricingModel: FREE
+xmlId: qtkj.opencode-ui</description>
+      <pubDate>Wed, 29 Apr 2026 03:32:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31519-opencode-ui-unofficial-</guid>
+      <dc:date>2026-04-29T03:32:57Z</dc:date>
+    </item>
+    <item>
+      <title>Pushkin Commit AI - Wed Apr 29 02:00:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31517-pushkin-commit-ai</link>
+      <description>Generate Git commit messages from selected changes using OpenAI-compatible AI services. Pushkin Commit AI works in the JetBrains Commit window and lets you use OpenAI...
+
+vendor: aikilan
+downloads: 0
+pricingModel: FREE
+xmlId: com.pushkin.plugin</description>
+      <pubDate>Wed, 29 Apr 2026 02:00:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31517-pushkin-commit-ai</guid>
+      <dc:date>2026-04-29T02:00:34Z</dc:date>
+    </item>
+    <item>
+      <title>File Template - Wed Apr 29 06:53:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31426-file-template</link>
+      <description>File Template plugin for quickly creating files from templates.
+
+vendor: 崔 旺
+downloads: 2
+pricingModel: FREE
+xmlId: com.cuiwang.FileTemplate-Plugin</description>
+      <pubDate>Wed, 29 Apr 2026 06:53:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31426-file-template</guid>
+      <dc:date>2026-04-29T06:53:39Z</dc:date>
+    </item>
+    <item>
+      <title>Mermaid Markdown Bridge - Wed Apr 29 08:03:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</link>
+      <description>Render Mermaid fenced code blocks in JetBrains Markdown Preview.
+
+vendor: ZhongMiaoOrg
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
+      <pubDate>Wed, 29 Apr 2026 08:03:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</guid>
+      <dc:date>2026-04-29T08:03:20Z</dc:date>
+    </item>
+    <item>
       <title>FoxMock - Mon Apr 27 13:37:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31488-foxmock</link>
       <description>FoxMock — HTTP, SFTP &amp;amp; gRPC Mock Server FoxMock is an all-in-one mock server built directly into your JetBrains IDE. Stub out HTTP REST APIs, SFTP file transfers...
@@ -97,7 +188,7 @@ xmlId: agentdock</description>
       <dc:date>2026-04-28T10:27:08Z</dc:date>
     </item>
     <item>
-      <title>Ccode Stats - Wed Apr 29 03:26:07 UTC 2026</title>
+      <title>Ccode Stats - Wed Apr 29 09:23:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31509-ccode-stats</link>
       <description>ccidea — Claude Code usage inside your IDE Reads Claude Code's local JSONL logs and surfaces token usage, cost, and the 5-hour Anthropic billing block burn rate inside...
 
@@ -105,9 +196,9 @@ vendor: Ccidea - Claude Code Usage
 downloads: 6
 pricingModel: FREE
 xmlId: com.ccidea.plugin</description>
-      <pubDate>Wed, 29 Apr 2026 03:26:07 GMT</pubDate>
+      <pubDate>Wed, 29 Apr 2026 09:23:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31509-ccode-stats</guid>
-      <dc:date>2026-04-29T03:26:07Z</dc:date>
+      <dc:date>2026-04-29T09:23:05Z</dc:date>
     </item>
     <item>
       <title>Claude Code Chat - Tue Apr 28 09:39:04 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: com.mb.training.karate.pack</description>
       <pubDate>Tue, 28 Apr 2026 16:33:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</guid>
       <dc:date>2026-04-28T16:33:14Z</dc:date>
-    </item>
-    <item>
-      <title>Arthas Hot Deploy - Tue Apr 28 03:14:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</link>
-      <description>Arthas Hot Deploy An IntelliJ IDEA plugin for Java hot deployment based on Arthas retransform command. Right-click a Java file to generate a hot deploy script, then...
-
-vendor: neuSnail
-downloads: 1
-pricingModel: FREE
-xmlId: com.arthas.hotdeploy</description>
-      <pubDate>Tue, 28 Apr 2026 03:14:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</guid>
-      <dc:date>2026-04-28T03:14:43Z</dc:date>
-    </item>
-    <item>
-      <title>FishNovel - Tue Apr 28 07:14:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31500-fishnovel</link>
-      <description>FishNovel turns IntelliJ IDEA into a lightweight novel reader with local multi-format support, tool-window reading, progress memory, bookmarks, history, and web novel...
-
-vendor: FishNovel
-downloads: 5
-pricingModel: FREE
-xmlId: com.fishnovel.idea</description>
-      <pubDate>Tue, 28 Apr 2026 07:14:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31500-fishnovel</guid>
-      <dc:date>2026-04-28T07:14:09Z</dc:date>
-    </item>
-    <item>
-      <title>Crash2Test - Mon Apr 27 14:42:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31494-crash2test</link>
-      <description>Crash2Test is a local AI-powered IntelliJ IDEA plugin that helps developers turn stack traces and runtime errors into debugging timelines and regression test ideas.
-
-vendor: Alexandr Biktimirov
-downloads: 1
-pricingModel: FREE
-xmlId: com.crash2test.plugin</description>
-      <pubDate>Mon, 27 Apr 2026 14:42:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31494-crash2test</guid>
-      <dc:date>2026-04-27T14:42:28Z</dc:date>
-    </item>
-    <item>
-      <title>GetX Folder Structure - Mon Apr 27 12:55:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31483-getx-folder-structure</link>
-      <description>GetX Folder Structure is an IntelliJ plugin that helps developers quickly generate and manage scalable GetX architecture folders for Flutter projects. It improves...
-
-vendor: Deekanshu Saini
-downloads: 7
-pricingModel: FREE
-xmlId: com.devds.getx</description>
-      <pubDate>Mon, 27 Apr 2026 12:55:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31483-getx-folder-structure</guid>
-      <dc:date>2026-04-27T12:55:27Z</dc:date>
-    </item>
-    <item>
-      <title>MBTraining Engine Framework - Tue Apr 28 23:18:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31432-mbtraining-engine-framework</link>
-      <description>MBTraining Engine Framework is a proof of concept (POC) for modular, in-IDE technical training. This plugin provides the core runtime only. It does not include...
-
-vendor: Van Thanh Duy
-downloads: 5
-pricingModel: FREE
-xmlId: com.mb.training.engine</description>
-      <pubDate>Tue, 28 Apr 2026 23:18:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31432-mbtraining-engine-framework</guid>
-      <dc:date>2026-04-28T23:18:50Z</dc:date>
-    </item>
-    <item>
-      <title>Fun Interface Implementation Marker - Mon Apr 27 12:00:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31486-fun-interface-implementation-marker</link>
-      <description>Marks Kotlin fun interface declarations and their implementations with gutter icons, and provides bidirectional navigation between them. Icon beside every fun...
-
-vendor: Kotlin Functional Interface Navigator
-downloads: 2
-pricingModel: FREE
-xmlId: com.funinterface.marker.plugin</description>
-      <pubDate>Mon, 27 Apr 2026 12:00:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31486-fun-interface-implementation-marker</guid>
-      <dc:date>2026-04-27T12:00:59Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Commit - Mon Apr 27 20:47:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31445-claude-commit</link>
-      <description>Adds a Generate with Claude button to the Git commit dialog. On click, it sends your staged diff and branch name to the locally installed Claude Code CLI and fills in...
-
-vendor: Aliaksei Afanasyeu
-downloads: 6
-pricingModel: FREE
-xmlId: com.bocman.claudecommit</description>
-      <pubDate>Mon, 27 Apr 2026 20:47:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31445-claude-commit</guid>
-      <dc:date>2026-04-27T20:47:36Z</dc:date>
     </item>
   </channel>
 </rss>

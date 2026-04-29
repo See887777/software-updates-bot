@@ -162,8 +162,8 @@
       ],
       "name": "Adoptium jdk25 windows x64",
       "website": "https://adoptium.net/temurin/releases/",
-      "version": "jdk-25.0.2+10",
-      "checkDate": "Jan 31, 2026, 12:06:46 AM",
+      "version": "jdk-25.0.3+9",
+      "checkDate": "Apr 29, 2026, 12:25:35 PM",
       "logo": "ADOPTIUM"
     },
     {
