@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs -- Wed Apr 29 17:17:01 UTC 2026</description>
+      <category>Podcast</category>
+      <pubDate>Wed, 29 Apr 2026 17:17:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-04-29T17:17:01Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk11 windows x64 -- jdk-11.0.31+11</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 windows x64 -- jdk-11.0.31+11 -- Tue Apr 28 21:01:08 UTC 2026</description>
@@ -177,15 +186,6 @@
       <pubDate>Wed, 25 Mar 2026 08:38:20 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-03-25T08:38:20Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 338 - Le soulèvement des bots de skills -- Fri Mar 20 20:21:32 UTC 2026</description>
-      <category>Podcast</category>
-      <pubDate>Fri, 20 Mar 2026 20:21:32 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-03-20T20:21:32Z</dc:date>
     </item>
     <item>
       <title>GPG4Win -- 5.0.2 (2026-03-16)</title>
