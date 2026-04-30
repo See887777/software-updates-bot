@@ -6,6 +6,123 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CPH Target Runner - Thu Apr 30 04:42:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</link>
+      <description>A CLion sidebar helper for competitive-programming samples. Manage sample cases per CMake target, run them quickly, compare outputs, and inspect mismatched lines.
+
+vendor: kkkzbh
+downloads: 0
+pricingModel: FREE
+xmlId: org.kkkzbh.cph</description>
+      <pubDate>Thu, 30 Apr 2026 04:42:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</guid>
+      <dc:date>2026-04-30T04:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>velk - Thu Apr 30 07:34:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31534-velk</link>
+      <description>Open the velk terminal AI harness in a JetBrains terminal panel. Tools → velk: Open REPL (or Ctrl/Cmd-Shift-A → "velk") spawns a terminal running the velk binary in...
+
+vendor: Vincent Vella
+downloads: 0
+pricingModel: FREE
+xmlId: com.vincentvella.velk</description>
+      <pubDate>Thu, 30 Apr 2026 07:34:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31534-velk</guid>
+      <dc:date>2026-04-30T07:34:47Z</dc:date>
+    </item>
+    <item>
+      <title>OpenClaw - Wed Apr 29 20:58:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31531-openclaw</link>
+      <description>OpenClaw adds a status bar launcher for the OpenClaw CLI inside JetBrains IDEs. Features OpenClaw menu from the status bar or Tools → OpenClaw: Show Menu Run...
+
+vendor: gguf
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.gguf.openclaw</description>
+      <pubDate>Wed, 29 Apr 2026 20:58:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31531-openclaw</guid>
+      <dc:date>2026-04-29T20:58:48Z</dc:date>
+    </item>
+    <item>
+      <title>Inline Unified Diff - Wed Apr 29 20:44:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31530-inline-unified-diff</link>
+      <description>Inline Unified Diff shows your uncommitted Git changes directly inside the editor — the same way a unified diff looks in a terminal — without switching to a separate...
+
+vendor: Clement Sehan
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.clementsehan.inlineunifieddiffjetbrains</description>
+      <pubDate>Wed, 29 Apr 2026 20:44:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31530-inline-unified-diff</guid>
+      <dc:date>2026-04-29T20:44:13Z</dc:date>
+    </item>
+    <item>
+      <title>LuaAttachDebug - Wed Apr 29 14:10:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31528-luaattachdebug</link>
+      <description>Attach or launch Windows Lua processes with the Lua native debugger hook. Requires the EmmyLua plugin.
+
+vendor: kibernet
+downloads: 0
+pricingModel: FREE
+xmlId: com.kibernet.LuaAttachDebug</description>
+      <pubDate>Wed, 29 Apr 2026 14:10:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31528-luaattachdebug</guid>
+      <dc:date>2026-04-29T14:10:35Z</dc:date>
+    </item>
+    <item>
+      <title>Vault Toolbox - Wed Apr 29 00:48:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31516-vault-toolbox</link>
+      <description>The Vault Toolbox IntelliJ Plugin is a dedicated IDE plugin designed to make the everyday life of Vault Admins and Developers easier. It leverages the power of the...
+
+vendor: Vault Developer Support
+downloads: 1
+pricingModel: FREE
+xmlId: com.veeva.vault.toolbox</description>
+      <pubDate>Wed, 29 Apr 2026 00:48:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31516-vault-toolbox</guid>
+      <dc:date>2026-04-29T00:48:53Z</dc:date>
+    </item>
+    <item>
+      <title>LuaUnity - Wed Apr 29 11:48:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31524-luaunity</link>
+      <description>Receive Unity type metadata and generate Lua annotation files for IntelliJ-based IDEs. Configure the local type server under Settings | Tools | LuaUnity.
+
+vendor: kibernet
+downloads: 0
+pricingModel: FREE
+xmlId: com.kibernet.luaunity</description>
+      <pubDate>Wed, 29 Apr 2026 11:48:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31524-luaunity</guid>
+      <dc:date>2026-04-29T11:48:09Z</dc:date>
+    </item>
+    <item>
+      <title>Viritin Color - Wed Apr 29 14:11:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31526-viritin-color</link>
+      <description>Color swatches and a color picker for the Viritin Color Java library (in.virit:color). Shows a color swatch in the editor gutter next to RgbColor, HexColor, HslColor...
+
+vendor: Matti Tahvonen
+downloads: 0
+pricingModel: FREE
+xmlId: in.virit.color</description>
+      <pubDate>Wed, 29 Apr 2026 14:11:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31526-viritin-color</guid>
+      <dc:date>2026-04-29T14:11:58Z</dc:date>
+    </item>
+    <item>
+      <title>LuaCodeStyle - Wed Apr 29 14:25:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31522-luacodestyle</link>
+      <description>LuaCodeStyle plugin for Intellij. fun, fast and powerful multi editor support include vscode, intellij, neovim only support configure by .editorconfig for document see...
+
+vendor: kibernet
+downloads: 0
+pricingModel: FREE
+xmlId: com.kibernet.EmmyLuaCodeStyle</description>
+      <pubDate>Wed, 29 Apr 2026 14:25:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31522-luacodestyle</guid>
+      <dc:date>2026-04-29T14:25:04Z</dc:date>
+    </item>
+    <item>
       <title>Extract Hardcoded Strings Only - Wed Apr 29 11:37:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</link>
       <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
@@ -71,17 +188,17 @@ xmlId: com.cuiwang.FileTemplate-Plugin</description>
       <dc:date>2026-04-29T06:53:39Z</dc:date>
     </item>
     <item>
-      <title>Mermaid Markdown Bridge - Wed Apr 29 08:03:20 UTC 2026</title>
+      <title>Mermaid Markdown Bridge - Thu Apr 30 08:18:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</link>
-      <description>Render Mermaid fenced code blocks in JetBrains Markdown Preview.
+      <description>Render Mermaid fenced code blocks directly inside the built-in JetBrains Markdown Preview. Mermaid Markdown Bridge is a JetBrains IDE Markdown Preview extension...
 
 vendor: ZhongMiaoOrg
 downloads: 11
 pricingModel: FREE
 xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
-      <pubDate>Wed, 29 Apr 2026 08:03:20 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 08:18:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</guid>
-      <dc:date>2026-04-29T08:03:20Z</dc:date>
+      <dc:date>2026-04-30T08:18:15Z</dc:date>
     </item>
     <item>
       <title>FoxMock - Mon Apr 27 13:37:14 UTC 2026</title>
@@ -110,7 +227,7 @@ xmlId: ink.brewed.fadebasic</description>
       <dc:date>2026-04-28T13:22:50Z</dc:date>
     </item>
     <item>
-      <title>Coni Language - Tue Apr 28 03:30:53 UTC 2026</title>
+      <title>Coni Language - Thu Apr 30 05:31:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31503-coni-language</link>
       <description>IntelliJ IDEA plugin providing support for the Coni programming language.
 
@@ -118,9 +235,9 @@ vendor: coni-lang
 downloads: 1
 pricingModel: FREE
 xmlId: org.conilang</description>
-      <pubDate>Tue, 28 Apr 2026 03:30:53 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 05:31:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31503-coni-language</guid>
-      <dc:date>2026-04-28T03:30:53Z</dc:date>
+      <dc:date>2026-04-30T05:31:21Z</dc:date>
     </item>
     <item>
       <title>QA CoPilot - Wed Apr 29 22:26:02 UTC 2026</title>
@@ -147,123 +264,6 @@ xmlId: org.ipnmod.tools.jcf.build-popup</description>
       <pubDate>Fri, 24 Apr 2026 07:40:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31389-build-popup</guid>
       <dc:date>2026-04-24T07:40:27Z</dc:date>
-    </item>
-    <item>
-      <title>Illuminate - Sun Apr 19 07:25:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31351-illuminate</link>
-      <description>Illuminate — Instantly Understand Any Codebase Clone a project → press one button → instantly understand the architecture. &#x1f5fa;️ Interactive Architecture Map...
-
-vendor: kryzhanovskyik
-downloads: 9
-pricingModel: FREE
-xmlId: com.jetslop.illuminate</description>
-      <pubDate>Sun, 19 Apr 2026 07:25:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31351-illuminate</guid>
-      <dc:date>2026-04-19T07:25:55Z</dc:date>
-    </item>
-    <item>
-      <title>AgentDock - Tue Apr 28 10:27:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31508-agentdock</link>
-      <description>AgentDock brings widely used AI coding agents into a unified GUI that follows the active JetBrains IDE theme. Supported AI agents: Claude Code Codex Cursor Gemini CLI...
-
-vendor: EdgarsR
-downloads: 16
-pricingModel: FREE
-xmlId: agentdock</description>
-      <pubDate>Tue, 28 Apr 2026 10:27:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31508-agentdock</guid>
-      <dc:date>2026-04-28T10:27:08Z</dc:date>
-    </item>
-    <item>
-      <title>Ccode Stats - Wed Apr 29 09:23:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31509-ccode-stats</link>
-      <description>ccidea — Claude Code usage inside your IDE Reads Claude Code's local JSONL logs and surfaces token usage, cost, and the 5-hour Anthropic billing block burn rate inside...
-
-vendor: Ccidea - Claude Code Usage
-downloads: 46
-pricingModel: FREE
-xmlId: com.ccidea.plugin</description>
-      <pubDate>Wed, 29 Apr 2026 09:23:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31509-ccode-stats</guid>
-      <dc:date>2026-04-29T09:23:05Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code Chat - Tue Apr 28 09:39:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31507-claude-code-chat</link>
-      <description>Claude Code for IntelliJ Bring the full power of Claude Code directly into your IDE. Chat with Claude in a side panel, run multiple sessions in parallel, and let...
-
-vendor: BRCoders
-downloads: 39
-pricingModel: FREE
-xmlId: com.claudecode.plugin</description>
-      <pubDate>Tue, 28 Apr 2026 09:39:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31507-claude-code-chat</guid>
-      <dc:date>2026-04-28T09:39:04Z</dc:date>
-    </item>
-    <item>
-      <title>GGUF Editor - Wed Apr 29 21:29:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31505-gguf-editor</link>
-      <description>View, inspect, search, and edit GGUF model metadata from JetBrains IDEs. Features Open .gguf files from the Project View context menu Inspect metadata keys, values...
-
-vendor: gguf
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.gguf.editor</description>
-      <pubDate>Wed, 29 Apr 2026 21:29:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31505-gguf-editor</guid>
-      <dc:date>2026-04-29T21:29:27Z</dc:date>
-    </item>
-    <item>
-      <title>WebObjects / WONDER - Tue Apr 28 07:41:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31504-webobjects--wonder</link>
-      <description>Early-stage plugin for mavenized WebObjects / WONDER projects. WebObjects run configuration with sensible defaults (Maven process-resources, working directory under...
-
-vendor: Markus Stoll
-downloads: 8
-pricingModel: FREE
-xmlId: de.junidas.webobjects.ijplugin</description>
-      <pubDate>Tue, 28 Apr 2026 07:41:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31504-webobjects--wonder</guid>
-      <dc:date>2026-04-28T07:41:12Z</dc:date>
-    </item>
-    <item>
-      <title>Screenshot+ - Mon Apr 27 07:31:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31471-screenshot-</link>
-      <description>Screenshot+ is an Android Studio plugin for capturing and annotating screenshots from ADB-connected Android devices — without leaving the IDE. Capture screenshots...
-
-vendor: 甲木庚金
-downloads: 6
-pricingModel: PAID
-xmlId: com.jiamugengjin.screenshotplus</description>
-      <pubDate>Mon, 27 Apr 2026 07:31:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31471-screenshot-</guid>
-      <dc:date>2026-04-27T07:31:27Z</dc:date>
-    </item>
-    <item>
-      <title>MBTraining Karate Pack - Tue Apr 28 16:33:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</link>
-      <description>MBTraining Karate Pack is a proof of concept (POC) training content pack for MBTraining Engine Framework. Important: all exercise content in this pack is AI-generated...
-
-vendor: Van Thanh Duy
-downloads: 7
-pricingModel: FREE
-xmlId: com.mb.training.karate.pack</description>
-      <pubDate>Tue, 28 Apr 2026 16:33:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</guid>
-      <dc:date>2026-04-28T16:33:14Z</dc:date>
-    </item>
-    <item>
-      <title>Arthas Hot Deploy - Tue Apr 28 03:14:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</link>
-      <description>Arthas Hot Deploy An IntelliJ IDEA plugin for Java hot deployment based on Arthas retransform command. Right-click a Java file to generate a hot deploy script, then...
-
-vendor: neuSnail
-downloads: 4
-pricingModel: FREE
-xmlId: com.arthas.hotdeploy</description>
-      <pubDate>Tue, 28 Apr 2026 03:14:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</guid>
-      <dc:date>2026-04-28T03:14:43Z</dc:date>
     </item>
   </channel>
 </rss>
