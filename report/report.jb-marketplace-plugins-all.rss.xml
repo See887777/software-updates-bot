@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Groovy Live Templates - Thu Apr 30 09:34:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31544-groovy-live-templates</link>
+      <description>Adds support for Groovy in IDE live templates.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: org.intellij.groovy.live.templates</description>
+      <pubDate>Thu, 30 Apr 2026 09:34:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31544-groovy-live-templates</guid>
+      <dc:date>2026-04-30T09:34:52Z</dc:date>
+    </item>
+    <item>
+      <title>Build Sound Notifier - Thu Apr 30 09:05:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31543-build-sound-notifier</link>
+      <description>Plays a custom sound and flashes an image overlay on build success or failure. Separate sound (WAV or MP3) and image (PNG / JPG / GIF / BMP) for success and failure...
+
+vendor: Squaredem
+downloads: 0
+pricingModel: FREE
+xmlId: com.squaredem.buildsoundnotifier</description>
+      <pubDate>Thu, 30 Apr 2026 09:05:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31543-build-sound-notifier</guid>
+      <dc:date>2026-04-30T09:05:45Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Assistant - Thu Apr 30 07:13:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31541-codex-assistant</link>
+      <description>Run Codex CLI from inside JetBrains IDE via the built-in terminal. How to Open Shortcut: Press Ctrl+Shift+X or option+command+X to open the terminal in your current...
+
+vendor: krong
+downloads: 0
+pricingModel: FREE
+xmlId: com.codex.assistant</description>
+      <pubDate>Thu, 30 Apr 2026 07:13:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31541-codex-assistant</guid>
+      <dc:date>2026-04-30T07:13:11Z</dc:date>
+    </item>
+    <item>
+      <title>Nginx Lens - Thu Apr 30 06:53:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31537-nginx-lens</link>
+      <description>Nginx Lens adds focused editor support for Nginx configuration files in JetBrains IDEs. It provides syntax highlighting, inspections for common configuration mistakes...
+
+vendor: CarlRenny
+downloads: 0
+pricingModel: FREE
+xmlId: com.agomuseum.nginxlens</description>
+      <pubDate>Thu, 30 Apr 2026 06:53:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31537-nginx-lens</guid>
+      <dc:date>2026-04-30T06:53:52Z</dc:date>
+    </item>
+    <item>
       <title>CPH Target Runner - Thu Apr 30 04:42:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</link>
       <description>A CLion sidebar helper for competitive-programming samples. Manage sample cases per CMake target, run them quickly, compare outputs, and inspect mismatched lines.
@@ -212,58 +264,6 @@ xmlId: com.foxmock.plugin</description>
       <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31488-foxmock</guid>
       <dc:date>2026-04-27T13:37:14Z</dc:date>
-    </item>
-    <item>
-      <title>Fade Basic - Tue Apr 28 13:22:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31490-fade-basic</link>
-      <description>Fade Basic language support via LSP and DAP launch integration for Rider.
-
-vendor: Brewed Ink
-downloads: 2
-pricingModel: FREE
-xmlId: ink.brewed.fadebasic</description>
-      <pubDate>Tue, 28 Apr 2026 13:22:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31490-fade-basic</guid>
-      <dc:date>2026-04-28T13:22:50Z</dc:date>
-    </item>
-    <item>
-      <title>Coni Language - Thu Apr 30 05:31:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31503-coni-language</link>
-      <description>IntelliJ IDEA plugin providing support for the Coni programming language.
-
-vendor: coni-lang
-downloads: 1
-pricingModel: FREE
-xmlId: org.conilang</description>
-      <pubDate>Thu, 30 Apr 2026 05:31:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31503-coni-language</guid>
-      <dc:date>2026-04-30T05:31:21Z</dc:date>
-    </item>
-    <item>
-      <title>QA CoPilot - Wed Apr 29 22:26:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31496-qa-copilot</link>
-      <description>QA CoPilot — AI-powered API test generation for Spring Boot QA CoPilot scans your open Spring Boot / Spring MVC project, builds a structured API contract, and...
-
-vendor: Piyush Joshi
-downloads: 11
-pricingModel: FREE
-xmlId: io.github.piyushjoshi01.qacopilot</description>
-      <pubDate>Wed, 29 Apr 2026 22:26:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31496-qa-copilot</guid>
-      <dc:date>2026-04-29T22:26:02Z</dc:date>
-    </item>
-    <item>
-      <title>Build-Popup - Fri Apr 24 07:40:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31389-build-popup</link>
-      <description>Build-Popup automatically shows the Build tool window whenever a build or sync process starts in your IDE, so you can monitor its progress without having to open any...
-
-vendor: IPNMod
-downloads: 13
-pricingModel: FREE
-xmlId: org.ipnmod.tools.jcf.build-popup</description>
-      <pubDate>Fri, 24 Apr 2026 07:40:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31389-build-popup</guid>
-      <dc:date>2026-04-24T07:40:27Z</dc:date>
     </item>
   </channel>
 </rss>
