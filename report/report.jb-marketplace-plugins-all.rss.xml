@@ -253,16 +253,16 @@ xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <dc:date>2026-04-30T08:18:15Z</dc:date>
     </item>
     <item>
-      <title>FoxMock - Mon Apr 27 13:37:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31488-foxmock</link>
-      <description>FoxMock — HTTP, SFTP &amp;amp; gRPC Mock Server FoxMock is an all-in-one mock server built directly into your JetBrains IDE. Stub out HTTP REST APIs, SFTP file transfers...
+      <title>FoxMock — REST, gRPC, SMTP &amp; SFTP Mock Server - Mon Apr 27 13:37:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31488-foxmock--rest-grpc-smtp--sftp-mock-server</link>
+      <description>FoxMock — REST, gRPC, SMTP &amp;amp; SFTP Mock Server for JetBrains IDEs FoxMock is a mock server plugin for IntelliJ that supports REST API mocking, gRPC service mocking...
 
 vendor: CellOps
 downloads: 6
 pricingModel: FREE
 xmlId: com.foxmock.plugin</description>
       <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31488-foxmock</guid>
+      <guid>https://plugins.jetbrains.com/plugin/31488-foxmock--rest-grpc-smtp--sftp-mock-server</guid>
       <dc:date>2026-04-27T13:37:14Z</dc:date>
     </item>
   </channel>
