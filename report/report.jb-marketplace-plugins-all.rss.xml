@@ -11,7 +11,7 @@
       <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
 
 vendor: codemagic
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <pubDate>Wed, 29 Apr 2026 11:37:45 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <description>SurrealQL language support for JetBrains IDEs — brings first-class editing of .surql and .surrealql files to IntelliJ IDEA, PyCharm, WebStorm, GoLand, RustRover...
 
 vendor: SurrealDB
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.surrealdb.surql-jetbrains</description>
       <pubDate>Fri, 24 Apr 2026 09:51:17 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.surrealdb.surql-jetbrains</description>
       <description>OpenCode UI (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer...
 
 vendor: OpenCodeUI
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: qtkj.opencode-ui</description>
       <pubDate>Wed, 29 Apr 2026 03:32:57 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: qtkj.opencode-ui</description>
       <description>Generate Git commit messages from selected changes using OpenAI-compatible AI services. Pushkin Commit AI works in the JetBrains Commit window and lets you use OpenAI...
 
 vendor: aikilan
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.pushkin.plugin</description>
       <pubDate>Wed, 29 Apr 2026 02:00:34 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.pushkin.plugin</description>
       <description>File Template plugin for quickly creating files from templates.
 
 vendor: 崔 旺
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: com.cuiwang.FileTemplate-Plugin</description>
       <pubDate>Wed, 29 Apr 2026 06:53:39 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.cuiwang.FileTemplate-Plugin</description>
       <description>Render Mermaid fenced code blocks in JetBrains Markdown Preview.
 
 vendor: ZhongMiaoOrg
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <pubDate>Wed, 29 Apr 2026 08:03:20 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <description>FoxMock — HTTP, SFTP &amp;amp; gRPC Mock Server FoxMock is an all-in-one mock server built directly into your JetBrains IDE. Stub out HTTP REST APIs, SFTP file transfers...
 
 vendor: CellOps
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.foxmock.plugin</description>
       <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.foxmock.plugin</description>
       <description>Fade Basic language support via LSP and DAP launch integration for Rider.
 
 vendor: Brewed Ink
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: ink.brewed.fadebasic</description>
       <pubDate>Tue, 28 Apr 2026 13:22:50 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: org.conilang</description>
       <description>QA CoPilot — AI-powered API test generation for Spring Boot QA CoPilot scans your open Spring Boot / Spring MVC project, builds a structured API contract, and...
 
 vendor: Piyush Joshi
-downloads: 1
+downloads: 11
 pricingModel: FREE
 xmlId: io.github.piyushjoshi01.qacopilot</description>
       <pubDate>Wed, 29 Apr 2026 22:26:02 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: io.github.piyushjoshi01.qacopilot</description>
       <description>Build-Popup automatically shows the Build tool window whenever a build or sync process starts in your IDE, so you can monitor its progress without having to open any...
 
 vendor: IPNMod
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: org.ipnmod.tools.jcf.build-popup</description>
       <pubDate>Fri, 24 Apr 2026 07:40:27 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: org.ipnmod.tools.jcf.build-popup</description>
       <description>Illuminate — Instantly Understand Any Codebase Clone a project → press one button → instantly understand the architecture. &#x1f5fa;️ Interactive Architecture Map...
 
 vendor: kryzhanovskyik
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: com.jetslop.illuminate</description>
       <pubDate>Sun, 19 Apr 2026 07:25:55 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.jetslop.illuminate</description>
       <description>AgentDock brings widely used AI coding agents into a unified GUI that follows the active JetBrains IDE theme. Supported AI agents: Claude Code Codex Cursor Gemini CLI...
 
 vendor: EdgarsR
-downloads: 3
+downloads: 16
 pricingModel: FREE
 xmlId: agentdock</description>
       <pubDate>Tue, 28 Apr 2026 10:27:08 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: agentdock</description>
       <description>ccidea — Claude Code usage inside your IDE Reads Claude Code's local JSONL logs and surfaces token usage, cost, and the 5-hour Anthropic billing block burn rate inside...
 
 vendor: Ccidea - Claude Code Usage
-downloads: 6
+downloads: 46
 pricingModel: FREE
 xmlId: com.ccidea.plugin</description>
       <pubDate>Wed, 29 Apr 2026 09:23:05 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.github.gguf.editor</description>
       <description>Early-stage plugin for mavenized WebObjects / WONDER projects. WebObjects run configuration with sensible defaults (Maven process-resources, working directory under...
 
 vendor: Markus Stoll
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: de.junidas.webobjects.ijplugin</description>
       <pubDate>Tue, 28 Apr 2026 07:41:12 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: de.junidas.webobjects.ijplugin</description>
       <description>Screenshot+ is an Android Studio plugin for capturing and annotating screenshots from ADB-connected Android devices — without leaving the IDE. Capture screenshots...
 
 vendor: 甲木庚金
-downloads: 2
+downloads: 6
 pricingModel: PAID
 xmlId: com.jiamugengjin.screenshotplus</description>
       <pubDate>Mon, 27 Apr 2026 07:31:27 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.jiamugengjin.screenshotplus</description>
       <description>MBTraining Karate Pack is a proof of concept (POC) training content pack for MBTraining Engine Framework. Important: all exercise content in this pack is AI-generated...
 
 vendor: Van Thanh Duy
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: com.mb.training.karate.pack</description>
       <pubDate>Tue, 28 Apr 2026 16:33:14 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.mb.training.karate.pack</description>
       <description>Arthas Hot Deploy An IntelliJ IDEA plugin for Java hot deployment based on Arthas retransform command. Right-click a Java file to generate a hot deploy script, then...
 
 vendor: neuSnail
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.arthas.hotdeploy</description>
       <pubDate>Tue, 28 Apr 2026 03:14:43 GMT</pubDate>
