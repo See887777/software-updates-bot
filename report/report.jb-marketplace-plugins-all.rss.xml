@@ -123,7 +123,7 @@ xmlId: org.conilang</description>
       <dc:date>2026-04-28T03:30:53Z</dc:date>
     </item>
     <item>
-      <title>QA CoPilot - Mon Apr 27 18:08:08 UTC 2026</title>
+      <title>QA CoPilot - Wed Apr 29 22:26:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31496-qa-copilot</link>
       <description>QA CoPilot — AI-powered API test generation for Spring Boot QA CoPilot scans your open Spring Boot / Spring MVC project, builds a structured API contract, and...
 
@@ -131,9 +131,9 @@ vendor: Piyush Joshi
 downloads: 1
 pricingModel: FREE
 xmlId: io.github.piyushjoshi01.qacopilot</description>
-      <pubDate>Mon, 27 Apr 2026 18:08:08 GMT</pubDate>
+      <pubDate>Wed, 29 Apr 2026 22:26:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31496-qa-copilot</guid>
-      <dc:date>2026-04-27T18:08:08Z</dc:date>
+      <dc:date>2026-04-29T22:26:02Z</dc:date>
     </item>
     <item>
       <title>Build-Popup - Fri Apr 24 07:40:27 UTC 2026</title>
@@ -201,7 +201,7 @@ xmlId: com.claudecode.plugin</description>
       <dc:date>2026-04-28T09:39:04Z</dc:date>
     </item>
     <item>
-      <title>GGUF Editor - Tue Apr 28 07:08:22 UTC 2026</title>
+      <title>GGUF Editor - Wed Apr 29 21:29:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31505-gguf-editor</link>
       <description>View, inspect, search, and edit GGUF model metadata from JetBrains IDEs. Features Open .gguf files from the Project View context menu Inspect metadata keys, values...
 
@@ -209,9 +209,9 @@ vendor: gguf
 downloads: 4
 pricingModel: FREE
 xmlId: com.github.gguf.editor</description>
-      <pubDate>Tue, 28 Apr 2026 07:08:22 GMT</pubDate>
+      <pubDate>Wed, 29 Apr 2026 21:29:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31505-gguf-editor</guid>
-      <dc:date>2026-04-28T07:08:22Z</dc:date>
+      <dc:date>2026-04-29T21:29:27Z</dc:date>
     </item>
     <item>
       <title>WebObjects / WONDER - Tue Apr 28 07:41:12 UTC 2026</title>
