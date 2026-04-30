@@ -62,6 +62,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>IntelliJ IDEA EAP -- 2026.1.2 (261.24374.34) ~ 2026-04-30</title>
+      <link>https://www.jetbrains.com/idea/nextversion/</link>
+      <description>IntelliJ IDEA EAP -- 2026.1.2 (261.24374.34) ~ 2026-04-30 -- Thu Apr 30 20:21:10 UTC 2026</description>
+      <category>Java</category>
+      <category>JetBrains</category>
+      <pubDate>Thu, 30 Apr 2026 20:21:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-04-30T20:21:10Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs -- Wed Apr 29 16:30:03 UTC 2026</description>
@@ -251,16 +261,6 @@
       <pubDate>Thu, 16 Apr 2026 08:29:47 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-04-16T08:29:47Z</dc:date>
-    </item>
-    <item>
-      <title>IntelliJ IDEA EAP -- 2026.1.1 (261.23567.71) ~ 2026-04-15</title>
-      <link>https://www.jetbrains.com/idea/nextversion/</link>
-      <description>IntelliJ IDEA EAP -- 2026.1.1 (261.23567.71) ~ 2026-04-15 -- Wed Apr 15 16:19:04 UTC 2026</description>
-      <category>Java</category>
-      <category>JetBrains</category>
-      <pubDate>Wed, 15 Apr 2026 16:19:04 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-04-15T16:19:04Z</dc:date>
     </item>
     <item>
       <title>Python 3 windows --  3.14.4</title>
