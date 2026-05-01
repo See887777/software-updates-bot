@@ -71,7 +71,7 @@ xmlId: org.kkkzbh.cph</description>
       <dc:date>2026-04-30T04:42:00Z</dc:date>
     </item>
     <item>
-      <title>velk - Thu Apr 30 07:34:47 UTC 2026</title>
+      <title>velk - Fri May 01 00:14:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31534-velk</link>
       <description>Open the velk terminal AI harness in a JetBrains terminal panel. Tools → velk: Open REPL (or Ctrl/Cmd-Shift-A → "velk") spawns a terminal running the velk binary in...
 
@@ -79,9 +79,9 @@ vendor: Vincent Vella
 downloads: 0
 pricingModel: FREE
 xmlId: com.vincentvella.velk</description>
-      <pubDate>Thu, 30 Apr 2026 07:34:47 GMT</pubDate>
+      <pubDate>Fri, 01 May 2026 00:14:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31534-velk</guid>
-      <dc:date>2026-04-30T07:34:47Z</dc:date>
+      <dc:date>2026-05-01T00:14:49Z</dc:date>
     </item>
     <item>
       <title>OpenClaw - Wed Apr 29 20:58:48 UTC 2026</title>
