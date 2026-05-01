@@ -71,7 +71,7 @@ xmlId: org.kkkzbh.cph</description>
       <dc:date>2026-04-30T04:42:00Z</dc:date>
     </item>
     <item>
-      <title>velk - Fri May 01 02:02:38 UTC 2026</title>
+      <title>velk - Fri May 01 06:51:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31534-velk</link>
       <description>Open the velk terminal AI harness in a JetBrains terminal panel. Tools → velk: Open REPL (or Ctrl/Cmd-Shift-A → "velk") spawns a terminal running the velk binary in...
 
@@ -79,9 +79,9 @@ vendor: Vincent Vella
 downloads: 6
 pricingModel: FREE
 xmlId: com.vincentvella.velk</description>
-      <pubDate>Fri, 01 May 2026 02:02:38 GMT</pubDate>
+      <pubDate>Fri, 01 May 2026 06:51:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31534-velk</guid>
-      <dc:date>2026-05-01T02:02:38Z</dc:date>
+      <dc:date>2026-05-01T06:51:24Z</dc:date>
     </item>
     <item>
       <title>OpenClaw - Wed Apr 29 20:58:48 UTC 2026</title>
@@ -89,7 +89,7 @@ xmlId: com.vincentvella.velk</description>
       <description>OpenClaw adds a status bar launcher for the OpenClaw CLI inside JetBrains IDEs. Features OpenClaw menu from the status bar or Tools → OpenClaw: Show Menu Run...
 
 vendor: gguf
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.gguf.openclaw</description>
       <pubDate>Wed, 29 Apr 2026 20:58:48 GMT</pubDate>
@@ -121,19 +121,6 @@ xmlId: com.kibernet.LuaAttachDebug</description>
       <pubDate>Wed, 29 Apr 2026 14:10:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31528-luaattachdebug</guid>
       <dc:date>2026-04-29T14:10:35Z</dc:date>
-    </item>
-    <item>
-      <title>Vault Toolbox - Wed Apr 29 00:48:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31516-vault-toolbox</link>
-      <description>The Vault Toolbox IntelliJ Plugin is a dedicated IDE plugin designed to make the everyday life of Vault Admins and Developers easier. It leverages the power of the...
-
-vendor: Vault Developer Support
-downloads: 4
-pricingModel: FREE
-xmlId: com.veeva.vault.toolbox</description>
-      <pubDate>Wed, 29 Apr 2026 00:48:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31516-vault-toolbox</guid>
-      <dc:date>2026-04-29T00:48:53Z</dc:date>
     </item>
     <item>
       <title>LuaUnity - Wed Apr 29 11:48:09 UTC 2026</title>
@@ -264,6 +251,19 @@ xmlId: com.foxmock.plugin</description>
       <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31488-foxmock--rest-grpc-smtp--sftp-mock-server</guid>
       <dc:date>2026-04-27T13:37:14Z</dc:date>
+    </item>
+    <item>
+      <title>Fade Basic - Tue Apr 28 13:22:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31490-fade-basic</link>
+      <description>Fade Basic language support via LSP and DAP launch integration for Rider.
+
+vendor: Brewed Ink
+downloads: 3
+pricingModel: FREE
+xmlId: ink.brewed.fadebasic</description>
+      <pubDate>Tue, 28 Apr 2026 13:22:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31490-fade-basic</guid>
+      <dc:date>2026-04-28T13:22:50Z</dc:date>
     </item>
   </channel>
 </rss>
