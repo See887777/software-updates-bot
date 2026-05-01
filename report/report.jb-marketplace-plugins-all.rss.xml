@@ -11,7 +11,7 @@
       <description>Adds support for Groovy in IDE live templates.
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: org.intellij.groovy.live.templates</description>
       <pubDate>Thu, 30 Apr 2026 09:34:52 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: org.intellij.groovy.live.templates</description>
       <description>Plays a custom sound and flashes an image overlay on build success or failure. Separate sound (WAV or MP3) and image (PNG / JPG / GIF / BMP) for success and failure...
 
 vendor: Squaredem
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.squaredem.buildsoundnotifier</description>
       <pubDate>Thu, 30 Apr 2026 09:05:45 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.squaredem.buildsoundnotifier</description>
       <description>Run Codex CLI from inside JetBrains IDE via the built-in terminal. How to Open Shortcut: Press Ctrl+Shift+X or option+command+X to open the terminal in your current...
 
 vendor: krong
-downloads: 0
+downloads: 27
 pricingModel: FREE
 xmlId: com.codex.assistant</description>
       <pubDate>Thu, 30 Apr 2026 07:13:11 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.codex.assistant</description>
       <description>Nginx Lens adds focused editor support for Nginx configuration files in JetBrains IDEs. It provides syntax highlighting, inspections for common configuration mistakes...
 
 vendor: CarlRenny
-downloads: 0
+downloads: 26
 pricingModel: FREE
 xmlId: com.agomuseum.nginxlens</description>
       <pubDate>Thu, 30 Apr 2026 06:53:52 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.agomuseum.nginxlens</description>
       <description>A CLion sidebar helper for competitive-programming samples. Manage sample cases per CMake target, run them quickly, compare outputs, and inspect mismatched lines.
 
 vendor: kkkzbh
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: org.kkkzbh.cph</description>
       <pubDate>Thu, 30 Apr 2026 04:42:00 GMT</pubDate>
@@ -71,17 +71,17 @@ xmlId: org.kkkzbh.cph</description>
       <dc:date>2026-04-30T04:42:00Z</dc:date>
     </item>
     <item>
-      <title>velk - Fri May 01 00:14:49 UTC 2026</title>
+      <title>velk - Fri May 01 02:02:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31534-velk</link>
       <description>Open the velk terminal AI harness in a JetBrains terminal panel. Tools → velk: Open REPL (or Ctrl/Cmd-Shift-A → "velk") spawns a terminal running the velk binary in...
 
 vendor: Vincent Vella
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.vincentvella.velk</description>
-      <pubDate>Fri, 01 May 2026 00:14:49 GMT</pubDate>
+      <pubDate>Fri, 01 May 2026 02:02:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31534-velk</guid>
-      <dc:date>2026-05-01T00:14:49Z</dc:date>
+      <dc:date>2026-05-01T02:02:38Z</dc:date>
     </item>
     <item>
       <title>OpenClaw - Wed Apr 29 20:58:48 UTC 2026</title>
@@ -102,7 +102,7 @@ xmlId: com.github.gguf.openclaw</description>
       <description>Inline Unified Diff shows your uncommitted Git changes directly inside the editor — the same way a unified diff looks in a terminal — without switching to a separate...
 
 vendor: Clement Sehan
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.clementsehan.inlineunifieddiffjetbrains</description>
       <pubDate>Wed, 29 Apr 2026 20:44:13 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.github.clementsehan.inlineunifieddiffjetbrains</description>
       <description>Attach or launch Windows Lua processes with the Lua native debugger hook. Requires the EmmyLua plugin.
 
 vendor: kibernet
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.kibernet.LuaAttachDebug</description>
       <pubDate>Wed, 29 Apr 2026 14:10:35 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.kibernet.LuaAttachDebug</description>
       <description>The Vault Toolbox IntelliJ Plugin is a dedicated IDE plugin designed to make the everyday life of Vault Admins and Developers easier. It leverages the power of the...
 
 vendor: Vault Developer Support
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.veeva.vault.toolbox</description>
       <pubDate>Wed, 29 Apr 2026 00:48:53 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.veeva.vault.toolbox</description>
       <description>Receive Unity type metadata and generate Lua annotation files for IntelliJ-based IDEs. Configure the local type server under Settings | Tools | LuaUnity.
 
 vendor: kibernet
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.kibernet.luaunity</description>
       <pubDate>Wed, 29 Apr 2026 11:48:09 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.kibernet.luaunity</description>
       <description>Color swatches and a color picker for the Viritin Color Java library (in.virit:color). Shows a color swatch in the editor gutter next to RgbColor, HexColor, HslColor...
 
 vendor: Matti Tahvonen
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: in.virit.color</description>
       <pubDate>Wed, 29 Apr 2026 14:11:58 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: in.virit.color</description>
       <description>LuaCodeStyle plugin for Intellij. fun, fast and powerful multi editor support include vscode, intellij, neovim only support configure by .editorconfig for document see...
 
 vendor: kibernet
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.kibernet.EmmyLuaCodeStyle</description>
       <pubDate>Wed, 29 Apr 2026 14:25:04 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.kibernet.EmmyLuaCodeStyle</description>
       <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
 
 vendor: codemagic
-downloads: 8
+downloads: 10
 pricingModel: FREE
 xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <pubDate>Wed, 29 Apr 2026 11:37:45 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <description>SurrealQL language support for JetBrains IDEs — brings first-class editing of .surql and .surrealql files to IntelliJ IDEA, PyCharm, WebStorm, GoLand, RustRover...
 
 vendor: SurrealDB
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: com.surrealdb.surql-jetbrains</description>
       <pubDate>Fri, 24 Apr 2026 09:51:17 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.surrealdb.surql-jetbrains</description>
       <description>OpenCode UI (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer...
 
 vendor: OpenCodeUI
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: qtkj.opencode-ui</description>
       <pubDate>Wed, 29 Apr 2026 03:32:57 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: qtkj.opencode-ui</description>
       <description>Generate Git commit messages from selected changes using OpenAI-compatible AI services. Pushkin Commit AI works in the JetBrains Commit window and lets you use OpenAI...
 
 vendor: aikilan
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.pushkin.plugin</description>
       <pubDate>Wed, 29 Apr 2026 02:00:34 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.pushkin.plugin</description>
       <description>File Template plugin for quickly creating files from templates.
 
 vendor: 崔 旺
-downloads: 9
+downloads: 13
 pricingModel: FREE
 xmlId: com.cuiwang.FileTemplate-Plugin</description>
       <pubDate>Wed, 29 Apr 2026 06:53:39 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.cuiwang.FileTemplate-Plugin</description>
       <description>Render Mermaid fenced code blocks directly inside the built-in JetBrains Markdown Preview. Mermaid Markdown Bridge is a JetBrains IDE Markdown Preview extension...
 
 vendor: ZhongMiaoOrg
-downloads: 11
+downloads: 51
 pricingModel: FREE
 xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <pubDate>Thu, 30 Apr 2026 08:18:15 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <description>FoxMock — REST, gRPC, SMTP &amp;amp; SFTP Mock Server for JetBrains IDEs FoxMock is a mock server plugin for IntelliJ that supports REST API mocking, gRPC service mocking...
 
 vendor: CellOps
-downloads: 6
+downloads: 8
 pricingModel: FREE
 xmlId: com.foxmock.plugin</description>
       <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
