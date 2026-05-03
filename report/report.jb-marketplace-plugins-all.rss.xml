@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GitOps Cockpit for Argo CD - Sun May 03 08:12:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30719-gitops-cockpit-for-argo-cd</link>
+      <description>Monitor, sync, and manage your Argo CD GitOps deployments without leaving your IDE. GitOps Cockpit brings the full power of Argo CD directly into IntelliJ IDEA. Free...
+
+vendor: Michael Latta Software
+downloads: 12
+pricingModel: FREEMIUM
+xmlId: de.ml.argocd.gitops-cockpit</description>
+      <pubDate>Sun, 03 May 2026 08:12:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30719-gitops-cockpit-for-argo-cd</guid>
+      <dc:date>2026-05-03T08:12:08Z</dc:date>
+    </item>
+    <item>
       <title>Sout Boy - Sun May 03 03:46:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31533-sout-boy</link>
       <description>SoutBoy is an IntelliJ IDEA plugin for Java developers who are tired of typing System.out.println by hand every single time they need to debug something. ☢️ SoutBoy...
@@ -71,7 +84,7 @@ xmlId: com.agomuseum.nginxlens</description>
       <dc:date>2026-04-30T06:53:52Z</dc:date>
     </item>
     <item>
-      <title>CPH Target Runner - Sat May 02 13:11:40 UTC 2026</title>
+      <title>CPH Target Runner - Sat May 02 19:18:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</link>
       <description>A CLion sidebar helper for competitive-programming samples. Manage sample cases per CMake target, run them quickly, compare outputs, and inspect mismatched lines.
 
@@ -79,9 +92,9 @@ vendor: kkkzbh
 downloads: 17
 pricingModel: FREE
 xmlId: org.kkkzbh.cph</description>
-      <pubDate>Sat, 02 May 2026 13:11:40 GMT</pubDate>
+      <pubDate>Sat, 02 May 2026 19:18:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</guid>
-      <dc:date>2026-05-02T13:11:40Z</dc:date>
+      <dc:date>2026-05-02T19:18:53Z</dc:date>
     </item>
     <item>
       <title>velk - Fri May 01 06:51:24 UTC 2026</title>
@@ -102,7 +115,7 @@ xmlId: com.vincentvella.velk</description>
       <description>OpenClaw adds a status bar launcher for the OpenClaw CLI inside JetBrains IDEs. Features OpenClaw menu from the status bar or Tools → OpenClaw: Show Menu Run...
 
 vendor: gguf
-downloads: 21
+downloads: 34
 pricingModel: FREE
 xmlId: com.github.gguf.openclaw</description>
       <pubDate>Wed, 29 Apr 2026 20:58:48 GMT</pubDate>
@@ -251,19 +264,6 @@ xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <pubDate>Thu, 30 Apr 2026 08:18:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</guid>
       <dc:date>2026-04-30T08:18:15Z</dc:date>
-    </item>
-    <item>
-      <title>FoxMock — REST, gRPC, SMTP &amp; SFTP Mock Server - Mon Apr 27 13:37:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31488-foxmock--rest-grpc-smtp--sftp-mock-server</link>
-      <description>Mock HTTP REST APIs and gRPC services without leaving your JetBrains IDE. Define multiple named scenarios per HTTP route and auto-switch responses by query parameter...
-
-vendor: CellOps
-downloads: 11
-pricingModel: FREE
-xmlId: com.foxmock.plugin</description>
-      <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31488-foxmock--rest-grpc-smtp--sftp-mock-server</guid>
-      <dc:date>2026-04-27T13:37:14Z</dc:date>
     </item>
   </channel>
 </rss>
