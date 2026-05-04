@@ -33,6 +33,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 mac x64 -- jdk8u492-b09</title>
+    <link rel="alternate" href="https://adoptium.net/temurin/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-04T16:30:00Z</modified>
+    <issued>2026-05-04T16:30:00Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u492-b09 -- Mon May 04 16:30:00 UTC 2026</summary>
+    <dc:date>2026-05-04T16:30:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u492-b09</title>
     <link rel="alternate" href="https://adoptium.net/temurin/releases/" />
     <author>
@@ -403,18 +415,6 @@
     <issued>2026-02-05T00:08:14Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u482-b08 -- Thu Feb 05 00:08:14 UTC 2026</summary>
     <dc:date>2026-02-05T00:08:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 mac x64 -- jdk8u482-b08</title>
-    <link rel="alternate" href="https://adoptium.net/temurin/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-02-04T20:05:42Z</modified>
-    <issued>2026-02-04T20:05:42Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u482-b08 -- Wed Feb 04 20:05:42 UTC 2026</summary>
-    <dc:date>2026-02-04T20:05:42Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.23</title>

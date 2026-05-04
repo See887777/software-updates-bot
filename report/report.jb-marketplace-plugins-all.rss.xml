@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GraphQL PHP Bridge - Thu Apr 30 12:39:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31529-graphql-php-bridge</link>
+      <description>Connects your GraphQL schema and your PHP resolvers, so the IDE understands them as a single codebase. Navigation GraphQL → PHP: click any resolver string in a...
+
+vendor: iNET
+downloads: 4
+pricingModel: PAID
+xmlId: com.inet-dev.graphql-php-bridge</description>
+      <pubDate>Thu, 30 Apr 2026 12:39:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31529-graphql-php-bridge</guid>
+      <dc:date>2026-04-30T12:39:48Z</dc:date>
+    </item>
+    <item>
+      <title>Scalar OpenAPI Preview - Thu Apr 30 15:32:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31547-scalar-openapi-preview</link>
+      <description>This plugin allows to use Scalar as OpenAPI specifications preview.
+
+vendor: Vincent MONOT
+downloads: 3
+pricingModel: FREE
+xmlId: dev.vmonot.scalar-openapi-preview</description>
+      <pubDate>Thu, 30 Apr 2026 15:32:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31547-scalar-openapi-preview</guid>
+      <dc:date>2026-04-30T15:32:06Z</dc:date>
+    </item>
+    <item>
+      <title>Webox - Web Box - Thu Apr 30 15:12:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31548-webox--web-box</link>
+      <description>Webox — Manage and browse web pages right inside your IDE, without switching to a browser. Sidebar panel to manage bookmarks (name, URL, description) with group...
+
+vendor: webox
+downloads: 4
+pricingModel: FREE
+xmlId: com.duanzs.webox</description>
+      <pubDate>Thu, 30 Apr 2026 15:12:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31548-webox--web-box</guid>
+      <dc:date>2026-04-30T15:12:13Z</dc:date>
+    </item>
+    <item>
+      <title>Svelte Hero - Sat May 02 01:56:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31546-svelte-hero</link>
+      <description>The plugin adds first-class support for Svelte single-file components to IntelliJ IDEA and other JetBrains IDEs with web-language support. Installation Once you...
+
+vendor: Language Heroes
+downloads: 2
+pricingModel: PAID
+xmlId: com.langheroes.svelte</description>
+      <pubDate>Sat, 02 May 2026 01:56:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31546-svelte-hero</guid>
+      <dc:date>2026-05-02T01:56:24Z</dc:date>
+    </item>
+    <item>
+      <title>SDF Account Status - Fri Apr 24 20:26:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31446-sdf-account-status</link>
+      <description>Overview Displays the active SuiteCloud SDF default account from project.json directly in the status bar. Auto-detects defaultAuthId (and legacy DefaultAuthID...
+
+vendor: Gonzalo Facello
+downloads: 2
+pricingModel: FREE
+xmlId: com.sdf.accountstatus</description>
+      <pubDate>Fri, 24 Apr 2026 20:26:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31446-sdf-account-status</guid>
+      <dc:date>2026-04-24T20:26:22Z</dc:date>
+    </item>
+    <item>
       <title>GitOps Cockpit for Argo CD - Sun May 03 08:12:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30719-gitops-cockpit-for-argo-cd</link>
       <description>Monitor, sync, and manage your Argo CD GitOps deployments without leaving your IDE. GitOps Cockpit brings the full power of Argo CD directly into IntelliJ IDEA. Free...
@@ -199,71 +264,6 @@ xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <pubDate>Wed, 29 Apr 2026 11:37:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</guid>
       <dc:date>2026-04-29T11:37:45Z</dc:date>
-    </item>
-    <item>
-      <title>SurrealQL - Fri Apr 24 09:51:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31397-surrealql</link>
-      <description>SurrealQL language support for JetBrains IDEs — brings first-class editing of .surql and .surrealql files to IntelliJ IDEA, PyCharm, WebStorm, GoLand, RustRover...
-
-vendor: SurrealDB
-downloads: 15
-pricingModel: FREE
-xmlId: com.surrealdb.surql-jetbrains</description>
-      <pubDate>Fri, 24 Apr 2026 09:51:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31397-surrealql</guid>
-      <dc:date>2026-04-24T09:51:17Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode UI（非官方） - Sun May 03 18:29:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31519-opencode-ui---</link>
-      <description>OpenCode UI (unofficial) brings local OpenCode AI workflows into JetBrains IDEs with chat, context management, and bundled backend binaries. OpenCode UI（非官方） OpenCode...
-
-vendor: OpenCodeUI
-downloads: 66
-pricingModel: FREE
-xmlId: qtkj.opencode-ui</description>
-      <pubDate>Sun, 03 May 2026 18:29:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31519-opencode-ui---</guid>
-      <dc:date>2026-05-03T18:29:01Z</dc:date>
-    </item>
-    <item>
-      <title>Pushkin Commit AI - Wed Apr 29 02:00:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31517-pushkin-commit-ai</link>
-      <description>Generate Git commit messages from selected changes using OpenAI-compatible AI services. Pushkin Commit AI works in the JetBrains Commit window and lets you use OpenAI...
-
-vendor: aikilan
-downloads: 6
-pricingModel: FREE
-xmlId: com.pushkin.plugin</description>
-      <pubDate>Wed, 29 Apr 2026 02:00:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31517-pushkin-commit-ai</guid>
-      <dc:date>2026-04-29T02:00:34Z</dc:date>
-    </item>
-    <item>
-      <title>File Template - Wed Apr 29 06:53:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31426-file-template</link>
-      <description>File Template plugin for quickly creating files from templates.
-
-vendor: 崔 旺
-downloads: 13
-pricingModel: FREE
-xmlId: com.cuiwang.FileTemplate-Plugin</description>
-      <pubDate>Wed, 29 Apr 2026 06:53:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31426-file-template</guid>
-      <dc:date>2026-04-29T06:53:39Z</dc:date>
-    </item>
-    <item>
-      <title>Mermaid Markdown Bridge - Thu Apr 30 08:18:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</link>
-      <description>Render Mermaid fenced code blocks directly inside the built-in JetBrains Markdown Preview. Mermaid Markdown Bridge is a JetBrains IDE Markdown Preview extension...
-
-vendor: ZhongMiaoOrg
-downloads: 84
-pricingModel: FREE
-xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
-      <pubDate>Thu, 30 Apr 2026 08:18:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31518-mermaid-markdown-bridge</guid>
-      <dc:date>2026-04-30T08:18:15Z</dc:date>
     </item>
   </channel>
 </rss>
