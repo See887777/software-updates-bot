@@ -62,6 +62,30 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk8 linux x64 -- jdk8u492-b09</title>
+      <link>https://adoptium.net/temurin/releases/</link>
+      <description>Adoptium jdk8 linux x64 -- jdk8u492-b09 -- Mon May 04 12:26:44 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Mon, 04 May 2026 12:26:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-04T12:26:44Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 windows x64 -- jdk-17.0.19+10</title>
+      <link>https://adoptium.net/temurin/releases/</link>
+      <description>Adoptium jdk17 windows x64 -- jdk-17.0.19+10 -- Mon May 04 12:26:41 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Mon, 04 May 2026 12:26:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-04T12:26:41Z</dc:date>
+    </item>
+    <item>
       <title>IntelliJ IDEA EAP -- 2026.1.2 (261.24374.34) ~ 2026-04-30</title>
       <link>https://www.jetbrains.com/idea/nextversion/</link>
       <description>IntelliJ IDEA EAP -- 2026.1.2 (261.24374.34) ~ 2026-04-30 -- Thu Apr 30 20:21:10 UTC 2026</description>
@@ -371,18 +395,6 @@
       <dc:date>2026-02-05T00:08:14Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk17 windows x64 -- jdk-17.0.18+8</title>
-      <link>https://adoptium.net/temurin/releases/</link>
-      <description>Adoptium jdk17 windows x64 -- jdk-17.0.18+8 -- Thu Feb 05 00:08:10 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 05 Feb 2026 00:08:10 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-02-05T00:08:10Z</dc:date>
-    </item>
-    <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u482-b08</title>
       <link>https://adoptium.net/temurin/releases/</link>
       <description>Adoptium jdk8 mac x64 -- jdk8u482-b08 -- Wed Feb 04 20:05:42 UTC 2026</description>
@@ -393,18 +405,6 @@
       <pubDate>Wed, 04 Feb 2026 20:05:42 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-02-04T20:05:42Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk8 linux x64 -- jdk8u482-b08</title>
-      <link>https://adoptium.net/temurin/releases/</link>
-      <description>Adoptium jdk8 linux x64 -- jdk8u482-b08 -- Mon Feb 02 12:05:00 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Mon, 02 Feb 2026 12:05:00 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-02-02T12:05:00Z</dc:date>
     </item>
     <item>
       <title>VLC -- 3.0.23</title>

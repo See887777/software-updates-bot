@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 12:26:44 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 12:26:41 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.2 (261.24374.34) ~ 2026-04-30|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Apr 30 20:21:10 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Apr 29 16:30:03 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 29 12:25:35 UTC 2026|
@@ -29,9 +31,7 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 20:05:42 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
