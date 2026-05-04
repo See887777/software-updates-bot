@@ -123,7 +123,7 @@ xmlId: com.github.gguf.openclaw</description>
       <dc:date>2026-04-29T20:58:48Z</dc:date>
     </item>
     <item>
-      <title>Inline Unified Diff - Wed Apr 29 20:44:13 UTC 2026</title>
+      <title>Inline Unified Diff - Sun May 03 20:24:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31530-inline-unified-diff</link>
       <description>Inline Unified Diff shows your uncommitted Git changes directly inside the editor — the same way a unified diff looks in a terminal — without switching to a separate...
 
@@ -131,9 +131,9 @@ vendor: Clement Sehan
 downloads: 9
 pricingModel: FREE
 xmlId: com.github.clementsehan.inlineunifieddiffjetbrains</description>
-      <pubDate>Wed, 29 Apr 2026 20:44:13 GMT</pubDate>
+      <pubDate>Sun, 03 May 2026 20:24:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31530-inline-unified-diff</guid>
-      <dc:date>2026-04-29T20:44:13Z</dc:date>
+      <dc:date>2026-05-03T20:24:45Z</dc:date>
     </item>
     <item>
       <title>LuaAttachDebug - Wed Apr 29 14:10:35 UTC 2026</title>
