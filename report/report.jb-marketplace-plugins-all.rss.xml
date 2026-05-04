@@ -11,7 +11,7 @@
       <description>Monitor, sync, and manage your Argo CD GitOps deployments without leaving your IDE. GitOps Cockpit brings the full power of Argo CD directly into IntelliJ IDEA. Free...
 
 vendor: Michael Latta Software
-downloads: 12
+downloads: 30
 pricingModel: FREEMIUM
 xmlId: de.ml.argocd.gitops-cockpit</description>
       <pubDate>Sun, 03 May 2026 08:12:08 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.vincentvella.velk</description>
       <description>OpenClaw adds a status bar launcher for the OpenClaw CLI inside JetBrains IDEs. Features OpenClaw menu from the status bar or Tools → OpenClaw: Show Menu Run...
 
 vendor: gguf
-downloads: 34
+downloads: 42
 pricingModel: FREE
 xmlId: com.github.gguf.openclaw</description>
       <pubDate>Wed, 29 Apr 2026 20:58:48 GMT</pubDate>
