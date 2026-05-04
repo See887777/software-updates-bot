@@ -24,7 +24,7 @@ xmlId: de.ml.argocd.gitops-cockpit</description>
       <description>SoutBoy is an IntelliJ IDEA plugin for Java developers who are tired of typing System.out.println by hand every single time they need to debug something. ☢️ SoutBoy...
 
 vendor: Pedro Ribeiro
-downloads: 1
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.pedrorbeiro.soutboy</description>
       <pubDate>Sun, 03 May 2026 03:46:34 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: org.intellij.groovy.live.templates</description>
       <description>Plays a custom sound and flashes an image overlay on build success or failure. Separate sound (WAV or MP3) and image (PNG / JPG / GIF / BMP) for success and failure...
 
 vendor: Squaredem
-downloads: 5
+downloads: 7
 pricingModel: FREE
 xmlId: com.squaredem.buildsoundnotifier</description>
       <pubDate>Thu, 30 Apr 2026 09:05:45 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.squaredem.buildsoundnotifier</description>
       <description>Run Codex CLI from inside JetBrains IDE via the built-in terminal. How to Open Shortcut: Press Ctrl+Shift+X or option+command+X to open the terminal in your current...
 
 vendor: krong
-downloads: 95
+downloads: 116
 pricingModel: FREE
 xmlId: com.codex.assistant</description>
       <pubDate>Thu, 30 Apr 2026 07:13:11 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.codex.assistant</description>
       <description>Nginx Lens adds focused editor support for Nginx configuration files in JetBrains IDEs. It provides syntax highlighting, inspections for common configuration mistakes...
 
 vendor: CarlRenny
-downloads: 99
+downloads: 139
 pricingModel: FREE
 xmlId: com.agomuseum.nginxlens</description>
       <pubDate>Thu, 30 Apr 2026 06:53:52 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.agomuseum.nginxlens</description>
       <description>A CLion sidebar helper for competitive-programming samples. Manage sample cases per CMake target, run them quickly, compare outputs, and inspect mismatched lines.
 
 vendor: kkkzbh
-downloads: 17
+downloads: 39
 pricingModel: FREE
 xmlId: org.kkkzbh.cph</description>
       <pubDate>Sun, 03 May 2026 16:03:37 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: org.kkkzbh.cph</description>
       <description>Open the velk terminal AI harness in a JetBrains terminal panel. Tools → velk: Open REPL (or Ctrl/Cmd-Shift-A → "velk") spawns a terminal running the velk binary in...
 
 vendor: Vincent Vella
-downloads: 39
+downloads: 41
 pricingModel: FREE
 xmlId: com.vincentvella.velk</description>
       <pubDate>Fri, 01 May 2026 06:51:24 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.github.gguf.openclaw</description>
       <description>Inline Unified Diff shows your uncommitted Git changes directly inside the editor — the same way a unified diff looks in a terminal — without switching to a separate...
 
 vendor: Clement Sehan
-downloads: 9
+downloads: 19
 pricingModel: FREE
 xmlId: com.github.clementsehan.inlineunifieddiffjetbrains</description>
       <pubDate>Sun, 03 May 2026 20:24:45 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.kibernet.LuaAttachDebug</description>
       <description>Receive Unity type metadata and generate Lua annotation files for IntelliJ-based IDEs. Configure the local type server under Settings | Tools | LuaUnity.
 
 vendor: kibernet
-downloads: 6
+downloads: 7
 pricingModel: FREE
 xmlId: com.kibernet.luaunity</description>
       <pubDate>Wed, 29 Apr 2026 11:48:09 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.kibernet.EmmyLuaCodeStyle</description>
       <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
 
 vendor: codemagic
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <pubDate>Wed, 29 Apr 2026 11:37:45 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
       <description>SurrealQL language support for JetBrains IDEs — brings first-class editing of .surql and .surrealql files to IntelliJ IDEA, PyCharm, WebStorm, GoLand, RustRover...
 
 vendor: SurrealDB
-downloads: 14
+downloads: 15
 pricingModel: FREE
 xmlId: com.surrealdb.surql-jetbrains</description>
       <pubDate>Fri, 24 Apr 2026 09:51:17 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.surrealdb.surql-jetbrains</description>
       <description>OpenCode UI (unofficial) brings local OpenCode AI workflows into JetBrains IDEs with chat, context management, and bundled backend binaries. OpenCode UI（非官方） OpenCode...
 
 vendor: OpenCodeUI
-downloads: 27
+downloads: 66
 pricingModel: FREE
 xmlId: qtkj.opencode-ui</description>
       <pubDate>Sun, 03 May 2026 18:29:01 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: qtkj.opencode-ui</description>
       <description>Generate Git commit messages from selected changes using OpenAI-compatible AI services. Pushkin Commit AI works in the JetBrains Commit window and lets you use OpenAI...
 
 vendor: aikilan
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: com.pushkin.plugin</description>
       <pubDate>Wed, 29 Apr 2026 02:00:34 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.cuiwang.FileTemplate-Plugin</description>
       <description>Render Mermaid fenced code blocks directly inside the built-in JetBrains Markdown Preview. Mermaid Markdown Bridge is a JetBrains IDE Markdown Preview extension...
 
 vendor: ZhongMiaoOrg
-downloads: 78
+downloads: 84
 pricingModel: FREE
 xmlId: com.zhongmiao.mermaid.markdown.bridge</description>
       <pubDate>Thu, 30 Apr 2026 08:18:15 GMT</pubDate>
