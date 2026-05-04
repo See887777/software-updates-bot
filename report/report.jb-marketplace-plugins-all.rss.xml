@@ -6,6 +6,253 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FontViewer - Fri May 01 16:37:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31561-fontviewer</link>
+      <description>Preview font files (TTF, OTF, WOFF, WOFF2) directly inside the IDE. Custom text preview at multiple sizes with live glyph set Browse the Private Use Area...
+
+vendor: Jakey CHAI
+downloads: 1
+pricingModel: FREE
+xmlId: cn.itscloudy.fontviewer</description>
+      <pubDate>Fri, 01 May 2026 16:37:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31561-fontviewer</guid>
+      <dc:date>2026-05-01T16:37:06Z</dc:date>
+    </item>
+    <item>
+      <title>AILoc2 Probe - Mon May 04 11:29:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31589-ailoc2-probe</link>
+      <description>Local-first AI attribution for IntelliJ IDEA commits. AILoc2 observes editor edits, estimates staged AI-assisted change percentage without prompt or instruction...
+
+vendor: Gogolian
+downloads: 0
+pricingModel: FREE
+xmlId: com.ailoc2.probe</description>
+      <pubDate>Mon, 04 May 2026 11:29:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31589-ailoc2-probe</guid>
+      <dc:date>2026-05-04T11:29:24Z</dc:date>
+    </item>
+    <item>
+      <title>GitHub Actions Monitor - Fri May 01 08:07:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31553-github-actions-monitor</link>
+      <description>Monitor and act on GitHub Actions for your project's repo without leaving the IDE. Authenticate via PAT or your IDE-configured GitHub account. Supports github.com and...
+
+vendor: Marcelo Trevisani
+downloads: 3
+pricingModel: FREE
+xmlId: gh_actions_monitor.marcelotrevisani</description>
+      <pubDate>Fri, 01 May 2026 08:07:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31553-github-actions-monitor</guid>
+      <dc:date>2026-05-01T08:07:04Z</dc:date>
+    </item>
+    <item>
+      <title>Minestom Project Wizard - Sat May 02 09:23:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31567-minestom-project-wizard</link>
+      <description>Creates Gradle based Minestom server projects from the New Project wizard. Disclaimer: This plugin is not official and is not affiliated with Minestom in any way.
+
+vendor: Flowstom
+downloads: 1
+pricingModel: FREE
+xmlId: net.flowstom.jetbrains_plugin</description>
+      <pubDate>Sat, 02 May 2026 09:23:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31567-minestom-project-wizard</guid>
+      <dc:date>2026-05-02T09:23:55Z</dc:date>
+    </item>
+    <item>
+      <title>MetaScript - Sun May 03 22:32:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31585-metascript</link>
+      <description>Language support for MetaScript — TypeScript-style syntax with compile-time macros, match expressions, Result&amp;lt;T,E&amp;gt; types, and multiple backends (C, JavaScript...
+
+vendor: Le Cloud
+downloads: 0
+pricingModel: FREE
+xmlId: org.metascript</description>
+      <pubDate>Sun, 03 May 2026 22:32:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31585-metascript</guid>
+      <dc:date>2026-05-03T22:32:32Z</dc:date>
+    </item>
+    <item>
+      <title>AI File Opener - Mon May 04 12:44:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31591-ai-file-opener</link>
+      <description>Automatically opens files in the editor as an AI coding agent works on them. When an external AI tool (Claude Code, Aider, or any other agent) edits or creates a...
+
+vendor: Nathan Hayfield
+downloads: 0
+pricingModel: FREE
+xmlId: com.nhayfield.claude-file-opener</description>
+      <pubDate>Mon, 04 May 2026 12:44:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31591-ai-file-opener</guid>
+      <dc:date>2026-05-04T12:44:38Z</dc:date>
+    </item>
+    <item>
+      <title>AI Engineering Fluency - Sun May 03 13:35:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31580-ai-engineering-fluency</link>
+      <description>Visualises your GitHub Copilot token usage and AI engineering fluency directly inside any JetBrains IDE. Uses the same analytics and visualisations as the VS Code...
+
+vendor: Rob Bos
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.rajbos.ai-engineering-fluency</description>
+      <pubDate>Sun, 03 May 2026 13:35:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31580-ai-engineering-fluency</guid>
+      <dc:date>2026-05-03T13:35:23Z</dc:date>
+    </item>
+    <item>
+      <title>Whisper Speech to Text - Thu Apr 30 21:50:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31552-whisper-speech-to-text</link>
+      <description>Voice-to-text dictation for JetBrains IDEs using OpenAI Whisper. Speak instead of type, anywhere a caret is focused. Features Three transcription backends: local...
+
+vendor: Abdelghani Roussi
+downloads: 1
+pricingModel: FREE
+xmlId: dev.aroussi.whisper</description>
+      <pubDate>Thu, 30 Apr 2026 21:50:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31552-whisper-speech-to-text</guid>
+      <dc:date>2026-04-30T21:50:12Z</dc:date>
+    </item>
+    <item>
+      <title>WoW Lua Language Server - Mon May 04 15:26:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31581-wow-lua-language-server</link>
+      <description>Lua language server for World of Warcraft addon development, powered by wowlua_ls. Features 9,000+ WoW API stubs with hover documentation (retail, classic...
+
+vendor: TradeSkillMaster
+downloads: 0
+pricingModel: FREE
+xmlId: com.tradeskillmaster.wowlua-ls</description>
+      <pubDate>Mon, 04 May 2026 15:26:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31581-wow-lua-language-server</guid>
+      <dc:date>2026-05-04T15:26:21Z</dc:date>
+    </item>
+    <item>
+      <title>Editor Peer Bridge - Fri May 01 04:52:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31554-editor-peer-bridge</link>
+      <description>Cross-editor code navigation tool. Jump between Rider, VSCode, Cursor, and CodeBuddy with a single keystroke.
+
+vendor: shichao402
+downloads: 2
+pricingModel: FREE
+xmlId: com.editorpeerbridge.bridge</description>
+      <pubDate>Fri, 01 May 2026 04:52:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31554-editor-peer-bridge</guid>
+      <dc:date>2026-05-01T04:52:09Z</dc:date>
+    </item>
+    <item>
+      <title>Android Build Booster - Mon May 04 11:59:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31588-android-build-booster</link>
+      <description>Android Build Booster helps you find and fix Android build bottlenecks directly inside IntelliJ IDEA. Health Analyzer: Detects missing gradle.properties optimizations...
+
+vendor: Shubham Singh
+downloads: 0
+pricingModel: FREE
+xmlId: com.shubham0707.androidbuildbooster</description>
+      <pubDate>Mon, 04 May 2026 11:59:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31588-android-build-booster</guid>
+      <dc:date>2026-05-04T11:59:08Z</dc:date>
+    </item>
+    <item>
+      <title>SpringForge Tools - Sat May 02 12:58:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31574-springforge-tools</link>
+      <description>Architecture-aware Spring Boot tool suite (CodeGen, QA, Runtime Analysis, CI/CD).
+
+vendor: SpringForge-Dev
+downloads: 1
+pricingModel: FREE
+xmlId: org.springforge</description>
+      <pubDate>Sat, 02 May 2026 12:58:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31574-springforge-tools</guid>
+      <dc:date>2026-05-02T12:58:41Z</dc:date>
+    </item>
+    <item>
+      <title>Gbase 8s JDBC Driver - Mon May 04 17:57:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31386-gbase-8s-jdbc-driver</link>
+      <description>Bundles and automatically installs the GBase 8s JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GBase 8s is a relational database management system...
+
+vendor: Vasilii Chernov
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.tjlee.gbasejdbcdriver</description>
+      <pubDate>Mon, 04 May 2026 17:57:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31386-gbase-8s-jdbc-driver</guid>
+      <dc:date>2026-05-04T17:57:11Z</dc:date>
+    </item>
+    <item>
+      <title>Docker Manager - Mon May 04 11:47:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31590-docker-manager</link>
+      <description>Stop switching to the terminal for docker ps, docker logs, docker stop. Run your daily Docker workflow without leaving your editor. What you can do See everything...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: PAID
+xmlId: dev.meanmail.plugin.docker</description>
+      <pubDate>Mon, 04 May 2026 11:47:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31590-docker-manager</guid>
+      <dc:date>2026-05-04T11:47:33Z</dc:date>
+    </item>
+    <item>
+      <title>PickAID Template Assistant - Fri May 01 10:27:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31558-pickaid-template-assistant</link>
+      <description>Editor assistance for PickAID Minecraft template project.toml files. Provides schema-aware completion, inspections, and focused quick fixes.
+
+vendor: PickAID Modding Template
+downloads: 1
+pricingModel: FREE
+xmlId: cn.mihono.pickaid.template.assistant</description>
+      <pubDate>Fri, 01 May 2026 10:27:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31558-pickaid-template-assistant</guid>
+      <dc:date>2026-05-01T10:27:55Z</dc:date>
+    </item>
+    <item>
+      <title>Oktopios Language - Sun May 03 19:37:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31583-oktopios-language</link>
+      <description>Oktopios Language adds support for Oktopios source files in JetBrains IDEs. The plugin recognizes .okp files and provides a cleaner editing experience for Oktopios...
+
+vendor: Oktopios
+downloads: 0
+pricingModel: FREE
+xmlId: dev.oktopios</description>
+      <pubDate>Sun, 03 May 2026 19:37:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31583-oktopios-language</guid>
+      <dc:date>2026-05-03T19:37:00Z</dc:date>
+    </item>
+    <item>
+      <title>Serp MCP - Thu Apr 30 19:05:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30783-serp-mcp</link>
+      <description>Google Search with Google SERP via Model Context Protocol (MCP). This plugin helps you set up the MCP Google SERP server with JetBrains AI Assistant. Once configured...
+
+vendor: AceDataCloud
+downloads: 9
+pricingModel: FREE
+xmlId: com.acedatacloud.mcp.serp</description>
+      <pubDate>Thu, 30 Apr 2026 19:05:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30783-serp-mcp</guid>
+      <dc:date>2026-04-30T19:05:19Z</dc:date>
+    </item>
+    <item>
+      <title>latex.granaria - Thu Apr 30 17:08:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31550-latex-granaria</link>
+      <description>latex.granaria compiles the current .tex file with a local Tectonic executable from inside PyCharm and other IntelliJ-based IDEs. The plugin runs entirely locally. It...
+
+vendor: FRGranaria
+downloads: 1
+pricingModel: FREE
+xmlId: latex.granaria</description>
+      <pubDate>Thu, 30 Apr 2026 17:08:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31550-latex-granaria</guid>
+      <dc:date>2026-04-30T17:08:06Z</dc:date>
+    </item>
+    <item>
+      <title>Code Structure Visualizer - Thu Apr 30 16:11:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31549-code-structure-visualizer</link>
+      <description>Plugin intended for accessibility and code clarity. This plugin offers various toggles for visual enhancements aiming at making code segmentation clear, indicate...
+
+vendor: NetizenDev
+downloads: 1
+pricingModel: FREE
+xmlId: me.netizendev.codestructurevisualizer</description>
+      <pubDate>Thu, 30 Apr 2026 16:11:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31549-code-structure-visualizer</guid>
+      <dc:date>2026-04-30T16:11:21Z</dc:date>
+    </item>
+    <item>
       <title>GraphQL PHP Bridge - Thu Apr 30 12:39:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31529-graphql-php-bridge</link>
       <description>Connects your GraphQL schema and your PHP resolvers, so the IDE understands them as a single codebase. Navigation GraphQL → PHP: click any resolver string in a...
@@ -17,253 +264,6 @@ xmlId: com.inet-dev.graphql-php-bridge</description>
       <pubDate>Thu, 30 Apr 2026 12:39:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31529-graphql-php-bridge</guid>
       <dc:date>2026-04-30T12:39:48Z</dc:date>
-    </item>
-    <item>
-      <title>Scalar OpenAPI Preview - Thu Apr 30 15:32:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31547-scalar-openapi-preview</link>
-      <description>This plugin allows to use Scalar as OpenAPI specifications preview.
-
-vendor: Vincent MONOT
-downloads: 3
-pricingModel: FREE
-xmlId: dev.vmonot.scalar-openapi-preview</description>
-      <pubDate>Thu, 30 Apr 2026 15:32:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31547-scalar-openapi-preview</guid>
-      <dc:date>2026-04-30T15:32:06Z</dc:date>
-    </item>
-    <item>
-      <title>Webox - Web Box - Thu Apr 30 15:12:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31548-webox--web-box</link>
-      <description>Webox — Manage and browse web pages right inside your IDE, without switching to a browser. Sidebar panel to manage bookmarks (name, URL, description) with group...
-
-vendor: webox
-downloads: 4
-pricingModel: FREE
-xmlId: com.duanzs.webox</description>
-      <pubDate>Thu, 30 Apr 2026 15:12:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31548-webox--web-box</guid>
-      <dc:date>2026-04-30T15:12:13Z</dc:date>
-    </item>
-    <item>
-      <title>Svelte Hero - Sat May 02 01:56:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31546-svelte-hero</link>
-      <description>The plugin adds first-class support for Svelte single-file components to IntelliJ IDEA and other JetBrains IDEs with web-language support. Installation Once you...
-
-vendor: Language Heroes
-downloads: 2
-pricingModel: PAID
-xmlId: com.langheroes.svelte</description>
-      <pubDate>Sat, 02 May 2026 01:56:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31546-svelte-hero</guid>
-      <dc:date>2026-05-02T01:56:24Z</dc:date>
-    </item>
-    <item>
-      <title>SDF Account Status - Fri Apr 24 20:26:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31446-sdf-account-status</link>
-      <description>Overview Displays the active SuiteCloud SDF default account from project.json directly in the status bar. Auto-detects defaultAuthId (and legacy DefaultAuthID...
-
-vendor: Gonzalo Facello
-downloads: 2
-pricingModel: FREE
-xmlId: com.sdf.accountstatus</description>
-      <pubDate>Fri, 24 Apr 2026 20:26:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31446-sdf-account-status</guid>
-      <dc:date>2026-04-24T20:26:22Z</dc:date>
-    </item>
-    <item>
-      <title>GitOps Cockpit for Argo CD - Sun May 03 08:12:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30719-gitops-cockpit-for-argo-cd</link>
-      <description>Monitor, sync, and manage your Argo CD GitOps deployments without leaving your IDE. GitOps Cockpit brings the full power of Argo CD directly into IntelliJ IDEA. Free...
-
-vendor: Michael Latta Software
-downloads: 30
-pricingModel: FREEMIUM
-xmlId: de.ml.argocd.gitops-cockpit</description>
-      <pubDate>Sun, 03 May 2026 08:12:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30719-gitops-cockpit-for-argo-cd</guid>
-      <dc:date>2026-05-03T08:12:08Z</dc:date>
-    </item>
-    <item>
-      <title>Sout Boy - Sun May 03 03:46:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31533-sout-boy</link>
-      <description>SoutBoy is an IntelliJ IDEA plugin for Java developers who are tired of typing System.out.println by hand every single time they need to debug something. ☢️ SoutBoy...
-
-vendor: Pedro Ribeiro
-downloads: 13
-pricingModel: FREE
-xmlId: com.github.pedrorbeiro.soutboy</description>
-      <pubDate>Sun, 03 May 2026 03:46:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31533-sout-boy</guid>
-      <dc:date>2026-05-03T03:46:34Z</dc:date>
-    </item>
-    <item>
-      <title>Groovy Live Templates - Thu Apr 30 09:34:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31544-groovy-live-templates</link>
-      <description>Adds support for Groovy in IDE live templates.
-
-vendor: JetBrains s.r.o.
-downloads: 3
-pricingModel: FREE
-xmlId: org.intellij.groovy.live.templates</description>
-      <pubDate>Thu, 30 Apr 2026 09:34:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31544-groovy-live-templates</guid>
-      <dc:date>2026-04-30T09:34:52Z</dc:date>
-    </item>
-    <item>
-      <title>Build Sound Notifier - Thu Apr 30 09:05:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31543-build-sound-notifier</link>
-      <description>Plays a custom sound and flashes an image overlay on build success or failure. Separate sound (WAV or MP3) and image (PNG / JPG / GIF / BMP) for success and failure...
-
-vendor: Squaredem
-downloads: 7
-pricingModel: FREE
-xmlId: com.squaredem.buildsoundnotifier</description>
-      <pubDate>Thu, 30 Apr 2026 09:05:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31543-build-sound-notifier</guid>
-      <dc:date>2026-04-30T09:05:45Z</dc:date>
-    </item>
-    <item>
-      <title>Codex Assistant - Thu Apr 30 07:13:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31541-codex-assistant</link>
-      <description>Run Codex CLI from inside JetBrains IDE via the built-in terminal. How to Open Shortcut: Press Ctrl+Shift+X or option+command+X to open the terminal in your current...
-
-vendor: krong
-downloads: 116
-pricingModel: FREE
-xmlId: com.codex.assistant</description>
-      <pubDate>Thu, 30 Apr 2026 07:13:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31541-codex-assistant</guid>
-      <dc:date>2026-04-30T07:13:11Z</dc:date>
-    </item>
-    <item>
-      <title>Nginx Lens - Thu Apr 30 06:53:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31537-nginx-lens</link>
-      <description>Nginx Lens adds focused editor support for Nginx configuration files in JetBrains IDEs. It provides syntax highlighting, inspections for common configuration mistakes...
-
-vendor: CarlRenny
-downloads: 139
-pricingModel: FREE
-xmlId: com.agomuseum.nginxlens</description>
-      <pubDate>Thu, 30 Apr 2026 06:53:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31537-nginx-lens</guid>
-      <dc:date>2026-04-30T06:53:52Z</dc:date>
-    </item>
-    <item>
-      <title>CPH Target Runner - Sun May 03 16:03:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</link>
-      <description>A CLion sidebar helper for competitive-programming samples. Manage sample cases per CMake target, run them quickly, compare outputs, and inspect mismatched lines.
-
-vendor: kkkzbh
-downloads: 39
-pricingModel: FREE
-xmlId: org.kkkzbh.cph</description>
-      <pubDate>Sun, 03 May 2026 16:03:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31535-cph-target-runner</guid>
-      <dc:date>2026-05-03T16:03:37Z</dc:date>
-    </item>
-    <item>
-      <title>velk - Fri May 01 06:51:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31534-velk</link>
-      <description>Open the velk terminal AI harness in a JetBrains terminal panel. Tools → velk: Open REPL (or Ctrl/Cmd-Shift-A → "velk") spawns a terminal running the velk binary in...
-
-vendor: Vincent Vella
-downloads: 41
-pricingModel: FREE
-xmlId: com.vincentvella.velk</description>
-      <pubDate>Fri, 01 May 2026 06:51:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31534-velk</guid>
-      <dc:date>2026-05-01T06:51:24Z</dc:date>
-    </item>
-    <item>
-      <title>OpenClaw - Wed Apr 29 20:58:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31531-openclaw</link>
-      <description>OpenClaw adds a status bar launcher for the OpenClaw CLI inside JetBrains IDEs. Features OpenClaw menu from the status bar or Tools → OpenClaw: Show Menu Run...
-
-vendor: gguf
-downloads: 42
-pricingModel: FREE
-xmlId: com.github.gguf.openclaw</description>
-      <pubDate>Wed, 29 Apr 2026 20:58:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31531-openclaw</guid>
-      <dc:date>2026-04-29T20:58:48Z</dc:date>
-    </item>
-    <item>
-      <title>Inline Unified Diff - Sun May 03 20:24:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31530-inline-unified-diff</link>
-      <description>Inline Unified Diff shows your uncommitted Git changes directly inside the editor — the same way a unified diff looks in a terminal — without switching to a separate...
-
-vendor: Clement Sehan
-downloads: 19
-pricingModel: FREE
-xmlId: com.github.clementsehan.inlineunifieddiffjetbrains</description>
-      <pubDate>Sun, 03 May 2026 20:24:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31530-inline-unified-diff</guid>
-      <dc:date>2026-05-03T20:24:45Z</dc:date>
-    </item>
-    <item>
-      <title>LuaAttachDebug - Wed Apr 29 14:10:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31528-luaattachdebug</link>
-      <description>Attach or launch Windows Lua processes with the Lua native debugger hook. Requires the EmmyLua plugin.
-
-vendor: kibernet
-downloads: 3
-pricingModel: FREE
-xmlId: com.kibernet.LuaAttachDebug</description>
-      <pubDate>Wed, 29 Apr 2026 14:10:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31528-luaattachdebug</guid>
-      <dc:date>2026-04-29T14:10:35Z</dc:date>
-    </item>
-    <item>
-      <title>LuaUnity - Wed Apr 29 11:48:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31524-luaunity</link>
-      <description>Receive Unity type metadata and generate Lua annotation files for IntelliJ-based IDEs. Configure the local type server under Settings | Tools | LuaUnity.
-
-vendor: kibernet
-downloads: 7
-pricingModel: FREE
-xmlId: com.kibernet.luaunity</description>
-      <pubDate>Wed, 29 Apr 2026 11:48:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31524-luaunity</guid>
-      <dc:date>2026-04-29T11:48:09Z</dc:date>
-    </item>
-    <item>
-      <title>Viritin Color - Wed Apr 29 14:11:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31526-viritin-color</link>
-      <description>Color swatches and a color picker for the Viritin Color Java library (in.virit:color). Shows a color swatch in the editor gutter next to RgbColor, HexColor, HslColor...
-
-vendor: Matti Tahvonen
-downloads: 7
-pricingModel: FREE
-xmlId: in.virit.color</description>
-      <pubDate>Wed, 29 Apr 2026 14:11:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31526-viritin-color</guid>
-      <dc:date>2026-04-29T14:11:58Z</dc:date>
-    </item>
-    <item>
-      <title>LuaCodeStyle - Wed Apr 29 14:25:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31522-luacodestyle</link>
-      <description>LuaCodeStyle plugin for Intellij. fun, fast and powerful multi editor support include vscode, intellij, neovim only support configure by .editorconfig for document see...
-
-vendor: kibernet
-downloads: 4
-pricingModel: FREE
-xmlId: com.kibernet.EmmyLuaCodeStyle</description>
-      <pubDate>Wed, 29 Apr 2026 14:25:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31522-luacodestyle</guid>
-      <dc:date>2026-04-29T14:25:04Z</dc:date>
-    </item>
-    <item>
-      <title>Extract Hardcoded Strings Only - Wed Apr 29 11:37:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</link>
-      <description>Smartly extract hardcoded strings into strings.xml with a rich preview to edit keys, values, and control extraction before applying.
-
-vendor: codemagic
-downloads: 13
-pricingModel: FREE
-xmlId: com.extractstrings.extract-hardcoded-strings-only</description>
-      <pubDate>Wed, 29 Apr 2026 11:37:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31523-extract-hardcoded-strings-only</guid>
-      <dc:date>2026-04-29T11:37:45Z</dc:date>
     </item>
   </channel>
 </rss>
