@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Xonsh - Mon May 04 20:05:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31595-xonsh</link>
+      <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
+
+vendor: Johan Grande
+downloads: 0
+pricingModel: FREE
+xmlId: eu.nahoj.xonsh.jetbrains</description>
+      <pubDate>Mon, 04 May 2026 20:05:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31595-xonsh</guid>
+      <dc:date>2026-05-04T20:05:50Z</dc:date>
+    </item>
+    <item>
+      <title>GaussDB JDBC Driver - Mon May 04 19:54:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31593-gaussdb-jdbc-driver</link>
+      <description>Bundles and automatically installs the GaussDB JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GaussDB is a distributed relational database...
+
+vendor: Vasilii Chernov
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
+      <pubDate>Mon, 04 May 2026 19:54:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31593-gaussdb-jdbc-driver</guid>
+      <dc:date>2026-05-04T19:54:33Z</dc:date>
+    </item>
+    <item>
+      <title>Jira Companion - Mon May 04 20:56:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31555-jira-companion</link>
+      <description>Keep Jira Cloud next to your code: look up issues, read descriptions and comments, and run searches from a tool window—without living in the browser. Issue detail...
+
+vendor: E. Lopez
+downloads: 1
+pricingModel: FREE
+xmlId: com.elopez.jiraplugin</description>
+      <pubDate>Mon, 04 May 2026 20:56:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31555-jira-companion</guid>
+      <dc:date>2026-05-04T20:56:09Z</dc:date>
+    </item>
+    <item>
+      <title>erdMaid - Mermaid ERD Export for Database Tables - Sat May 02 18:32:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31576-erdmaid--mermaid-erd-export-for-database-tables</link>
+      <description>erdMaid is a Mermaid ERD export plugin for the IntelliJ Database tool window. It is designed for developers who want a fast, accurate way to turn selected database...
+
+vendor: algorist
+downloads: 1
+pricingModel: FREE
+xmlId: com.algorist.erdmaid</description>
+      <pubDate>Sat, 02 May 2026 18:32:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31576-erdmaid--mermaid-erd-export-for-database-tables</guid>
+      <dc:date>2026-05-02T18:32:54Z</dc:date>
+    </item>
+    <item>
+      <title>Capybara AI Coding Assistant - Fri May 01 19:38:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant</link>
+      <description>Capybara AI Coding Assistant An AI-powered coding assistant for IntelliJ IDEA built on OpenCode — free model integration, highly customizable, rapid development...
+
+vendor: CapybaraAICodingAssistant
+downloads: 2
+pricingModel: FREE
+xmlId: com.aicoding.ai-coding-plugin</description>
+      <pubDate>Fri, 01 May 2026 19:38:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant</guid>
+      <dc:date>2026-05-01T19:38:39Z</dc:date>
+    </item>
+    <item>
       <title>FontViewer - Fri May 01 16:37:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31561-fontviewer</link>
       <description>Preview font files (TTF, OTF, WOFF, WOFF2) directly inside the IDE. Custom text preview at multiple sizes with live glyph set Browse the Private Use Area...
@@ -199,71 +264,6 @@ xmlId: cn.mihono.pickaid.template.assistant</description>
       <pubDate>Fri, 01 May 2026 10:27:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31558-pickaid-template-assistant</guid>
       <dc:date>2026-05-01T10:27:55Z</dc:date>
-    </item>
-    <item>
-      <title>Oktopios Language - Sun May 03 19:37:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31583-oktopios-language</link>
-      <description>Oktopios Language adds support for Oktopios source files in JetBrains IDEs. The plugin recognizes .okp files and provides a cleaner editing experience for Oktopios...
-
-vendor: Oktopios
-downloads: 0
-pricingModel: FREE
-xmlId: dev.oktopios</description>
-      <pubDate>Sun, 03 May 2026 19:37:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31583-oktopios-language</guid>
-      <dc:date>2026-05-03T19:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>Serp MCP - Thu Apr 30 19:05:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30783-serp-mcp</link>
-      <description>Google Search with Google SERP via Model Context Protocol (MCP). This plugin helps you set up the MCP Google SERP server with JetBrains AI Assistant. Once configured...
-
-vendor: AceDataCloud
-downloads: 9
-pricingModel: FREE
-xmlId: com.acedatacloud.mcp.serp</description>
-      <pubDate>Thu, 30 Apr 2026 19:05:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30783-serp-mcp</guid>
-      <dc:date>2026-04-30T19:05:19Z</dc:date>
-    </item>
-    <item>
-      <title>latex.granaria - Thu Apr 30 17:08:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31550-latex-granaria</link>
-      <description>latex.granaria compiles the current .tex file with a local Tectonic executable from inside PyCharm and other IntelliJ-based IDEs. The plugin runs entirely locally. It...
-
-vendor: FRGranaria
-downloads: 1
-pricingModel: FREE
-xmlId: latex.granaria</description>
-      <pubDate>Thu, 30 Apr 2026 17:08:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31550-latex-granaria</guid>
-      <dc:date>2026-04-30T17:08:06Z</dc:date>
-    </item>
-    <item>
-      <title>Code Structure Visualizer - Thu Apr 30 16:11:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31549-code-structure-visualizer</link>
-      <description>Plugin intended for accessibility and code clarity. This plugin offers various toggles for visual enhancements aiming at making code segmentation clear, indicate...
-
-vendor: NetizenDev
-downloads: 1
-pricingModel: FREE
-xmlId: me.netizendev.codestructurevisualizer</description>
-      <pubDate>Thu, 30 Apr 2026 16:11:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31549-code-structure-visualizer</guid>
-      <dc:date>2026-04-30T16:11:21Z</dc:date>
-    </item>
-    <item>
-      <title>GraphQL PHP Bridge - Thu Apr 30 12:39:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31529-graphql-php-bridge</link>
-      <description>Connects your GraphQL schema and your PHP resolvers, so the IDE understands them as a single codebase. Navigation GraphQL → PHP: click any resolver string in a...
-
-vendor: iNET
-downloads: 4
-pricingModel: PAID
-xmlId: com.inet-dev.graphql-php-bridge</description>
-      <pubDate>Thu, 30 Apr 2026 12:39:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31529-graphql-php-bridge</guid>
-      <dc:date>2026-04-30T12:39:48Z</dc:date>
     </item>
   </channel>
 </rss>
