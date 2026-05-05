@@ -11,7 +11,7 @@
       <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
 
 vendor: Johan Grande
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: eu.nahoj.xonsh.jetbrains</description>
       <pubDate>Mon, 04 May 2026 20:05:50 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: eu.nahoj.xonsh.jetbrains</description>
       <description>Bundles and automatically installs the GaussDB JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GaussDB is a distributed relational database...
 
 vendor: Vasilii Chernov
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
       <pubDate>Mon, 04 May 2026 19:54:33 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
       <description>Keep Jira Cloud next to your code: look up issues, read descriptions and comments, and run searches from a tool window—without living in the browser. Issue detail...
 
 vendor: E. Lopez
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: com.elopez.jiraplugin</description>
       <pubDate>Mon, 04 May 2026 20:56:09 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.algorist.erdmaid</description>
       <description>Capybara AI Coding Assistant An AI-powered coding assistant for IntelliJ IDEA built on OpenCode — free model integration, highly customizable, rapid development...
 
 vendor: CapybaraAICodingAssistant
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.aicoding.ai-coding-plugin</description>
       <pubDate>Fri, 01 May 2026 19:38:39 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.ailoc2.probe</description>
       <description>Monitor and act on GitHub Actions for your project's repo without leaving the IDE. Authenticate via PAT or your IDE-configured GitHub account. Supports github.com and...
 
 vendor: Marcelo Trevisani
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: gh_actions_monitor.marcelotrevisani</description>
       <pubDate>Fri, 01 May 2026 08:07:04 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: net.flowstom.jetbrains_plugin</description>
       <description>Language support for MetaScript — TypeScript-style syntax with compile-time macros, match expressions, Result&amp;lt;T,E&amp;gt; types, and multiple backends (C, JavaScript...
 
 vendor: Le Cloud
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: org.metascript</description>
       <pubDate>Sun, 03 May 2026 22:32:32 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.nhayfield.claude-file-opener</description>
       <description>Visualises your GitHub Copilot token usage and AI engineering fluency directly inside any JetBrains IDE. Uses the same analytics and visualisations as the VS Code...
 
 vendor: Rob Bos
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.rajbos.ai-engineering-fluency</description>
       <pubDate>Sun, 03 May 2026 13:35:23 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.aroussi.whisper</description>
       <description>Lua language server for World of Warcraft addon development, powered by wowlua_ls. Features 9,000+ WoW API stubs with hover documentation (retail, classic...
 
 vendor: TradeSkillMaster
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.tradeskillmaster.wowlua-ls</description>
       <pubDate>Mon, 04 May 2026 15:26:21 GMT</pubDate>
@@ -201,7 +201,7 @@ xmlId: com.editorpeerbridge.bridge</description>
       <dc:date>2026-05-01T04:52:09Z</dc:date>
     </item>
     <item>
-      <title>Android Build Booster - Mon May 04 11:59:08 UTC 2026</title>
+      <title>Android Build Booster - Tue May 05 07:29:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31588-android-build-booster</link>
       <description>Android Build Booster helps you find and fix Android build bottlenecks directly inside IntelliJ IDEA. Health Analyzer: Detects missing gradle.properties optimizations...
 
@@ -209,9 +209,9 @@ vendor: Shubham Singh
 downloads: 0
 pricingModel: FREE
 xmlId: com.shubham0707.androidbuildbooster</description>
-      <pubDate>Mon, 04 May 2026 11:59:08 GMT</pubDate>
+      <pubDate>Tue, 05 May 2026 07:29:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31588-android-build-booster</guid>
-      <dc:date>2026-05-04T11:59:08Z</dc:date>
+      <dc:date>2026-05-05T07:29:03Z</dc:date>
     </item>
     <item>
       <title>SpringForge Tools - Sat May 02 12:58:41 UTC 2026</title>
@@ -232,7 +232,7 @@ xmlId: org.springforge</description>
       <description>Bundles and automatically installs the GBase 8s JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GBase 8s is a relational database management system...
 
 vendor: Vasilii Chernov
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.tjlee.gbasejdbcdriver</description>
       <pubDate>Mon, 04 May 2026 17:57:11 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.meanmail.plugin.docker</description>
       <description>Editor assistance for PickAID Minecraft template project.toml files. Provides schema-aware completion, inspections, and focused quick fixes.
 
 vendor: PickAID Modding Template
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: cn.mihono.pickaid.template.assistant</description>
       <pubDate>Fri, 01 May 2026 10:27:55 GMT</pubDate>
