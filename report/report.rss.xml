@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Inkscape -- 1.4.4</title>
+      <link>https://inkscape.org</link>
+      <description>Inkscape -- 1.4.4 -- Wed May 06 17:21:57 UTC 2026</description>
+      <category>SVG editor</category>
+      <category>Inkscape</category>
+      <pubDate>Wed, 06 May 2026 17:21:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-06T17:21:57Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 windows --  3.14.4</title>
       <link>https://www.python.org/downloads/windows/</link>
       <description>Python 3 windows --  3.14.4 -- Mon May 04 17:21:34 UTC 2026</description>
@@ -283,16 +293,6 @@
       <pubDate>Thu, 08 Jan 2026 12:25:35 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-01-08T12:25:35Z</dc:date>
-    </item>
-    <item>
-      <title>Inkscape -- 1.4.3</title>
-      <link>https://inkscape.org</link>
-      <description>Inkscape -- 1.4.3 -- Fri Dec 26 16:14:14 UTC 2025</description>
-      <category>SVG editor</category>
-      <category>Inkscape</category>
-      <pubDate>Fri, 26 Dec 2025 16:14:14 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-12-26T16:14:14Z</dc:date>
     </item>
     <item>
       <title>7+ Taskbar Tweaker -- v5.15.4 (December 24, 2025)</title>
