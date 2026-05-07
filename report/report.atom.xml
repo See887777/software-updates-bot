@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.6.8 to 19.7.0 ~ 2026-05-07</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-07T17:32:54Z</modified>
+    <issued>2026-05-07T17:32:54Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.6.8 to 19.7.0 ~ 2026-05-07 -- Thu May 07 17:32:54 UTC 2026</summary>
+    <dc:date>2026-05-07T17:32:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Inkscape -- 1.4.4</title>
     <link rel="alternate" href="https://inkscape.org" />
     <author>
@@ -198,18 +210,6 @@
     <issued>2026-04-22T16:49:27Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.19+10 -- Wed Apr 22 16:49:27 UTC 2026</summary>
     <dc:date>2026-04-22T16:49:27Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.6.6 to 19.6.8 ~ 2026-04-20</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-04-20T20:36:24Z</modified>
-    <issued>2026-04-20T20:36:24Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.6.6 to 19.6.8 ~ 2026-04-20 -- Mon Apr 20 20:36:24 UTC 2026</summary>
-    <dc:date>2026-04-20T20:36:24Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.14.4</title>
