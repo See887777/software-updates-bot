@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.14.5</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-10T12:53:25Z</modified>
+    <issued>2026-05-10T12:53:25Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.5 -- Sun May 10 12:53:25 UTC 2026</summary>
+    <dc:date>2026-05-10T12:53:25Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.6.8 to 19.7.0 ~ 2026-05-07</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -54,18 +66,6 @@
     <issued>2026-05-06T17:21:57Z</issued>
     <summary type="text/plain" mode="escaped">Inkscape -- 1.4.4 -- Wed May 06 17:21:57 UTC 2026</summary>
     <dc:date>2026-05-06T17:21:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.14.4</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-04T17:21:34Z</modified>
-    <issued>2026-05-04T17:21:34Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.4 -- Mon May 04 17:21:34 UTC 2026</summary>
-    <dc:date>2026-05-04T17:21:34Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u492-b09</title>
