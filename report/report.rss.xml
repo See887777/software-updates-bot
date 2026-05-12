@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.5.1</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.5.1 -- Tue May 12 17:52:36 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Tue, 12 May 2026 17:52:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-12T17:52:36Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u492-b09</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 windows x64 -- jdk8u492-b09 -- Tue May 12 13:51:39 UTC 2026</description>
@@ -184,16 +194,6 @@
       <pubDate>Tue, 28 Apr 2026 21:01:08 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-04-28T21:01:08Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.5.0</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.5.0 -- Tue Apr 28 17:29:37 UTC 2026</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Tue, 28 Apr 2026 17:29:37 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-04-28T17:29:37Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.31+11</title>
