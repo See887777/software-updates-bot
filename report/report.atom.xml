@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 windows x64 -- jdk8u492-b09</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-12T13:51:39Z</modified>
+    <issued>2026-05-12T13:51:39Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u492-b09 -- Tue May 12 13:51:39 UTC 2026</summary>
+    <dc:date>2026-05-12T13:51:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 mac --  3.14.5</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-12T13:51:22Z</modified>
+    <issued>2026-05-12T13:51:22Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.5 -- Tue May 12 13:51:22 UTC 2026</summary>
+    <dc:date>2026-05-12T13:51:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 340 - Episode on l'voit on l'voit pas</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-12T13:51:15Z</modified>
+    <issued>2026-05-12T13:51:15Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 340 - Episode on l'voit on l'voit pas -- Tue May 12 13:51:15 UTC 2026</summary>
+    <dc:date>2026-05-12T13:51:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 source --  3.14.5</title>
     <link rel="alternate" href="https://www.python.org/downloads/source/" />
     <author>
@@ -128,18 +164,6 @@
     <dc:date>2026-05-04T13:20:25Z</dc:date>
   </entry>
   <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-04-29T17:17:01Z</modified>
-    <issued>2026-04-29T17:17:01Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs -- Wed Apr 29 17:17:01 UTC 2026</summary>
-    <dc:date>2026-04-29T17:17:01Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk11 windows x64 -- jdk-11.0.31+11</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -224,18 +248,6 @@
     <dc:date>2026-04-22T16:49:27Z</dc:date>
   </entry>
   <entry>
-    <title>Python 3 mac --  3.14.4</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-04-15T16:53:00Z</modified>
-    <issued>2026-04-15T16:53:00Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.4 -- Wed Apr 15 16:53:00 UTC 2026</summary>
-    <dc:date>2026-04-15T16:53:00Z</dc:date>
-  </entry>
-  <entry>
     <title>GPG4Win -- 5.0.2 (2026-03-16)</title>
     <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
     <author>
@@ -270,18 +282,6 @@
     <issued>2026-02-05T16:34:54Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.25 -- Thu Feb 05 16:34:54 UTC 2026</summary>
     <dc:date>2026-02-05T16:34:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 windows x64 -- jdk8u482-b08</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-02-05T01:07:14Z</modified>
-    <issued>2026-02-05T01:07:14Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u482-b08 -- Thu Feb 05 01:07:14 UTC 2026</summary>
-    <dc:date>2026-02-05T01:07:14Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.23</title>

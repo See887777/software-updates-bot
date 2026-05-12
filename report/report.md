@@ -18,7 +18,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Fri Jan 20 16:09:32 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 13:20:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 17:21:23 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Feb 05 01:07:14 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue May 12 13:51:39 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:53:23 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|9.5.0|[gradle.org](https://gradle.org/releases/)|Tue Apr 28 17:29:37 UTC 2026|
@@ -28,7 +28,7 @@
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.8 to 19.7.0 ~ 2026-05-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 07 17:32:54 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Apr 29 17:17:01 UTC 2026|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 340 - Episode on l'voit on l'voit pas|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 12 13:51:15 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
@@ -54,7 +54,7 @@
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 15 16:53:00 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue May 12 13:51:22 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.5|[www.python.org](https://www.python.org/downloads/source/)|Tue May 12 10:23:34 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.5|[www.python.org](https://www.python.org/downloads/windows/)|Sun May 10 12:53:25 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 23 17:09:19 UTC 2026|
