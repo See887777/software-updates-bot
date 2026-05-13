@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Visual C++ Redistributable Runtimes All-in-One -- May 2026</title>
+      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
+      <description>Visual C++ Redistributable Runtimes All-in-One -- May 2026 -- Wed May 13 10:13:00 UTC 2026</description>
+      <category>Redistributable Runtimes</category>
+      <category>MS Windows</category>
+      <pubDate>Wed, 13 May 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-13T10:13:00Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 9.5.1</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 9.5.1 -- Tue May 12 17:52:36 UTC 2026</description>
@@ -302,16 +312,6 @@
       <pubDate>Thu, 25 Dec 2025 00:55:14 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2025-12-25T00:55:14Z</dc:date>
-    </item>
-    <item>
-      <title>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025</title>
-      <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
-      <description>Visual C++ Redistributable Runtimes All-in-One -- Dec 2025 -- Thu Dec 04 12:23:51 UTC 2025</description>
-      <category>Redistributable Runtimes</category>
-      <category>MS Windows</category>
-      <pubDate>Thu, 04 Dec 2025 12:23:51 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2025-12-04T12:23:51Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 13 -- 13.23</title>

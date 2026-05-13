@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed May 13 10:13:00 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.5.1|[gradle.org](https://gradle.org/releases/)|Tue May 12 17:52:36 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue May 12 13:51:39 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue May 12 13:51:22 UTC 2026|
@@ -23,7 +24,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 05 16:34:54 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:25:35 UTC 2026|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:55:14 UTC 2025|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2025|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Dec 04 12:23:51 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:14:53 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:14:48 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.24 (Friday May 30th, 2025)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 08:30:22 UTC 2025|
