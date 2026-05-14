@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 14 -- 14.23</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.23 -- Thu May 14 13:28:26 UTC 2026</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 14 May 2026 13:28:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-14T13:28:26Z</dc:date>
+    </item>
+    <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- May 2026</title>
       <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
       <description>Visual C++ Redistributable Runtimes All-in-One -- May 2026 -- Wed May 13 10:13:00 UTC 2026</description>
@@ -273,16 +283,6 @@
       <pubDate>Mon, 16 Mar 2026 16:53:23 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-03-16T16:53:23Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.22</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.22 -- Thu Feb 26 16:45:34 UTC 2026</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 26 Feb 2026 16:45:34 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-02-26T16:45:34Z</dc:date>
     </item>
     <item>
       <title>MariaDB 10.6 -- 10.6.25</title>
@@ -547,9 +547,9 @@
       <dc:date>2022-08-26T23:00:11Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -559,9 +559,9 @@
       <dc:date>2022-08-26T17:00:12Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1</title>
+      <title>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk18&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk18 windows x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
+      <description>Adoptium jdk18 mac x64 -- jdk-18.0.2.1+1 -- Fri Aug 26 17:00:12 UTC 2022</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
