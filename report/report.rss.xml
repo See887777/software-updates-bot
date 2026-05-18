@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>MariaDB 10.6 -- 10.6.26</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.6 -- 10.6.26 -- Mon May 18 17:54:31 UTC 2026</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Mon, 18 May 2026 17:54:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-05-18T17:54:31Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 14 -- 14.23</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 14 -- 14.23 -- Thu May 14 13:28:26 UTC 2026</description>
@@ -283,16 +293,6 @@
       <pubDate>Mon, 16 Mar 2026 16:53:23 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-03-16T16:53:23Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.6 -- 10.6.25</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.6 -- 10.6.25 -- Thu Feb 05 16:34:54 UTC 2026</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Thu, 05 Feb 2026 16:34:54 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-02-05T16:34:54Z</dc:date>
     </item>
     <item>
       <title>VLC -- 3.0.23</title>

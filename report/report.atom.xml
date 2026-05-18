@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>MariaDB 10.6 -- 10.6.26</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-05-18T17:54:31Z</modified>
+    <issued>2026-05-18T17:54:31Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.26 -- Mon May 18 17:54:31 UTC 2026</summary>
+    <dc:date>2026-05-18T17:54:31Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 14 -- 14.23</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -282,18 +294,6 @@
     <issued>2026-03-16T16:53:23Z</issued>
     <summary type="text/plain" mode="escaped">GPG4Win -- 5.0.2 (2026-03-16) -- Mon Mar 16 16:53:23 UTC 2026</summary>
     <dc:date>2026-03-16T16:53:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.6 -- 10.6.25</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-02-05T16:34:54Z</modified>
-    <issued>2026-02-05T16:34:54Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.25 -- Thu Feb 05 16:34:54 UTC 2026</summary>
-    <dc:date>2026-02-05T16:34:54Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.23</title>
