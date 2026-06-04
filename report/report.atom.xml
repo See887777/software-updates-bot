@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.7.0 to 19.7.5 ~ 2026-06-04</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-06-04T18:08:17Z</modified>
+    <issued>2026-06-04T18:08:17Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.7.0 to 19.7.5 ~ 2026-06-04 -- Thu Jun 04 18:08:17 UTC 2026</summary>
+    <dc:date>2026-06-04T18:08:17Z</dc:date>
+  </entry>
+  <entry>
     <title>MariaDB 10.6 -- 10.6.27</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
@@ -138,18 +150,6 @@
     <issued>2026-05-10T12:53:25Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.5 -- Sun May 10 12:53:25 UTC 2026</summary>
     <dc:date>2026-05-10T12:53:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.6.8 to 19.7.0 ~ 2026-05-07</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-07T17:32:54Z</modified>
-    <issued>2026-05-07T17:32:54Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.6.8 to 19.7.0 ~ 2026-05-07 -- Thu May 07 17:32:54 UTC 2026</summary>
-    <dc:date>2026-05-07T17:32:54Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.4.4</title>
