@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2026</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-06-10T08:01:09Z</modified>
+    <issued>2026-06-10T08:01:09Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Jun 2026 -- Wed Jun 10 08:01:09 UTC 2026</summary>
+    <dc:date>2026-06-10T08:01:09Z</dc:date>
+  </entry>
+  <entry>
     <title>K-Lite Codec Pack Basic -- 19.7.0 to 19.7.5 ~ 2026-06-04</title>
     <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
     <author>
@@ -66,18 +78,6 @@
     <issued>2026-05-14T13:28:26Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 14 -- 14.23 -- Thu May 14 13:28:26 UTC 2026</summary>
     <dc:date>2026-05-14T13:28:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- May 2026</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-13T10:13:00Z</modified>
-    <issued>2026-05-13T10:13:00Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- May 2026 -- Wed May 13 10:13:00 UTC 2026</summary>
-    <dc:date>2026-05-13T10:13:00Z</dc:date>
   </entry>
   <entry>
     <title>Gradle -- 9.5.1</title>
