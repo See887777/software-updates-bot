@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 source --  3.14.6</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-06-10T18:25:48Z</modified>
+    <issued>2026-06-10T18:25:48Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.14.6 -- Wed Jun 10 18:25:48 UTC 2026</summary>
+    <dc:date>2026-06-10T18:25:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 mac --  3.14.6</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-06-10T18:24:30Z</modified>
+    <issued>2026-06-10T18:24:30Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.6 -- Wed Jun 10 18:24:30 UTC 2026</summary>
+    <dc:date>2026-06-10T18:24:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2026</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -104,18 +128,6 @@
     <dc:date>2026-05-12T13:51:39Z</dc:date>
   </entry>
   <entry>
-    <title>Python 3 mac --  3.14.5</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-12T13:51:22Z</modified>
-    <issued>2026-05-12T13:51:22Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.5 -- Tue May 12 13:51:22 UTC 2026</summary>
-    <dc:date>2026-05-12T13:51:22Z</dc:date>
-  </entry>
-  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 340 - Episode on l'voit on l'voit pas</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2026-05-12T13:51:15Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 340 - Episode on l'voit on l'voit pas -- Tue May 12 13:51:15 UTC 2026</summary>
     <dc:date>2026-05-12T13:51:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 source --  3.14.5</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-12T10:23:34Z</modified>
-    <issued>2026-05-12T10:23:34Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.14.5 -- Tue May 12 10:23:34 UTC 2026</summary>
-    <dc:date>2026-05-12T10:23:34Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 windows --  3.14.5</title>

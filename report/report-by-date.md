@@ -1,14 +1,14 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 source| 3.14.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 10 18:25:48 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 10 18:24:30 UTC 2026|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Jun 10 08:01:09 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.7.0 to 19.7.5 ~ 2026-06-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 04 18:08:17 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 28 07:46:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 13:28:26 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.5.1|[gradle.org](https://gradle.org/releases/)|Tue May 12 17:52:36 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue May 12 13:51:39 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue May 12 13:51:22 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 340 - Episode on l'voit on l'voit pas|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 12 13:51:15 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 source| 3.14.5|[www.python.org](https://www.python.org/downloads/source/)|Tue May 12 10:23:34 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.5|[www.python.org](https://www.python.org/downloads/windows/)|Sun May 10 12:53:25 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 17:21:23 UTC 2026|
