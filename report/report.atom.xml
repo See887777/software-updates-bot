@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
+    <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-06-12T08:15:49Z</modified>
+    <issued>2026-06-12T08:15:49Z</issued>
+    <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026) -- Fri Jun 12 08:15:49 UTC 2026</summary>
+    <dc:date>2026-06-12T08:15:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Spring Boot -- 4.1.0.RELEASE</title>
     <link rel="alternate" href="https://start.spring.io" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2025-11-13T16:14:48Z</issued>
     <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-5 -- Thu Nov 13 16:14:48 UTC 2025</summary>
     <dc:date>2025-11-13T16:14:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025)</title>
-    <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-05-31T08:30:22Z</modified>
-    <issued>2025-05-31T08:30:22Z</issued>
-    <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.24 (Friday May 30th, 2025) -- Sat May 31 08:30:22 UTC 2025</summary>
-    <dc:date>2025-05-31T08:30:22Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.5 -- 10.5.29</title>
