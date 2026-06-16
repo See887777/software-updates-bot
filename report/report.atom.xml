@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.7.5 to 19.8.0 ~ 2026-06-16</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-06-16T22:05:28Z</modified>
+    <issued>2026-06-16T22:05:28Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.7.5 to 19.8.0 ~ 2026-06-16 -- Tue Jun 16 22:05:28 UTC 2026</summary>
+    <dc:date>2026-06-16T22:05:28Z</dc:date>
+  </entry>
+  <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
     <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
     <author>
@@ -90,18 +102,6 @@
     <issued>2026-06-10T08:01:09Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Jun 2026 -- Wed Jun 10 08:01:09 UTC 2026</summary>
     <dc:date>2026-06-10T08:01:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.7.0 to 19.7.5 ~ 2026-06-04</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-06-04T18:08:17Z</modified>
-    <issued>2026-06-04T18:08:17Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.7.0 to 19.7.5 ~ 2026-06-04 -- Thu Jun 04 18:08:17 UTC 2026</summary>
-    <dc:date>2026-06-04T18:08:17Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.6 -- 10.6.27</title>
