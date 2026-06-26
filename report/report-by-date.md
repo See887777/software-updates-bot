@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases/)|Fri Jun 26 21:12:44 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 341 - Endives ou Chicorée ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 22 09:38:06 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.6.0|[gradle.org](https://gradle.org/releases/)|Fri Jun 19 02:51:59 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.0 to 19.8.2 ~ 2026-06-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 18 14:44:14 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 02:34:59 UTC 2026|
