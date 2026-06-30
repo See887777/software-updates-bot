@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Intel Bluetooth Drivers -- 24.50.0</title>
+      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
+      <description>Intel Bluetooth Drivers -- 24.50.0 -- Tue Jun 30 21:22:43 UTC 2026</description>
+      <category>Drivers</category>
+      <category>MS Windows</category>
+      <pubDate>Tue, 30 Jun 2026 21:22:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-06-30T21:22:43Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 9.6.1</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 9.6.1 -- Fri Jun 26 21:12:44 UTC 2026</description>
@@ -222,16 +232,6 @@
       <pubDate>Mon, 04 May 2026 13:20:26 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-05-04T13:20:26Z</dc:date>
-    </item>
-    <item>
-      <title>Intel Bluetooth Drivers -- 24.40.0</title>
-      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
-      <description>Intel Bluetooth Drivers -- 24.40.0 -- Mon May 04 13:20:25 UTC 2026</description>
-      <category>Drivers</category>
-      <category>MS Windows</category>
-      <pubDate>Mon, 04 May 2026 13:20:25 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-05-04T13:20:25Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 windows x64 -- jdk-11.0.31+11</title>

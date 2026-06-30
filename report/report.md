@@ -23,7 +23,7 @@
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases/)|Fri Jun 26 21:12:44 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.40.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon May 04 13:20:25 UTC 2026|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.50.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Jun 30 21:22:43 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|

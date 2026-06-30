@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.50.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Jun 30 21:22:43 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases/)|Fri Jun 26 21:12:44 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 341 - Endives ou Chicorée ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 22 09:38:06 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.0 to 19.8.2 ~ 2026-06-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 18 14:44:14 UTC 2026|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 17:21:23 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon May 04 13:20:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 13:20:26 UTC 2026|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.40.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Mon May 04 13:20:25 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 28 21:01:08 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 28 13:26:52 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Apr 28 13:26:23 UTC 2026|
