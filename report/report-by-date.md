@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:37:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.2 to 19.8.5 ~ 2026-07-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 20 21:13:20 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.50.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Jun 30 21:22:43 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases/)|Fri Jun 26 21:12:44 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 341 - Endives ou Chicorée ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 22 09:38:06 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 02:34:59 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 10 18:25:48 UTC 2026|

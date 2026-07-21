@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go</title>
+      <link>https://lescastcodeurs.com</link>
+      <description>Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go -- Tue Jul 21 10:37:31 UTC 2026</description>
+      <category>Podcast</category>
+      <pubDate>Tue, 21 Jul 2026 10:37:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-07-21T10:37:31Z</dc:date>
+    </item>
+    <item>
       <title>K-Lite Codec Pack Basic -- 19.8.2 to 19.8.5 ~ 2026-07-20</title>
       <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
       <description>K-Lite Codec Pack Basic -- 19.8.2 to 19.8.5 ~ 2026-07-20 -- Mon Jul 20 21:13:20 UTC 2026</description>
@@ -88,15 +97,6 @@
       <pubDate>Fri, 26 Jun 2026 21:12:44 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-06-26T21:12:44Z</dc:date>
-    </item>
-    <item>
-      <title>Les Cast Codeurs (French podcast) -- LCC 341 - Endives ou Chicorée ?</title>
-      <link>https://lescastcodeurs.com</link>
-      <description>Les Cast Codeurs (French podcast) -- LCC 341 - Endives ou Chicorée ? -- Mon Jun 22 09:38:06 UTC 2026</description>
-      <category>Podcast</category>
-      <pubDate>Mon, 22 Jun 2026 09:38:06 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-06-22T09:38:06Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
