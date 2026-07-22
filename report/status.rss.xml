@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Sat, 18 Jul 2026 20:51:05 GMT</pubDate>
+    <pubDate>Wed, 22 Jul 2026 10:26:52 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-07-18T20:51:05Z</dc:date>
+    <dc:date>2026-07-22T10:26:52Z</dc:date>
     <item>
-      <title>FAILED -- Sat Jul 18 20:51:05 UTC 2026</title>
+      <title>FAILED -- Wed Jul 22 10:26:52 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
@@ -102,20 +102,21 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect(Net.java:580)
 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:639)
+	at java.base/java.net.Socket.connect(Socket.java:633)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
-	at java.base/sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:266)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1265)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1151)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1720)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1644)
+	at java.base/sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:267)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:381)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:196)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1262)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1148)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1077)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:181)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1717)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1641)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
 	at java.base/java.net.URL.openStream(URL.java:1161)
 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:2953)
@@ -276,9 +277,9 @@ java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 20:51:05 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 10:26:52 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-07-18T20:51:05Z</dc:date>
+      <dc:date>2026-07-22T10:26:52Z</dc:date>
     </item>
   </channel>
 </rss>
