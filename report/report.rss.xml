@@ -60,6 +60,42 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk17 linux x64 -- jdk-17.0.20+8</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 linux x64 -- jdk-17.0.20+8 -- Fri Jul 24 21:08:11 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 24 Jul 2026 21:08:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-07-24T21:08:11Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.20+8</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.20+8 -- Fri Jul 24 21:07:54 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 24 Jul 2026 21:07:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-07-24T21:07:54Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk11 linux x64 -- jdk-11.0.32+9</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 linux x64 -- jdk-11.0.32+9 -- Fri Jul 24 21:07:40 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 24 Jul 2026 21:07:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-07-24T21:07:40Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go -- Tue Jul 21 10:37:31 UTC 2026</description>
@@ -256,42 +292,6 @@
       <pubDate>Tue, 28 Apr 2026 13:26:52 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-04-28T13:26:52Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.19+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.19+10 -- Tue Apr 28 13:26:23 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Tue, 28 Apr 2026 13:26:23 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-04-28T13:26:23Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 linux x64 -- jdk-11.0.31+11</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 linux x64 -- jdk-11.0.31+11 -- Tue Apr 28 10:05:44 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Tue, 28 Apr 2026 10:05:44 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-04-28T10:05:44Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 linux x64 -- jdk-17.0.19+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 linux x64 -- jdk-17.0.19+10 -- Wed Apr 22 16:49:27 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Wed, 22 Apr 2026 16:49:27 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-04-22T16:49:27Z</dc:date>
     </item>
     <item>
       <title>GPG4Win -- 5.0.2 (2026-03-16)</title>
