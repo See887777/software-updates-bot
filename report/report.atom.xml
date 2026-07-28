@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 windows --  3.14.6</title>
+    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-07-28T01:39:54Z</modified>
+    <issued>2026-07-28T01:39:54Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.6 -- Tue Jul 28 01:39:54 UTC 2026</summary>
+    <dc:date>2026-07-28T01:39:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.20+8</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -210,18 +222,6 @@
     <issued>2026-05-12T13:51:39Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk8 windows x64 -- jdk8u492-b09 -- Tue May 12 13:51:39 UTC 2026</summary>
     <dc:date>2026-05-12T13:51:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 windows --  3.14.5</title>
-    <link rel="alternate" href="https://www.python.org/downloads/windows/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-10T12:53:25Z</modified>
-    <issued>2026-05-10T12:53:25Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.5 -- Sun May 10 12:53:25 UTC 2026</summary>
-    <dc:date>2026-05-10T12:53:25Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.4.4</title>
