@@ -45,8 +45,8 @@
       ],
       "name": "Adoptium jdk11 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.31+11",
-      "checkDate": "Apr 28, 2026, 9:01:08 PM",
+      "version": "jdk-11.0.32+9",
+      "checkDate": "Jul 29, 2026, 10:29:23 AM",
       "logo": "ADOPTIUM"
     },
     {
@@ -123,8 +123,8 @@
       ],
       "name": "Adoptium jdk17 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.19+10",
-      "checkDate": "May 4, 2026, 1:20:45 PM",
+      "version": "jdk-17.0.20+8",
+      "checkDate": "Jul 29, 2026, 10:29:01 AM",
       "logo": "ADOPTIUM"
     },
     {
@@ -251,8 +251,8 @@
       ],
       "name": "GPG4Win",
       "website": "https://www.gpg4win.org/get-gpg4win.html",
-      "version": "5.0.2 (2026-03-16)",
-      "checkDate": "Mar 16, 2026, 4:53:23 PM",
+      "version": "5.1.0 (2026-07-29)",
+      "checkDate": "Jul 29, 2026, 10:29:08 AM",
       "logo": "GPG4WIN"
     },
     {

@@ -3,13 +3,13 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:55:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 24 21:07:40 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 28 13:26:52 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 28 21:01:08 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 29 10:29:23 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 mac x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 windows x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jul 24 21:08:11 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jul 24 21:07:54 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon May 04 13:20:45 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 29 10:29:01 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
@@ -19,7 +19,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 13:20:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 04 17:21:23 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue May 12 13:51:39 UTC 2026|
-|![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:53:23 UTC 2026|
+|![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 10:29:08 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases/)|Fri Jun 26 21:12:44 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|

@@ -32,6 +32,42 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.32+9</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-07-29T10:29:23Z</modified>
+    <issued>2026-07-29T10:29:23Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.32+9 -- Wed Jul 29 10:29:23 UTC 2026</summary>
+    <dc:date>2026-07-29T10:29:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>GPG4Win -- 5.1.0 (2026-07-29)</title>
+    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-07-29T10:29:08Z</modified>
+    <issued>2026-07-29T10:29:08Z</issued>
+    <summary type="text/plain" mode="escaped">GPG4Win -- 5.1.0 (2026-07-29) -- Wed Jul 29 10:29:08 UTC 2026</summary>
+    <dc:date>2026-07-29T10:29:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 windows x64 -- jdk-17.0.20+8</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-07-29T10:29:01Z</modified>
+    <issued>2026-07-29T10:29:01Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.20+8 -- Wed Jul 29 10:29:01 UTC 2026</summary>
+    <dc:date>2026-07-29T10:29:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 windows --  3.14.6</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -248,18 +284,6 @@
     <dc:date>2026-05-04T17:21:23Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk17 windows x64 -- jdk-17.0.19+10</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-05-04T13:20:45Z</modified>
-    <issued>2026-05-04T13:20:45Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.19+10 -- Mon May 04 13:20:45 UTC 2026</summary>
-    <dc:date>2026-05-04T13:20:45Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk8 linux x64 -- jdk8u492-b09</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -272,18 +296,6 @@
     <dc:date>2026-05-04T13:20:26Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.31+11</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-04-28T21:01:08Z</modified>
-    <issued>2026-04-28T21:01:08Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.31+11 -- Tue Apr 28 21:01:08 UTC 2026</summary>
-    <dc:date>2026-04-28T21:01:08Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.31+11</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -294,18 +306,6 @@
     <issued>2026-04-28T13:26:52Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.31+11 -- Tue Apr 28 13:26:52 UTC 2026</summary>
     <dc:date>2026-04-28T13:26:52Z</dc:date>
-  </entry>
-  <entry>
-    <title>GPG4Win -- 5.0.2 (2026-03-16)</title>
-    <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-03-16T16:53:23Z</modified>
-    <issued>2026-03-16T16:53:23Z</issued>
-    <summary type="text/plain" mode="escaped">GPG4Win -- 5.0.2 (2026-03-16) -- Mon Mar 16 16:53:23 UTC 2026</summary>
-    <dc:date>2026-03-16T16:53:23Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.23</title>
