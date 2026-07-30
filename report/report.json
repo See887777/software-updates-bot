@@ -32,8 +32,8 @@
       ],
       "name": "Adoptium jdk11 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.31+11",
-      "checkDate": "Apr 28, 2026, 1:26:52 PM",
+      "version": "jdk-11.0.32+9",
+      "checkDate": "Jul 30, 2026, 1:24:44 PM",
       "logo": "ADOPTIUM"
     },
     {
