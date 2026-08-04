@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Maven -- 4.0.0-rc-6</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-08-04T06:19:23Z</modified>
+    <issued>2026-08-04T06:19:23Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-6 -- Tue Aug 04 06:19:23 UTC 2026</summary>
+    <dc:date>2026-08-04T06:19:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u502-b07</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -342,18 +354,6 @@
     <issued>2025-11-13T16:14:53Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.23 -- Thu Nov 13 16:14:53 UTC 2025</summary>
     <dc:date>2025-11-13T16:14:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Maven -- 4.0.0-rc-5</title>
-    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2025-11-13T16:14:48Z</modified>
-    <issued>2025-11-13T16:14:48Z</issued>
-    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-5 -- Thu Nov 13 16:14:48 UTC 2025</summary>
-    <dc:date>2025-11-13T16:14:48Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.5 -- 10.5.29</title>
