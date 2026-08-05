@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 mac --  3.14.7</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-08-05T17:31:07Z</modified>
+    <issued>2026-08-05T17:31:07Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.7 -- Wed Aug 05 17:31:07 UTC 2026</summary>
+    <dc:date>2026-08-05T17:31:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-rc-6</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -258,18 +270,6 @@
     <issued>2026-06-10T18:25:48Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.14.6 -- Wed Jun 10 18:25:48 UTC 2026</summary>
     <dc:date>2026-06-10T18:25:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.14.6</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-06-10T18:24:30Z</modified>
-    <issued>2026-06-10T18:24:30Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.6 -- Wed Jun 10 18:24:30 UTC 2026</summary>
-    <dc:date>2026-06-10T18:24:30Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2026</title>
