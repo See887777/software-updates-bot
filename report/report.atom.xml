@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 9.7.0</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-08-07T05:27:13Z</modified>
+    <issued>2026-08-07T05:27:13Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 9.7.0 -- Fri Aug 07 05:27:13 UTC 2026</summary>
+    <dc:date>2026-08-07T05:27:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Python 3 mac --  3.14.7</title>
     <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
     <author>
@@ -222,18 +234,6 @@
     <issued>2026-06-30T21:22:43Z</issued>
     <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.50.0 -- Tue Jun 30 21:22:43 UTC 2026</summary>
     <dc:date>2026-06-30T21:22:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 9.6.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-06-26T21:12:44Z</modified>
-    <issued>2026-06-26T21:12:44Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 9.6.1 -- Fri Jun 26 21:12:44 UTC 2026</summary>
-    <dc:date>2026-06-26T21:12:44Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>

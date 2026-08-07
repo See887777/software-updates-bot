@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.7.0</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.7.0 -- Fri Aug 07 05:27:13 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 07 Aug 2026 05:27:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-07T05:27:13Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 mac --  3.14.7</title>
       <link>https://www.python.org/downloads/mac-osx/</link>
       <description>Python 3 mac --  3.14.7 -- Wed Aug 05 17:31:07 UTC 2026</description>
@@ -233,16 +243,6 @@
       <pubDate>Tue, 30 Jun 2026 21:22:43 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-06-30T21:22:43Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.6.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.6.1 -- Fri Jun 26 21:12:44 UTC 2026</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 26 Jun 2026 21:12:44 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-06-26T21:12:44Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
