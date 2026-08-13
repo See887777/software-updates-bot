@@ -60,6 +60,26 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>PostgreSQL 14 -- 14.24</title>
+      <link>https://www.postgresql.org/download/</link>
+      <description>PostgreSQL 14 -- 14.24 -- Thu Aug 13 20:43:46 UTC 2026</description>
+      <category>Database</category>
+      <category>PostgreSQL</category>
+      <pubDate>Thu, 13 Aug 2026 20:43:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-13T20:43:46Z</dc:date>
+    </item>
+    <item>
+      <title>MariaDB 10.6 -- 10.6.28</title>
+      <link>https://downloads.mariadb.org</link>
+      <description>MariaDB 10.6 -- 10.6.28 -- Thu Aug 13 20:30:07 UTC 2026</description>
+      <category>Database</category>
+      <category>MariaDB</category>
+      <pubDate>Thu, 13 Aug 2026 20:30:07 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-13T20:30:07Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 source --  3.14.7</title>
       <link>https://www.python.org/downloads/source/</link>
       <description>Python 3 source --  3.14.7 -- Thu Aug 13 01:13:24 UTC 2026</description>
@@ -282,26 +302,6 @@
       <pubDate>Wed, 10 Jun 2026 08:01:09 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-06-10T08:01:09Z</dc:date>
-    </item>
-    <item>
-      <title>MariaDB 10.6 -- 10.6.27</title>
-      <link>https://downloads.mariadb.org</link>
-      <description>MariaDB 10.6 -- 10.6.27 -- Thu May 28 07:46:29 UTC 2026</description>
-      <category>Database</category>
-      <category>MariaDB</category>
-      <pubDate>Thu, 28 May 2026 07:46:29 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-05-28T07:46:29Z</dc:date>
-    </item>
-    <item>
-      <title>PostgreSQL 14 -- 14.23</title>
-      <link>https://www.postgresql.org/download/</link>
-      <description>PostgreSQL 14 -- 14.23 -- Thu May 14 13:28:26 UTC 2026</description>
-      <category>Database</category>
-      <category>PostgreSQL</category>
-      <pubDate>Thu, 14 May 2026 13:28:26 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-05-14T13:28:26Z</dc:date>
     </item>
     <item>
       <title>Inkscape -- 1.4.4</title>
