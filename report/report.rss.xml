@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Intel Bluetooth Drivers -- 24.60.0</title>
+      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
+      <description>Intel Bluetooth Drivers -- 24.60.0 -- Mon Aug 17 20:14:45 UTC 2026</description>
+      <category>Drivers</category>
+      <category>MS Windows</category>
+      <pubDate>Mon, 17 Aug 2026 20:14:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-17T20:14:45Z</dc:date>
+    </item>
+    <item>
       <title>PostgreSQL 14 -- 14.24</title>
       <link>https://www.postgresql.org/download/</link>
       <description>PostgreSQL 14 -- 14.24 -- Thu Aug 13 20:43:46 UTC 2026</description>
@@ -262,16 +272,6 @@
       <pubDate>Tue, 21 Jul 2026 10:37:31 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-07-21T10:37:31Z</dc:date>
-    </item>
-    <item>
-      <title>Intel Bluetooth Drivers -- 24.50.0</title>
-      <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
-      <description>Intel Bluetooth Drivers -- 24.50.0 -- Tue Jun 30 21:22:43 UTC 2026</description>
-      <category>Drivers</category>
-      <category>MS Windows</category>
-      <pubDate>Tue, 30 Jun 2026 21:22:43 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-06-30T21:22:43Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>

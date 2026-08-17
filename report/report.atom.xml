@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 24.60.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-08-17T20:14:45Z</modified>
+    <issued>2026-08-17T20:14:45Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.60.0 -- Mon Aug 17 20:14:45 UTC 2026</summary>
+    <dc:date>2026-08-17T20:14:45Z</dc:date>
+  </entry>
+  <entry>
     <title>PostgreSQL 14 -- 14.24</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -258,18 +270,6 @@
     <issued>2026-07-21T10:37:31Z</issued>
     <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go -- Tue Jul 21 10:37:31 UTC 2026</summary>
     <dc:date>2026-07-21T10:37:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 24.50.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-06-30T21:22:43Z</modified>
-    <issued>2026-06-30T21:22:43Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.50.0 -- Tue Jun 30 21:22:43 UTC 2026</summary>
-    <dc:date>2026-06-30T21:22:43Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
