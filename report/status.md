@@ -64,6 +64,26 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
+checker class biz.lermitage.sub.service.checker.impl.Python3SrcChecker failed, ignoring
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+
 checker class biz.lermitage.sub.service.checker.impl.Python2WindowsChecker failed, ignoring
 java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
@@ -129,9 +149,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:591)
 	at java.base/sun.nio.ch.Net.connect(Net.java:580)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:635)
+	at java.base/java.net.Socket.connect(Socket.java:633)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
