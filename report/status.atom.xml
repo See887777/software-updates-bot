@@ -3,17 +3,17 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2026-08-18T16:32:10Z</modified>
+  <modified>2026-08-18T20:25:12Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2026-08-18T16:32:10Z</dc:date>
+  <dc:date>2026-08-18T20:25:12Z</dc:date>
   <entry>
-    <title>FAILED -- Tue Aug 18 16:32:10 UTC 2026</title>
+    <title>FAILED -- Tue Aug 18 20:25:12 UTC 2026</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2026-08-18T16:32:10Z</modified>
-    <issued>2026-08-18T16:32:10Z</issued>
+    <modified>2026-08-18T20:25:12Z</modified>
+    <issued>2026-08-18T20:25:12Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
@@ -165,9 +165,9 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:591)
 	at java.base/sun.nio.ch.Net.connect(Net.java:580)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:629)
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:635)
 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
@@ -282,6 +282,6 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2026-08-18T16:32:10Z</dc:date>
+    <dc:date>2026-08-18T20:25:12Z</dc:date>
   </entry>
 </feed>
