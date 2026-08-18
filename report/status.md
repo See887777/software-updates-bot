@@ -145,8 +145,26 @@ java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 8
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2049)
+java.net.ConnectException: Connection timed out
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:591)
+	at java.base/sun.nio.ch.Net.connect(Net.java:580)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:267)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:381)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:196)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1262)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1148)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1077)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:181)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1717)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1641)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
 	at java.base/java.net.URL.openStream(URL.java:1161)
