@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk17 mac x64 -- jdk-17.0.20.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 mac x64 -- jdk-17.0.20.1+1 -- Wed Aug 19 20:14:54 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Wed, 19 Aug 2026 20:14:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-19T20:14:54Z</dc:date>
+    </item>
+    <item>
       <title>Gradle -- 9.7.1</title>
       <link>https://gradle.org/releases/</link>
       <description>Gradle -- 9.7.1 -- Wed Aug 19 16:20:02 UTC 2026</description>
@@ -239,18 +251,6 @@
       <pubDate>Fri, 24 Jul 2026 21:08:11 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-07-24T21:08:11Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 mac x64 -- jdk-17.0.20+8</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 mac x64 -- jdk-17.0.20+8 -- Fri Jul 24 21:07:54 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 24 Jul 2026 21:07:54 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-07-24T21:07:54Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 linux x64 -- jdk-11.0.32+9</title>
