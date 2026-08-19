@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.7.1</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.7.1 -- Wed Aug 19 16:20:02 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Wed, 19 Aug 2026 16:20:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-19T16:20:02Z</dc:date>
+    </item>
+    <item>
       <title>Intel Bluetooth Drivers -- 24.60.0</title>
       <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
       <description>Intel Bluetooth Drivers -- 24.60.0 -- Mon Aug 17 20:14:45 UTC 2026</description>
@@ -107,16 +117,6 @@
       <pubDate>Tue, 11 Aug 2026 01:07:32 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-08-11T01:07:32Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.7.0</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.7.0 -- Fri Aug 07 05:27:13 UTC 2026</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 07 Aug 2026 05:27:13 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-08-07T05:27:13Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.14.7</title>
