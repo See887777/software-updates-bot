@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Spring Boot -- 4.1.1.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-08-21T04:28:18Z</modified>
+    <issued>2026-08-21T04:28:18Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.1.1.RELEASE -- Fri Aug 21 04:28:18 UTC 2026</summary>
+    <dc:date>2026-08-21T04:28:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.20.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -282,18 +294,6 @@
     <issued>2026-06-12T08:15:49Z</issued>
     <summary type="text/plain" mode="escaped">VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026) -- Fri Jun 12 08:15:49 UTC 2026</summary>
     <dc:date>2026-06-12T08:15:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 4.1.0.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-06-11T02:34:59Z</modified>
-    <issued>2026-06-11T02:34:59Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.1.0.RELEASE -- Thu Jun 11 02:34:59 UTC 2026</summary>
-    <dc:date>2026-06-11T02:34:59Z</dc:date>
   </entry>
   <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2026</title>
