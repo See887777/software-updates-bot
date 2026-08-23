@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>K-Lite Codec Pack Basic -- 19.9.0 to 19.9.5 ~ 2026-08-22</title>
+      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
+      <description>K-Lite Codec Pack Basic -- 19.9.0 to 19.9.5 ~ 2026-08-22 -- Sun Aug 23 00:38:44 UTC 2026</description>
+      <category>Codecs</category>
+      <category>MS Windows</category>
+      <pubDate>Sun, 23 Aug 2026 00:38:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-23T00:38:44Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk17 linux x64 -- jdk-17.0.20.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk17 linux x64 -- jdk-17.0.20.1+1 -- Fri Aug 21 16:19:17 UTC 2026</description>
@@ -142,16 +152,6 @@
       <pubDate>Thu, 13 Aug 2026 01:13:24 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-08-13T01:13:24Z</dc:date>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack Basic -- 19.8.5 to 19.9.0 ~ 2026-08-10</title>
-      <link>https://www.codecguide.com/download_k-lite_codec_pack_basic.htm</link>
-      <description>K-Lite Codec Pack Basic -- 19.8.5 to 19.9.0 ~ 2026-08-10 -- Tue Aug 11 01:07:32 UTC 2026</description>
-      <category>Codecs</category>
-      <category>MS Windows</category>
-      <pubDate>Tue, 11 Aug 2026 01:07:32 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-08-11T01:07:32Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.14.7</title>

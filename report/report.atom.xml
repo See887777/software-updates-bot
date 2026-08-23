@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.9.0 to 19.9.5 ~ 2026-08-22</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-08-23T00:38:44Z</modified>
+    <issued>2026-08-23T00:38:44Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.9.0 to 19.9.5 ~ 2026-08-22 -- Sun Aug 23 00:38:44 UTC 2026</summary>
+    <dc:date>2026-08-23T00:38:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.20.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2026-08-13T01:13:24Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 source --  3.14.7 -- Thu Aug 13 01:13:24 UTC 2026</summary>
     <dc:date>2026-08-13T01:13:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.8.5 to 19.9.0 ~ 2026-08-10</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-11T01:07:32Z</modified>
-    <issued>2026-08-11T01:07:32Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.8.5 to 19.9.0 ~ 2026-08-10 -- Tue Aug 11 01:07:32 UTC 2026</summary>
-    <dc:date>2026-08-11T01:07:32Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.14.7</title>

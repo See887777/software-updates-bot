@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:38:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Aug 21 16:19:17 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 21 04:28:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Aug 19 20:14:54 UTC 2026|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 20:43:46 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Aug 13 20:30:07 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.7|[www.python.org](https://www.python.org/downloads/source/)|Thu Aug 13 01:13:24 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.5 to 19.9.0 ~ 2026-08-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 11 01:07:32 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 17:31:07 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 06:19:23 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 17:19:02 UTC 2026|
