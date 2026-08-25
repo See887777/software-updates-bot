@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Aug 25 08:30:37 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 24 12:37:51 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Aug 24 12:24:22 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:38:44 UTC 2026|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 17:31:07 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 06:19:23 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 17:19:02 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 10:40:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 10:40:31 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 30 13:24:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 29 10:29:23 UTC 2026|

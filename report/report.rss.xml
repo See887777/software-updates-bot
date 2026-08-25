@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk8 linux x64 -- jdk8u504-b01</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk8 linux x64 -- jdk8u504-b01 -- Tue Aug 25 08:30:37 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 25 Aug 2026 08:30:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-25T08:30:37Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk11 linux x64 -- jdk-11.0.32.1+1</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk11 linux x64 -- jdk-11.0.32.1+1 -- Mon Aug 24 12:37:51 UTC 2026</description>
@@ -207,18 +219,6 @@
       <pubDate>Fri, 31 Jul 2026 17:19:02 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-07-31T17:19:02Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk8 linux x64 -- jdk8u502-b07</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 linux x64 -- jdk8u502-b07 -- Fri Jul 31 10:40:46 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Fri, 31 Jul 2026 10:40:46 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-07-31T10:40:46Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk8 windows x64 -- jdk8u502-b07</title>

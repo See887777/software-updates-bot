@@ -16,7 +16,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Sat Jan 21 12:12:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:07:52 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Fri Jan 20 16:09:32 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 10:40:46 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Aug 25 08:30:37 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 17:19:02 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 31 10:40:31 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 10:29:08 UTC 2026|
