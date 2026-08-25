@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk11 mac x64 -- jdk-11.0.32.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 mac x64 -- jdk-11.0.32.1+1 -- Tue Aug 25 16:37:19 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 25 Aug 2026 16:37:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-08-25T16:37:19Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 linux x64 -- jdk8u504-b01</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 linux x64 -- jdk8u504-b01 -- Tue Aug 25 08:30:37 UTC 2026</description>
@@ -231,18 +243,6 @@
       <pubDate>Fri, 31 Jul 2026 10:40:31 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-07-31T10:40:31Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 mac x64 -- jdk-11.0.32+9</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 mac x64 -- jdk-11.0.32+9 -- Thu Jul 30 13:24:44 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Thu, 30 Jul 2026 13:24:44 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-07-30T13:24:44Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 windows x64 -- jdk-11.0.32+9</title>
