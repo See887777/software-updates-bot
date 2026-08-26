@@ -45,8 +45,8 @@
       ],
       "name": "Adoptium jdk11 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.32+9",
-      "checkDate": "Jul 29, 2026, 10:29:23 AM",
+      "version": "jdk-11.0.32.1+1",
+      "checkDate": "Aug 26, 2026, 12:41:42 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -227,8 +227,8 @@
       ],
       "name": "Adoptium jdk8 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u502-b07",
-      "checkDate": "Jul 31, 2026, 5:19:02 PM",
+      "version": "jdk8u504-b01",
+      "checkDate": "Aug 26, 2026, 12:41:51 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -240,8 +240,8 @@
       ],
       "name": "Adoptium jdk8 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u502-b07",
-      "checkDate": "Jul 31, 2026, 10:40:31 AM",
+      "version": "jdk8u504-b01",
+      "checkDate": "Aug 26, 2026, 12:27:25 PM",
       "logo": "ADOPTIUM"
     },
     {
