@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 24.70.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-09-08T15:36:27Z</modified>
+    <issued>2026-09-08T15:36:27Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.70.0 -- Tue Sep 08 15:36:27 UTC 2026</summary>
+    <dc:date>2026-09-08T15:36:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u504-b01</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -174,18 +186,6 @@
     <issued>2026-08-19T16:20:02Z</issued>
     <summary type="text/plain" mode="escaped">Gradle -- 9.7.1 -- Wed Aug 19 16:20:02 UTC 2026</summary>
     <dc:date>2026-08-19T16:20:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Intel Bluetooth Drivers -- 24.60.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-17T20:14:45Z</modified>
-    <issued>2026-08-17T20:14:45Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.60.0 -- Mon Aug 17 20:14:45 UTC 2026</summary>
-    <dc:date>2026-08-17T20:14:45Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 14 -- 14.24</title>
