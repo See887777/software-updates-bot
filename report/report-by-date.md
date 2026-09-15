@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 02:18:43 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.70.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Sep 08 15:36:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 26 12:41:51 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Aug 26 12:41:42 UTC 2026|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 06:19:23 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 10:29:08 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Tue Jul 28 01:39:54 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:37:31 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Jun 10 08:01:09 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|

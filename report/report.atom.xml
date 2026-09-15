@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 343 - Trois IA, une seule prise électrique</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-09-15T02:18:43Z</modified>
+    <issued>2026-09-15T02:18:43Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 343 - Trois IA, une seule prise électrique -- Tue Sep 15 02:18:43 UTC 2026</summary>
+    <dc:date>2026-09-15T02:18:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Intel Bluetooth Drivers -- 24.70.0</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
     <author>
@@ -270,18 +282,6 @@
     <issued>2026-07-28T01:39:54Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.14.6 -- Tue Jul 28 01:39:54 UTC 2026</summary>
     <dc:date>2026-07-28T01:39:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-07-21T10:37:31Z</modified>
-    <issued>2026-07-21T10:37:31Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 342 - Bun en Rust, TypeScript en Go -- Tue Jul 21 10:37:31 UTC 2026</summary>
-    <dc:date>2026-07-21T10:37:31Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
