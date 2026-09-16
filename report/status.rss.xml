@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 16 Sep 2026 02:15:10 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 08:56:39 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-09-16T02:15:10Z</dc:date>
+    <dc:date>2026-09-16T08:56:39Z</dc:date>
     <item>
-      <title>FAILED -- Wed Sep 16 02:15:10 UTC 2026</title>
+      <title>FAILED -- Wed Sep 16 08:56:39 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
@@ -141,7 +141,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 502 for URL: https://inkscape.org/release/
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2049)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1641)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
@@ -259,9 +259,9 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 02:15:10 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 08:56:39 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-09-16T02:15:10Z</dc:date>
+      <dc:date>2026-09-16T08:56:39Z</dc:date>
     </item>
   </channel>
 </rss>
