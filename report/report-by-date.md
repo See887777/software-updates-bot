@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:24:24 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 02:18:43 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.70.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Sep 08 15:36:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 26 12:41:51 UTC 2026|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Aug 25 08:30:37 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 24 12:37:51 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Aug 24 12:24:22 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:38:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Aug 21 16:19:17 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 21 04:28:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Aug 19 20:14:54 UTC 2026|

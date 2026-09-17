@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 19.9.5 to 20.0.0 ~ 2026-09-17</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-09-17T19:24:24Z</modified>
+    <issued>2026-09-17T19:24:24Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.9.5 to 20.0.0 ~ 2026-09-17 -- Thu Sep 17 19:24:24 UTC 2026</summary>
+    <dc:date>2026-09-17T19:24:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 343 - Trois IA, une seule prise électrique</title>
     <link rel="alternate" href="https://lescastcodeurs.com" />
     <author>
@@ -138,18 +150,6 @@
     <issued>2026-08-24T12:24:22Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.20.1+1 -- Mon Aug 24 12:24:22 UTC 2026</summary>
     <dc:date>2026-08-24T12:24:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.9.0 to 19.9.5 ~ 2026-08-22</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-23T00:38:44Z</modified>
-    <issued>2026-08-23T00:38:44Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.9.0 to 19.9.5 ~ 2026-08-22 -- Sun Aug 23 00:38:44 UTC 2026</summary>
-    <dc:date>2026-08-23T00:38:44Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.20.1+1</title>
