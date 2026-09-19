@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.7|[www.python.org](https://www.python.org/downloads/windows/)|Sat Sep 19 21:55:29 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:24:24 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 02:18:43 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.70.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Sep 08 15:36:27 UTC 2026|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 17:31:07 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 06:19:23 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 10:29:08 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Tue Jul 28 01:39:54 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Jun 10 08:01:09 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|
