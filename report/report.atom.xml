@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 9.8.0</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-09-25T22:55:59Z</modified>
+    <issued>2026-09-25T22:55:59Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 9.8.0 -- Fri Sep 25 22:55:59 UTC 2026</summary>
+    <dc:date>2026-09-25T22:55:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Maven -- 4.0.0-rc-7</title>
     <link rel="alternate" href="https://maven.apache.org/download.cgi" />
     <author>
@@ -234,18 +246,6 @@
     <issued>2026-08-19T20:14:54Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.20.1+1 -- Wed Aug 19 20:14:54 UTC 2026</summary>
     <dc:date>2026-08-19T20:14:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 9.7.1</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-19T16:20:02Z</modified>
-    <issued>2026-08-19T16:20:02Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 9.7.1 -- Wed Aug 19 16:20:02 UTC 2026</summary>
-    <dc:date>2026-08-19T16:20:02Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 14 -- 14.24</title>

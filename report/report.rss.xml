@@ -60,6 +60,16 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.8.0</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.8.0 -- Fri Sep 25 22:55:59 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 25 Sep 2026 22:55:59 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-09-25T22:55:59Z</dc:date>
+    </item>
+    <item>
       <title>Maven -- 4.0.0-rc-7</title>
       <link>https://maven.apache.org/download.cgi</link>
       <description>Maven -- 4.0.0-rc-7 -- Fri Sep 25 02:20:50 UTC 2026</description>
@@ -245,16 +255,6 @@
       <pubDate>Wed, 19 Aug 2026 20:14:54 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-08-19T20:14:54Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.7.1</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.7.1 -- Wed Aug 19 16:20:02 UTC 2026</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Wed, 19 Aug 2026 16:20:02 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-08-19T16:20:02Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 14 -- 14.24</title>
