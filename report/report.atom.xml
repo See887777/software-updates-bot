@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Maven -- 4.0.0-rc-7</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-09-25T02:20:50Z</modified>
+    <issued>2026-09-25T02:20:50Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-7 -- Fri Sep 25 02:20:50 UTC 2026</summary>
+    <dc:date>2026-09-25T02:20:50Z</dc:date>
+  </entry>
+  <entry>
     <title>GPG4Win -- 5.1.1 (2026-09-23)</title>
     <link rel="alternate" href="https://www.gpg4win.org/get-gpg4win.html" />
     <author>
@@ -282,18 +294,6 @@
     <issued>2026-08-05T17:31:07Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 mac --  3.14.7 -- Wed Aug 05 17:31:07 UTC 2026</summary>
     <dc:date>2026-08-05T17:31:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Maven -- 4.0.0-rc-6</title>
-    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-04T06:19:23Z</modified>
-    <issued>2026-08-04T06:19:23Z</issued>
-    <summary type="text/plain" mode="escaped">Maven -- 4.0.0-rc-6 -- Tue Aug 04 06:19:23 UTC 2026</summary>
-    <dc:date>2026-08-04T06:19:23Z</dc:date>
   </entry>
   <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
