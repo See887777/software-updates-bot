@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 source --  3.14.8</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-09-30T23:33:30Z</modified>
+    <issued>2026-09-30T23:33:30Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.14.8 -- Wed Sep 30 23:33:30 UTC 2026</summary>
+    <dc:date>2026-09-30T23:33:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 9.8.0</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -270,18 +282,6 @@
     <issued>2026-08-13T20:30:07Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.28 -- Thu Aug 13 20:30:07 UTC 2026</summary>
     <dc:date>2026-08-13T20:30:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 source --  3.14.7</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-13T01:13:24Z</modified>
-    <issued>2026-08-13T01:13:24Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.14.7 -- Thu Aug 13 01:13:24 UTC 2026</summary>
-    <dc:date>2026-08-13T01:13:24Z</dc:date>
   </entry>
   <entry>
     <title>Python 3 mac --  3.14.7</title>

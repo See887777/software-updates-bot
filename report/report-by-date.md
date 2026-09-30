@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 source| 3.14.8|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 30 23:33:30 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.0|[gradle.org](https://gradle.org/releases/)|Fri Sep 25 22:55:59 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Sep 25 02:20:50 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:44:27 UTC 2026|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Aug 19 20:14:54 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 20:43:46 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Aug 13 20:30:07 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 source| 3.14.7|[www.python.org](https://www.python.org/downloads/source/)|Thu Aug 13 01:13:24 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 17:31:07 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Jun 10 08:01:09 UTC 2026|
