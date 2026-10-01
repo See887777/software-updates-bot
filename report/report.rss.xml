@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.14.8</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.14.8 -- Thu Oct 01 17:41:32 UTC 2026</description>
+      <category>Python</category>
+      <pubDate>Thu, 01 Oct 2026 17:41:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-10-01T17:41:32Z</dc:date>
+    </item>
+    <item>
       <title>Python 3 source --  3.14.8</title>
       <link>https://www.python.org/downloads/source/</link>
       <description>Python 3 source --  3.14.8 -- Wed Sep 30 23:33:30 UTC 2026</description>
@@ -284,15 +293,6 @@
       <pubDate>Thu, 13 Aug 2026 20:30:07 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-08-13T20:30:07Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.14.7</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.14.7 -- Wed Aug 05 17:31:07 UTC 2026</description>
-      <category>Python</category>
-      <pubDate>Wed, 05 Aug 2026 17:31:07 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-08-05T17:31:07Z</dc:date>
     </item>
     <item>
       <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
