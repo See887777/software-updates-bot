@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 06 01:14:57 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.8|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Oct 01 17:41:32 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.14.8|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 30 23:33:30 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.0|[gradle.org](https://gradle.org/releases/)|Fri Sep 25 22:55:59 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Sep 25 02:20:50 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:44:27 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 15:56:11 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.7|[www.python.org](https://www.python.org/downloads/windows/)|Sat Sep 19 21:55:29 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:24:24 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 02:18:43 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.70.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Sep 08 15:36:27 UTC 2026|
