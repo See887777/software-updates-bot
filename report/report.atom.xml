@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>K-Lite Codec Pack Basic -- 20.0.0 to 20.0.5 ~ 2026-10-08</title>
+    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-10-08T18:20:44Z</modified>
+    <issued>2026-10-08T18:20:44Z</issued>
+    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 20.0.0 to 20.0.5 ~ 2026-10-08 -- Thu Oct 08 18:20:44 UTC 2026</summary>
+    <dc:date>2026-10-08T18:20:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 9.8.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2026-09-22T15:56:11Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.24 -- Tue Sep 22 15:56:11 UTC 2026</summary>
     <dc:date>2026-09-22T15:56:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>K-Lite Codec Pack Basic -- 19.9.5 to 20.0.0 ~ 2026-09-17</title>
-    <link rel="alternate" href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-09-17T19:24:24Z</modified>
-    <issued>2026-09-17T19:24:24Z</issued>
-    <summary type="text/plain" mode="escaped">K-Lite Codec Pack Basic -- 19.9.5 to 20.0.0 ~ 2026-09-17 -- Thu Sep 17 19:24:24 UTC 2026</summary>
-    <dc:date>2026-09-17T19:24:24Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 343 - Trois IA, une seule prise électrique</title>
