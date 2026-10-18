@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.5 to 20.1.0 ~ 2026-10-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 18 18:36:18 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.15.0|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 13 15:35:34 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 13 15:35:21 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.0 to 20.0.5 ~ 2026-10-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Oct 08 18:20:44 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.1|[gradle.org](https://gradle.org/releases/)|Thu Oct 08 03:25:41 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 06 01:14:57 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Sep 25 02:20:50 UTC 2026|
