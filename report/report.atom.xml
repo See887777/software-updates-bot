@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-10-20T09:12:51Z</modified>
+    <issued>2026-10-20T09:12:51Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit -- Tue Oct 20 09:12:51 UTC 2026</summary>
+    <dc:date>2026-10-20T09:12:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 9.8.2</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -126,18 +138,6 @@
     <issued>2026-09-22T15:56:11Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.24 -- Tue Sep 22 15:56:11 UTC 2026</summary>
     <dc:date>2026-09-22T15:56:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les Cast Codeurs (French podcast) -- LCC 343 - Trois IA, une seule prise électrique</title>
-    <link rel="alternate" href="https://lescastcodeurs.com" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-09-15T02:18:43Z</modified>
-    <issued>2026-09-15T02:18:43Z</issued>
-    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 343 - Trois IA, une seule prise électrique -- Tue Sep 15 02:18:43 UTC 2026</summary>
-    <dc:date>2026-09-15T02:18:43Z</dc:date>
   </entry>
   <entry>
     <title>Intel Bluetooth Drivers -- 24.70.0</title>
