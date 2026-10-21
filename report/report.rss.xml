@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 source --  3.15.1</title>
+      <link>https://www.python.org/downloads/source/</link>
+      <description>Python 3 source --  3.15.1 -- Wed Oct 21 16:16:04 UTC 2026</description>
+      <category>Python</category>
+      <pubDate>Wed, 21 Oct 2026 16:16:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-10-21T16:16:04Z</dc:date>
+    </item>
+    <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit</title>
       <link>https://lescastcodeurs.com</link>
       <description>Les Cast Codeurs (French podcast) -- LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit -- Tue Oct 20 09:12:51 UTC 2026</description>
@@ -87,15 +96,6 @@
       <pubDate>Sun, 18 Oct 2026 18:36:18 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-10-18T18:36:18Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 source --  3.15.0</title>
-      <link>https://www.python.org/downloads/source/</link>
-      <description>Python 3 source --  3.15.0 -- Tue Oct 13 15:35:34 UTC 2026</description>
-      <category>Python</category>
-      <pubDate>Tue, 13 Oct 2026 15:35:34 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-10-13T15:35:34Z</dc:date>
     </item>
     <item>
       <title>Python 3 mac --  3.15.0</title>
