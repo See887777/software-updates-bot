@@ -23,7 +23,7 @@
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|9.8.2|[gradle.org](https://gradle.org/releases/)|Mon Oct 19 17:55:24 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.70.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue Sep 08 15:36:27 UTC 2026|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.80.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Fri Oct 23 16:06:55 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:12:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:08:08 UTC 2023|
@@ -57,7 +57,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 21 23:07:07 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.15.1|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 21 16:16:04 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 21 23:07:03 UTC 2026|
-|![logo](../media/logo/springboot.png) Spring Boot|4.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 21 04:28:18 UTC 2026|
+|![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 23 16:06:48 UTC 2026|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 15:56:11 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|

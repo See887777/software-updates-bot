@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Intel Bluetooth Drivers -- 24.80.0</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-10-23T16:06:55Z</modified>
+    <issued>2026-10-23T16:06:55Z</issued>
+    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.80.0 -- Fri Oct 23 16:06:55 UTC 2026</summary>
+    <dc:date>2026-10-23T16:06:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spring Boot -- 4.1.2.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-10-23T16:06:48Z</modified>
+    <issued>2026-10-23T16:06:48Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 4.1.2.RELEASE -- Fri Oct 23 16:06:48 UTC 2026</summary>
+    <dc:date>2026-10-23T16:06:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 linux x64 -- jdk-17.0.21+9</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -152,18 +176,6 @@
     <dc:date>2026-09-22T15:56:11Z</dc:date>
   </entry>
   <entry>
-    <title>Intel Bluetooth Drivers -- 24.70.0</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-09-08T15:36:27Z</modified>
-    <issued>2026-09-08T15:36:27Z</issued>
-    <summary type="text/plain" mode="escaped">Intel Bluetooth Drivers -- 24.70.0 -- Tue Sep 08 15:36:27 UTC 2026</summary>
-    <dc:date>2026-09-08T15:36:27Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u504-b01</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -246,18 +258,6 @@
     <issued>2026-08-24T12:24:22Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.20.1+1 -- Mon Aug 24 12:24:22 UTC 2026</summary>
     <dc:date>2026-08-24T12:24:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spring Boot -- 4.1.1.RELEASE</title>
-    <link rel="alternate" href="https://start.spring.io" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-21T04:28:18Z</modified>
-    <issued>2026-08-21T04:28:18Z</issued>
-    <summary type="text/plain" mode="escaped">Spring Boot -- 4.1.1.RELEASE -- Fri Aug 21 04:28:18 UTC 2026</summary>
-    <dc:date>2026-08-21T04:28:18Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.20.1+1</title>

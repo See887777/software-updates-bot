@@ -294,8 +294,8 @@
       ],
       "name": "Intel Bluetooth Drivers",
       "website": "https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/",
-      "version": "24.70.0",
-      "checkDate": "Sep 8, 2026, 3:36:27 PM",
+      "version": "24.80.0",
+      "checkDate": "Oct 23, 2026, 4:06:55 PM",
       "logo": "INTEL"
     },
     {
@@ -660,8 +660,8 @@
       ],
       "name": "Spring Boot",
       "website": "https://start.spring.io",
-      "version": "4.1.1.RELEASE",
-      "checkDate": "Aug 21, 2026, 4:28:18 AM",
+      "version": "4.1.2.RELEASE",
+      "checkDate": "Oct 23, 2026, 4:06:48 PM",
       "logo": "SPRING_BOOT"
     },
     {
