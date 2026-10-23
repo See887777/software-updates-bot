@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Fri, 23 Oct 2026 16:06:55 GMT</pubDate>
+    <pubDate>Fri, 23 Oct 2026 22:46:06 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-10-23T16:06:55Z</dc:date>
+    <dc:date>2026-10-23T22:46:06Z</dc:date>
     <item>
-      <title>FAILED -- Fri Oct 23 16:06:55 UTC 2026</title>
+      <title>FAILED -- Fri Oct 23 22:46:06 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Python2SrcChecker failed, ignoring
@@ -75,9 +75,9 @@ java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 502 for URL: https://inkscape.org/release/
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2049)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1641)
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2059)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1644)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
 	at java.base/java.net.URL.openStream(URL.java:1161)
 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:2953)
@@ -259,9 +259,9 @@ java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 16:06:55 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 22:46:06 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-10-23T16:06:55Z</dc:date>
+      <dc:date>2026-10-23T22:46:06Z</dc:date>
     </item>
   </channel>
 </rss>
