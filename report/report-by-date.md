@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.30 (Saturday October 24th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Oct 25 18:50:19 UTC 2026|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.80.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Fri Oct 23 16:06:55 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 23 16:06:48 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Oct 22 23:05:02 UTC 2026|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Aug 19 20:14:54 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 20:43:46 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Aug 13 20:30:07 UTC 2026|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 08:15:49 UTC 2026|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jun 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Jun 10 08:01:09 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:55:14 UTC 2025|

@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>VeraCrypt -- Latest Stable Release - 1.26.30 (Saturday October 24th, 2026)</title>
+      <link>https://www.veracrypt.fr/en/Downloads.html</link>
+      <description>VeraCrypt -- Latest Stable Release - 1.26.30 (Saturday October 24th, 2026) -- Sun Oct 25 18:50:19 UTC 2026</description>
+      <category>VeraCrypt</category>
+      <pubDate>Sun, 25 Oct 2026 18:50:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-10-25T18:50:19Z</dc:date>
+    </item>
+    <item>
       <title>Intel Bluetooth Drivers -- 24.80.0</title>
       <link>https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/</link>
       <description>Intel Bluetooth Drivers -- 24.80.0 -- Fri Oct 23 16:06:55 UTC 2026</description>
@@ -293,15 +302,6 @@
       <pubDate>Thu, 13 Aug 2026 20:30:07 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-08-13T20:30:07Z</dc:date>
-    </item>
-    <item>
-      <title>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026)</title>
-      <link>https://www.veracrypt.fr/en/Downloads.html</link>
-      <description>VeraCrypt -- Latest Stable Release - 1.26.29 (Tuesday June 9th, 2026) -- Fri Jun 12 08:15:49 UTC 2026</description>
-      <category>VeraCrypt</category>
-      <pubDate>Fri, 12 Jun 2026 08:15:49 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-06-12T08:15:49Z</dc:date>
     </item>
     <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2026</title>
