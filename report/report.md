@@ -55,8 +55,8 @@
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 21 23:07:07 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 source| 3.15.1|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 21 16:16:04 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.15.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 21 23:07:03 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 source| 3.15.2|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 26 09:36:01 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:35:46 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 23 16:06:48 UTC 2026|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.7.3|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Wed Apr 02 16:12:55 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 15:56:11 UTC 2026|
