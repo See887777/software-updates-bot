@@ -60,6 +60,15 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Python 3 mac --  3.15.2</title>
+      <link>https://www.python.org/downloads/mac-osx/</link>
+      <description>Python 3 mac --  3.15.2 -- Thu Oct 29 17:45:26 UTC 2026</description>
+      <category>Python</category>
+      <pubDate>Thu, 29 Oct 2026 17:45:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-10-29T17:45:26Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk17 mac x64 -- jdk-17.0.21+9</title>
       <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk17 mac x64 -- jdk-17.0.21+9 -- Wed Oct 28 17:36:13 UTC 2026</description>
@@ -130,15 +139,6 @@
       <pubDate>Thu, 22 Oct 2026 23:05:02 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-10-22T23:05:02Z</dc:date>
-    </item>
-    <item>
-      <title>Python 3 mac --  3.15.1</title>
-      <link>https://www.python.org/downloads/mac-osx/</link>
-      <description>Python 3 mac --  3.15.1 -- Wed Oct 21 23:07:07 UTC 2026</description>
-      <category>Python</category>
-      <pubDate>Wed, 21 Oct 2026 23:07:07 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-10-21T23:07:07Z</dc:date>
     </item>
     <item>
       <title>Les Cast Codeurs (French podcast) -- LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit</title>

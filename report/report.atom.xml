@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Python 3 mac --  3.15.2</title>
+    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-10-29T17:45:26Z</modified>
+    <issued>2026-10-29T17:45:26Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 mac --  3.15.2 -- Thu Oct 29 17:45:26 UTC 2026</summary>
+    <dc:date>2026-10-29T17:45:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.21+9</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -114,18 +126,6 @@
     <issued>2026-10-22T23:05:02Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 linux x64 -- jdk-17.0.21+9 -- Thu Oct 22 23:05:02 UTC 2026</summary>
     <dc:date>2026-10-22T23:05:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Python 3 mac --  3.15.1</title>
-    <link rel="alternate" href="https://www.python.org/downloads/mac-osx/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-10-21T23:07:07Z</modified>
-    <issued>2026-10-21T23:07:07Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 mac --  3.15.1 -- Wed Oct 21 23:07:07 UTC 2026</summary>
-    <dc:date>2026-10-21T23:07:07Z</dc:date>
   </entry>
   <entry>
     <title>Les Cast Codeurs (French podcast) -- LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit</title>

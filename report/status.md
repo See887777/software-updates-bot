@@ -1,26 +1,6 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.Python3SrcChecker failed, ignoring
-java.util.NoSuchElementException: No value present
-	at java.base/java.util.Optional.get(Optional.java:143)
-	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
-
-checker class biz.lermitage.sub.service.checker.impl.GoChecker failed, ignoring
+<pre>checker class biz.lermitage.sub.service.checker.impl.GoChecker failed, ignoring
 java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 8
 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4606)
 	at java.base/java.lang.String.substring(String.java:2709)
@@ -186,26 +166,6 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Python3MacosChecker failed, ignoring
-java.util.NoSuchElementException: No value present
-	at java.base/java.util.Optional.get(Optional.java:143)
-	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
-
 checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
@@ -226,26 +186,8 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.net.ConnectException: Connection timed out
-	at java.base/sun.nio.ch.Net.connect0(Native Method)
-	at java.base/sun.nio.ch.Net.connect(Net.java:591)
-	at java.base/sun.nio.ch.Net.connect(Net.java:580)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:351)
-	at java.base/java.net.Socket.connect(Socket.java:633)
-	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
-	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:541)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:646)
-	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:267)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:381)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:196)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1265)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1151)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1080)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:181)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1719)
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2059)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1644)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
 	at java.base/java.net.URL.openStream(URL.java:1161)

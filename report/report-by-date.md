@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 mac| 3.15.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Oct 29 17:45:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 28 17:36:13 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 source| 3.15.2|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 26 09:36:01 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:35:46 UTC 2026|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|24.80.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Fri Oct 23 16:06:55 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 23 16:06:48 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Oct 22 23:05:02 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 mac| 3.15.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 21 23:07:07 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:51 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.2|[gradle.org](https://gradle.org/releases/)|Mon Oct 19 17:55:24 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.5 to 20.1.0 ~ 2026-10-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 18 18:36:18 UTC 2026|
