@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk17 windows x64 -- jdk-17.0.21+9</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk17 windows x64 -- jdk-17.0.21+9 -- Tue Nov 03 15:35:39 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Tue, 03 Nov 2026 15:35:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-11-03T15:35:39Z</dc:date>
+    </item>
+    <item>
       <title>Spring Boot -- 4.1.2.RELEASE</title>
       <link>https://start.spring.io</link>
       <description>Spring Boot -- 4.1.2.RELEASE -- Mon Nov 02 21:00:09 UTC 2026</description>
@@ -270,18 +282,6 @@
       <pubDate>Mon, 24 Aug 2026 12:37:51 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-08-24T12:37:51Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk17 windows x64 -- jdk-17.0.20.1+1</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk17 windows x64 -- jdk-17.0.20.1+1 -- Mon Aug 24 12:24:22 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Mon, 24 Aug 2026 12:24:22 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-08-24T12:24:22Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 14 -- 14.24</title>
