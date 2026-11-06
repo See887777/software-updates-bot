@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Nov 06 18:40:10 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.9.0|[gradle.org](https://gradle.org/releases/)|Fri Nov 06 18:40:10 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Nov 06 18:40:10 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.1.0 to 20.2.0 ~ 2026-11-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Nov 06 18:40:09 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 05 19:14:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 05 19:13:48 UTC 2026|
