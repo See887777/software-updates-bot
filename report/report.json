@@ -45,8 +45,8 @@
       ],
       "name": "Adoptium jdk11 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.32.1+1",
-      "checkDate": "Aug 26, 2026, 12:41:42 PM",
+      "version": "jdk-11.0.33+10",
+      "checkDate": "Nov 9, 2026, 11:54:24 PM",
       "logo": "ADOPTIUM"
     },
     {
