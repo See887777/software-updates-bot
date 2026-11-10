@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 9.9.1</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-11-10T21:34:00Z</modified>
+    <issued>2026-11-10T21:34:00Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 9.9.1 -- Tue Nov 10 21:34:00 UTC 2026</summary>
+    <dc:date>2026-11-10T21:34:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk11 windows x64 -- jdk-11.0.33+10</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -42,18 +54,6 @@
     <issued>2026-11-09T23:54:24Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.33+10 -- Mon Nov 09 23:54:24 UTC 2026</summary>
     <dc:date>2026-11-09T23:54:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 9.9.0</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-11-06T18:40:10Z</modified>
-    <issued>2026-11-06T18:40:10Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 9.9.0 -- Fri Nov 06 18:40:10 UTC 2026</summary>
-    <dc:date>2026-11-06T18:40:10Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk17 windows x64 -- jdk-17.0.21+9</title>
