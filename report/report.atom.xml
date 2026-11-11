@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2026</title>
+    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-11-11T11:33:22Z</modified>
+    <issued>2026-11-11T11:33:22Z</issued>
+    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Nov 2026 -- Wed Nov 11 11:33:22 UTC 2026</summary>
+    <dc:date>2026-11-11T11:33:22Z</dc:date>
+  </entry>
+  <entry>
     <title>Gradle -- 9.9.1</title>
     <link rel="alternate" href="https://gradle.org/releases/" />
     <author>
@@ -306,18 +318,6 @@
     <issued>2026-08-13T20:30:07Z</issued>
     <summary type="text/plain" mode="escaped">MariaDB 10.6 -- 10.6.28 -- Thu Aug 13 20:30:07 UTC 2026</summary>
     <dc:date>2026-08-13T20:30:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Visual C++ Redistributable Runtimes All-in-One -- Jun 2026</title>
-    <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-06-10T08:01:09Z</modified>
-    <issued>2026-06-10T08:01:09Z</issued>
-    <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Jun 2026 -- Wed Jun 10 08:01:09 UTC 2026</summary>
-    <dc:date>2026-06-10T08:01:09Z</dc:date>
   </entry>
   <entry>
     <title>Inkscape -- 1.4.4</title>
