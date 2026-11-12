@@ -32,6 +32,18 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Adoptium jdk8 mac x64 -- jdk8u512-b09</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-11-12T11:58:57Z</modified>
+    <issued>2026-11-12T11:58:57Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u512-b09 -- Thu Nov 12 11:58:57 UTC 2026</summary>
+    <dc:date>2026-11-12T11:58:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2026</title>
     <link rel="alternate" href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" />
     <author>
@@ -282,18 +294,6 @@
     <issued>2026-09-22T15:56:11Z</issued>
     <summary type="text/plain" mode="escaped">VLC -- 3.0.24 -- Tue Sep 22 15:56:11 UTC 2026</summary>
     <dc:date>2026-09-22T15:56:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk8 mac x64 -- jdk8u504-b01</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-08-26T12:41:51Z</modified>
-    <issued>2026-08-26T12:41:51Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u504-b01 -- Wed Aug 26 12:41:51 UTC 2026</summary>
-    <dc:date>2026-08-26T12:41:51Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 14 -- 14.24</title>

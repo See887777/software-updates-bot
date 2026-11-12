@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 12 11:58:57 UTC 2026|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2026|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 11 11:33:22 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.9.1|[gradle.org](https://gradle.org/releases/)|Tue Nov 10 21:34:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Nov 09 23:54:24 UTC 2026|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Sep 25 02:20:50 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:44:27 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 15:56:11 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 26 12:41:51 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 20:43:46 UTC 2026|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Aug 13 20:30:07 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 17:21:57 UTC 2026|

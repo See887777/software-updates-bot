@@ -60,6 +60,18 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Adoptium jdk8 mac x64 -- jdk8u512-b09</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk8 mac x64 -- jdk8u512-b09 -- Thu Nov 12 11:58:57 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Thu, 12 Nov 2026 11:58:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-11-12T11:58:57Z</dc:date>
+    </item>
+    <item>
       <title>Visual C++ Redistributable Runtimes All-in-One -- Nov 2026</title>
       <link>https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</link>
       <description>Visual C++ Redistributable Runtimes All-in-One -- Nov 2026 -- Wed Nov 11 11:33:22 UTC 2026</description>
@@ -280,18 +292,6 @@
       <pubDate>Tue, 22 Sep 2026 15:56:11 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-09-22T15:56:11Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk8 mac x64 -- jdk8u504-b01</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 mac x64 -- jdk8u504-b01 -- Wed Aug 26 12:41:51 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Wed, 26 Aug 2026 12:41:51 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-08-26T12:41:51Z</dc:date>
     </item>
     <item>
       <title>PostgreSQL 14 -- 14.24</title>

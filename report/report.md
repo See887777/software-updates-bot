@@ -17,7 +17,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:07:52 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Fri Jan 20 16:09:32 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 05 19:14:10 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 26 12:41:51 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 12 11:58:57 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 05 19:13:48 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:44:27 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:08:37 UTC 2023|
