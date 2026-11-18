@@ -97,8 +97,8 @@
       ],
       "name": "Adoptium jdk17 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.21+9",
-      "checkDate": "Oct 22, 2026, 11:05:02 PM",
+      "version": "jdk-17.0.21.1+2",
+      "checkDate": "Nov 18, 2026, 10:46:28 PM",
       "logo": "ADOPTIUM"
     },
     {
