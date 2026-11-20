@@ -19,8 +19,8 @@
       ],
       "name": "Adoptium jdk11 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.33+10",
-      "checkDate": "Nov 5, 2026, 11:42:42 AM",
+      "version": "jdk-11.0.33.1+1",
+      "checkDate": "Nov 20, 2026, 12:19:30 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -32,8 +32,8 @@
       ],
       "name": "Adoptium jdk11 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.33+10",
-      "checkDate": "Nov 5, 2026, 11:43:08 AM",
+      "version": "jdk-11.0.33.1+1",
+      "checkDate": "Nov 20, 2026, 12:18:43 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -110,8 +110,8 @@
       ],
       "name": "Adoptium jdk17 mac x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.21+9",
-      "checkDate": "Oct 28, 2026, 5:36:13 PM",
+      "version": "jdk-17.0.21.1+2",
+      "checkDate": "Nov 20, 2026, 12:18:41 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -123,8 +123,8 @@
       ],
       "name": "Adoptium jdk17 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot",
-      "version": "jdk-17.0.21+9",
-      "checkDate": "Nov 6, 2026, 6:40:10 PM",
+      "version": "jdk-17.0.21.1+2",
+      "checkDate": "Nov 20, 2026, 12:18:25 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -214,8 +214,8 @@
       ],
       "name": "Adoptium jdk8 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
-      "version": "jdk8u512-b09",
-      "checkDate": "Nov 5, 2026, 7:14:10 PM",
+      "version": "jdk8u514-b01",
+      "checkDate": "Nov 20, 2026, 12:19:32 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -272,8 +272,8 @@
       ],
       "name": "Gradle",
       "website": "https://gradle.org/releases/",
-      "version": "9.9.1",
-      "checkDate": "Nov 10, 2026, 9:34:00 PM",
+      "version": "9.9.2",
+      "checkDate": "Nov 20, 2026, 12:19:21 PM",
       "logo": "GRADLE"
     },
     {
@@ -660,8 +660,8 @@
       ],
       "name": "Spring Boot",
       "website": "https://start.spring.io",
-      "version": "4.1.2.RELEASE",
-      "checkDate": "Nov 2, 2026, 9:00:09 PM",
+      "version": "4.2.0.RELEASE",
+      "checkDate": "Nov 20, 2026, 12:18:30 PM",
       "logo": "SPRING_BOOT"
     },
     {
