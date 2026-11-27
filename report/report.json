@@ -45,8 +45,8 @@
       ],
       "name": "Adoptium jdk11 windows x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
-      "version": "jdk-11.0.33+10",
-      "checkDate": "Nov 9, 2026, 11:54:24 PM",
+      "version": "jdk-11.0.33.1+1",
+      "checkDate": "Nov 27, 2026, 11:49:41 PM",
       "logo": "ADOPTIUM"
     },
     {
@@ -272,8 +272,8 @@
       ],
       "name": "Gradle",
       "website": "https://gradle.org/releases/",
-      "version": "9.9.2",
-      "checkDate": "Nov 20, 2026, 12:19:21 PM",
+      "version": "9.9.3",
+      "checkDate": "Nov 27, 2026, 11:49:42 PM",
       "logo": "GRADLE"
     },
     {

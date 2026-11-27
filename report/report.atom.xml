@@ -32,6 +32,30 @@
   <dc:subject>Video player</dc:subject>
   <dc:subject>VLC</dc:subject>
   <entry>
+    <title>Gradle -- 9.9.3</title>
+    <link rel="alternate" href="https://gradle.org/releases/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-11-27T23:49:42Z</modified>
+    <issued>2026-11-27T23:49:42Z</issued>
+    <summary type="text/plain" mode="escaped">Gradle -- 9.9.3 -- Fri Nov 27 23:49:42 UTC 2026</summary>
+    <dc:date>2026-11-27T23:49:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.33.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2026-11-27T23:49:41Z</modified>
+    <issued>2026-11-27T23:49:41Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.33.1+1 -- Fri Nov 27 23:49:41 UTC 2026</summary>
+    <dc:date>2026-11-27T23:49:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u514-b01</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -78,18 +102,6 @@
     <issued>2026-11-20T12:19:30Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.33.1+1 -- Fri Nov 20 12:19:30 UTC 2026</summary>
     <dc:date>2026-11-20T12:19:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gradle -- 9.9.2</title>
-    <link rel="alternate" href="https://gradle.org/releases/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-11-20T12:19:21Z</modified>
-    <issued>2026-11-20T12:19:21Z</issued>
-    <summary type="text/plain" mode="escaped">Gradle -- 9.9.2 -- Fri Nov 20 12:19:21 UTC 2026</summary>
-    <dc:date>2026-11-20T12:19:21Z</dc:date>
   </entry>
   <entry>
     <title>Adoptium jdk11 mac x64 -- jdk-11.0.33.1+1</title>
@@ -186,18 +198,6 @@
     <issued>2026-11-11T11:33:22Z</issued>
     <summary type="text/plain" mode="escaped">Visual C++ Redistributable Runtimes All-in-One -- Nov 2026 -- Wed Nov 11 11:33:22 UTC 2026</summary>
     <dc:date>2026-11-11T11:33:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.33+10</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2026-11-09T23:54:24Z</modified>
-    <issued>2026-11-09T23:54:24Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.33+10 -- Mon Nov 09 23:54:24 UTC 2026</summary>
-    <dc:date>2026-11-09T23:54:24Z</dc:date>
   </entry>
   <entry>
     <title>K-Lite Codec Pack Basic -- 20.1.0 to 20.2.0 ~ 2026-11-06</title>

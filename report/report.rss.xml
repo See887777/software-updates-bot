@@ -60,6 +60,28 @@
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
     <item>
+      <title>Gradle -- 9.9.3</title>
+      <link>https://gradle.org/releases/</link>
+      <description>Gradle -- 9.9.3 -- Fri Nov 27 23:49:42 UTC 2026</description>
+      <category>Java</category>
+      <category>Gradle</category>
+      <pubDate>Fri, 27 Nov 2026 23:49:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-11-27T23:49:42Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.33.1+1</title>
+      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.33.1+1 -- Fri Nov 27 23:49:41 UTC 2026</description>
+      <category>Java</category>
+      <category>JDK</category>
+      <category>Adoptium</category>
+      <category>AdoptOpenJDK</category>
+      <pubDate>Fri, 27 Nov 2026 23:49:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-11-27T23:49:41Z</dc:date>
+    </item>
+    <item>
       <title>Adoptium jdk8 mac x64 -- jdk8u514-b01</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
       <description>Adoptium jdk8 mac x64 -- jdk8u514-b01 -- Wed Nov 25 23:52:49 UTC 2026</description>
@@ -104,16 +126,6 @@
       <pubDate>Fri, 20 Nov 2026 12:19:30 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-11-20T12:19:30Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle -- 9.9.2</title>
-      <link>https://gradle.org/releases/</link>
-      <description>Gradle -- 9.9.2 -- Fri Nov 20 12:19:21 UTC 2026</description>
-      <category>Java</category>
-      <category>Gradle</category>
-      <pubDate>Fri, 20 Nov 2026 12:19:21 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-11-20T12:19:21Z</dc:date>
     </item>
     <item>
       <title>Adoptium jdk11 mac x64 -- jdk-11.0.33.1+1</title>
@@ -202,18 +214,6 @@
       <pubDate>Wed, 11 Nov 2026 11:33:22 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2026-11-11T11:33:22Z</dc:date>
-    </item>
-    <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.33+10</title>
-      <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.33+10 -- Mon Nov 09 23:54:24 UTC 2026</description>
-      <category>Java</category>
-      <category>JDK</category>
-      <category>Adoptium</category>
-      <category>AdoptOpenJDK</category>
-      <pubDate>Mon, 09 Nov 2026 23:54:24 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2026-11-09T23:54:24Z</dc:date>
     </item>
     <item>
       <title>K-Lite Codec Pack Basic -- 20.1.0 to 20.2.0 ~ 2026-11-06</title>
